@@ -1,0 +1,11 @@
+snomed_concept,category
+129433002 | Inspection - action (qualifier value) |,Diagnostic test
+129314006 | Biopsy - action (qualifier value) |,Diagnostic test
+129314006 | Biopsy - action (qualifier value) |,Diagnostic test
+129427006 | Reduction - action (qualifier value) |,Surgery
+129382001 | Destruction - action (qualifier value) |,Surgery
+257903006 | Repair - action (qualifier value) |,Surgery
+129304002 | Excision - action (qualifier value) |,Surgery
+360021005 | Bypass - action (qualifier value) |,Surgery
+129284003 | Surgical action (qualifier value) |,Surgery other
+360037004 | Imaging - action (qualifier value) |,Imaging

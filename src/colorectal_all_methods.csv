@@ -1,0 +1,102 @@
+,method
+0,129356005 | Reinforcement - action (qualifier value) |
+1,129357001 | Closure - action (qualifier value) |
+2,129396007 | Electrodesiccation - action (qualifier value) |
+3,129368001 | Cerclage - action (qualifier value) |
+4,360020006 | Extirpation - action (qualifier value) |
+5,129316008 | Aspiration - action (qualifier value) |
+6,129306000 | Surgical removal - action (qualifier value) |
+7,129395006 | Fulguration - action (qualifier value) |
+8,129393004 | Cryosurgery - action (qualifier value) |
+9,129298006 | Division - action (qualifier value) |
+10,278292003 | Ultrasound imaging - action (qualifier value) |
+11,129382001 | Destruction - action (qualifier value) |
+12,129427006 | Reduction - action (qualifier value) |
+13,257903006 | Repair - action (qualifier value) |
+14,129377008 | Reconstruction - action (qualifier value) |
+15,129373007 | Plication - action (qualifier value) |
+16,129303008 | Removal - action (qualifier value) |
+17,312251004 | Computed tomography imaging - action (qualifier value) |
+18,312421008 | Radionuclide imaging - action (qualifier value) |
+19,129289008 | Drainage - action (qualifier value) |
+20,281613004 | Decompression - action (qualifier value) |
+21,428381003 | Diathermy - action (qualifier value) |
+22,129408000 | Manipulation - action (qualifier value) |
+23,129425003 | Application - action (qualifier value) |
+24,129419002 | Dilation - action (qualifier value) |
+25,257741005 | Anastomosis - action (qualifier value) |
+26,129264002 | Action (qualifier value) |
+27,312254007 | Plain X-ray imaging - action (qualifier value) |
+28,257729003 | Ablation - action (qualifier value) |
+29,360029007 | Nonsurgical biopsy - action (qualifier value) |
+30,410820007 | Surgical transplantation - action (qualifier value) |
+31,360027009 | Interposition - action (qualifier value) |
+32,360149000 | Delivery - action (qualifier value) |
+33,129326001 | Injection - action (qualifier value) |
+34,129336009 | Implantation - action (qualifier value) |
+35,129392009 | Cauterization - action (qualifier value) |
+36,129304002 | Excision - action (qualifier value) |
+37,129445006 | Administration - action (qualifier value) |
+38,129325002 | Introduction - action (qualifier value) |
+39,257867005 | Insertion - action (qualifier value) |
+40,129315007 | Incisional biopsy - action (qualifier value) |
+41,129314006 | Biopsy - action (qualifier value) |
+42,129433002 | Inspection - action (qualifier value) |
+43,360222005 | Massage - action (qualifier value) |
+44,129332006 | Irrigation - action (qualifier value) |
+45,129323009 | Scraping - action (qualifier value) |
+46,129390001 | Coagulation - action (qualifier value) |
+47,129407005 | Grafting - action (qualifier value) |
+48,129284003 | Surgical action (qualifier value) |
+49,302199004 | Examination - action (qualifier value) |
+50,281615006 | Exploration - action (qualifier value) |
+51,257744002 | End-to-end anastomosis - action (qualifier value) |
+52,360161008 | Induction - action (qualifier value) |
+53,129403009 | Chemosurgery - action (qualifier value) |
+54,261519002 | Diathermy excision - action (qualifier value) |
+55,129305001 | Wedge resection - action (qualifier value) |
+56,129397003 | Electrocoagulation - action (qualifier value) |
+57,360037004 | Imaging - action (qualifier value) |
+58,129369009 | Ligation - action (qualifier value) |
+59,129412006 | Manual reduction - action (qualifier value) |
+60,129415008 | Extraction - action (qualifier value) |
+61,360021005 | Bypass - action (qualifier value) |
+62,426530000 | Open reduction - action (qualifier value) |
+63,129399000 | Electrodestruction - action (qualifier value) |
+64,360032005 | Flap reconstruction - action (qualifier value) |
+65,129265001 | Evaluation - action (qualifier value) |
+66,129287005 | Incision - action (qualifier value) |
+67,313029009 | Brachytherapy - action (qualifier value) |
+68,129376004 | Construction - action (qualifier value) |
+69,278110001 | Radiographic imaging - action (qualifier value) |
+70,257759008 | Fine needle aspiration biopsy - action (qualifier value) |
+71,419656003 | Examination AND/OR history taking - action (qualifier value) |
+72,410756002 | Surgical decompression - action (qualifier value) |
+73,257750007 | Side-to-side anastomosis (qualifier value) |
+74,129292007 | Evacuation - action (qualifier value) |
+75,129318009 | Saucerization - action (qualifier value) |
+76,129354008 | Exteriorization - action (qualifier value) |
+77,274392008 | Examination under anesthesia (qualifier value) |
+78,129300006 | Puncture - action (qualifier value) |
+79,257940003 | Transposition - action (qualifier value) |
+80,281839004 | Exenteration - action (qualifier value) |
+81,257786008 | Cryotherapy - action (qualifier value) |
+82,129405002 | Photocoagulation - action (qualifier value) |
+83,257742003 | Direct anastomosis - action (qualifier value) |
+84,277261002 | Excision biopsy (qualifier value) |
+85,129371009 | Fixation - action (qualifier value) |
+86,129338005 | Surgical implantation - action (qualifier value) |
+87,129406001 | Transplantation - action (qualifier value) |
+88,129330003 | Infusion - action (qualifier value) |
+89,129400007 | Crushing - action (qualifier value) |
+90,282089006 | Replacement - action (qualifier value) |
+91,312275004 | Fluoroscopic imaging - action (qualifier value) |
+92,360028004 | Surgical biopsy - action (qualifier value) |
+93,nan
+94,312250003 | Magnetic resonance imaging - action (qualifier value) |
+95,299893001 | Interposition anastomosis - action (qualifier value) |
+96,129319001 | Curettage - action (qualifier value) |
+97,360270004 | Therapy - action (qualifier value) |
+98,257863009 | Radioactive destruction (qualifier value) |
+99,129409008 | Mobilization - action (qualifier value) |
+100,129331004 | Perfusion - action (qualifier value) |

@@ -6,9 +6,17 @@ import time
 HEADERS = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36'}
 
 # Run a specified ECL query on the server defined in config.py
-def run_ecl_query(id, max, uri):
+def run_ecl_query(id, max, uri, searchafter=None):
     try:
-        r = requests.get(uri+'/concepts?ecl='+id+'&limit='+ str(max), headers=HEADERS)
+
+        request_string = uri+'/concepts?ecl='+id+'&limit='+str(max)
+        if searchafter is not None:
+            request_string = request_string +'&searchAfter=' + str(searchafter)
+
+        r = requests.get(request_string, headers=HEADERS)
+
+
+
         r.raise_for_status()
 
         return r.json()

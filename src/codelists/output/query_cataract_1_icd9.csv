@@ -1,0 +1,276 @@
+,snomed,icd9,icd_term
+11,91602002,34.91,Thoracentesis
+18,408754009,87.03,Computerized axial tomography of head
+32,359597003,36.15,Single internal mammary-coronary artery bypass
+36,386649003,81.52,Partial hip replacement
+38,265232001,3.31,Spinal tap
+54,405250000,87.74,Retrograde pyelogram
+66,85765000,33.22,Fiber-optic bronchoscopy
+67,371186005,84.11,Amputation of toe
+71,441895005,35.21,Replacement of aortic valve with tissue graft
+76,446100009,86.27,"Debridement of nail, nail bed, or nail fold"
+84,252793002,0.94,Intra-operative neurophysiologic monitoring
+115,79733001,84.17,Amputation above knee
+119,445946004,88.93,Magnetic resonance imaging of spinal canal
+122,175166003,88.55,Coronary arteriography using a single catheter
+125,769246001,55.23,Closed [percutaneous] [needle] biopsy of kidney
+130,444188003,32.2,Thoracoscopic excision of lesion or tissue of lung
+158,211570009,84.12,Amputation through foot
+172,441677009,92.15,Pulmonary scan
+184,387717002,56.31,Ureteroscopy
+189,116024005,34.2,Thoracoscopic pleural biopsy
+194,236887006,68.41,Laparoscopic total abdominal hysterectomy
+199,90915003,77.7,"Excision of bone for graft, unspecified site"
+201,81516001,55.4,Partial nephrectomy
+224,82531008,50.12,Open biopsy of liver
+225,177784006,34.51,Decortication of lung
+228,129250002,57.17,Percutaneous cystostomy
+229,443086008,21.03,Control of epistaxis by cauterization (and packing)
+242,425789000,37.28,Intracardiac echocardiography
+269,392102003,29.11,Pharyngoscopy
+272,260397005,2.12,Closure of fistula of cerebrospinal fluid
+277,386550008,92.02,Liver scan and radioisotope function study
+288,84572006,34.6,Scarification of pleura
+294,197042001,37.25,Biopsy of heart
+295,90358006,79.01,Closed reduction of fracture of humerus without internal fixation
+298,81828004,21.02,Control of epistaxis by posterior (and anterior) packing
+303,708790006,27.51,Suture of laceration of lip
+305,184598004,1.13,Closed [percutaneous] [needle] biopsy of brain
+313,232628003,33.28,Open biopsy of lung
+318,236258004,60.11,Closed [percutaneous] [needle] biopsy of prostate
+319,269612002,77.45,Biopsy of femur
+322,80254008,88.52,Angiocardiography of right heart structures
+345,473242000,60.94,Control of (postoperative) hemorrhage of prostate
+347,287222004,3.02,Reopening of laminectomy site
+360,120036009,70.8,Obliteration of vaginal vault
+372,112902005,57.6,Partial cystectomy
+404,392168001,31.74,Revision of tracheostomy
+409,430799001,50.13,Transjugular liver biopsy
+410,239505009,81.56,Total ankle replacement
+416,397862008,20.01,Myringostomy
+421,698880007,1.14,Open biopsy of brain
+423,288038002,71.3,Division of Skene's gland
+428,417224006,18.4,Suture of laceration of external ear
+436,85946004,50.3,Lobectomy of liver
+437,127601009,77.56,Repair of hammer toe
+447,83607001,89.26,Gynecological examination
+451,266876006,83.86,Quadricepsplasty
+452,358571002,35.11,Open heart valvuloplasty of aortic valve without replacement
+454,307289006,76.76,Open reduction of mandibular fracture
+463,82917000,1.23,Reopening of craniotomy site
+472,233545006,68.12,Hysteroscopy
+479,173422009,28.2,Tonsillectomy without adenoidectomy
+482,307820000,81.15,Tarsometatarsal fusion
+496,287440003,30.4,Radical laryngectomy
+499,387727008,93.91,Intermittent positive pressure breathing [IPPB]
+501,287716007,57.87,Reconstruction of urinary bladder
+502,448579006,80.35,Biopsy of joint structure of hip
+505,698853000,29.4,Plastic operation on pharynx
+506,88722002,37.73,Initial insertion of transvenous lead [electrode] into atrium
+507,386206008,92.03,Renal scan and radioisotope function study
+508,83019005,29.31,Cricopharyngeal myotomy
+515,81203002,79.65,Debridement of open fracture of femur
+524,287966005,71.5,Radical vulvectomy
+525,78819004,28.0,Incision and drainage of tonsil and peritonsillar structures
+532,274942001,71.11,Biopsy of vulva
+539,88177004,22.64,Sphenoidectomy
+540,232535003,29.32,Pharyngeal diverticulectomy
+544,405301008,83.19,Scalenotomy
+553,287296007,33.91,Bronchial dilation
+563,237028006,70.71,Suture of laceration of vagina
+564,302453007,34.27,Biopsy of diaphragm
+571,392213008,22.52,Sphenoidotomy
+577,307285000,76.74,Open reduction of maxillary fracture
+581,287212005,3.1,Division of intraspinal nerve root
+584,252834003,77.42,Biopsy of humerus
+591,397239004,50.61,Closure of laceration of liver
+604,274056002,81.22,Arthrodesis of knee
+606,83827002,75.35,Intrauterine pressure determination
+607,172790004,21.5,Submucous resection of nasal septum
+608,310593007,81.16,Metatarsophalangeal fusion
+612,307822008,31.44,Closed [endoscopic] biopsy of trachea
+625,217136007,58.23,Biopsy of urethra
+626,367446003,83.11,Achillotenotomy
+632,780905001,77.75,Excision of femur for graft
+640,80377005,37.32,Excision of aneurysm of heart
+646,80855002,64.3,Amputation of penis
+655,392002001,70.21,Vaginoscopy
+661,265736004,84.16,Disarticulation of knee
+671,172825008,21.31,Nasal polypectomy
+674,442189005,61.2,Excision of hydrocele (of tunica vaginalis)
+677,340926007,37.11,Cardiotomy
+678,300009002,4.01,Excision of acoustic neuroma
+684,304502009,27.24,"Biopsy of mouth, unspecified structure"
+689,310393006,33.43,Closure of laceration of lung
+701,79567008,49.11,Anal fistulotomy
+702,176549001,99.95,Stretching of foreskin
+706,174368001,96.23,Dilation of anal sphincter
+707,413650000,21.22,Biopsy of nose
+708,79423008,78.58,Internal fixation of tarsals and metatarsals without fracture reduction
+709,232657004,33.51,Unilateral lung transplantation
+714,397218006,84.13,Disarticulation of ankle
+715,359593004,81.14,Midtarsal fusion
+718,709423005,49.95,Control of (postoperative) hemorrhage of anus
+724,708622001,60.61,Local excision of lesion of prostate
+725,275218004,55.22,Pyeloscopy
+736,265060005,68.23,Endometrial ablation
+739,108028005,56.4,"Ureterectomy, not otherwise specified"
+746,81913003,53.81,Plication of the diaphragm
+751,176146003,57.34,Open biopsy of bladder
+760,446773000,56.82,Suture of laceration of ureter
+765,387626007,67.4,Amputation of cervix
+770,231593009,8.2,"Removal of lesion of eyelid, not otherwise specified"
+785,699576001,86.61,Full-thickness skin graft to hand
+792,176557003,64.11,Biopsy of penis
+796,253766005,55.91,Decapsulation of kidney
+801,173337009,24.4,Excision of dental lesion of jaw
+805,448260007,76.11,Biopsy of facial bone
+807,86888002,49.12,Anal fistulectomy
+808,340926007,37.1,"Incision of heart, not otherwise specified"
+809,405734007,86.86,Onychoplasty
+819,119705002,21.4,Resection of nose
+827,698878001,25.02,Open biopsy of tongue
+839,215103005,1.15,Biopsy of skull
+840,265303002,18.6,Reconstruction of external auditory canal
+845,288098004,86.24,Chemosurgery of skin
+847,85813009,79.21,Open reduction of fracture of humerus without internal fixation
+853,442117004,76.5,Temporomandibular arthroplasty
+856,79620003,18.12,Biopsy of external ear
+857,235395005,86.21,Excision of pilonidal cyst or sinus
+860,190630008,27.31,Local excision or destruction of palate by cryotherapy
+862,255682001,4.02,Division of trigeminal nerve
+876,396490007,19.4,Myringoplasty
+887,174432007,50.21,Marsupialization of lesion of liver
+891,85419002,62.5,Orchiopexy
+895,172649009,20.41,Simple mastoidectomy
+902,445912000,66.62,Salpingectomy with removal of tubal pregnancy
+905,86146009,7.61,"Partial excision of pituitary gland, transfrontal approach"
+924,397202000,49.43,Cauterization of hemorrhoids
+930,172757004,21.83,Total nasal reconstruction
+934,174332006,49.03,Excision of perianal skin tags
+953,307283007,56.1,Ureteral meatotomy
+954,429609002,32.22,Lung volume reduction surgery
+955,176687003,70.62,Vaginal reconstruction
+956,359703006,25.3,Complete glossectomy
+971,78315000,29.0,Pharyngotomy
+986,234889007,25.4,Radical glossectomy
+994,91392002,49.47,Evacuation of thrombosed hemorrhoids
+997,398328001,16.59,Evisceration of orbit NOS
+1000,446288009,24.32,Suture of laceration of gum
+1011,307288003,76.73,Closed reduction of maxillary fracture
+1019,176481007,63.2,Excision of cyst of epididymis
+1023,304040003,86.6,"Free skin graft, not otherwise specified"
+1026,87431004,67.0,Dilation of cervical canal
+1047,86556000,16.51,Exenteration of orbit with removal of adjacent structures
+1054,297840009,14.71,"Removal of vitreous, anterior approach"
+1071,288007003,55.86,Anastomosis of kidney
+1088,446798004,27.21,Biopsy of bony palate
+1089,447124007,55.31,Marsupialization of kidney lesion
+1090,89814007,35.53,"Repair of ventricular septal defect with prosthesis, open technique"
+1099,708852007,28.92,Excision of lesion of tonsil and adenoid
+1102,82080007,76.01,Sequestrectomy of facial bone
+1103,84335004,58.44,Reanastomosis of urethra
+1111,448496009,77.25,Wedge osteotomy of femur
+1114,177052007,65.13,Laparoscopic biopsy of ovary
+1115,789147006,23.6,Prosthetic dental implant
+1128,361162007,8.84,"Repair of laceration involving lid margin, full-thickness"
+1130,112850008,27.61,Suture of laceration of palate
+1138,81977006,58.47,Urethral meatoplasty
+1139,177923007,57.51,Excision of urachus
+1145,780904002,77.76,Excision of patella for graft
+1159,81108001,8.24,"Excision of major lesion of eyelid, full-thickness"
+1160,86354001,87.06,Contrast radiogram of nasopharynx
+1168,80983001,78.0,"Bone graft, unspecified site"
+1169,273148009,77.46,Biopsy of patella
+1177,91005004,95.43,Audiological evaluation
+1179,359988009,1.11,Closed [percutaneous] [needle] biopsy of cerebral meninges
+1185,112908009,64.41,Suture of laceration of penis
+1187,196308007,8.11,Biopsy of eyelid
+1190,367448002,88.58,Negative-contrast cardiac roentgenography
+1195,397243000,55.81,Suture of laceration of kidney
+1201,448444006,38.01,Incision of intracranial vessels
+1204,735399006,22.12,Open biopsy of nasal sinus
+1219,284025004,82.02,Myotomy of hand
+1221,397117006,84.1,"Lower limb amputation, not otherwise specified"
+1229,398194002,33.41,Suture of laceration of bronchus
+1233,120136006,18.71,Construction of auricle of ear
+1238,81899004,66.11,Biopsy of fallopian tube
+1244,84539006,84.09,Interthoracoscapular amputation
+1275,79661003,79.51,Open reduction of separated epiphysis of humerus
+1279,268435000,87.15,Contrast radiogram of sinus
+1284,1172964003,70.61,Vaginal construction
+1290,175899003,55.61,Renal autotransplantation
+1295,398171003,95.47,"Hearing examination, not otherwise specified"
+1297,80779005,2.92,Repair of brain
+1298,88310003,86.51,Replantation of scalp
+1300,305928009,35.42,Creation of septal defect in heart
+1306,119954001,28.6,Adenoidectomy without tonsillectomy
+1318,173346003,24.2,Gingivoplasty
+1330,108143005,11.49,Excision of cornea NOS
+1334,398107003,19.52,Type II tympanoplasty
+1340,116173004,65.22,Wedge resection of ovary
+1346,85038003,89.56,Carotid pulse tracing with ECG lead
+1349,386623008,69.95,Incision of cervix
+1356,172698000,19.6,Revision of tympanoplasty
+1357,232154007,18.21,Excision of preauricular sinus
+1362,392252001,67.61,Suture of laceration of cervix
+1366,87258008,56.85,Ureteropexy
+1369,176268002,60.12,Open biopsy of prostate
+1380,172765001,21.85,Augmentation rhinoplasty
+1381,174426002,50.51,Auxiliary liver transplant
+1382,223217009,10.0,Removal of embedded foreign body from conjunctiva by incision
+1386,303636000,10.21,Biopsy of conjunctiva
+1394,90246009,9.43,Probing of nasolacrimal duct
+1400,91578009,15.11,Recession of one extraocular muscle
+1408,91552000,12.66,Postoperative revision of scleral fistulization procedure
+1411,176560005,64.42,Release of chordee
+1413,197922007,9.11,Biopsy of lacrimal gland
+1415,359637008,8.33,Repair of blepharoptosis by resection or advancement of levator muscle or aponeurosis
+1425,84728005,89.13,Neurologic examination
+1430,176532008,64.43,Construction of penis
+1431,176660002,70.76,Hymenorrhaphy
+1442,83733001,27.73,Repair of uvula
+1443,112814001,35.01,"Closed heart valvotomy, aortic valve"
+1449,202568006,9.12,Biopsy of lacrimal sac
+1451,234726008,24.8,Occlusal adjustment
+1452,235369008,48.92,Anorectal myectomy
+1460,446071005,7.71,Exploration of pituitary fossa
+1467,84412001,78.72,Osteoclasis of humerus
+1472,168800007,87.14,Contrast radiogram of orbit
+1477,361157006,8.82,"Repair of laceration involving lid margin, partial-thickness"
+1478,392019004,67.33,Cryoconization of cervix
+1480,447149006,9.21,Excision of lesion of lacrimal gland
+1491,81338003,7.53,Partial excision of pineal gland
+1496,116233004,68.14,Open biopsy of uterine ligaments
+1498,708619003,62.12,Open biopsy of testis
+1505,233065007,35.34,Infundibulectomy
+1507,287763009,58.42,Closure of urethrostomy
+1509,446070006,7.17,Biopsy of pineal gland
+1520,234890003,27.62,Correction of cleft palate
+1526,446463003,87.11,Full-mouth x-ray of teeth
+1543,164729009,89.11,Tonometry
+1544,173388007,27.63,Revision of cleft palate repair
+1552,237022007,69.94,Manual replacement of inverted uterus
+1554,288057006,78.3,"Limb lengthening procedures, unspecified site"
+1557,396221000,2.01,Opening of cranial suture
+1558,444624003,65.24,Laparoscopic wedge resection of ovary
+1604,82104002,26.41,Suture of laceration of salivary gland
+1608,86688004,89.57,Apexcardiogram (with ECG lead)
+1611,112955004,8.01,Incision of lid margin
+1618,198323007,3.72,Spinal subarachnoid-ureteral shunt
+1621,231627005,9.23,Total dacryoadenectomy
+1632,447028007,20.22,Incision of petrous pyramid air cells
+1659,88039007,33.5,"Lung transplantation, not otherwise specified"
+1663,91644008,4.91,Neurectasis
+1667,129243001,35.04,"Closed heart valvotomy, tricuspid valve"
+1672,193505000,27.71,Incision of uvula
+1674,205195000,15.21,Lengthening procedure on one extraocular muscle
+1675,206938009,15.22,Shortening procedure on one extraocular muscle
+1677,234647001,27.54,Repair of cleft lip
+1679,264318007,87.81,X-ray of gravid uterus
+1682,276486001,63.71,Ligation of vas deferens
+1718,79278004,9.51,Incision of lacrimal punctum
+1721,82262008,9.91,Obliteration of lacrimal punctum
+1722,83187002,35.03,"Closed heart valvotomy, pulmonary valve"
+1723,84072001,11.31,Transposition of pterygium
+1730,88812000,12.44,Excision of lesion of ciliary body

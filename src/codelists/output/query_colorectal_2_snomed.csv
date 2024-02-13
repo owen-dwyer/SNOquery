@@ -1,0 +1,831 @@
+conceptId,idAndFsnTerm
+50080231000188105,50080231000188105 | Radiotherapy to face (procedure) |
+50080191000188103,50080191000188103 | External beam radiation therapy of bone (procedure) |
+50080181000188101,50080181000188101 | Brachytherapy of bone (procedure) |
+16560241000119104,16560241000119104 | Oral radionuclide therapy (procedure) |
+16554931000119102,16554931000119102 | Intravenous radionuclide therapy using radium 223 dichloride (procedure) |
+16554781000119103,16554781000119103 | Intravenous radionuclide therapy using strontium 89 (procedure) |
+16442821000119108,16442821000119108 | Fluoroscopy of colon with water soluble contrast (procedure) |
+1103661000000108,1103661000000108 | Radioligand therapy using lutetium (177-Lu) labeled somatostatin analog (procedure) |
+589631000119102,589631000119102 | Intravenous radioimmunotherapy using monoclonal antibodies (procedure) |
+427561000119104,427561000119104 | Intravenous radionuclide therapy using samarium Sm 153 lexidronam (procedure) |
+427541000119103,427541000119103 | Intravenous radionuclide therapy (procedure) |
+384091000119108,384091000119108 | Fluoroscopic barium enema via colostomy (procedure) |
+64291000052106,64291000052106 | Radioactive iodine therapy (procedure) |
+11331000224100,11331000224100 | Tomotherapy (procedure) |
+10371000132109,10371000132109 | Colonoscopic snare polypectomy of colon (procedure) |
+10361000132103,10361000132103 | Endoscopic cauterization of polyp of colon (procedure) |
+1286802009,1286802009 | External beam radiotherapy using internal target volume approach (procedure) |
+1286801002,1286801002 | Real time tumor tracking external beam radiotherapy (procedure) |
+1269317006,1269317006 | Radiotherapy to urinary bladder (procedure) |
+1264389002,1264389002 | Radiation therapy to oral cavity (procedure) |
+1264200003,1264200003 | Excision of lesion of rectum by transanal minimal invasive surgery (procedure) |
+1263784000,1263784000 | Radioligand therapy using lutetium (177-Lu) vipivotide tetraxetan (procedure) |
+1263398006,1263398006 | Proctoscopic control of rectal bleeding using electrocoagulation (procedure) |
+1263397001,1263397001 | Colonoscopic control of rectal bleeding using electrocoagulation (procedure) |
+1263392007,1263392007 | Extracorporeal irradiation of tumor bearing bone and reimplantation (procedure) |
+1260482004,1260482004 | Insertion of stent into colon using colonoscope (procedure) |
+1259200004,1259200004 | Neoadjuvant antineoplastic chemotherapy (procedure) |
+1255904006,1255904006 | Administration of palliative antineoplastic agent (procedure) |
+1255834000,1255834000 | Administration of antineoplastic chemotherapy into peritoneal cavity (procedure) |
+1255831008,1255831008 | Chemotherapy for malignant neoplastic disease using targeted agent (procedure) |
+1255359001,1255359001 | Fractionated dose stereotactic radiation therapy (procedure) |
+1254742000,1254742000 | Delayed intensification antineoplastic therapy regimen (regime/therapy) |
+1254741007,1254741007 | Intensification antineoplastic therapy regimen (regime/therapy) |
+1204242009,1204242009 | External beam radiation therapy using particle scanning technique (procedure) |
+1186912002,1186912002 | Laparoscopic low anterior resection of rectum with construction of colostomy (procedure) |
+1172516002,1172516002 | High-dose chemotherapy with stem cell transplant (procedure) |
+1163157007,1163157007 | Ultra high dose rate radiotherapy (procedure) |
+1162782007,1162782007 | Three dimensional external beam radiation therapy (procedure) |
+1156708005,1156708005 | Low dose rate brachytherapy using temporary radioactive source (procedure) |
+1156707000,1156707000 | Low dose rate brachytherapy (procedure) |
+1156530009,1156530009 | Volumetric modulated arc therapy (procedure) |
+1156529004,1156529004 | External beam radiation therapy using particle passive scattering technique (procedure) |
+1156528007,1156528007 | External beam radiation therapy using particle spot scanning technique (procedure) |
+1156526006,1156526006 | Two dimensional external beam radiation therapy (procedure) |
+1156525005,1156525005 | Mixed beam external beam radiation therapy (procedure) |
+1156524009,1156524009 | Intensity modulated external beam neutron radiation therapy (procedure) |
+1156506007,1156506007 | External beam radiation therapy using photons (procedure) |
+1156505006,1156505006 | External beam radiation therapy using carbon ions (procedure) |
+1156384006,1156384006 | Pulsed dose rate brachytherapy (procedure) |
+1156383000,1156383000 | Intravascular brachytherapy (procedure) |
+1156382005,1156382005 | Intensity modulated intracavitary brachytherapy (procedure) |
+1153549003,1153549003 | Irrigation of colon via colostomy (procedure) |
+1148692008,1148692008 | Radiation therapy following chemotherapy (procedure) |
+1141994004,"1141994004 | Rituximab, cyclophosphamide, etoposide, vincristine, prednisone antineoplastic chemotherapy regimen (regime/therapy) |"
+897713009,897713009 | Antineoplastic chemoimmunotherapy (regime/therapy) |
+890093004,890093004 | Administration of multiple antineoplastic agents (procedure) |
+879915007,879915007 | Radiotherapy to bone (procedure) |
+870385001,870385001 | Hypofractionated radiation therapy (procedure) |
+870250004,"870250004 | Fluorouracil, leucovorin, irinotecan and oxaliplatin antineoplastic chemotherapy regimen (regime/therapy) |"
+870249004,"870249004 | Folinic acid, fluorouracil and irinotecan antineoplastic chemotherapy regimen (regime/therapy) |"
+836429007,836429007 | Injection of radioactive implant into malignant neoplasm for brachytherapy (procedure) |
+830156009,830156009 | Administration of hyperthermic antineoplastic agent into thoracic cavity (procedure) |
+830155008,830155008 | Administration of hyperthermic antineoplastic agent into peritoneal cavity (procedure) |
+816151001,816151001 | Administration of consolidation antineoplastic agent (procedure) |
+787876003,787876003 | Laparoscopic total colectomy and ileostomy (procedure) |
+787875004,787875004 | Laparoscopic total colectomy and loop ileostomy (procedure) |
+787874000,787874000 | Laparoscopic total colectomy (procedure) |
+785707001,785707001 | Hypofractionated radiation therapy of entire breast (procedure) |
+785706005,785706005 | Hypofractionated radiation therapy of prostate (procedure) |
+782838000,782838000 | Laparoscopic ventral fixation of internal prolapse of rectum using synthetic mesh (procedure) |
+782837005,782837005 | Laparoscopic ventral fixation of internal prolapse of rectum using biological mesh (procedure) |
+782836001,782836001 | Laparoscopic ventral fixation of internal prolapse of rectum using mesh (procedure) |
+782204001,782204001 | Superficial radiation therapy (procedure) |
+773335005,773335005 | Epiretinal brachytherapy with vitrectomy (procedure) |
+773128008,773128008 | Endoscopic snare resection of lesion of colon using full thickness resection device (procedure) |
+772017001,772017001 | Radiofrequency ablation of rectal hemorrhoid (procedure) |
+771568007,771568007 | Fiberoptic endoscopic excision of lesion of colonic mucous membrane (procedure) |
+771556003,771556003 | Fluoroscopy for colonic transit study (procedure) |
+765813009,765813009 | Intracavitary brachytherapy of mouth (procedure) |
+738552004,738552004 | Partial resection of colon with stoma (procedure) |
+738551006,738551006 | Right colectomy with stoma (procedure) |
+726549007,726549007 | Radioimmunoguided surgery (procedure) |
+722491009,"722491009 | Rituximab, cyclophosphamide, doxorubicin, vincristine and prednisone chemotherapy regimen (regime/therapy) |"
+722482005,"722482005 | Doxorubicin, bleomycin, vinblastine and dacarbazine chemotherapy regimen (regime/therapy) |"
+722472009,"722472009 | Rituximab, ifosfamide, carboplatin and etoposide chemotherapy regimen (regime/therapy) |"
+720379009,720379009 | Hepatic arterial infusion chemotherapy (procedure) |
+716872004,716872004 | Antineoplastic chemotherapy regimen (regime/therapy) |
+714029009,714029009 | Preoperative high dose brachytherapy (procedure) |
+713593003,713593003 | Transanal radiofrequency thermotherapy of anal sphincter (procedure) |
+712746000,712746000 | Total body electron beam therapy (procedure) |
+711421003,711421003 | Fluoroscopic contrast enema (procedure) |
+711299007,711299007 | Radiotherapy to thorax (procedure) |
+710203005,710203005 | Therapeutic contrast enema for reduction of intussusception of colon using fluoroscopic guidance (procedure) |
+709523008,709523008 | Magnetic resonance imaging of rectum with contrast (procedure) |
+709423005,709423005 | Control of postoperative hemorrhage of anus (procedure) |
+708920006,708920006 | Laparoscopic anterior resection of rectum using robotic assistance (procedure) |
+708642005,708642005 | Laparoscopic fixation of rectum using robotic assistance (procedure) |
+708631001,708631001 | Laparoscopic-assisted low anterior resection of rectum (procedure) |
+703423002,703423002 | Combined chemotherapy and radiation therapy (procedure) |
+700496000,700496000 | Postoperative administration of antineoplastic agent into peritoneal cavity (procedure) |
+700357007,700357007 | Radium 223 brachytherapy (procedure) |
+700356003,700356003 | Radium 226 brachytherapy (procedure) |
+609197007,609197007 | Endoscopic surgical procedure on colon using laser (procedure) |
+609196003,609196003 | Endoscopic surgical procedure on rectum using laser (procedure) |
+609191008,609191008 | Endoscopic excision of tissue of anus (procedure) |
+609188008,609188008 | Endoscopic destruction of tissue of anus (procedure) |
+473237008,473237008 | Stereotactic radiosurgery for acoustic neuroma (procedure) |
+450827009,450827009 | Induction chemotherapy (procedure) |
+450461000,450461000 | Subtotal excision of colon and creation of colonic pouch (procedure) |
+450353006,450353006 | Reduction of prolapse of rectum (procedure) |
+449290006,449290006 | Megavoltage radiation therapy using photons and electrons (procedure) |
+449265009,449265009 | Magnetic resonance imaging of colon with contrast (procedure) |
+449255003,449255003 | Intraluminal brachytherapy of tracheobronchial tree (procedure) |
+449194009,449194009 | Sigmoidoscopic excision of polyp of rectum (procedure) |
+449157000,449157000 | Interstitial brachytherapy using iridium wire (procedure) |
+449155008,449155008 | Intraluminal brachytherapy of esophagus (procedure) |
+449106004,449106004 | Colonoscopic excision of polyp of rectum (procedure) |
+449013002,449013002 | Cauterization of verruca of anus (procedure) |
+448987004,448987004 | Intraluminal brachytherapy of biliary tract (procedure) |
+448829002,448829002 | Suturing of laceration of rectum (procedure) |
+448811007,448811007 | Colonoscopic excision of mucosa of rectum (procedure) |
+448806005,448806005 | Suturing of laceration of anus (procedure) |
+448653006,448653006 | Anterior resection of rectum and total mesorectal excision with colostomy (procedure) |
+448608009,448608009 | Intracavitary brachytherapy of female genital tract (procedure) |
+448596007,448596007 | Excision of rectal stump (procedure) |
+448592009,448592009 | Sigmoidoscopic excision of mucosa of rectum (procedure) |
+448552007,448552007 | Interstitial brachytherapy using gold grain (procedure) |
+448467008,448467008 | Interstitial brachytherapy using cesium needle (procedure) |
+448461009,448461009 | Stereotactic radiation therapy using megavoltage radiation (procedure) |
+448385000,448385000 | Megavoltage radiation therapy using photons (procedure) |
+448360009,448360009 | Sigmoidoscopic argon plasma coagulation of lesion of rectum (procedure) |
+448294009,448294009 | External radiation therapy using superficial radiation (procedure) |
+448288001,448288001 | Targeted radionuclide therapy (procedure) |
+448168006,448168006 | Intracavitary brachytherapy of nasopharynx (procedure) |
+448167001,448167001 | Intraluminal brachytherapy of rectum (procedure) |
+448156002,448156002 | Excision of rectum by transanal approach (procedure) |
+448137007,448137007 | Brachytherapy using radioiodine (procedure) |
+447982008,447982008 | Low anterior resection of rectum with colostomy (procedure) |
+447979003,447979003 | Argon plasma coagulation of lesion of rectum (procedure) |
+447977001,447977001 | Colonoscopic argon plasma coagulation of lesion of rectum (procedure) |
+447946003,447946003 | Right hemicolectomy and ileostomy (procedure) |
+447912004,447912004 | Fractionated dose stereotactic radiosurgery using linear accelerator system (procedure) |
+447759004,447759004 | Brachytherapy of breast (procedure) |
+447704003,447704003 | Single dose stereotactic radiosurgery using linear accelerator system (procedure) |
+447224000,447224000 | Magnetic resonance imaging of anal sphincter (procedure) |
+447166008,447166008 | Hand assisted laparoscopic extended right colectomy (procedure) |
+447021001,447021001 | Colonoscopy and tattooing (procedure) |
+446504008,446504008 | Stereotactic destruction of lesion using gamma radiation (procedure) |
+446414002,446414002 | Sigmoidoscopy and tattooing (procedure) |
+446362009,446362009 | Argon plasma coagulation of colon (procedure) |
+446228006,446228006 | Hand assisted laparoscopic extended left colectomy (procedure) |
+446223002,446223002 | Hand assisted laparoscopic right colectomy (procedure) |
+446222007,446222007 | Hand assisted laparoscopic left colectomy (procedure) |
+446011004,446011004 | Endoscopic ultrasonography of colon (procedure) |
+445954002,445954002 | Computed tomography of colon using intravenous contrast (procedure) |
+445935002,445935002 | Argon plasma coagulation of lesion of sigmoid colon (procedure) |
+445884009,445884009 | Wedge resection of colon (procedure) |
+445863004,445863004 | Loopogram of colon (procedure) |
+445232009,445232009 | Boost radiation therapy (procedure) |
+444783004,444783004 | Screening colonoscopy (procedure) |
+444688002,444688002 | Suspension and fixation of rectum to wall of vagina for prolapse of rectum (procedure) |
+443908009,443908009 | Excision of part of rectum by perineal approach (procedure) |
+443665007,443665007 | Transanal disk excision of rectum (procedure) |
+443605009,443605009 | Mobilization of splenic flexure of colon (procedure) |
+443480008,443480008 | Laparoscopic excision of part of colon (procedure) |
+442808001,442808001 | Fine needle aspiration biopsy of anus (procedure) |
+442289003,442289003 | Closure of anal fistula using plug (procedure) |
+441799006,441799006 | Intensity modulated radiation therapy (procedure) |
+441783000,441783000 | Three-dimensional conformal radiation therapy (procedure) |
+440616001,440616001 | Microscopic examination of anal Papanicolaou smear (procedure) |
+440222004,440222004 | Destruction of malignant neoplasm of rectum using cryosurgery (procedure) |
+440032004,440032004 | Laparoscopic fixation of prolapse of rectum (procedure) |
+439959000,439959000 | Sampling of anus for Papanicolaou smear (procedure) |
+439927007,439927007 | Measurement of rectal sensation and rectal tone and rectal compliance (procedure) |
+438816004,438816004 | Radiolabeled technetium 99m antibody therapy (procedure) |
+438629002,438629002 | High dose rate electronic brachytherapy (procedure) |
+438216009,438216009 | Balloon expulsion test (procedure) |
+433224001,433224001 | Radionuclide rhenium 186 hydroxyethylidene diphosphonate therapy (procedure) |
+433150007,433150007 | Radiolabeled indium 111 antibody therapy (procedure) |
+432094005,432094005 | Radiolabeled Iodine 131 antibody therapy (procedure) |
+431944009,431944009 | Computed tomography with contrast enema (procedure) |
+431778005,431778005 | Brachytherapy of prostate using fluoroscopic guidance (procedure) |
+431743005,431743005 | Yttrium 90 somatostatin analog therapy (procedure) |
+431667009,431667009 | Intracoronary brachytherapy using fluoroscopic guidance with contrast (procedure) |
+431588009,431588009 | Radionuclide iodine 131 therapy for thyrotoxicosis (procedure) |
+431553009,431553009 | Endoanal ultrasound examination of rectal sphincter (procedure) |
+431530008,431530008 | Percutaneous brachytherapy of hepatic artery using fluoroscopic guidance with contrast (procedure) |
+431476005,431476005 | Fluoroscopic colostomy enema with water soluble contrast (procedure) |
+431462009,431462009 | Therapeutic water soluble enema and fluoroscopy of colon (procedure) |
+431399005,431399005 | Brachytherapy using iodine (131-I) ethiodized oil (procedure) |
+431200001,431200001 | Radionuclide iodine 131 therapy to thyroid (procedure) |
+430798009,430798009 | Transanal resection of rectum and anastomosis using staples (procedure) |
+429820004,429820004 | Endorectal ultrasonography (procedure) |
+429774000,429774000 | Radiotherapy to abdomen (procedure) |
+429597004,429597004 | Insertion of dynamic graciloplasty sphincter (procedure) |
+429584001,429584001 | Stereotactic radiosurgery of brain tissue (procedure) |
+429579007,429579007 | Radiotherapy to axilla (procedure) |
+429057009,429057009 | Plaque radiotherapy of lesion of retina (procedure) |
+428923005,428923005 | Radiotherapy to breast (procedure) |
+428831001,428831001 | Radiotherapy to perineum (procedure) |
+428829005,428829005 | Radiotherapy to pelvis (procedure) |
+428624002,428624002 | Radiotherapy to chest wall (procedure) |
+428416002,428416002 | Radiotherapy to neck (procedure) |
+428412000,428412000 | Radiotherapy to head (procedure) |
+426699005,426699005 | Endoscopic submucosal resection of lesion of sigmoid colon using rigid sigmoidoscope (procedure) |
+426332009,426332009 | External beam radiation therapy to lesion of retina (procedure) |
+425851003,425851003 | Fiberoptic endoscopic submucosal resection of lesion of colon (procedure) |
+425767004,425767004 | Implantation of radioactive seed into prostate (procedure) |
+420529003,420529003 | Radiotherapy using radioactive plaque on eye (procedure) |
+418294002,418294002 | Fluoroscopy of colon (procedure) |
+418210005,418210005 | Magnetic resonance imaging of colon (procedure) |
+418181007,418181007 | X-ray for colonic transit study (procedure) |
+412737002,412737002 | Stapling of hemorrhoid (procedure) |
+410007005,410007005 | Rectal examination (procedure) |
+410006001,410006001 | Digital examination of rectum (procedure) |
+400988008,400988008 | High anterior resection of rectum (procedure) |
+399315003,399315003 | Radionuclide therapy (procedure) |
+399180008,399180008 | Interstitial radioactive colloid therapy (procedure) |
+399042005,399042005 | Chemotherapy cycle (procedure) |
+398801000,398801000 | Exteriorization of colon (procedure) |
+398765001,398765001 | Therapeutic barium enema for reduction of intussusception (procedure) |
+398243002,398243002 | Repair of rectocele (procedure) |
+397202000,397202000 | Cauterization of hemorrhoids (procedure) |
+395136002,395136002 | Total mesorectal excision (procedure) |
+395096001,395096001 | Stereotactic radiotherapy (procedure) |
+395075008,395075008 | Iridium wire therapy (procedure) |
+395074007,395074007 | Selectron therapy (procedure) |
+394935005,394935005 | Combined postoperative chemotherapy and radiotherapy (procedure) |
+394934009,394934009 | Combined pre-operative chemotherapy and radiotherapy (procedure) |
+394918006,394918006 | Iodine seed radiotherapy (procedure) |
+394902000,394902000 | High dose brachytherapy (procedure) |
+394895009,394895009 | Postoperative chemotherapy (procedure) |
+394894008,394894008 | Pre-operative chemotherapy (procedure) |
+392027008,392027008 | Anal fissurectomy (procedure) |
+387861003,387861003 | Excision of rectal mucosa (procedure) |
+387860002,387860002 | Excision rectal mucosal prolapse (procedure) |
+386197003,386197003 | Excision of diverticula of colon (procedure) |
+385341003,385341003 | Abdominoperineal resection of anus (procedure) |
+384692006,384692006 | Intracavitary brachytherapy (procedure) |
+384691004,384691004 | Intraluminal brachytherapy (procedure) |
+372295008,372295008 | Cytologic examination of anus (procedure) |
+372262002,372262002 | Local excision of anus (procedure) |
+367336001,367336001 | Chemotherapy (procedure) |
+363688001,363688001 | Administration of antineoplastic agent (procedure) |
+361174006,361174006 | Fulguration of anus (procedure) |
+361173000,361173000 | Destruction of lesion of rectum by fulguration (procedure) |
+359944002,359944002 | Anal sphincteroplasty for current obstetrical laceration (procedure) |
+359941005,359941005 | Anal sphincterorrhaphy for obstetrical laceration (procedure) |
+359937006,359937006 | Repair of obstetric laceration of anus (procedure) |
+359863000,359863000 | Open biopsy of colon (procedure) |
+359860002,359860002 | Colotomy for biopsy (procedure) |
+359641007,359641007 | Transplant of tissue of anus (procedure) |
+359602005,359602005 | Fine needle biopsy of rectum (procedure) |
+359571009,359571009 | Right colectomy (procedure) |
+348956002,348956002 | Papillectomy of single anal tag (procedure) |
+347954002,347954002 | Anal papillectomy (procedure) |
+346950004,346950004 | Radiologic examination of colon by air contrast (procedure) |
+315601005,315601005 | Ambulatory chemotherapy (procedure) |
+315328007,315328007 | Anterior resection of rectum with anastomosis (procedure) |
+315327002,315327002 | Sigmoid colectomy with stoma (procedure) |
+315325005,315325005 | Left hemicolectomy with stoma (procedure) |
+315294004,315294004 | Contrast enema (procedure) |
+314610005,314610005 | Transanal submucosal excision of rectal tumor (procedure) |
+314606007,314606007 | Postoperative course of deep X-ray therapy (procedure) |
+314605006,314605006 | Preoperative course of deep X-ray therapy (procedure) |
+314604005,314604005 | Palliative course of deep X-ray therapy (procedure) |
+314592008,314592008 | Low anterior resection of rectum (procedure) |
+313092005,313092005 | Electromagnetic energy therapy (regime/therapy) |
+312497000,312497000 | Salvage abdominoperineal resection of rectum (procedure) |
+312248006,312248006 | Heavy ion external beam radiation therapy (procedure) |
+312244008,312244008 | Cobalt 60 brachytherapy remote afterloading (procedure) |
+312243002,312243002 | Cesium 137 brachytherapy remote afterloading (procedure) |
+312235007,312235007 | Radiolabeled antibody therapy (procedure) |
+311888006,311888006 | Insertion of uterine cesium applicators (procedure) |
+311887001,311887001 | Insertion of vaginal cesium applicators (procedure) |
+311774002,311774002 | Colonoscopic polypectomy (procedure) |
+310803009,310803009 | Interposition of microvascularly attached colon (procedure) |
+307709007,307709007 | Repair of perforated colon (procedure) |
+307702003,307702003 | Excision of sentinel pile (procedure) |
+307668009,307668009 | Creation of rectal mucous fistula (procedure) |
+307666008,307666008 | Total colectomy and ileostomy (procedure) |
+307665007,307665007 | Closure of defunctioning colostomy (procedure) |
+307663000,307663000 | Exploration of colon (procedure) |
+307658004,307658004 | Sigmoid colectomy and colostomy (procedure) |
+307657009,307657009 | Left hemicolectomy and colostomy (procedure) |
+307648003,307648003 | Sigmoid colectomy and ileostomy (procedure) |
+307645000,307645000 | Transverse colectomy and colostomy (procedure) |
+307644001,307644001 | Transverse colectomy and ileostomy (procedure) |
+307589007,307589007 | Phenol injection of hemorrhoid (procedure) |
+307586000,307586000 | Laparoscopic transverse colectomy (procedure) |
+307245006,307245006 | Dilatation of rectal anastomotic stricture (procedure) |
+307244005,307244005 | Dilatation of rectal stricture (procedure) |
+307242009,307242009 | Dilatation of colonic anastomotic stricture (procedure) |
+307241002,307241002 | Dilatation of colonic stricture (procedure) |
+307009004,307009004 | Wedge resection of rectum (procedure) |
+304587000,304587000 | Excision of colonic pouch (procedure) |
+304586009,304586009 | Revision of colonic pouch (procedure) |
+304583001,304583001 | Extended right hemicolectomy and ileostomy (procedure) |
+304424007,304424007 | Pulsed electromagnetic energy to foot (regime/therapy) |
+304423001,304423001 | Pulsed electromagnetic energy to ankle (regime/therapy) |
+304422006,304422006 | Pulsed electromagnetic energy to knee (regime/therapy) |
+304421004,304421004 | Pulsed electromagnetic energy to hip (regime/therapy) |
+304420003,304420003 | Pulsed electromagnetic energy to abdomen (regime/therapy) |
+304419009,304419009 | Pulsed electromagnetic energy to pelvis (regime/therapy) |
+304418001,304418001 | Pulsed electromagnetic energy to back (regime/therapy) |
+304417006,304417006 | Pulsed electromagnetic energy to hand (regime/therapy) |
+304416002,304416002 | Pulsed electromagnetic energy to wrist (regime/therapy) |
+304415003,304415003 | Pulsed electromagnetic energy to elbow (regime/therapy) |
+304414004,304414004 | Pulsed electromagnetic energy to shoulder (regime/therapy) |
+304413005,304413005 | Pulsed electromagnetic energy to lower limb (regime/therapy) |
+304412000,304412000 | Pulsed electromagnetic energy to trunk (regime/therapy) |
+304411007,304411007 | Pulsed electromagnetic energy to neck (regime/therapy) |
+304410008,304410008 | Pulsed electromagnetic energy to face (regime/therapy) |
+304409003,304409003 | Pulsed electromagnetic energy to upper limb (regime/therapy) |
+303586004,303586004 | Peranal destruction of lesion anus (procedure) |
+303585000,303585000 | Transsphincteric biopsy of rectum (procedure) |
+303584001,303584001 | Sphincter-saving proctectomy (procedure) |
+302605004,302605004 | Forced manual dilatation of anus (procedure) |
+301700004,301700004 | Snare resection of lesion of rectum (procedure) |
+301699000,301699000 | Snare resection of lesion of colon (procedure) |
+300976007,300976007 | Radiotherapy to lesion of canthus (procedure) |
+300040009,300040009 | Banding of redundant anal mucosa (procedure) |
+299681007,299681007 | Construction of transverse loop colostomy (procedure) |
+289060008,289060008 | Anterior resection of rectal prolapse (procedure) |
+287991005,287991005 | Imperforate anus repair (procedure) |
+287815004,287815004 | Excision of excess colostomy mucosa (procedure) |
+287807002,287807002 | Internal closure - rectal fistula (procedure) |
+287806006,287806006 | External closure - rectal fistula (procedure) |
+287800000,287800000 | Anal tag removal (procedure) |
+287786002,287786002 | Decompression of rectum (procedure) |
+287784004,287784004 | Local excision of rectum (procedure) |
+287491000,287491000 | Non-surgical biopsy of anus (procedure) |
+285786003,285786003 | Excision of multiple anal papillae (procedure) |
+276186005,276186005 | Repair of rectum (procedure) |
+276019009,276019009 | Gastrografin enema (procedure) |
+275197003,275197003 | Manual procedures on rectum (procedure) |
+275017002,275017002 | Duhamel removal of colorectal septum (procedure) |
+275013003,275013003 | Peranal destruction of rectal polyp (procedure) |
+275012008,275012008 | Peranal excision of rectal polyp (procedure) |
+275011001,275011001 | Ripstein fixation of rectum using polytetrafluoroethylene mesh (procedure) |
+274353001,274353001 | Anal surgical biopsy (procedure) |
+274352006,274352006 | Surgical biopsy of rectum (procedure) |
+274351004,274351004 | Surgical biopsy of colon (procedure) |
+274324002,274324002 | Endoscopic biopsy of rectum (procedure) |
+274323008,274323008 | Endoscopic biopsy of colon (procedure) |
+274295008,274295008 | Anal examination (procedure) |
+274031008,274031008 | Rectal polypectomy (procedure) |
+274025005,274025005 | Colonic polypectomy (procedure) |
+271490000,271490000 | Open endoscopic operation on colon (procedure) |
+271410001,271410001 | Anorectal stretch (procedure) |
+271291003,271291003 | Temporary implant radiotherapy (procedure) |
+268500004,268500004 | Administration of prophylactic chemotherapy (procedure) |
+266719004,266719004 | Oral chemotherapy (procedure) |
+265762008,265762008 | Subcutaneous chemotherapy (procedure) |
+265761001,265761001 | Intramuscular chemotherapy (procedure) |
+265760000,265760000 | Intravenous chemotherapy (procedure) |
+265426008,265426008 | Peranal destruction of lesion of rectum (procedure) |
+265425007,265425007 | Excision of lesion of rectum by transanal approach (procedure) |
+265420002,265420002 | Sponge rectopexy (procedure) |
+265418000,265418000 | Fixation of rectum using fascia lata (procedure) |
+265417005,265417005 | Posterior fixation of rectum using prosthetic material (procedure) |
+265415002,265415002 | Open extirpation of lesion of rectum (procedure) |
+265414003,265414003 | Abdominoperineal resection of rectum (procedure) |
+265407000,265407000 | Endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope (procedure) |
+265402006,265402006 | Endoscopic extirpation of lesion of colon (procedure) |
+252636004,252636004 | Anal sphincter manometry (procedure) |
+241674004,241674004 | Operative endoscopy of rectum (procedure) |
+241629006,241629006 | Magnetic resonance imaging of rectum (procedure) |
+241337005,241337005 | Radionuclide study for rectal transit (procedure) |
+241336001,241336001 | Radionuclide study for colonic transit (procedure) |
+241168000,241168000 | Water soluble contrast enema (procedure) |
+241167005,241167005 | Instant barium enema (procedure) |
+241166001,241166001 | Distal loop enema (procedure) |
+241165002,241165002 | Single contrast barium enema (procedure) |
+241164003,241164003 | Double contrast barium enema (procedure) |
+240959006,240959006 | Therapeutic barium enema (procedure) |
+238298006,238298006 | Fistulectomy of rectum (procedure) |
+236783000,236783000 | Terminal ileum bypass (procedure) |
+236205009,236205009 | Revision of colonic conduit (procedure) |
+235391001,235391001 | Submucosal hemorrhoidectomy (procedure) |
+235390000,235390000 | Closed hemorrhoidectomy (procedure) |
+235389009,235389009 | Open hemorrhoidectomy (procedure) |
+235385003,235385003 | Construction of anal neosphincter (procedure) |
+235384004,235384004 | Gracilis sling operation (procedure) |
+235382000,235382000 | Thiersch procedure (procedure) |
+235381007,235381007 | Repair of anal sphincter (procedure) |
+235379005,235379005 | Lateral ligament suspension (procedure) |
+235378002,235378002 | Mesh rectopexy (procedure) |
+235377007,235377007 | Posterior fixation of rectum (procedure) |
+235376003,235376003 | Anterior fixation of rectum (procedure) |
+235369008,235369008 | Anal myectomy (procedure) |
+235365002,235365002 | Swenson procedure (procedure) |
+235364003,235364003 | Total proctectomy (procedure) |
+235360007,235360007 | Dunphy repair for rectal prolapse (procedure) |
+235358005,235358005 | Distal colon loop washout via loop colostomy (procedure) |
+235357000,235357000 | Irrigation of colon via cecostomy tube (procedure) |
+235356009,235356009 | Decompression of sigmoid colon using flatus tube (procedure) |
+235344008,235344008 | Fiberoptic endoscopic extirpation of lesion of colon (procedure) |
+235343002,235343002 | Colonoscopy and extirpation of lesion of colon (procedure) |
+235342007,235342007 | Endoscopic extirpation of lesion of rectum using fiberoptic sigmoidoscope (procedure) |
+235341000,235341000 | Open operation on rectal polyp (procedure) |
+235334006,235334006 | Oversewing of rectal stump (procedure) |
+235325001,235325001 | Extended left hemicolectomy (procedure) |
+235320006,235320006 | Transverse taeniamyotomy (procedure) |
+235153008,235153008 | Rigid sigmoidoscopy (procedure) |
+235151005,235151005 | Limited colonoscopy (procedure) |
+235150006,235150006 | Total colonoscopy (procedure) |
+231764006,231764006 | Radiotherapy to retina (procedure) |
+231737005,231737005 | Radiotherapy to ciliary body (procedure) |
+231596001,231596001 | Radiotherapy to lesion of eyelid (procedure) |
+231585009,231585009 | Radiotherapy to lesion of lateral canthus (procedure) |
+231568007,231568007 | Radiotherapy to lesion of medial canthus (procedure) |
+231544004,231544004 | Radiotherapy to orbital lesion (procedure) |
+230914000,230914000 | Stereotactic radiosurgery of intracranial cavernous angioma (procedure) |
+230913006,230913006 | Stereotactic radiosurgery of intracranial venous malformation (procedure) |
+230912001,230912001 | Stereotactic radiosurgery of intracranial arteriovenous malformation (procedure) |
+230911008,230911008 | Stereotactic radiosurgery of lesion of intracranial vasculature (procedure) |
+230857009,230857009 | Injection of chemotherapeutic substance into subcutaneous reservoir (procedure) |
+229556008,229556008 | Pulsed electromagnetic energy therapy (regime/therapy) |
+228702008,228702008 | Gold 198 therapy (procedure) |
+228701001,228701001 | Strontium 89 therapy (procedure) |
+228700000,228700000 | Iodine 131 meta-iodobenzylguanidine therapy (procedure) |
+228699001,228699001 | Phosphorus 32 therapy (procedure) |
+228698009,228698009 | Iodine 131 therapy (procedure) |
+228697004,228697004 | Yttrium 90 therapy (procedure) |
+228696008,228696008 | Yttrium 90 brachytherapy (procedure) |
+228695007,228695007 | Tantalum 182 brachytherapy (procedure) |
+228694006,228694006 | Strontium 90 brachytherapy (procedure) |
+228693000,228693000 | Ruthenium 106 brachytherapy (procedure) |
+228692005,228692005 | Radon 222 brachytherapy (procedure) |
+228691003,228691003 | Phosphorus 32 brachytherapy (procedure) |
+228690002,228690002 | Iodine 125 brachytherapy (procedure) |
+228689006,228689006 | Gold 198 brachytherapy (procedure) |
+228688003,228688003 | Californium 252 brachytherapy (procedure) |
+228686004,228686004 | Microselectron brachytherapy (procedure) |
+228685000,228685000 | Gammamed brachytherapy (procedure) |
+228684001,228684001 | Iridium 192 brachytherapy (procedure) |
+228682002,228682002 | Cobalt 60 brachytherapy manual loading (procedure) |
+228681009,228681009 | Cobalt 60 brachytherapy (procedure) |
+228677009,228677009 | Cesium 137 brachytherapy (procedure) |
+228676000,228676000 | Hiletron neutron external beam radiation therapy (procedure) |
+228675001,228675001 | Deuterium on tritium neutron external beam radiation therapy (procedure) |
+228674002,228674002 | Cyclotron neutron external beam radiation therapy (procedure) |
+228673008,228673008 | Strontium 90 electron external beam radiation therapy (procedure) |
+228672003,228672003 | Microtron electron external beam radiation therapy (procedure) |
+228671005,228671005 | Linear accelerator electron external beam radiation therapy (procedure) |
+228667007,228667007 | Stereotactic cobalt external beam radiation therapy (procedure) |
+228666003,228666003 | External beam radiation therapy with dual headed cobalt unit (procedure) |
+228664000,228664000 | Van der Graaff X-ray therapy (procedure) |
+228663006,228663006 | Microtron X-ray therapy (procedure) |
+228662001,228662001 | Betatron X-ray therapy (procedure) |
+228661008,228661008 | Grenz ray therapy (procedure) |
+228660009,228660009 | Contact therapy (procedure) |
+225097004,225097004 | Proximal colonic washout (procedure) |
+225096008,225096008 | Rectal stump washout via rectum (procedure) |
+225095007,225095007 | Rectal stump washout via stoma (procedure) |
+182975000,182975000 | Tuberculosis chemotherapy (procedure) |
+182655007,182655007 | Local heating - infrared irradiation (regime/therapy) |
+174385004,174385004 | Lateral sphincterotomy (procedure) |
+174384000,174384000 | Biopsy of lesion of anus (procedure) |
+174368001,174368001 | Dilation of anal sphincter (procedure) |
+174365003,174365003 | Forced manual dilation of anus for hemorrhoid (procedure) |
+174359003,174359003 | Rubber band ligation of hemorrhoid(s) (procedure) |
+174358006,174358006 | Infrared coagulation of hemorrhoid(s) (procedure) |
+174357001,174357001 | Destruction of hemorrhoid (procedure) |
+174354008,174354008 | Partial internal sphincterotomy for hemorrhoid (procedure) |
+174347002,174347002 | Overlap repair of anal sphincter (procedure) |
+174346006,174346006 | Post-anal repair (procedure) |
+174340000,174340000 | Cryotherapy to lesion of anus (procedure) |
+174339002,174339002 | Laser destruction of lesion of anus (procedure) |
+174338005,174338005 | Cauterization of lesion of anus (procedure) |
+174337000,174337000 | Destruction of lesion of anus (procedure) |
+174334007,174334007 | Excision of anal polyp (procedure) |
+174332006,174332006 | Excision of anal skin tag (procedure) |
+174328000,174328000 | Excision of sphincter of anus (procedure) |
+174322004,174322004 | Proctoscopic destruction of lesion of rectum (procedure) |
+174321006,174321006 | Proctoscopic excision of lesion of rectum (procedure) |
+174320007,174320007 | Proctoscopic extirpation of lesion of rectum (procedure) |
+174310002,174310002 | Closure of proctostomy (procedure) |
+174308004,174308004 | Exploration of rectum (procedure) |
+174299003,174299003 | Massage of rectum (procedure) |
+174298006,174298006 | Examination of rectum under anesthesia (procedure) |
+174289008,174289008 | Insertion of supralevator sling (procedure) |
+174288000,174288000 | Perianal plication of levator ani muscles and anal sphincters (procedure) |
+174286001,174286001 | Perineal operations for rectal prolapse (procedure) |
+174283009,174283009 | Peranal biopsy of lesion of rectum (procedure) |
+174272000,174272000 | Transsphincteric destruction of lesion of rectum (procedure) |
+174270008,174270008 | Transsphincteric excision of mucosa of rectum (procedure) |
+174250002,174250002 | Open laser destruction of lesion of rectum (procedure) |
+174249002,174249002 | Open cryotherapy to lesion of rectum (procedure) |
+174248005,174248005 | Open cauterization of lesion of rectum (procedure) |
+174247000,174247000 | Open excision of lesion of rectum (procedure) |
+174241004,174241004 | Anterior resection of rectum and anastomosis of colon to rectum using staples (procedure) |
+174228003,174228003 | Irrigation of colon (procedure) |
+174215005,174215005 | Endoscopic dilation of sigmoid colon using rigid sigmoidoscope (procedure) |
+174210000,174210000 | Endoscopic cryotherapy to lesion of sigmoid colon using rigid sigmoidoscope (procedure) |
+174209005,174209005 | Endoscopic laser destruction of lesion of sigmoid colon using rigid sigmoidoscope (procedure) |
+174208002,174208002 | Endoscopic cauterization of lesion of sigmoid colon using rigid sigmoidoscope (procedure) |
+174207007,174207007 | Endoscopic snare resection of lesion of sigmoid colon using rigid sigmoidoscope (procedure) |
+174180002,174180002 | Fiberoptic endoscopic coagulation of blood vessel of colon (procedure) |
+174179000,174179000 | Fiberoptic endoscopic dilation of colon (procedure) |
+174173004,174173004 | Fiberoptic endoscopic laser destruction of lesion of colon (procedure) |
+174172009,174172009 | Fiberoptic endoscopic cauterization of lesion of colon (procedure) |
+174171002,174171002 | Fiberoptic endoscopic snare resection of lesion of colon (procedure) |
+174164007,174164007 | Enterorrhaphy of colon (procedure) |
+174162006,174162006 | Open biopsy of lesion of colon (procedure) |
+174158000,174158000 | Open colonoscopy (procedure) |
+174153009,174153009 | Open relief of strangulation of colon (procedure) |
+174149007,174149007 | Open reduction of intussusception of colon (procedure) |
+174141005,174141005 | Reduction of prolapse of colostomy (procedure) |
+174125009,174125009 | Bypass of colon by anastomosis of transverse colon to sigmoid colon (procedure) |
+174121000,174121000 | Bypass of colon (procedure) |
+174116003,174116003 | Extirpation of lesion of colon (procedure) |
+174071004,174071004 | Extended right hemicolectomy (procedure) |
+174027003,174027003 | Barium enema for radiological reduction of intussusception of ileum (procedure) |
+172408001,172408001 | Radiotherapy of corneal lesion (procedure) |
+172286002,172286002 | Radiotherapy to lacrimal gland (procedure) |
+171809001,171809001 | Radiotherapy to lesion of peripheral nerve (procedure) |
+171765004,171765004 | Intrathecal injection of chemotherapeutic agent (procedure) |
+169422001,169422001 | Inflammatory infrared therapy (regime/therapy) |
+169421008,169421008 | Infrared radiation therapy (regime/therapy) |
+169410004,169410004 | Support transfusion therapy (procedure) |
+169407006,169407006 | Radiosensitizing measure (procedure) |
+169403005,169403005 | Radiochemotherapy: into cavity (procedure) |
+169402000,169402000 | Radiochemotherapy: local artery (procedure) |
+169401007,169401007 | Radiochemotherapy: for immunosuppression (procedure) |
+169400008,169400008 | Radiochemotherapy via intravenous route (procedure) |
+169399001,169399001 | Radiochemotherapy via oral route (procedure) |
+169398009,169398009 | Radiochemotherapy: to stop spread (procedure) |
+169397004,169397004 | Radiochemotherapy: local infiltration (procedure) |
+169396008,169396008 | Radiomimetic chemotherapy (procedure) |
+169394006,169394006 | Afterload radiotherapy of oropharyngeal cavity (procedure) |
+169372003,169372003 | Radiotherapy: temporary lymphatic implant (procedure) |
+169371005,169371005 | Radiotherapy: temporary limb implant (procedure) |
+169370006,169370006 | Radiotherapy: temporary pelvic implant (procedure) |
+169369005,169369005 | Radiotherapy: temporary abdominal implant (procedure) |
+169368002,169368002 | Radiotherapy: temporary thorax implant (procedure) |
+169367007,169367007 | Radiotherapy: temporary tongue implant (procedure) |
+169366003,169366003 | Radiotherapy: temporary head/neck implant (procedure) |
+169365004,169365004 | Radiotherapy: temporary brain implant (procedure) |
+169362001,169362001 | Radiotherapy: seeds into cavity (procedure) |
+169361008,169361008 | Radiotherapy: seeds into brain (procedure) |
+169360009,169360009 | Radiotherapy: seeds into hypophysis (procedure) |
+169359004,169359004 | Internal radiotherapy - permanent seeds (procedure) |
+169357002,169357002 | Radiotherapy: infiltrate tissue (procedure) |
+169356006,169356006 | Radiotherapy: infuse organ cavity (procedure) |
+169355005,169355005 | Radiotherapy: infuse urinary bladder (procedure) |
+169354009,169354009 | Radiotherapy: endolymphatic infusion (procedure) |
+169353003,169353003 | Radiotherapy: infuse peritoneal cavity (procedure) |
+169352008,169352008 | Radiotherapy: infuse pleural cavity (procedure) |
+169351001,169351001 | Radiotherapy: infuse head/neck (procedure) |
+169350000,169350000 | Radiotherapy: infuse skull/brain (procedure) |
+169346007,169346007 | Radioactive drug therapy (procedure) |
+169345006,169345006 | Bone tumor/metastasis irradiation (procedure) |
+169344005,169344005 | Polycythemia irradiation (procedure) |
+169343004,169343004 | Bone marrow suppression - irradiation (procedure) |
+169342009,169342009 | Thyroid tumor/metastasis irradiation (procedure) |
+169340001,169340001 | Internal metabolic radiotherapy (procedure) |
+169336005,169336005 | External beam radiation therapy with chemotherapy (procedure) |
+169335009,169335009 | External beam - surgery with chemotherapy (procedure) |
+169334008,169334008 | External beam - surgery with postoperative radiotherapy (procedure) |
+169333002,169333002 | External beam - surgery with preoperative radiotherapy (procedure) |
+169332007,169332007 | External beam radiation therapy with internal radiotherapy (procedure) |
+169331000,169331000 | Combined radiotherapy (procedure) |
+169329009,169329009 | Mold technique gamma/beta (procedure) |
+169328001,169328001 | Beta source contact therapy (procedure) |
+169327006,169327006 | Radium contact therapy (procedure) |
+169318005,169318005 | Fast neutron therapy (procedure) |
+169317000,169317000 | Neutron capture therapy (procedure) |
+169315008,169315008 | Deuteron therapy (procedure) |
+169314007,169314007 | Proton therapy (procedure) |
+169311004,169311004 | Positron therapy (procedure) |
+169310003,169310003 | Betatron electron therapy (procedure) |
+169309008,169309008 | Linear accelerator electrons (procedure) |
+169307005,169307005 | Fast-electron therapy (procedure) |
+169304003,169304003 | Van der Graaff photon therapy (procedure) |
+169303009,169303009 | Betatron photon therapy (procedure) |
+169302004,169302004 | Linear accelerator photon therapy (procedure) |
+169301006,169301006 | High-energy beam therapy (procedure) |
+169298007,169298007 | Intracavitary X-ray therapy (procedure) |
+169297002,169297002 | Short distance X-ray therapy (procedure) |
+169296006,169296006 | Ultrahard X-rays 400-2000 kV (procedure) |
+169295005,169295005 | Deep X-ray therapy 150-400 kV (procedure) |
+169294009,169294009 | Half-deep therapy 60-150 kV (procedure) |
+169293003,169293003 | Superficial X-ray therapy 10-60 kV (procedure) |
+169292008,169292008 | Grenz ray therapy up to 10 kV (procedure) |
+169291001,169291001 | X-ray beam therapy (procedure) |
+169009002,169009002 | Fluoroscopy - rectum (procedure) |
+168847003,168847003 | Colon double contrast examination (procedure) |
+168846007,168846007 | Rectum double contrast examination (procedure) |
+168843004,168843004 | Colostomy enema (procedure) |
+168836005,168836005 | Barium enema (procedure) |
+168528006,168528006 | Palliative course of radiotherapy (procedure) |
+168527001,168527001 | Radiotherapy for inflammation (procedure) |
+168526005,168526005 | Radiotherapy for analgesia (procedure) |
+168525009,168525009 | Postoperative course of radiotherapy (procedure) |
+168524008,168524008 | Radiotherapy - intraoperative control (procedure) |
+168523002,168523002 | Preoperative course of radiotherapy (procedure) |
+168522007,168522007 | Radiotherapy for lymphatic irradiation (procedure) |
+168521000,168521000 | Radiotherapy for hemopoietic irradiation (procedure) |
+168520004,168520004 | Radiotherapy for immunosuppression (procedure) |
+152198000,152198000 | Brachytherapy (procedure) |
+119907000,119907000 | Anus manipulation (procedure) |
+119906009,119906009 | Anus transplantation (procedure) |
+119905008,119905008 | Rectum destructive procedure (procedure) |
+119903001,119903001 | Rectum reconstruction (procedure) |
+119902006,119902006 | Anus reconstruction (procedure) |
+119901004,119901004 | Rectum closure (procedure) |
+119900003,119900003 | Anus closure (procedure) |
+118640001,118640001 | Radioimmunotherapy (procedure) |
+116239000,"116239000 | Excisional biopsy of lesion of rectum, intact, by transanal approach (procedure) |"
+116238008,"116238008 | Excisional biopsy of lesion of rectum, fragmented, by transanal approach (procedure) |"
+116237003,116237003 | Excisional biopsy of lesion of rectum by transanal approach (procedure) |
+115960007,115960007 | Total skin electron beam therapy (procedure) |
+115959002,115959002 | Stereotactic radiosurgery (procedure) |
+113120007,113120007 | Interstitial brachytherapy (procedure) |
+113117004,113117004 | External beam radiation therapy particulate radiation (procedure) |
+112877004,"112877004 | Frickman operation, abdominal proctopexy (procedure) |"
+112875007,112875007 | Removal of foreign body of rectum by incision (procedure) |
+112870002,112870002 | Flexible fiberoptic sigmoidoscopy for removal of foreign body (procedure) |
+108290001,108290001 | Radiation oncology AND/OR radiotherapy (procedure) |
+91392002,91392002 | Incision of thrombosed hemorrhoid (procedure) |
+90788004,90788004 | Revision of stoma of rectum (procedure) |
+89770003,89770003 | Anal sphincterotomy (procedure) |
+89642006,89642006 | Anterior resection of rectum with colostomy (procedure) |
+89522007,89522007 | Colocolostomy (procedure) |
+88908007,88908007 | Rectal massage for levator spasm (procedure) |
+88642000,"88642000 | Anal cryptectomy, multiple (procedure) |"
+88225001,88225001 | Partial excision of anus (procedure) |
+87776000,87776000 | Intra-arterial infusion of antineoplastic agent (procedure) |
+87677003,87677003 | Resection of rectum (procedure) |
+87279008,87279008 | Excision of lesion of colon (procedure) |
+86888002,86888002 | Anal fistulectomy (procedure) |
+85849005,85849005 | Exteriorization of large intestine (procedure) |
+85257004,85257004 | Destruction of chorioretinal lesion by radiation therapy (procedure) |
+84952009,84952009 | Resection of colon for interposition (procedure) |
+84824001,"84824001 | Pemberton operation, rectal prolapse repair (procedure) |"
+84604002,84604002 | Sigmoid colectomy (procedure) |
+84456001,84456001 | Saucerization of rectum (procedure) |
+82692008,82692008 | Dilation of rectal stricture under nonlocal anesthesia (procedure) |
+82619000,82619000 | Left colectomy (procedure) |
+81214004,81214004 | Destruction of lesion of rectum by laser (procedure) |
+81005001,81005001 | Decompression of imperforate anus (procedure) |
+80347004,80347004 | External beam radiation therapy neutrons (procedure) |
+79819006,79819006 | Crushing of contents of rectum (procedure) |
+79764004,79764004 | Excision of lesion of rectum (procedure) |
+79648003,79648003 | Anal cryptectomy (procedure) |
+79567008,79567008 | Incision of anal fistula (procedure) |
+79433000,79433000 | Closure of colon fistula (procedure) |
+78299009,78299009 | Core needle biopsy of rectum (procedure) |
+78110003,78110003 | Destruction of lesion of choroid by implantation of radiation source (procedure) |
+77878003,"77878003 | Von Kraske operation, proctectomy (procedure) |"
+77738002,77738002 | Local chemotherapy for malignant neoplasm (procedure) |
+77613002,77613002 | External beam radiation therapy with iodine-125 (procedure) |
+77359006,77359006 | Crushing of hemorrhoids (procedure) |
+76634004,76634004 | Closure of anal fistula (procedure) |
+76164006,76164006 | Biopsy of colon (procedure) |
+75905004,75905004 | Sigmoidoproctostomy (procedure) |
+75404005,75404005 | Epiploectomy (procedure) |
+75312003,75312003 | Partial colectomy with ileostomy and creation of mucofistula (procedure) |
+75157003,75157003 | Cryosurgery for benign rectal tumor (procedure) |
+75108001,75108001 | Suture of rectum (procedure) |
+74854002,74854002 | Cauterization of anus (procedure) |
+74023000,74023000 | External beam radiation therapy of 1 to 25 mega electronvolt protons (procedure) |
+73921006,73921006 | Repair of rectal prolapse by abdominal approach (procedure) |
+73872003,73872003 | Manipulation of rectum (procedure) |
+73761001,73761001 | Colonoscopy (procedure) |
+73536002,73536002 | Myotomy of colon (procedure) |
+73509004,73509004 | Partial colectomy with skin level colostomy (procedure) |
+73283001,73283001 | Repair of anal sphincter aneurysm (procedure) |
+72915000,72915000 | Dilation of colon (procedure) |
+72811008,72811008 | Closure of sigmoidostomy (procedure) |
+72662009,72662009 | Dilation of anus (procedure) |
+72169004,"72169004 | Destruction of rectal hemorrhoids, external (procedure) |"
+71956000,71956000 | Suture of old anal obstetric laceration (procedure) |
+70446004,70446004 | Chemotherapy administration into pleural cavity requiring thoracentesis (procedure) |
+70355002,"70355002 | Excision of lesion of anus, extensive (procedure) |"
+69058004,69058004 | Conversion of rectal position (procedure) |
+68714003,"68714003 | Park operation, posterior anal repair (procedure) |"
+68671008,68671008 | Destruction of lesion of rectum by chemicals (procedure) |
+68619000,68619000 | Chemotherapy for non-neoplastic disease (procedure) |
+68275008,68275008 | Temporary suture of anus (procedure) |
+68261001,68261001 | Incision and removal of foreign body from anus (procedure) |
+66740000,66740000 | Coloplication (procedure) |
+65952009,65952009 | Gamma ray therapy (procedure) |
+65381004,65381004 | Intra-articular radionuclide therapy (procedure) |
+64978007,64978007 | Radionuclide therapy for hyperthyroidism (procedure) |
+64522003,64522003 | Destruction of chorioretinal lesion by implantation of radiation source (procedure) |
+64134004,64134004 | Stereotactic focused gamma radiosurgery of cerebrum (procedure) |
+63992008,"63992008 | Anal fistulectomy, submuscular (procedure) |"
+63506005,63506005 | Destruction of lesion of choroid by radiation therapy (procedure) |
+62867004,62867004 | External beam radiation therapy with radioactive cesium (procedure) |
+61902006,61902006 | Anal pectenotomy (procedure) |
+61498008,61498008 | Complete external hemorrhoidectomy (procedure) |
+60362005,60362005 | Suture of sigmoid (procedure) |
+59896001,59896001 | Dilation of rectum (procedure) |
+59446006,59446006 | Suture of anal sphincter (procedure) |
+54686006,54686006 | Biopsy of rectum (procedure) |
+53676003,53676003 | Endoscopic excision of lesion of anus (procedure) |
+53003006,53003006 | Resection of splenic flexure of colon (procedure) |
+52838002,52838002 | Destruction of lesion of rectum (procedure) |
+52667004,52667004 | Sigmoidosigmoidostomy (procedure) |
+51994001,51994001 | Excision of benign tumor of rectum by transanal approach (procedure) |
+51534007,51534007 | Oral chemotherapy for malignant neoplasm (procedure) |
+51408001,51408001 | Electrodesiccation of malignant tumor of rectum by transanal approach (procedure) |
+50774009,50774009 | Laparoscopic-assisted right colectomy (procedure) |
+50632006,50632006 | Cyclotron external beam radiation therapy (procedure) |
+50623009,50623009 | Biopsy of anorectal wall by anal approach (procedure) |
+50250005,50250005 | Destruction of lesion of rectum by cauterization (procedure) |
+50000005,50000005 | Excision of diverticulum of anus (procedure) |
+49264007,49264007 | Excision of lesion of anus (procedure) |
+47705001,47705001 | Incision of rectal stricture (procedure) |
+47668009,47668009 | Intracavitary radium application (procedure) |
+47479005,47479005 | Total body irradiation (procedure) |
+47334005,47334005 | Transposition of tissue of anus (procedure) |
+47118000,47118000 | Repair of anus (procedure) |
+46295004,"46295004 | Proctectomy by abdominoperineal resection with colostomy, one stage (procedure) |"
+46044009,46044009 | Megavoltage radiation therapy (procedure) |
+45643008,45643008 | External beam radiation therapy using electrons (procedure) |
+45220009,45220009 | Posterior resection of rectum (procedure) |
+44642007,44642007 | Partial colectomy with colostomy and creation of mucofistula (procedure) |
+44441009,44441009 | Flexible fiberoptic sigmoidoscopy (procedure) |
+44089008,44089008 | Manual reduction of prolapsed rectum (procedure) |
+43111005,43111005 | Destruction of lesion of retina by implantation of radiation source (procedure) |
+43075005,43075005 | Partial resection of colon (procedure) |
+42904002,42904002 | Repair of rectal laceration (procedure) |
+41330009,41330009 | Laparoscopic-assisted left colectomy (procedure) |
+40366003,40366003 | Control of hemorrhage from anus (procedure) |
+39646005,39646005 | Hemibody irradiation (procedure) |
+38915000,38915000 | Radionuclide therapy for gland ablation (procedure) |
+38216008,38216008 | Infusion chemotherapy for malignant neoplasm (procedure) |
+38104006,38104006 | External beam radiation therapy by linear accelerator (procedure) |
+37924007,"37924007 | Anal fistulectomy, subcutaneous (procedure) |"
+36679009,36679009 | Vaginal cone irradiation (procedure) |
+36488007,36488007 | Biopsy of anus (procedure) |
+35965008,35965008 | Colocentesis (procedure) |
+34984003,34984003 | Incisional biopsy of rectum (procedure) |
+34414001,34414001 | Incision of rectum (procedure) |
+34264006,34264006 | Intraoperative colonoscopy (procedure) |
+33507007,33507007 | Excision of malignant tumor of rectum by transanal approach (procedure) |
+33356009,33356009 | Betatron external beam radiation therapy (procedure) |
+33195004,33195004 | External beam radiation therapy procedure (procedure) |
+32956007,32956007 | Transplantation of tissue of rectum (procedure) |
+32414000,32414000 | Intraoperative sigmoidoscopy (procedure) |
+32044008,32044008 | Partial colectomy by abdominal approach (procedure) |
+31652009,31652009 | Intracavitary chemotherapy for malignant neoplasm (procedure) |
+31632008,31632008 | Stereotactic focused proton beam on cerebrum (procedure) |
+31319008,31319008 | Endoscopic destruction of lesion of anus (procedure) |
+31126004,31126004 | Destruction of lesion of rectum by cryosurgery (procedure) |
+30940008,30940008 | Suture of anus (procedure) |
+30043008,30043008 | Left lateral anal sphincterotomy (procedure) |
+29401007,"29401007 | Anal fistulectomy, complex (procedure) |"
+29391003,29391003 | Chemotherapy administration into peritoneal cavity requiring paracentesis (procedure) |
+29205000,29205000 | Proctopexy for prolapse by perineal approach (procedure) |
+29065006,29065006 | Sigmoidotomy (procedure) |
+28905001,28905001 | Curettage of anus (procedure) |
+28177007,28177007 | Rectal irrigation (procedure) |
+26925005,26925005 | Transverse colectomy (procedure) |
+26390003,26390003 | Total colectomy (procedure) |
+25196007,"25196007 | Proctectomy by abdominoperineal resection with colostomy, two stages (procedure) |"
+24977001,24977001 | Topical chemotherapy for malignant neoplasm (procedure) |
+24600000,24600000 | Incision of anus (procedure) |
+24496007,24496007 | Hemorrhoidectomy (procedure) |
+24420007,24420007 | Sigmoidoscopy (procedure) |
+24242005,24242005 | Cobalt-60 therapy (procedure) |
+23968004,23968004 | Excision of colon (procedure) |
+23121008,23121008 | Destruction of lesion of rectum by electrocoagulation (procedure) |
+22998002,22998002 | Digital examination of colostomy stoma (procedure) |
+22781005,22781005 | Anal cerclage (procedure) |
+22733003,22733003 | Chemotherapy for non-malignant neoplasm (procedure) |
+22432007,22432007 | Internal hemorrhoidectomy (procedure) |
+22094003,22094003 | Linear proctotomy (procedure) |
+21795006,21795006 | Endoscopic brush biopsy of rectum (procedure) |
+21756005,21756005 | Closure of rectal fistula (procedure) |
+21423008,21423008 | Sigmoidoscopy through artificial stoma (procedure) |
+21372000,21372000 | Radium therapy (procedure) |
+20874001,20874001 | Complete excision of anus (procedure) |
+19639005,19639005 | Sigmoidopexy (procedure) |
+19317004,19317004 | Posterior anal sphincterotomy (procedure) |
+18972001,18972001 | Formation of artificial anus (procedure) |
+18339007,18339007 | Reduction of prolapsed rectum under anesthesia (procedure) |
+17671008,17671008 | Laparoscopic-assisted anterior resection of rectum with colostomy (procedure) |
+16448009,16448009 | Replacement of rectal tube (procedure) |
+16079003,"16079003 | Sauer-Bacon operation, abdominoperineal resection (procedure) |"
+15480000,15480000 | Incision of septum of anus (procedure) |
+14771009,14771009 | Destruction of lesion of rectum by electrodesiccation (procedure) |
+14690009,14690009 | Anastomosis of large intestine to rectum (procedure) |
+14473006,14473006 | Surface brachytherapy (procedure) |
+14433000,14433000 | Operative reduction of prolapse of anus (procedure) |
+13327002,13327002 | Partial colectomy by transanal approach (procedure) |
+13173008,13173008 | Cryptotomy of anus (procedure) |
+13004001,13004001 | Rigid proctosigmoidoscopy (procedure) |
+12896001,12896001 | Excision of external hemorrhoidal tags and papillae (procedure) |
+12827003,12827003 | Excision of part of rectum (procedure) |
+12672009,12672009 | Proctolysis (procedure) |
+12350003,12350003 | Colonoscopy with rigid sigmoidoscope through colotomy (procedure) |
+12149006,"12149006 | Chemotherapy administration, subcutaneous, with local anesthesia (procedure) |"
+12092003,12092003 | Repair of rectal prolapse (procedure) |
+11626008,"11626008 | Miles operation, complete proctectomy (procedure) |"
+10611004,10611004 | External beam radiation therapy protons (procedure) |
+10492003,10492003 | Radionuclide therapy for glandular suppression (procedure) |
+10259007,10259007 | Proctopexy (procedure) |
+9735005,9735005 | Repair of colon (procedure) |
+9521005,"9521005 | Anal fistulectomy, second stage (procedure) |"
+9280007,9280007 | Proctoplasty for stenosis (procedure) |
+9215005,9215005 | Colotomy (procedure) |
+8422009,8422009 | Destruction of hemorrhoids by sclerotherapy (procedure) |
+8324006,8324006 | Incision and drainage of rectal abscess (procedure) |
+8180007,8180007 | Fiberoptic colonoscopy through colostomy (procedure) |
+6872008,6872008 | Perfusion chemotherapy for malignant neoplasm (procedure) |
+6634001,"6634001 | Destruction of rectal hemorrhoids, internal (procedure) |"
+6221005,6221005 | Suture of colon (procedure) |
+6190006,6190006 | Colopexy (procedure) |
+5796001,5796001 | Excision of external thrombotic hemorrhoid (procedure) |
+5722009,5722009 | Surgical reanastomosis of colon (procedure) |
+5304008,"5304008 | Deep radiation therapy, 200-300 KVP (procedure) |"
+5151004,5151004 | Manual reduction of rectal hemorrhoids (procedure) |
+4904006,4904006 | Dilation of anal sphincter under nonlocal anesthesia (procedure) |
+4558008,4558008 | Anterior resection of rectum (procedure) |
+4336007,"4336007 | Lloyd-Davies operation, abdominoperineal resection (procedure) |"
+4114003,4114003 | Parenteral chemotherapy for malignant neoplasm (procedure) |
+3183007,3183007 | Closure of colostomy (procedure) |
+2908005,2908005 | Destruction of hemorrhoids by cryotherapy (procedure) |
+1501006,"1501006 | Altemeier operation, perineal rectal pull-through (procedure) |"
+1390003,1390003 | Laparoscopic-assisted sigmoid colectomy (procedure) |
+1337002,1337002 | Colosigmoidostomy (procedure) |
+1127003,1127003 | Interstitial radium application (procedure) |
+456004,456004 | Total abdominal colectomy with ileostomy (procedure) |
+267001,"267001 | Anal fistulectomy, multiple (procedure) |"
+176003,176003 | Anastomosis of rectum (procedure) |

@@ -1,0 +1,23 @@
+search_term,category
+endoscopic examination,diagnostic exam
+diagnostic,diagnostic exam
+blood test,diagnostic exam
+ileostomy,stoma
+artificial opening,stoma
+exteriorisation,stoma
+exteriorization,stoma
+caecostomy,stoma
+colostomy,stoma
+lesion,resection
+open,other surgery
+manipulation,other surgery
+stent,stent
+bypass,bypass
+assessment,assessment
+radi,radiotherapy
+brachy,radiotherapy
+chemo,chemotherapy
+excision,resection
+colectomy,resection
+exentoration,resection
+resection,resection

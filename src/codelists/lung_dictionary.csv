@@ -1,4 +1,4 @@
-OPCS_4CHAR,OPCS_4CHAR_Meaning,OPCS_3CHAR,OPCS_3CHAR_Meaning,Mapping1,Mapping2,CorectRMapping
+opcs,OPCS_4CHAR_Meaning,OPCS_3CHAR,OPCS_3CHAR_Meaning,Mapping1,Mapping2,CorectRMapping
 E541,Total pneumonectomy,,,Pneumonectomy ,Pneumonectomy ,Pneumonectomy 
 E542,Bilobectomy of lung,,,Lobectomy,Lobectomy,Lobectomy
 E543,Lobectomy of lung,,,Lobectomy,Lobectomy,Lobectomy

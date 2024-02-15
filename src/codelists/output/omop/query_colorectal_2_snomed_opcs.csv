@@ -1,0 +1,221 @@
+,concept_code_y,concept_name_y,opcs
+54,H35.8,Other specified fixation of rectum for prolapse,H358
+55,H35.9,Unspecified fixation of rectum for prolapse,H359
+56,H35,Fixation of rectum for prolapse,H35
+57,H36,Other abdominal operations for prolapse of rectum,H36
+1187,Y89,Brachytherapy,Y89
+1208,H56.3,Incision of septum of anus,H563
+2600,U17.4,Barium enema,U174
+2601,Y90.5,Barium enema NEC,Y905
+2678,X65.4,Delivery of a fraction of external beam radiotherapy NEC,X654
+2679,Y91.8,Other specified external beam radiotherapy,Y918
+2680,Y91.9,Unspecified external beam radiotherapy,Y919
+3718,A61.3,Radiotherapy to lesion of peripheral nerve,A613
+3729,C24.2,Radiotherapy to lacrimal gland,C242
+3741,C45.5,Radiotherapy to lesion of cornea,C455
+3753,G82.1,Radiological reduction of intussusception of ileum using barium enema,G821
+3775,H06.3,Extended right hemicolectomy and anastomosis NEC,H063
+3776,H06.8,Other specified extended excision of right hemicolon,H068
+3777,H06.9,Unspecified extended excision of right hemicolon,H069
+3782,H06,Extended excision of right hemicolon,H06
+3805,H12.8,Other specified extirpation of lesion of colon,H128
+3806,H12.9,Unspecified extirpation of lesion of colon,H129
+3807,H12,Extirpation of lesion of colon,H12
+4247,H13.8,Other specified bypass of colon,H138
+4248,H13.9,Unspecified bypass of colon,H139
+4249,H13,Bypass of colon,H13
+4258,H13.3,Bypass of colon by anastomosis of transverse colon to sigmoid colon,H133
+4269,H14.2,Refashioning of caecostomy,H142
+4281,H15.6,Reduction of prolapse of colostomy,H156
+4294,H17.1,Open reduction of intussusception of colon,H171
+4304,H17.5,Open relief of strangulation of colon,H175
+4315,H18.1,Open colonoscopy,H181
+4325,H19.1,Open biopsy of lesion of colon,H191
+4333,H19.3,Enterorrhaphy of colon,H193
+4346,H20.1,Fibreoptic endoscopic snare resection of lesion of colon,H201
+4358,H20.2,Fibreoptic endoscopic cauterisation of lesion of colon,H202
+4370,H20.3,Fibreoptic endoscopic laser destruction of lesion of colon,H203
+4380,H21.1,Fibreoptic endoscopic dilation of colon,H211
+4392,H21.2,Fibreoptic endoscopic coagulation of blood vessel of colon,H212
+4406,H26.1,Endoscopic snare resection of lesion of sigmoid colon using rigid sigmoidoscope,H261
+4419,H26.2,Endoscopic cauterisation of lesion of sigmoid colon using rigid sigmoidoscope,H262
+4433,H26.3,Endoscopic laser destruction of lesion of sigmoid colon using rigid sigmoidoscope,H263
+4446,H26.4,Endoscopic cryotherapy to lesion of sigmoid colon using rigid sigmoidoscope,H264
+4457,H27.1,Endoscopic dilation of sigmoid colon using rigid sigmoidoscope,H271
+4470,H30.5,Irrigation of colon,H305
+4480,H33.3,Anterior resection of rectum and anastomosis of colon to rectum using staples,H333
+4491,H34.1,Open excision of lesion of rectum,H341
+4501,H34.2,Open cauterisation of lesion of rectum,H342
+4510,H34.3,Open cryotherapy to lesion of rectum,H343
+4521,H34.4,Open laser destruction of lesion of rectum,H344
+4531,H40.1,Trans-sphincteric excision of mucosa of rectum,H401
+4541,H40.3,Trans-sphincteric destruction of lesion of rectum,H403
+4568,H42.6,Perineal repair of prolapse of rectum NEC,H426
+4569,H42.8,Other specified perineal operations for prolapse of rectum,H428
+4570,H42.9,Unspecified perineal operations for prolapse of rectum,H429
+4583,H42.2,Perineal plication of levator ani muscles and anal sphincters,H422
+4603,H42.3,Insertion of supralevator sling,H423
+4613,H44.4,Examination of rectum under anaesthetic,H444
+4622,H44.5,Massage of rectum,H445
+4709,H47.1,Excision of sphincter of anus,H471
+4723,H48.2,Excision of skin tag of anus,H482
+4736,H48.1,Excision of polyp of anus,H481
+4763,H49.8,Other specified destruction of lesion of anus,H498
+4764,H49.9,Unspecified destruction of lesion of anus,H499
+4765,H49,Destruction of lesion of anus,H49
+4781,H49.1,Cauterisation of lesion of anus,H491
+4793,H49.2,Laser destruction of lesion of anus,H492
+4803,H49.3,Cryotherapy to lesion of anus,H493
+4812,H50.1,Posterior repair of anal sphincter,H501
+4820,H50.2,Anterior repair of anal sphincter,H502
+4828,H51.2,Partial internal sphincterotomy for haemorrhoid,H512
+4861,H52.8,Other specified destruction of haemorrhoid,H528
+4862,H52.9,Unspecified destruction of haemorrhoid,H529
+4863,H52,Destruction of haemorrhoid,H52
+4874,H52.2,Infrared photocoagulation of haemorrhoid,H522
+4888,H52.4,Rubber band ligation of haemorrhoid,H524
+4899,H53.2,Forced manual dilation of anus for haemorrhoid,H532
+4915,H54.8,Other specified dilation of anal sphincter,H548
+4916,H54.9,Unspecified dilation of anal sphincter,H549
+4917,H54,Dilation of anal sphincter,H54
+4926,H56.1,Biopsy of lesion of anus,H561
+4935,H56.2,Lateral sphincterotomy of anus,H562
+4944,H16.2,Caecotomy,H162
+5792,H20.4,Fibreoptic endoscopic destruction of lesion of colon NEC,H204
+5884,H35.1,Anterior fixation of rectum NEC,H351
+5897,H35.3,Posterior fixation of rectum NEC,H353
+6081,H11.1,Colectomy and end to end anastomosis of colon to colon NEC,H111
+6082,H11.3,Colectomy and anastomosis NEC,H113
+6083,H11.4,Colectomy and ileostomy NEC,H114
+6084,H11.5,Colectomy and exteriorisation of bowel NEC,H115
+6085,H11.8,Other specified other excision of colon,H118
+6086,H11.9,Unspecified other excision of colon,H119
+6089,H11,Other excision of colon,H11
+6266,H51.1,Haemorrhoidectomy,H511
+6267,H51.8,Other specified excision of haemorrhoid,H518
+6268,H51.9,Unspecified excision of haemorrhoid,H519
+6269,H51,Excision of haemorrhoid,H51
+6353,H05.8,Other specified total excision of colon,H058
+6354,H05.9,Unspecified total excision of colon,H059
+6357,H05,Total excision of colon,H05
+6373,H20.8,Other specified endoscopic extirpation of lesion of colon,H208
+6374,H20.9,Unspecified endoscopic extirpation of lesion of colon,H209
+6375,H20,Endoscopic extirpation of lesion of colon,H20
+6384,H37,Other endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope,H37
+6385,H37.8,Other specified other endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope,H378
+6386,H37.9,Unspecified other endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope,H379
+6403,H26.5,Endoscopic destruction of lesion of sigmoid colon using rigid sigmoidoscope NEC,H265
+6404,H26.7,Endoscopic resection of lesion of sigmoid colon using rigid sigmoidoscope NEC,H267
+6405,H26.8,Other specified endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope,H268
+6406,H26.9,Unspecified endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope,H269
+6407,H26,Endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope,H26
+6437,H33.1,Abdominoperineal excision of rectum and end colostomy,H331
+6458,H34.8,Other specified open extirpation of lesion of rectum,H348
+6459,H34.9,Unspecified open extirpation of lesion of rectum,H349
+6460,H34,Open extirpation of lesion of rectum,H34
+6469,H35.2,Posterior fixation of rectum using prosthetic material,H352
+6480,H35.4,Fixation of rectum using fascia lata,H354
+6513,H40.2,Trans-sphincteric excision of lesion of rectum,H402
+6514,H41.2,Peranal excision of lesion of rectum,H412
+6529,H41.3,Peranal destruction of lesion of rectum,H413
+6547,X35.2,Intravenous chemotherapy,X352
+6561,X37.3,Intramuscular chemotherapy,X373
+6573,X38.4,Subcutaneous chemotherapy,X384
+6639,H08.8,Other specified excision of transverse colon,H088
+6640,H08.9,Unspecified excision of transverse colon,H089
+6643,H08,Excision of transverse colon,H08
+6681,H54.1,Anorectal stretch,H541
+6959,H18.8,Other specified open endoscopic operations on colon,H188
+6960,H18.9,Unspecified open endoscopic operations on colon,H189
+6961,H18,Open endoscopic operations on colon,H18
+7343,H52.1,Cryotherapy to haemorrhoid,H521
+7353,H42,Perineal operations for prolapse of rectum,H42
+7674,H06.4,Extended right hemicolectomy and ileostomy HFQ,H064
+7834,H08.4,Transverse colectomy and ileostomy HFQ,H084
+7846,H08.5,Transverse colectomy and exteriorisation of bowel NEC,H085
+7856,H10.4,Sigmoid colectomy and ileostomy HFQ,H104
+7868,H09.5,Left hemicolectomy and exteriorisation of bowel NEC,H095
+7914,H05.3,Total colectomy and ileostomy NEC,H053
+8192,H09.4,Left hemicolectomy and ileostomy HFQ,H094
+8220,H33.4,Anterior resection of rectum and anastomosis NEC,H334
+8273,H15.4,Closure of colostomy,H154
+8938,Y91,External beam radiotherapy,Y91
+9075,H07.3,Right hemicolectomy and anastomosis NEC,H073
+9076,H07.8,Other specified other excision of right hemicolon,H078
+9077,H07.9,Unspecified other excision of right hemicolon,H079
+9081,H07,Other excision of right hemicolon,H07
+9651,X65.6,Delivery of a fraction of intraluminal brachytherapy,X656
+9718,H12.1,Excision of diverticulum of colon,H121
+9730,H42.5,Excision of mucosal prolapse of rectum NEC,H425
+9770,H56.4,Excision of anal fissure,H564
+10333,H14.8,Other specified exteriorisation of caecum,H148
+10334,H14.9,Unspecified exteriorisation of caecum,H149
+10335,H14,Exteriorisation of caecum,H14
+10361,H30.1,Radiological reduction of intussusception of colon using barium enema,H301
+10397,H15.8,Other specified other exteriorisation of colon,H158
+10398,H15.9,Unspecified other exteriorisation of colon,H159
+10399,H32.8,Other specified exteriorisation of colon,H328
+10400,H32.9,Unspecified exteriorisation of colon,H329
+10401,H15,Other exteriorisation of colon,H15
+10402,H32,Exteriorisation of colon,H32
+10498,J48.7,Percutaneous brachytherapy of lesion of bile duct,J487
+10499,X65.7,Delivery of radionuclide therapy NEC,X657
+10500,Y89.8,Other specified brachytherapy,Y898
+10501,Y89.9,Unspecified brachytherapy,Y899
+10502,Y90.2,Radiotherapy NEC,Y902
+10779,M70.6,Radioactive seed implantation into prostate,M706
+10795,H20.5,Fibreoptic endoscopic submucosal resection of lesion of colon,H205
+10812,C82.3,External beam radiotherapy to lesion of retina,C823
+10828,H26.6,Endoscopic submucosal resection of lesion of sigmoid colon using rigid sigmoidoscope,H266
+10970,C82.4,Plaque radiotherapy to lesion of retina,C824
+11000,A10.7,Stereotactic radiosurgery on tissue of brain,A107
+11018,H57.4,Creation of graciloplasty sphincter,H574
+11019,H57.5,Placement of dynamic graciloplasty sphincter,H575
+11108,H29.8,Other specified subtotal excision of colon,H298
+11109,H29.9,Unspecified subtotal excision of colon,H299
+11112,H29,Subtotal excision of colon,H29
+11124,H41.5,Peranal resection of rectum using staples,H415
+11495,H44.2,Manual reduction of prolapse of rectum,H442
+11525,H55.7,Repair of anal fistula using plug,H557
+11581,H33.7,Perineal resection of rectum HFQ,H337
+11614,H24.8,Other specified other therapeutic endoscopic operations on lower bowel using fibreoptic sigmoidoscope,H248
+11615,H24.9,Unspecified other therapeutic endoscopic operations on lower bowel using fibreoptic sigmoidoscope,H249
+11616,H25.8,Other specified diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope,H258
+11617,H25.9,Unspecified diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope,H259
+11618,H25,Diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope,H25
+11619,H27,Other therapeutic endoscopic operations on sigmoid colon using rigid sigmoidoscope,H27
+11862,H07.4,Right hemicolectomy and ileostomy HFQ,H074
+12211,H29.4,Subtotal excision of colon and creation of colonic pouch NEC,H294
+12361,H50.8,Other specified repair of anus,H508
+12362,H50.9,Unspecified repair of anus,H509
+12363,H50,Repair of anus,H50
+12470,H48.8,Other specified excision of lesion of anus,H488
+12471,H48.9,Unspecified excision of lesion of anus,H489
+12472,H48,Excision of lesion of anus,H48
+12615,H53.3,Manual reduction of prolapsed haemorrhoid,H533
+12665,H34.5,Open destruction of lesion of rectum NEC,H345
+12825,H14.3,Closure of caecostomy,H143
+12896,H19.2,Fixation of colon,H192
+13927,H44.8,Other specified manipulation of rectum,H448
+13928,H44.9,Unspecified manipulation of rectum,H449
+13929,H44,Manipulation of rectum,H44
+13940,H36.8,Other specified other abdominal operations for prolapse of rectum,H368
+13941,H36.9,Unspecified other abdominal operations for prolapse of rectum,H369
+14107,H20.7,Fibreoptic endoscopic mucosal resection of lesion of colon,H207
+14488,H09.8,Other specified excision of left hemicolon,H098
+14489,H09.9,Unspecified excision of left hemicolon,H099
+14492,H09,Excision of left hemicolon,H09
+14568,H52.3,Injection of sclerosing substance into haemorrhoid,H523
+14611,H10.5,Sigmoid colectomy and exteriorisation of bowel NEC,H105
+14612,H10.8,Other specified excision of sigmoid colon,H108
+14613,H10.9,Unspecified excision of sigmoid colon,H109
+14617,H10,Excision of sigmoid colon,H10
+14747,H12.2,Excision of lesion of colon NEC,H122
+14818,H33.8,Other specified excision of rectum,H338
+14819,H33.9,Unspecified excision of rectum,H339
+14822,H33,Excision of rectum,H33
+14909,H33.6,Anterior resection of rectum and exteriorisation of bowel,H336
+14995,H16.3,Colotomy,H163
+14996,H16.8,Other specified incision of colon,H168
+14997,H16.9,Unspecified incision of colon,H169
+14998,H16,Incision of colon,H16

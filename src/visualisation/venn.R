@@ -3,8 +3,20 @@ library(magrittr)
 library(ggplot2)
 library(ggpattern)
 
-benchmark_codelist = read.csv('../codelists/CORECT_dictionary.csv') %>% filter(CorectRMapping!='') %>% select('OPCS_4CHAR') %>% rename(opcs = 'OPCS_4CHAR') %>% distinct()
+benchmark_codelist = read.csv('../codelists/CORECT_dictionary.csv') %>% filter(CorectRMapping!='') %>% select('OPCS_4CHAR') %>% rename(opcs = 'OPCS_4CHAR') %>% distinct()  %>% filter(!grepl("^(Y|Z)", opcs))
+
 retrieved_codelist = read.csv('../codelists/output/query0_opcs.csv') %>% select('opcs') %>% distinct()
+
+r = read.csv('../codelists/output/query0_opcs.csv') %>% distinct()
+
+
+
+
+
+
+
+
+
 
 retrieved_codelist_paths = c('query_colorectal_0_opcs.csv',
                              'query_colorectal_1_opcs.csv',
@@ -14,6 +26,23 @@ retrieved_codelist_paths = c('query_colorectal_0_opcs.csv',
                              'query_colorectal_5_opcs.csv',
                              'query_colorectal_6_opcs.csv',
                              'query_colorectal_7_opcs.csv')
+
+retrieved_codelist_paths = c('omop/query_colorectal_0_snomed_opcs.csv')
+
+
+
+
+retrieved_codelist_paths = c('query_colorectal_0_opcs.csv',
+                             'query_colorectal_2_opcs.csv',
+                             'query_colorectal_4_opcs.csv',
+                             'query_colorectal_6_opcs.csv')
+
+
+retrieved_codelist_paths = c('omop/query_colorectal_0_snomed_opcs.csv',
+                             'omop/query_colorectal_2_snomed_opcs.csv',
+                             'omop/query_colorectal_4_snomed_opcs.csv',
+                             'omop/query_colorectal_6_snomed_opcs.csv')
+
 
 len_benchmark = benchmark_codelist %>% nrow()
 
@@ -58,4 +87,6 @@ ggplot(data = all_plot_data, aes(y=value, x=query, label=value))+theme_bw() +
 
 
 
+benchmark_codelist_2 = read.csv('../codelists/CORECT_dictionary.csv') %>% filter(CorectRMapping!='') %>% select('OPCS_4CHAR','OPCS_4CHAR_Meaning') %>% distinct()
 
+missing <- benchmark_codelist_2 %>% filter(! OPCS_4CHAR %in% retrieved_codelist$opcs)

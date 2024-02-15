@@ -1,0 +1,22 @@
+,concept_code_y,concept_name_y,opcs
+681,Y89,Brachytherapy,Y89
+2050,X65.4,Delivery of a fraction of external beam radiotherapy NEC,X654
+2051,Y91.8,Other specified external beam radiotherapy,Y918
+2052,Y91.9,Unspecified external beam radiotherapy,Y919
+3090,A61.3,Radiotherapy to lesion of peripheral nerve,A613
+3101,C24.2,Radiotherapy to lacrimal gland,C242
+3113,C45.5,Radiotherapy to lesion of cornea,C455
+3697,X35.2,Intravenous chemotherapy,X352
+3711,X37.3,Intramuscular chemotherapy,X373
+3723,X38.4,Subcutaneous chemotherapy,X384
+4772,Y91,External beam radiotherapy,Y91
+5169,X65.6,Delivery of a fraction of intraluminal brachytherapy,X656
+5839,J48.7,Percutaneous brachytherapy of lesion of bile duct,J487
+5840,X65.7,Delivery of radionuclide therapy NEC,X657
+5841,Y89.8,Other specified brachytherapy,Y898
+5842,Y89.9,Unspecified brachytherapy,Y899
+5843,Y90.2,Radiotherapy NEC,Y902
+5987,M70.6,Radioactive seed implantation into prostate,M706
+6004,C82.3,External beam radiotherapy to lesion of retina,C823
+6134,C82.4,Plaque radiotherapy to lesion of retina,C824
+6164,A10.7,Stereotactic radiosurgery on tissue of brain,A107

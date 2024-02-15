@@ -44,6 +44,7 @@ conceptId,idAndFsnTerm
 1216996008,1216996008 | Endoscopic examination of colonic pouch and biopsy of colonic pouch (procedure) |
 1209121000,1209121000 | Proctoscopy and biopsy of lesion of rectum (procedure) |
 1209098000,1209098000 | Fiberoptic colonoscopy with biopsy of lesion of colon (procedure) |
+1208803008,1208803008 | Injection of human fibrin glue into anal fistula (procedure) |
 1204242009,1204242009 | External beam radiation therapy using particle scanning technique (procedure) |
 1186912002,1186912002 | Laparoscopic low anterior resection of rectum with construction of colostomy (procedure) |
 1172516002,1172516002 | High-dose chemotherapy with stem cell transplant (procedure) |
@@ -82,6 +83,7 @@ conceptId,idAndFsnTerm
 787876003,787876003 | Laparoscopic total colectomy and ileostomy (procedure) |
 787875004,787875004 | Laparoscopic total colectomy and loop ileostomy (procedure) |
 787874000,787874000 | Laparoscopic total colectomy (procedure) |
+787802002,787802002 | Insertion of flatus tube into rectum (procedure) |
 787109009,787109009 | Excision of entire colon and entire rectum (procedure) |
 787108001,787108001 | Laparoscopic restorative proctocolectomy with ileal pouch anal anastomosis (procedure) |
 785707001,785707001 | Hypofractionated radiation therapy of entire breast (procedure) |
@@ -105,12 +107,17 @@ conceptId,idAndFsnTerm
 722472009,"722472009 | Rituximab, ifosfamide, carboplatin and etoposide chemotherapy regimen (regime/therapy) |"
 720379009,720379009 | Hepatic arterial infusion chemotherapy (procedure) |
 719919003,719919003 | Balloon dilatation of colon using fluoroscopic guidance (procedure) |
+719908001,719908001 | Administration of enema via rectal route (procedure) |
 716872004,716872004 | Antineoplastic chemotherapy regimen (regime/therapy) |
+715914001,715914001 | Insertion of catheter into cecostomy using fluoroscopic guidance (procedure) |
 714029009,714029009 | Preoperative high dose brachytherapy (procedure) |
 713593003,713593003 | Transanal radiofrequency thermotherapy of anal sphincter (procedure) |
 713165008,713165008 | Laparoscopic total colectomy with ileo-rectal anastomosis (procedure) |
+713154003,713154003 | Endoscopic submucosal dissection of rectum using colonoscope (procedure) |
+713000002,713000002 | Endoscopic submucosal dissection of rectum using sigmoidoscope (procedure) |
 712992007,712992007 | Laparoscopic low anterior resection of rectum using robotic assistance (procedure) |
 712746000,712746000 | Total body electron beam therapy (procedure) |
+712489002,712489002 | Administration of sedative via rectal route (procedure) |
 711421003,711421003 | Fluoroscopic contrast enema (procedure) |
 711307001,711307001 | Colonoscopy using X-ray guidance (procedure) |
 711299007,711299007 | Radiotherapy to thorax (procedure) |
@@ -128,6 +135,7 @@ conceptId,idAndFsnTerm
 700496000,700496000 | Postoperative administration of antineoplastic agent into peritoneal cavity (procedure) |
 700357007,700357007 | Radium 223 brachytherapy (procedure) |
 700356003,700356003 | Radium 226 brachytherapy (procedure) |
+700071009,700071009 | Insertion of anal seton (procedure) |
 699789005,699789005 | Vaginal hysterectomy with repair of cystocele and rectocele (procedure) |
 698409004,698409004 | Colonoscopic control of bleeding (procedure) |
 609285001,609285001 | Endoscopic surgical procedure on colon and rectum using laser (procedure) |
@@ -135,14 +143,24 @@ conceptId,idAndFsnTerm
 609196003,609196003 | Endoscopic surgical procedure on rectum using laser (procedure) |
 609191008,609191008 | Endoscopic excision of tissue of anus (procedure) |
 609188008,609188008 | Endoscopic destruction of tissue of anus (procedure) |
+609109003,609109003 | Removal of intraluminal foreign body from anus without incision (procedure) |
+609108006,609108006 | Removal of intraluminal foreign body from rectum without incision (procedure) |
 608807008,608807008 | Laparoscopic assisted vaginal hysterectomy with repair of cystocele and rectocele (procedure) |
 608806004,608806004 | Laparoscopic assisted vaginal hysterectomy with repair of rectocele (procedure) |
+473276009,473276009 | Suture plication of artery for control of rectal hemorrhage (procedure) |
 473237008,473237008 | Stereotactic radiosurgery for acoustic neuroma (procedure) |
+472860004,472860004 | Taking anal swab for gonorrhoea (procedure) |
+472859009,472859009 | Taking anal swab for chlamydia (procedure) |
+450871008,450871008 | Attention to colostomy (procedure) |
 450827009,450827009 | Induction chemotherapy (procedure) |
+450677009,450677009 | Injection of botulinum toxin into anal sphincter (procedure) |
 450481004,450481004 | Partial excision of esophagus and interposition of colon (procedure) |
+450463002,450463002 | Removal of artificial sphincter of anus (procedure) |
 450462007,450462007 | Subtotal excision of colon and rectum and creation of colonic pouch (procedure) |
 450461000,450461000 | Subtotal excision of colon and creation of colonic pouch (procedure) |
 450353006,450353006 | Reduction of prolapse of rectum (procedure) |
+449392001,449392001 | Insertion of seton into high anal fistula and partial laying open of track (procedure) |
+449391008,449391008 | Insertion of seton into high anal fistula (procedure) |
 449290006,449290006 | Megavoltage radiation therapy using photons and electrons (procedure) |
 449265009,449265009 | Magnetic resonance imaging of colon with contrast (procedure) |
 449255003,449255003 | Intraluminal brachytherapy of tracheobronchial tree (procedure) |
@@ -223,10 +241,12 @@ conceptId,idAndFsnTerm
 440070000,440070000 | Repair of ileoanal pouch (procedure) |
 440033009,440033009 | Laparoscopic fixation of prolapse of rectum with resection of sigmoid (procedure) |
 440032004,440032004 | Laparoscopic fixation of prolapse of rectum (procedure) |
+440022006,440022006 | Removal of anal seton (procedure) |
 439959000,439959000 | Sampling of anus for Papanicolaou smear (procedure) |
 439927007,439927007 | Measurement of rectal sensation and rectal tone and rectal compliance (procedure) |
 438816004,438816004 | Radiolabeled technetium 99m antibody therapy (procedure) |
 438629002,438629002 | High dose rate electronic brachytherapy (procedure) |
+438555006,438555006 | Chemodenervation of internal sphincter muscle of anus (procedure) |
 438216009,438216009 | Balloon expulsion test (procedure) |
 433224001,433224001 | Radionuclide rhenium 186 hydroxyethylidene diphosphonate therapy (procedure) |
 433150007,433150007 | Radiolabeled indium 111 antibody therapy (procedure) |
@@ -241,6 +261,7 @@ conceptId,idAndFsnTerm
 431553009,431553009 | Endoanal ultrasound examination of rectal sphincter (procedure) |
 431530008,431530008 | Percutaneous brachytherapy of hepatic artery using fluoroscopic guidance with contrast (procedure) |
 431476005,431476005 | Fluoroscopic colostomy enema with water soluble contrast (procedure) |
+431470004,431470004 | Cecostomy using fluoroscopic guidance (procedure) |
 431462009,431462009 | Therapeutic water soluble enema and fluoroscopy of colon (procedure) |
 431399005,431399005 | Brachytherapy using iodine (131-I) ethiodized oil (procedure) |
 431200001,431200001 | Radionuclide iodine 131 therapy to thyroid (procedure) |
@@ -248,18 +269,24 @@ conceptId,idAndFsnTerm
 429820004,429820004 | Endorectal ultrasonography (procedure) |
 429774000,429774000 | Radiotherapy to abdomen (procedure) |
 429597004,429597004 | Insertion of dynamic graciloplasty sphincter (procedure) |
+429593000,429593000 | Removal of foreign body from anus (procedure) |
 429584001,429584001 | Stereotactic radiosurgery of brain tissue (procedure) |
 429579007,429579007 | Radiotherapy to axilla (procedure) |
 429057009,429057009 | Plaque radiotherapy of lesion of retina (procedure) |
 428923005,428923005 | Radiotherapy to breast (procedure) |
+428840002,428840002 | Percutaneous endoscopic sigmoidostomy (procedure) |
 428831001,428831001 | Radiotherapy to perineum (procedure) |
 428829005,428829005 | Radiotherapy to pelvis (procedure) |
+428669008,428669008 | Maintenance of dynamic graciloplasty sphincter (procedure) |
 428624002,428624002 | Radiotherapy to chest wall (procedure) |
 428416002,428416002 | Radiotherapy to neck (procedure) |
 428412000,428412000 | Radiotherapy to head (procedure) |
+428401000,428401000 | Removal of dynamic graciloplasty sphincter (procedure) |
 427997001,427997001 | Subtotal excision of colon and rectum and creation of colonic pouch and anastomosis of colon to anus (procedure) |
 427506009,427506009 | Excision of ileoanal pouch (procedure) |
+426744009,426744009 | Endoscopic insertion of expanding metal stent into sigmoid colon using rigid sigmoidoscope (procedure) |
 426699005,426699005 | Endoscopic submucosal resection of lesion of sigmoid colon using rigid sigmoidoscope (procedure) |
+426617006,426617006 | Fiberoptic endoscopic insertion of expanding metal stent into colon (procedure) |
 426332009,426332009 | External beam radiation therapy to lesion of retina (procedure) |
 425851003,425851003 | Fiberoptic endoscopic submucosal resection of lesion of colon (procedure) |
 425767004,425767004 | Implantation of radioactive seed into prostate (procedure) |
@@ -279,7 +306,11 @@ conceptId,idAndFsnTerm
 399042005,399042005 | Chemotherapy cycle (procedure) |
 398801000,398801000 | Exteriorization of colon (procedure) |
 398765001,398765001 | Therapeutic barium enema for reduction of intussusception (procedure) |
+398740003,398740003 | Colostomy (procedure) |
 398243002,398243002 | Repair of rectocele (procedure) |
+398235007,398235007 | Creation of cecostomy (procedure) |
+398135004,398135004 | Exteriorization of cecum (procedure) |
+397204004,397204004 | Cecostomy operations (procedure) |
 397203005,397203005 | Clamp and cautery of hemorrhoids (procedure) |
 397202000,397202000 | Cauterization of hemorrhoids (procedure) |
 396226005,396226005 | Flexible fiberoptic sigmoidoscopy with biopsy (procedure) |
@@ -297,10 +328,20 @@ conceptId,idAndFsnTerm
 392027008,392027008 | Anal fissurectomy (procedure) |
 387861003,387861003 | Excision of rectal mucosa (procedure) |
 387860002,387860002 | Excision rectal mucosal prolapse (procedure) |
+387607004,387607004 | Construction of diverting colostomy (procedure) |
+387606008,387606008 | Construction of end colostomy (procedure) |
+386829005,386829005 | Temporary colostomy (procedure) |
+386828002,386828002 | Creation of defunctioning colostomy (procedure) |
+386651004,386651004 | Cystocolostomy (procedure) |
+386360003,386360003 | Administration of drug or medicament via rectal route (procedure) |
 386197003,386197003 | Excision of diverticula of colon (procedure) |
 385341003,385341003 | Abdominoperineal resection of anus (procedure) |
 384692006,384692006 | Intracavitary brachytherapy (procedure) |
 384691004,384691004 | Intraluminal brachytherapy (procedure) |
+373822002,373822002 | Endoscopic insertion of permanent colonic stent (procedure) |
+373821009,373821009 | Endoscopic insertion of temporary colonic stent (procedure) |
+373820005,373820005 | Endoscopic insertion of temporary rectal stent (procedure) |
+373819004,373819004 | Endoscopic insertion of permanent rectal stent (procedure) |
 372295008,372295008 | Cytologic examination of anus (procedure) |
 372262002,372262002 | Local excision of anus (procedure) |
 367336001,367336001 | Chemotherapy (procedure) |
@@ -316,6 +357,7 @@ conceptId,idAndFsnTerm
 359860002,359860002 | Colotomy for biopsy (procedure) |
 359641007,359641007 | Transplant of tissue of anus (procedure) |
 359602005,359602005 | Fine needle biopsy of rectum (procedure) |
+359587007,359587007 | Resection of cecum and terminal ileum (procedure) |
 359571009,359571009 | Right colectomy (procedure) |
 348956002,348956002 | Papillectomy of single anal tag (procedure) |
 347954002,347954002 | Anal papillectomy (procedure) |
@@ -334,7 +376,9 @@ conceptId,idAndFsnTerm
 314605006,314605006 | Preoperative course of deep X-ray therapy (procedure) |
 314604005,314604005 | Palliative course of deep X-ray therapy (procedure) |
 314592008,314592008 | Low anterior resection of rectum (procedure) |
+313280002,313280002 | Manual evacuation of feces from rectum (procedure) |
 313092005,313092005 | Electromagnetic energy therapy (regime/therapy) |
+312728003,312728003 | Drainage of intersphincteric rectal sinus (procedure) |
 312695002,312695002 | Excision of anal fissure and island flap closure (procedure) |
 312497000,312497000 | Salvage abdominoperineal resection of rectum (procedure) |
 312407006,312407006 | Anastomosis of sigmoid colon to anal canal (procedure) |
@@ -371,7 +415,12 @@ conceptId,idAndFsnTerm
 307639008,307639008 | Anastomosis of transverse colon to rectum (procedure) |
 307638000,307638000 | Anastomosis of ascending colon to rectum (procedure) |
 307589007,307589007 | Phenol injection of hemorrhoid (procedure) |
+307588004,307588004 | Rectal pack procedure (procedure) |
+307587009,307587009 | Removal of Thiersch suture (procedure) |
 307586000,307586000 | Laparoscopic transverse colectomy (procedure) |
+307585001,307585001 | Percutaneous cecostomy (procedure) |
+307584002,307584002 | Cecoplasty (procedure) |
+307583008,307583008 | Excision of cecum (procedure) |
 307509009,307509009 | Excision of ileorectal fistula (procedure) |
 307508001,307508001 | Excision jejunorectal fistula (procedure) |
 307507006,307507006 | Excision jejunocolic fistula (procedure) |
@@ -383,8 +432,11 @@ conceptId,idAndFsnTerm
 307185005,307185005 | Creation of ileo-anal W-shaped pouch (procedure) |
 307183003,307183003 | Creation of ileo-anal pouch (procedure) |
 307009004,307009004 | Wedge resection of rectum (procedure) |
+304588005,304588005 | Trial dissection of rectum (procedure) |
 304587000,304587000 | Excision of colonic pouch (procedure) |
 304586009,304586009 | Revision of colonic pouch (procedure) |
+304585008,304585008 | Creation of colonic pouch (procedure) |
+304584007,304584007 | Colonic pouch operations (procedure) |
 304583001,304583001 | Extended right hemicolectomy and ileostomy (procedure) |
 304424007,304424007 | Pulsed electromagnetic energy to foot (regime/therapy) |
 304423001,304423001 | Pulsed electromagnetic energy to ankle (regime/therapy) |
@@ -405,13 +457,16 @@ conceptId,idAndFsnTerm
 303586004,303586004 | Peranal destruction of lesion anus (procedure) |
 303585000,303585000 | Transsphincteric biopsy of rectum (procedure) |
 303584001,303584001 | Sphincter-saving proctectomy (procedure) |
+303583007,303583007 | Colon and cecum operations (procedure) |
 303401008,"303401008 | Parks panproctocolectomy, anastomosis of ileum to anus and creation of pouch (procedure) |"
 302605004,302605004 | Forced manual dilatation of anus (procedure) |
 302052009,302052009 | Endoscopic biopsy of lesion of colon (procedure) |
+302051002,302051002 | Endoscopic removal of foreign body from colon (procedure) |
 301700004,301700004 | Snare resection of lesion of rectum (procedure) |
 301699000,301699000 | Snare resection of lesion of colon (procedure) |
 300976007,300976007 | Radiotherapy to lesion of canthus (procedure) |
 300040009,300040009 | Banding of redundant anal mucosa (procedure) |
+299682000,299682000 | Construction of sigmoid loop colostomy (procedure) |
 299681007,299681007 | Construction of transverse loop colostomy (procedure) |
 290017007,290017007 | Excision of anterior mucosal prolapse of rectum (procedure) |
 289060008,289060008 | Anterior resection of rectal prolapse (procedure) |
@@ -424,6 +479,7 @@ conceptId,idAndFsnTerm
 287802008,287802008 | Hemorrhoidectomy - crushing (procedure) |
 287800000,287800000 | Anal tag removal (procedure) |
 287786002,287786002 | Decompression of rectum (procedure) |
+287785003,287785003 | Removal of rectum foreign body (procedure) |
 287784004,287784004 | Local excision of rectum (procedure) |
 287491000,287491000 | Non-surgical biopsy of anus (procedure) |
 285786003,285786003 | Excision of multiple anal papillae (procedure) |
@@ -431,6 +487,7 @@ conceptId,idAndFsnTerm
 276186005,276186005 | Repair of rectum (procedure) |
 276019009,276019009 | Gastrografin enema (procedure) |
 275197003,275197003 | Manual procedures on rectum (procedure) |
+275018007,275018007 | Anal fistula operation (procedure) |
 275017002,275017002 | Duhamel removal of colorectal septum (procedure) |
 275014009,275014009 | Soave endorectal pull-through operation for Hirschsprung's disease (procedure) |
 275013003,275013003 | Peranal destruction of rectal polyp (procedure) |
@@ -464,7 +521,9 @@ conceptId,idAndFsnTerm
 265411006,265411006 | Partial excision of rectum and sigmoid colon for prolapse (procedure) |
 265407000,265407000 | Endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope (procedure) |
 265402006,265402006 | Endoscopic extirpation of lesion of colon (procedure) |
+265401004,265401004 | Drainage of colon (procedure) |
 265381002,265381002 | Bypass of jejunum by anastomosis of jejunum to colon (procedure) |
+261766001,261766001 | Construction of divided colostomy (procedure) |
 252758009,252758009 | Electromyography of anal sphincter (procedure) |
 252636004,252636004 | Anal sphincter manometry (procedure) |
 241674004,241674004 | Operative endoscopy of rectum (procedure) |
@@ -478,17 +537,26 @@ conceptId,idAndFsnTerm
 241164003,241164003 | Double contrast barium enema (procedure) |
 240959006,240959006 | Therapeutic barium enema (procedure) |
 238298006,238298006 | Fistulectomy of rectum (procedure) |
+237588004,237588004 | Perirectal fistulectomy (procedure) |
 236783000,236783000 | Terminal ileum bypass (procedure) |
+236675001,236675001 | Procedure on anus (procedure) |
 236205009,236205009 | Revision of colonic conduit (procedure) |
+235450004,235450004 | Attention to flatus tube (procedure) |
+235449004,235449004 | Attention to colonic tube (procedure) |
+235440000,235440000 | Removal of colonic tube (procedure) |
 235409007,235409007 | Ileocolic anastomosis (procedure) |
 235408004,235408004 | Anastomosis of jejunum to colon (procedure) |
+235400006,235400006 | Manual evacuation of feces from colostomy (procedure) |
+235392008,235392008 | Laying open of anal fistula (procedure) |
 235391001,235391001 | Submucosal hemorrhoidectomy (procedure) |
 235390000,235390000 | Closed hemorrhoidectomy (procedure) |
 235389009,235389009 | Open hemorrhoidectomy (procedure) |
+235388001,235388001 | Hemorrhoid operation (procedure) |
 235387006,235387006 | Repair of prostatorectal fistula (procedure) |
 235386002,235386002 | Repair of rectourinary fistula (procedure) |
 235385003,235385003 | Construction of anal neosphincter (procedure) |
 235384004,235384004 | Gracilis sling operation (procedure) |
+235383005,235383005 | Insertion of prosthetic material around anal sphincter (procedure) |
 235382000,235382000 | Thiersch procedure (procedure) |
 235381007,235381007 | Repair of anal sphincter (procedure) |
 235379005,235379005 | Lateral ligament suspension (procedure) |
@@ -511,6 +579,7 @@ conceptId,idAndFsnTerm
 235334006,235334006 | Oversewing of rectal stump (procedure) |
 235325001,235325001 | Extended left hemicolectomy (procedure) |
 235320006,235320006 | Transverse taeniamyotomy (procedure) |
+235318008,235318008 | Creation of open cecostomy (procedure) |
 235153008,235153008 | Rigid sigmoidoscopy (procedure) |
 235151005,235151005 | Limited colonoscopy (procedure) |
 235150006,235150006 | Total colonoscopy (procedure) |
@@ -560,15 +629,20 @@ conceptId,idAndFsnTerm
 228662001,228662001 | Betatron X-ray therapy (procedure) |
 228661008,228661008 | Grenz ray therapy (procedure) |
 228660009,228660009 | Contact therapy (procedure) |
+225108002,225108002 | Packing rectal sinus (procedure) |
 225097004,225097004 | Proximal colonic washout (procedure) |
 225096008,225096008 | Rectal stump washout via rectum (procedure) |
 225095007,225095007 | Rectal stump washout via stoma (procedure) |
+190393003,190393003 | Undercutting of perianal tissue (procedure) |
 182975000,182975000 | Tuberculosis chemotherapy (procedure) |
 182655007,182655007 | Local heating - infrared irradiation (regime/therapy) |
+182606003,182606003 | Rectal packing for hemorrhage (procedure) |
 177219009,177219009 | Immediate repair of obstetric laceration of perineum and sphincter of anus (procedure) |
 174385004,174385004 | Lateral sphincterotomy (procedure) |
 174384000,174384000 | Biopsy of lesion of anus (procedure) |
 174377008,174377008 | Fistulography of anal fistula (procedure) |
+174374001,174374001 | Laying open of high anal fistula (procedure) |
+174373007,174373007 | Laying open of low anal fistula (procedure) |
 174368001,174368001 | Dilation of anal sphincter (procedure) |
 174365003,174365003 | Forced manual dilation of anus for hemorrhoid (procedure) |
 174359003,174359003 | Rubber band ligation of hemorrhoid(s) (procedure) |
@@ -592,10 +666,14 @@ conceptId,idAndFsnTerm
 174320007,174320007 | Proctoscopic extirpation of lesion of rectum (procedure) |
 174310002,174310002 | Closure of proctostomy (procedure) |
 174308004,174308004 | Exploration of rectum (procedure) |
+174305001,174305001 | Intubation of rectum for pressure manometry (procedure) |
 174304002,174304002 | Hydrostatic reduction of intussusception of rectum (procedure) |
 174303008,174303008 | Radiological reduction of intussusception of rectum using barium enema (procedure) |
 174299003,174299003 | Massage of rectum (procedure) |
 174298006,174298006 | Examination of rectum under anesthesia (procedure) |
+174297001,174297001 | Manual removal of impacted feces from rectum (procedure) |
+174296005,174296005 | Manual removal of foreign body from rectum (procedure) |
+174290004,174290004 | Removal of encircling suture from around perianal sphincter (procedure) |
 174289008,174289008 | Insertion of supralevator sling (procedure) |
 174288000,174288000 | Perianal plication of levator ani muscles and anal sphincters (procedure) |
 174287005,174287005 | Insertion of encircling suture around anal sphincter (procedure) |
@@ -604,6 +682,7 @@ conceptId,idAndFsnTerm
 174273005,174273005 | Transsphincteric anastomosis of colon to anus (procedure) |
 174272000,174272000 | Transsphincteric destruction of lesion of rectum (procedure) |
 174270008,174270008 | Transsphincteric excision of mucosa of rectum (procedure) |
+174269007,174269007 | Operations on rectum via anal sphincter (procedure) |
 174250002,174250002 | Open laser destruction of lesion of rectum (procedure) |
 174249002,174249002 | Open cryotherapy to lesion of rectum (procedure) |
 174248005,174248005 | Open cauterization of lesion of rectum (procedure) |
@@ -611,24 +690,32 @@ conceptId,idAndFsnTerm
 174241004,174241004 | Anterior resection of rectum and anastomosis of colon to rectum using staples (procedure) |
 174240003,174240003 | Proctectomy and anastomosis of colon to anus (procedure) |
 174228003,174228003 | Irrigation of colon (procedure) |
+174226004,174226004 | Passage of flatus tube to reduce volvulus of sigmoid colon (procedure) |
+174225000,174225000 | Intubation of colon for pressure manometry (procedure) |
+174217002,174217002 | Endoscopic insertion of tubal prosthesis into sigmoid colon using rigid sigmoidoscope (procedure) |
+174216006,174216006 | Endoscopic removal of foreign body from sigmoid colon using rigid sigmoidoscope (procedure) |
 174215005,174215005 | Endoscopic dilation of sigmoid colon using rigid sigmoidoscope (procedure) |
 174210000,174210000 | Endoscopic cryotherapy to lesion of sigmoid colon using rigid sigmoidoscope (procedure) |
 174209005,174209005 | Endoscopic laser destruction of lesion of sigmoid colon using rigid sigmoidoscope (procedure) |
 174208002,174208002 | Endoscopic cauterization of lesion of sigmoid colon using rigid sigmoidoscope (procedure) |
 174207007,174207007 | Endoscopic snare resection of lesion of sigmoid colon using rigid sigmoidoscope (procedure) |
+174181003,174181003 | Fiberoptic endoscopic removal of foreign body from colon (procedure) |
 174180002,174180002 | Fiberoptic endoscopic coagulation of blood vessel of colon (procedure) |
 174179000,174179000 | Fiberoptic endoscopic dilation of colon (procedure) |
 174173004,174173004 | Fiberoptic endoscopic laser destruction of lesion of colon (procedure) |
 174172009,174172009 | Fiberoptic endoscopic cauterization of lesion of colon (procedure) |
 174171002,174171002 | Fiberoptic endoscopic snare resection of lesion of colon (procedure) |
+174165008,174165008 | Open removal of foreign body from colon (procedure) |
 174164007,174164007 | Enterorrhaphy of colon (procedure) |
 174162006,174162006 | Open biopsy of lesion of colon (procedure) |
 174158000,174158000 | Open colonoscopy (procedure) |
 174153009,174153009 | Open relief of strangulation of colon (procedure) |
 174151006,174151006 | Open reduction of volvulus of sigmoid colon (procedure) |
+174150007,174150007 | Open reduction of volvulus of cecum (procedure) |
 174149007,174149007 | Open reduction of intussusception of colon (procedure) |
 174148004,174148004 | Intra-abdominal manipulation of colon (procedure) |
 174141005,174141005 | Reduction of prolapse of colostomy (procedure) |
+174132000,174132000 | Refashioning of cecostomy (procedure) |
 174126005,174126005 | Bypass of colon by anastomosis of transverse colon to rectum (procedure) |
 174125009,174125009 | Bypass of colon by anastomosis of transverse colon to sigmoid colon (procedure) |
 174124008,174124008 | Bypass of colon by anastomosis of cecum to sigmoid colon (procedure) |
@@ -648,7 +735,9 @@ conceptId,idAndFsnTerm
 174071004,174071004 | Extended right hemicolectomy (procedure) |
 174059005,174059005 | Excision of colon and rectum (procedure) |
 174027003,174027003 | Barium enema for radiological reduction of intussusception of ileum (procedure) |
+173967005,173967005 | Anastomosis of ileum to cecum (procedure) |
 173962004,173962004 | Ileotransverse colonic bypass (procedure) |
+173961006,173961006 | Bypass of ileum by anastomosis of ileum to cecum (procedure) |
 173897003,173897003 | Total jejunectomy and anastomosis of duodenum to colon (procedure) |
 173860008,173860008 | Anastomosis of duodenum to colon (procedure) |
 173576006,173576006 | Partial esophagectomy and interposition of microvascularly attached colon (procedure) |
@@ -751,6 +840,13 @@ conceptId,idAndFsnTerm
 119902006,119902006 | Anus reconstruction (procedure) |
 119901004,119901004 | Rectum closure (procedure) |
 119900003,119900003 | Anus closure (procedure) |
+119899008,119899008 | Anus injection (procedure) |
+119898000,119898000 | Rectum injection (procedure) |
+118842007,118842007 | Procedure on rectum (procedure) |
+118841000,118841000 | Procedure on rectosigmoid colon (procedure) |
+118840004,118840004 | Procedure on sigmoid colon (procedure) |
+118839001,118839001 | Procedure on colon (procedure) |
+118836008,118836008 | Procedure on cecum (procedure) |
 118640001,118640001 | Radioimmunotherapy (procedure) |
 116239000,"116239000 | Excisional biopsy of lesion of rectum, intact, by transanal approach (procedure) |"
 116238008,"116238008 | Excisional biopsy of lesion of rectum, fragmented, by transanal approach (procedure) |"
@@ -765,6 +861,7 @@ conceptId,idAndFsnTerm
 112870002,112870002 | Flexible fiberoptic sigmoidoscopy for removal of foreign body (procedure) |
 108290001,108290001 | Radiation oncology AND/OR radiotherapy (procedure) |
 91392002,91392002 | Incision of thrombosed hemorrhoid (procedure) |
+91219007,91219007 | Correction of atresia of rectum (procedure) |
 90788004,90788004 | Revision of stoma of rectum (procedure) |
 90527009,90527009 | Laparoscopic-assisted anterior resection of rectum (procedure) |
 89770003,89770003 | Anal sphincterotomy (procedure) |
@@ -783,14 +880,19 @@ conceptId,idAndFsnTerm
 86888002,86888002 | Anal fistulectomy (procedure) |
 86789002,86789002 | Abdominoperineal pull-through procedure (procedure) |
 85849005,85849005 | Exteriorization of large intestine (procedure) |
+85770007,"85770007 | Biofeedback, three channel rectal balloon (regime/therapy) |"
 85257004,85257004 | Destruction of chorioretinal lesion by radiation therapy (procedure) |
 84952009,84952009 | Resection of colon for interposition (procedure) |
 84824001,"84824001 | Pemberton operation, rectal prolapse repair (procedure) |"
 84604002,84604002 | Sigmoid colectomy (procedure) |
 84456001,84456001 | Saucerization of rectum (procedure) |
+84391005,84391005 | Intubation of colon (procedure) |
+84282008,84282008 | Simple ligature of hemorrhoid (procedure) |
 84126002,84126002 | Closure of vulvorectal fistula (procedure) |
 83650006,83650006 | Repair of congenital anovaginal fistula with cut-back type procedure (procedure) |
+82990002,82990002 | Removal of packing from rectum (procedure) |
 82900007,82900007 | Partial colectomy with coloproctostomy (procedure) |
+82874003,82874003 | Operation on colon (procedure) |
 82692008,82692008 | Dilation of rectal stricture under nonlocal anesthesia (procedure) |
 82619000,82619000 | Left colectomy (procedure) |
 81714000,81714000 | Ileorectostomy (procedure) |
@@ -798,11 +900,13 @@ conceptId,idAndFsnTerm
 81092009,81092009 | Transsacral rectosigmoidectomy (procedure) |
 81057001,"81057001 | Destruction of hemorrhoids, internal and external (procedure) |"
 81005001,81005001 | Decompression of imperforate anus (procedure) |
+80945002,80945002 | Cystoproctostomy (procedure) |
 80347004,80347004 | External beam radiation therapy neutrons (procedure) |
 80294005,80294005 | Total abdominal colectomy with rectal mucosectomy and ileoanal anastomosis (procedure) |
 79819006,79819006 | Crushing of contents of rectum (procedure) |
 79764004,79764004 | Excision of lesion of rectum (procedure) |
 79648003,79648003 | Anal cryptectomy (procedure) |
+79613005,79613005 | Insertion of tube into rectum (procedure) |
 79567008,79567008 | Incision of anal fistula (procedure) |
 79433000,79433000 | Closure of colon fistula (procedure) |
 78299009,78299009 | Core needle biopsy of rectum (procedure) |
@@ -811,6 +915,7 @@ conceptId,idAndFsnTerm
 77878003,"77878003 | Von Kraske operation, proctectomy (procedure) |"
 77738002,77738002 | Local chemotherapy for malignant neoplasm (procedure) |
 77613002,77613002 | External beam radiation therapy with iodine-125 (procedure) |
+77521004,77521004 | Implant of electronic stimulator to anus (procedure) |
 77359006,77359006 | Crushing of hemorrhoids (procedure) |
 76634004,76634004 | Closure of anal fistula (procedure) |
 76164006,76164006 | Biopsy of colon (procedure) |
@@ -821,7 +926,9 @@ conceptId,idAndFsnTerm
 75312003,75312003 | Partial colectomy with ileostomy and creation of mucofistula (procedure) |
 75157003,75157003 | Cryosurgery for benign rectal tumor (procedure) |
 75108001,75108001 | Suture of rectum (procedure) |
+74971002,74971002 | Operation on rectum (procedure) |
 74854002,74854002 | Cauterization of anus (procedure) |
+74738008,74738008 | Skin level cecostomy (procedure) |
 74023000,74023000 | External beam radiation therapy of 1 to 25 mega electronvolt protons (procedure) |
 73996007,73996007 | Proctopexy combined with sigmoid resection by abdominal approach (procedure) |
 73953002,73953002 | Closure of rectovesical fistula (procedure) |
@@ -848,6 +955,7 @@ conceptId,idAndFsnTerm
 68714003,"68714003 | Park operation, posterior anal repair (procedure) |"
 68671008,68671008 | Destruction of lesion of rectum by chemicals (procedure) |
 68619000,68619000 | Chemotherapy for non-neoplastic disease (procedure) |
+68348004,68348004 | Operation on rectum and perirectal tissue (procedure) |
 68275008,68275008 | Temporary suture of anus (procedure) |
 68261001,68261001 | Incision and removal of foreign body from anus (procedure) |
 67113002,67113002 | Closure of vesicometrorectal fistula (procedure) |
@@ -859,14 +967,17 @@ conceptId,idAndFsnTerm
 64978007,64978007 | Radionuclide therapy for hyperthyroidism (procedure) |
 64928005,64928005 | Closure of rectovaginal fistula (procedure) |
 64522003,64522003 | Destruction of chorioretinal lesion by implantation of radiation source (procedure) |
+64215005,64215005 | Formation of mucous fistula (procedure) |
 64134004,64134004 | Stereotactic focused gamma radiosurgery of cerebrum (procedure) |
 63992008,"63992008 | Anal fistulectomy, submuscular (procedure) |"
 63506005,63506005 | Destruction of lesion of choroid by radiation therapy (procedure) |
 63407004,63407004 | Episioproctotomy (procedure) |
 62867004,62867004 | External beam radiation therapy with radioactive cesium (procedure) |
 62807001,62807001 | Incision and exploration of colon (procedure) |
+62069000,62069000 | Delayed opening colostomy (procedure) |
 61902006,61902006 | Anal pectenotomy (procedure) |
 61498008,61498008 | Complete external hemorrhoidectomy (procedure) |
+60523002,60523002 | Closure of cecostomy (procedure) |
 60362005,60362005 | Suture of sigmoid (procedure) |
 59896001,59896001 | Dilation of rectum (procedure) |
 59446006,59446006 | Suture of anal sphincter (procedure) |
@@ -874,6 +985,8 @@ conceptId,idAndFsnTerm
 57655007,57655007 | Ureterosigmoidostomy (procedure) |
 55966001,"55966001 | Rankin operation, complete proctectomy (procedure) |"
 54686006,54686006 | Biopsy of rectum (procedure) |
+54629001,54629001 | Permanent magnetic colostomy (procedure) |
+54196001,54196001 | Incision of ischiorectal tissue (procedure) |
 54164009,54164009 | Rectosigmoidectomy (procedure) |
 53676003,53676003 | Endoscopic excision of lesion of anus (procedure) |
 53133001,53133001 | Cecocoloplicopexy (procedure) |
@@ -886,24 +999,35 @@ conceptId,idAndFsnTerm
 51534007,51534007 | Oral chemotherapy for malignant neoplasm (procedure) |
 51408001,51408001 | Electrodesiccation of malignant tumor of rectum by transanal approach (procedure) |
 51396008,51396008 | Anastomosis of small intestine to rectal stump (procedure) |
+51233000,51233000 | Sigmoidostomy (procedure) |
 50774009,50774009 | Laparoscopic-assisted right colectomy (procedure) |
 50632006,50632006 | Cyclotron external beam radiation therapy (procedure) |
 50623009,50623009 | Biopsy of anorectal wall by anal approach (procedure) |
 50250005,50250005 | Destruction of lesion of rectum by cauterization (procedure) |
+50012009,50012009 | Cecopexy (procedure) |
 50000005,50000005 | Excision of diverticulum of anus (procedure) |
+49924002,49924002 | Perineal colostomy (procedure) |
+49801005,49801005 | Incision of perirectal tissue (procedure) |
 49645007,49645007 | Hemorrhoidectomy with anoplasty (procedure) |
+49586007,49586007 | Appendicocecostomy (procedure) |
+49440008,"49440008 | Revision of colostomy, complicated (procedure) |"
 49264007,49264007 | Excision of lesion of anus (procedure) |
 48630009,48630009 | Incision and exploration of rectum (procedure) |
 48307009,48307009 | Closure of rectourethral fistula (procedure) |
 48222002,48222002 | Closure of rectovaginal fistula by vaginal approach (procedure) |
+47970003,47970003 | Injection of rectum and anus (procedure) |
+47897009,47897009 | Removal of intraluminal foreign body from rectum (procedure) |
 47705001,47705001 | Incision of rectal stricture (procedure) |
 47696003,"47696003 | Anastomosis of intestine, large-to-anus (procedure) |"
 47668009,47668009 | Intracavitary radium application (procedure) |
 47479005,47479005 | Total body irradiation (procedure) |
 47334005,47334005 | Transposition of tissue of anus (procedure) |
 47118000,47118000 | Repair of anus (procedure) |
+46987005,46987005 | Removal of intraluminal foreign body from anus (procedure) |
 46295004,"46295004 | Proctectomy by abdominoperineal resection with colostomy, one stage (procedure) |"
+46070005,46070005 | Revision of colostomy (procedure) |
 46044009,46044009 | Megavoltage radiation therapy (procedure) |
+45925007,45925007 | Enema for removal of impacted feces (procedure) |
 45643008,45643008 | External beam radiation therapy using electrons (procedure) |
 45220009,45220009 | Posterior resection of rectum (procedure) |
 44751009,44751009 | Total abdominal colectomy with proctectomy and continent ileostomy (procedure) |
@@ -924,21 +1048,28 @@ conceptId,idAndFsnTerm
 40809003,40809003 | Closure of ureterosigmoidal fistula (procedure) |
 40366003,40366003 | Control of hemorrhage from anus (procedure) |
 39646005,39646005 | Hemibody irradiation (procedure) |
+39316003,39316003 | Operation on sigmoid (procedure) |
 39214002,39214002 | Closure of rectovesicovaginal fistula (procedure) |
 38915000,38915000 | Radionuclide therapy for gland ablation (procedure) |
+38737004,38737004 | Transposition of tissue of rectum (procedure) |
 38216008,38216008 | Infusion chemotherapy for malignant neoplasm (procedure) |
 38104006,38104006 | External beam radiation therapy by linear accelerator (procedure) |
 37924007,"37924007 | Anal fistulectomy, subcutaneous (procedure) |"
+37828009,37828009 | Suture of small intestine with colostomy (procedure) |
+36788006,36788006 | Cecoplication (procedure) |
 36679009,36679009 | Vaginal cone irradiation (procedure) |
 36488007,36488007 | Biopsy of anus (procedure) |
 36192008,36192008 | Total abdominal colectomy with ileoproctostomy (procedure) |
 36092006,36092006 | Nephrocolopexy (procedure) |
 35965008,35965008 | Colocentesis (procedure) |
 35753000,35753000 | Closure of perineorectal fistula (procedure) |
+35535008,35535008 | Transverse colostomy (procedure) |
 35129004,35129004 | Intrathoracic esophageal anastomosis with interposition of colon (procedure) |
 34984003,34984003 | Incisional biopsy of rectum (procedure) |
 34414001,34414001 | Incision of rectum (procedure) |
 34264006,34264006 | Intraoperative colonoscopy (procedure) |
+34130000,34130000 | Cholecystocecostomy (procedure) |
+33759004,33759004 | Suture of cecum (procedure) |
 33507007,33507007 | Excision of malignant tumor of rectum by transanal approach (procedure) |
 33356009,33356009 | Betatron external beam radiation therapy (procedure) |
 33195004,33195004 | External beam radiation therapy procedure (procedure) |
@@ -963,6 +1094,7 @@ conceptId,idAndFsnTerm
 28177007,28177007 | Rectal irrigation (procedure) |
 26925005,26925005 | Transverse colectomy (procedure) |
 26619008,26619008 | Closure of ileosigmoidal fistula (procedure) |
+26599001,26599001 | Insertion of pack into rectum (procedure) |
 26390003,26390003 | Total colectomy (procedure) |
 25196007,"25196007 | Proctectomy by abdominoperineal resection with colostomy, two stages (procedure) |"
 25073005,25073005 | Manual reduction of prolapsed colostomy (procedure) |
@@ -972,6 +1104,7 @@ conceptId,idAndFsnTerm
 24600000,24600000 | Incision of anus (procedure) |
 24496007,24496007 | Hemorrhoidectomy (procedure) |
 24420007,24420007 | Sigmoidoscopy (procedure) |
+24265000,24265000 | Operation on anus (procedure) |
 24242005,24242005 | Cobalt-60 therapy (procedure) |
 24221008,24221008 | Repair of rectovesical fistula with colostomy (procedure) |
 23968004,23968004 | Excision of colon (procedure) |
@@ -987,16 +1120,19 @@ conceptId,idAndFsnTerm
 21756005,21756005 | Closure of rectal fistula (procedure) |
 21423008,21423008 | Sigmoidoscopy through artificial stoma (procedure) |
 21372000,21372000 | Radium therapy (procedure) |
+21245006,21245006 | Tube cecostomy (procedure) |
 20874001,20874001 | Complete excision of anus (procedure) |
 20460000,20460000 | Closure of gastroenterocolic fistula (procedure) |
 20119004,20119004 | Ureterocecostomy (procedure) |
 19639005,19639005 | Sigmoidopexy (procedure) |
 19317004,19317004 | Posterior anal sphincterotomy (procedure) |
 18972001,18972001 | Formation of artificial anus (procedure) |
+18649001,18649001 | Rectal temperature taking (procedure) |
 18561003,18561003 | Closure of enterocolic fistula (procedure) |
 18339007,18339007 | Reduction of prolapsed rectum under anesthesia (procedure) |
 18280002,18280002 | Repair of vesicourethrorectal fistula (procedure) |
 17671008,17671008 | Laparoscopic-assisted anterior resection of rectum with colostomy (procedure) |
+17473003,17473003 | Cecotomy (procedure) |
 17197003,17197003 | Closure of cervicosigmoidal fistula (procedure) |
 16564004,"16564004 | Hartmann operation, rectal resection (procedure) |"
 16448009,16448009 | Replacement of rectal tube (procedure) |
@@ -1020,11 +1156,13 @@ conceptId,idAndFsnTerm
 12350003,12350003 | Colonoscopy with rigid sigmoidoscope through colotomy (procedure) |
 12149006,"12149006 | Chemotherapy administration, subcutaneous, with local anesthesia (procedure) |"
 12092003,12092003 | Repair of rectal prolapse (procedure) |
+11809004,11809004 | Operation on cecum (procedure) |
 11626008,"11626008 | Miles operation, complete proctectomy (procedure) |"
 11574002,11574002 | Creation of endorectal ileal H-pouch with anastomosis to anus (procedure) |
 10611004,10611004 | External beam radiation therapy protons (procedure) |
 10492003,10492003 | Radionuclide therapy for glandular suppression (procedure) |
 10259007,10259007 | Proctopexy (procedure) |
+9905009,9905009 | Loop colostomy (procedure) |
 9735005,9735005 | Repair of colon (procedure) |
 9666005,"9666005 | Esophagocolic anastomosis, antesternal or antethoracic (procedure) |"
 9521005,"9521005 | Anal fistulectomy, second stage (procedure) |"
@@ -1033,6 +1171,7 @@ conceptId,idAndFsnTerm
 8906004,8906004 | Cecocolostomy (procedure) |
 8422009,8422009 | Destruction of hemorrhoids by sclerotherapy (procedure) |
 8324006,8324006 | Incision and drainage of rectal abscess (procedure) |
+8305008,8305008 | Removal of foreign body from rectum under anesthesia (procedure) |
 8180007,8180007 | Fiberoptic colonoscopy through colostomy (procedure) |
 6872008,6872008 | Perfusion chemotherapy for malignant neoplasm (procedure) |
 6634001,"6634001 | Destruction of rectal hemorrhoids, internal (procedure) |"
@@ -1043,15 +1182,19 @@ conceptId,idAndFsnTerm
 5304008,"5304008 | Deep radiation therapy, 200-300 KVP (procedure) |"
 5151004,5151004 | Manual reduction of rectal hemorrhoids (procedure) |
 4904006,4904006 | Dilation of anal sphincter under nonlocal anesthesia (procedure) |
+4895001,4895001 | Construction of sigmoid bladder (procedure) |
+4891005,4891005 | Proctostomy (procedure) |
 4558008,4558008 | Anterior resection of rectum (procedure) |
 4388000,4388000 | Closure of splenocolic fistula (procedure) |
 4336007,"4336007 | Lloyd-Davies operation, abdominoperineal resection (procedure) |"
 4114003,4114003 | Parenteral chemotherapy for malignant neoplasm (procedure) |
+4044002,4044002 | Permanent colostomy (procedure) |
 3183007,3183007 | Closure of colostomy (procedure) |
 2908005,2908005 | Destruction of hemorrhoids by cryotherapy (procedure) |
 2234009,2234009 | Proctosigmoidopexy (procedure) |
 1501006,"1501006 | Altemeier operation, perineal rectal pull-through (procedure) |"
 1390003,1390003 | Laparoscopic-assisted sigmoid colectomy (procedure) |
+1339004,1339004 | Removal of impacted feces (procedure) |
 1337002,1337002 | Colosigmoidostomy (procedure) |
 1127003,1127003 | Interstitial radium application (procedure) |
 533005,533005 | Closure of vesicocolic fistula (procedure) |

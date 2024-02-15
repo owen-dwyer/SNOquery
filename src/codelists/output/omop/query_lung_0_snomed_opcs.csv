@@ -1,0 +1,141 @@
+,concept_code_y,concept_name_y,opcs
+946,E54.8,Other specified excision of lung,E548
+947,E54.9,Unspecified excision of lung,E549
+949,E54,Excision of lung,E54
+1125,L12.1,Application of band to pulmonary artery,L121
+1349,E46.8,Other specified partial extirpation of bronchus,E468
+1350,E46.9,Unspecified partial extirpation of bronchus,E469
+1351,E46,Partial extirpation of bronchus,E46
+1379,E46.4,Open destruction of lesion of bronchus,E464
+1442,E48.1,Fibreoptic endoscopic snare resection of lesion of lower respiratory tract,E481
+1454,E48.2,Fibreoptic endoscopic laser destruction of lesion of lower respiratory tract,E482
+1464,E48.3,Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC,E483
+1475,E48.4,Fibreoptic endoscopic aspiration of lower respiratory tract,E484
+1483,E54.2,Bilobectomy of lung,E542
+1524,E54.3,Lobectomy of lung,E543
+1549,E54.4,Excision of segment of lung,E544
+1569,E55.8,Other specified open extirpation of lesion of lung,E558
+1570,E55.9,Unspecified open extirpation of lesion of lung,E559
+1571,E55,Open extirpation of lesion of lung,E55
+1583,E55.1,Open decortication of lesion of lung,E551
+1594,E55.2,Open excision of lesion of lung,E552
+1604,E55.3,Open cauterisation of lesion of lung,E553
+1616,E57.2,Ligation of bulla of lung,E572
+1626,E57.3,Deflation of bulla of lung,E573
+1637,E59.1,Needle biopsy of lesion of lung,E591
+1649,E59.2,Aspiration biopsy of lesion of lung,E592
+1814,E59.4,Drainage of lung,E594
+1833,K01.1,Allotransplantation of heart and lung,K011
+1844,K18.2,Creation of valved conduit between right atrium and pulmonary artery,K182
+1845,K19.2,Creation of conduit between right atrium and pulmonary artery NEC,K192
+1857,K18.3,Creation of valved conduit between right ventricle of heart and pulmonary artery,K183
+1858,K19.3,Creation of conduit between right ventricle of heart and pulmonary artery NEC,K193
+1885,L05.2,Creation of shunt to right pulmonary artery from ascending aorta using interposition tube prosthesis,L052
+1897,L05.3,Creation of shunt to left pulmonary artery from ascending aorta using interposition tube prosthesis,L053
+1906,L06.1,Creation of aortopulmonary window,L061
+1930,L07.8,Other specified creation of shunt to pulmonary artery from subclavian artery using interposition tube prosthesis,L078
+1931,L07.9,Unspecified creation of shunt to pulmonary artery from subclavian artery using interposition tube prosthesis,L079
+1932,L07,Creation of shunt to pulmonary artery from subclavian artery using interposition tube prosthesis,L07
+1950,L07.1,Creation of shunt to right pulmonary artery from right subclavian artery using interposition tube prosthesis,L071
+1968,L07.2,Creation of shunt to left pulmonary artery from left subclavian artery using interposition tube prosthesis,L072
+2022,L09.1,Creation of anastomosis to pulmonary artery from vena cava,L091
+2036,L09.2,Removal of anastomosis between pulmonary artery and vena cava,L092
+2107,L09.8,Other specified other connection to pulmonary artery,L098
+2108,L09.9,Unspecified other connection to pulmonary artery,L099
+2109,L10.8,Other specified repair of pulmonary artery,L108
+2110,L10.9,Unspecified repair of pulmonary artery,L109
+2111,L10,Repair of pulmonary artery,L10
+2191,L10.1,Repair of pulmonary artery using prosthesis,L101
+2203,L12.2,Adjustment of band to pulmonary artery,L122
+2215,L12.3,Removal of band from pulmonary artery,L123
+2229,L12.4,Open embolectomy of pulmonary artery,L124
+2239,L12.5,Open embolisation of pulmonary artery,L125
+2257,L13.8,Other specified transluminal operations on pulmonary artery,L138
+2258,L13.9,Unspecified transluminal operations on pulmonary artery,L139
+2259,L13,Transluminal operations on pulmonary artery,L13
+2269,L13.2,Percutaneous transluminal embolisation of pulmonary artery,L132
+2282,L13.1,Percutaneous transluminal embolectomy of pulmonary artery,L131
+2301,T07.1,Decortication of pleura,T071
+2674,E47.8,Other specified other open operations on bronchus,E478
+2675,E47.9,Unspecified other open operations on bronchus,E479
+3040,E53.2,Single lung transplant,E532
+3054,E53.1,Double lung transplant,E531
+3303,L69.8,Other specified operations on major systemic to pulmonary collateral arteries,L698
+3304,L69.9,Unspecified operations on major systemic to pulmonary collateral arteries,L699
+3306,L69,Operations on major systemic to pulmonary collateral arteries,L69
+3592,L12.8,Other specified other open operations on pulmonary artery,L128
+3593,L12.9,Unspecified other open operations on pulmonary artery,L129
+3594,L04,Open operations on pulmonary arterial tree,L04
+3595,L12,Other open operations on pulmonary artery,L12
+3766,L06.8,Other specified other connection to pulmonary artery from aorta,L068
+3767,L06.9,Unspecified other connection to pulmonary artery from aorta,L069
+3864,L08.8,Other specified other connection to pulmonary artery from subclavian artery,L088
+3865,L08.9,Unspecified other connection to pulmonary artery from subclavian artery,L089
+4377,E52.8,Other specified other operations on bronchus,E528
+4378,E52.9,Unspecified other operations on bronchus,E529
+4379,E47,Other open operations on bronchus,E47
+4380,E52,Other operations on bronchus,E52
+4841,L10.2,Repair of pulmonary artery using patch,L102
+4946,K01,Transplantation of heart and lung,K01
+5061,E54.5,Partial lobectomy of lung NEC,E545
+5219,E57.8,Other specified other open operations on lung,E578
+5220,E57.9,Unspecified other open operations on lung,E579
+5221,E59.8,Other specified other operations on lung,E598
+5222,E59.9,Unspecified other operations on lung,E599
+5223,E57,Other open operations on lung,E57
+5224,E59,Other operations on lung,E59
+5264,E52.1,Irrigation of bronchus NEC,E521
+5336,E48.6,Fibreoptic endoscopic irrigation of lower respiratory tract,E486
+5359,E50.6,Endoscopic irrigation of lower respiratory tract using rigid bronchoscope,E506
+5515,L12.6,Pulmonary artery ligation,L126
+5535,L04.8,Other specified open operations on pulmonary arterial tree,L048
+5536,L04.9,Unspecified open operations on pulmonary arterial tree,L049
+5593,L13.5,Percutaneous transluminal balloon angioplasty of pulmonary artery NEC,L135
+5607,L10.4,Repair of pulmonary arterial sling,L104
+5622,L04.1,Pulmonary thromboendarterectomy,L041
+5636,E59.5,Percutaneous radiofrequency ablation of lesion of lung,E595
+5647,L01.3,Repair of anomalous pulmonary artery origin from ascending aorta,L013
+5648,L10.3,Repair of anomalous pulmonary artery NEC,L103
+5665,L07.3,Closure of prosthetic shunt to pulmonary artery from subclavian artery,L073
+5677,L13.6,Percutaneous transluminal insertion of stent into pulmonary artery,L136
+5704,K17.2,Total cavopulmonary connection with lateral atrial tunnel,K172
+5745,K33.1,Aortic root replacement using pulmonary valve autograft with right ventricle to pulmonary artery valved conduit,K331
+5760,L69.2,Pulmonary unifocalisation,L692
+5790,L06.7,Takedown of anastomosis to pulmonary artery from aorta,L067
+5802,E53.3,Single lobe lung transplant,E533
+5837,E54.6,Reduction of lung volume,E546
+5854,K17.4,Aortopulmonary reconstruction with right ventricle to pulmonary arterial valveless conduit,K174
+6392,L08.3,Creation of anastomosis to pulmonary artery from subclavian artery NEC,L083
+6394,L08,Other connection to pulmonary artery from subclavian artery,L08
+6711,L06.2,Creation of anastomosis to main pulmonary artery from ascending aorta NEC,L062
+6724,L08.2,Creation of anastomosis to left pulmonary artery from left subclavian artery NEC,L082
+6809,L06.5,Creation of anastomosis to pulmonary artery from aorta NEC,L065
+6810,L06,Other connection to pulmonary artery from aorta,L06
+6831,L06.3,Creation of anastomosis to right pulmonary artery from ascending aorta NEC,L063
+6843,L06.4,Creation of anastomosis to left pulmonary artery from descending aorta NEC,L064
+6856,L08.1,Creation of anastomosis to right pulmonary artery from right subclavian artery NEC,L081
+6864,E46.1,Sleeve resection of bronchus and anastomosis HFQ,E461
+6880,L05.1,Creation of shunt to main pulmonary artery from ascending aorta using interposition tube prosthesis,L051
+6881,L05.8,Other specified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis,L058
+6882,L05.9,Unspecified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis,L059
+6883,L05,Creation of shunt to pulmonary artery from aorta using interposition tube prosthesis,L05
+6918,X45.3,Donation of lobe of lung,X453
+7018,E52.2,Aspiration of bronchus NEC,E522
+7033,E59.3,Biopsy of lesion of lung NEC,E593
+7056,E55.4,Open destruction of lesion of lung NEC,E554
+7082,E46.2,Excision of cyst of bronchus,E462
+7097,E57.4,Incision of lung NEC,E574
+7211,E54.1,Total pneumonectomy,E541
+7340,E47.1,Open biopsy of lesion of bronchus NEC,E471
+7401,U15.2,Lung ventilation scanning NEC,U152
+7519,L01.4,Closure of aortopulmonary window,L014
+7650,U15.1,Lung perfusion scanning NEC,U151
+8071,E47.3,Repair of bronchus NEC,E473
+8469,E47.2,Closure of fistula of bronchus,E472
+8618,L13.3,Arteriography of pulmonary artery,L133
+8655,E67.1,Endoscopic thermal bronchoplasty,E671
+8742,E46.3,Excision of lesion of bronchus NEC,E463
+8814,E53.8,Other specified transplantation of lung,E538
+8815,E53.9,Unspecified transplantation of lung,E539
+8820,E53,Transplantation of lung,E53
+8917,E57.1,Repair of lung,E571

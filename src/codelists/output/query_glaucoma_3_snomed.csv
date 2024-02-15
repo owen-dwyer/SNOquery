@@ -1,6 +1,10 @@
 conceptId,idAndFsnTerm
+1290221003,1290221003 | Creation of conjunctival flap (procedure) |
+1287894009,1287894009 | Repair of retinal defect by diathermy (procedure) |
+1287893003,1287893003 | Repair of retinal tear by diathermy (procedure) |
+1287892008,1287892008 | Repair of retinal defect (procedure) |
+1287891001,1287891001 | Repair of retinal tear (procedure) |
 1286918004,1286918004 | Portable electronic applanation tonometry (procedure) |
-1286917009,1286917009 | Tonometry by palpation (procedure) |
 1286913008,1286913008 | Goldmann correlated tonometry using ocular response analyzer (procedure) |
 1286906008,1286906008 | Corneal compensated tonometry using ocular response analyzer (procedure) |
 1286902005,1286902005 | Dynamic contour tonometry (procedure) |
@@ -15,7 +19,7 @@ conceptId,idAndFsnTerm
 1004036000,1004036000 | Removal of filament of anterior surface of cornea (procedure) |
 880071007,880071007 | Thermal pulsation treatment of meibomian gland (procedure) |
 880069007,880069007 | Diamond burr superficial keratectomy (procedure) |
-879785009,879785009 | Mechanical dilatation of pupil (procedure) |
+879785009,879785009 | Mechanical dilation of pupil (procedure) |
 838278005,838278005 | Assessment using eye tracking technology (procedure) |
 789687002,789687002 | Scleral depression (procedure) |
 785831002,785831002 | Transplant of cornea of left eye (procedure) |
@@ -47,7 +51,6 @@ conceptId,idAndFsnTerm
 445944001,445944001 | Endodiathermy of vitreous body (procedure) |
 445023004,445023004 | Removal of penetrating foreign body from eye by incision (procedure) |
 444247007,444247007 | Photodynamic therapy of neovascular membrane of choroid (procedure) |
-443891005,443891005 | Injection of steroid into chalazion (procedure) |
 440578004,440578004 | Photocoagulation of macular drusen (procedure) |
 439751005,439751005 | Transluminal dilation of aqueous outflow canal using stent (procedure) |
 439490005,439490005 | Insertion of subconjunctival retinal prosthesis receiver and pulse generator with vitrectomy (procedure) |
@@ -69,7 +72,6 @@ conceptId,idAndFsnTerm
 427023009,427023009 | Limited translocation of macula (procedure) |
 426966006,426966006 | Deep sclerectomy with spacer (procedure) |
 426926007,426926007 | Transplantation of conjunctiva (procedure) |
-426880003,426880003 | Digital imaging of retina (procedure) |
 426580006,426580006 | Internal tamponade of retina (procedure) |
 426332009,426332009 | External beam radiation therapy to lesion of retina (procedure) |
 426158003,426158003 | Internal tamponade of retina using gas (procedure) |
@@ -84,7 +86,6 @@ conceptId,idAndFsnTerm
 422103004,422103004 | Can opener anterior capsulotomy (procedure) |
 421865005,421865005 | Interferometric corneal topography (procedure) |
 421483006,421483006 | Raster photogrammetry corneal topography (procedure) |
-421422004,421422004 | Intravitreal fluid air exchange (procedure) |
 421339001,421339001 | Computer-assisted videokeratoscopy (procedure) |
 421239004,421239004 | Transillumination of eye (procedure) |
 421022008,421022008 | Tear film evaluation (procedure) |
@@ -155,7 +156,6 @@ conceptId,idAndFsnTerm
 392028003,392028003 | Selective laser trabeculoplasty (procedure) |
 392005004,392005004 | Scanning laser polarimetry (procedure) |
 391999003,391999003 | Confocal scanning laser ophthalmoscopy (procedure) |
-390852004,390852004 | Digital retinal screening (procedure) |
 389155005,389155005 | Direct gonioscopy (procedure) |
 389154009,389154009 | Indentation gonioscopy (procedure) |
 389153003,389153003 | Indirect gonioscopy (procedure) |
@@ -225,7 +225,6 @@ conceptId,idAndFsnTerm
 287500007,287500007 | Non-surgical conjunctival biopsy (procedure) |
 287242008,287242008 | Posterior chamber of eye foreign body removal by incision (procedure) |
 282445003,282445003 | Removal of lesion of conjunctiva (procedure) |
-282096008,282096008 | Retinal photography (procedure) |
 274798009,274798009 | Examination of retina (procedure) |
 274337004,274337004 | Surgical biopsy of cornea (procedure) |
 274336008,274336008 | Surgical biopsy of eye (procedure) |
@@ -269,9 +268,7 @@ conceptId,idAndFsnTerm
 231787003,231787003 | Biopsy of lesion of choroid (procedure) |
 231786007,231786007 | Diathermy of choroid (procedure) |
 231785006,231785006 | Excision of lesion of choroid (procedure) |
-231780001,231780001 | Injection of perfluorocarbon liquid into vitreous (procedure) |
-231778007,231778007 | Injection of gas/air into vitreous (procedure) |
-231777002,231777002 | Intravitreal tamponade (procedure) |
+231779004,231779004 | Injection of silicone oil into vitreous (procedure) |
 231775005,231775005 | Retinectomy (procedure) |
 231774009,231774009 | Retinotomy (procedure) |
 231773003,231773003 | Subretinal membranectomy (procedure) |
@@ -283,7 +280,7 @@ conceptId,idAndFsnTerm
 231762005,231762005 | Photocoagulation to retina (procedure) |
 231761003,231761003 | Endocryotherapy to retina (procedure) |
 231760002,231760002 | Cryotherapy to retina (procedure) |
-231759007,231759007 | Endodiathermy to retina (procedure) |
+231759007,231759007 | Endodiathermy of retina (procedure) |
 231756000,231756000 | Vitreous base vitrectomy (procedure) |
 231754002,231754002 | Biopsy of vitreous (procedure) |
 231752003,231752003 | Repositioning of intraocular lens (procedure) |
@@ -317,16 +314,21 @@ conceptId,idAndFsnTerm
 231559005,231559005 | Biopsy of lesion of globe (procedure) |
 225704005,225704005 | Rodding of palpebral conjunctiva (procedure) |
 225701002,225701002 | Massaging of the eye (procedure) |
+225697000,225697000 | Covering eye (procedure) |
+225696009,225696009 | Applying eye shield (procedure) |
+225695008,225695008 | Applying cartella shield (procedure) |
+225694007,225694007 | Applying glucks shield (procedure) |
 225693001,225693001 | Applying double eye pad (procedure) |
 225692006,225692006 | Applying eye pad and bandage (procedure) |
 225691004,225691004 | Applying eye pad and shield (procedure) |
+225690003,225690003 | Applying pressure eye pad (procedure) |
+225689007,225689007 | Applying dark glasses (procedure) |
 225687009,225687009 | Observing eye during eye care (procedure) |
 225684002,225684002 | Cleaning eye (procedure) |
 225683008,225683008 | Bathing eye (procedure) |
 223217009,223217009 | Removal of embedded foreign body from conjunctiva by incision (procedure) |
 206175003,206175003 | Insertion of ocular implant with synchronous evisceration (procedure) |
 205336009,205336009 | Enucleation of eye without implant (procedure) |
-204542000,204542000 | Exploratory sclerotomy (procedure) |
 203952001,"203952001 | Repair of eye, multiple structures (procedure) |"
 203644001,203644001 | Sclerostomy (procedure) |
 193845004,193845004 | Excisional biopsy of conjunctiva (procedure) |
@@ -398,8 +400,6 @@ conceptId,idAndFsnTerm
 112970003,112970003 | Destruction of lesion of choroid by xenon arc photocoagulation (procedure) |
 112967002,112967002 | Incision of posterior segment of eye (procedure) |
 112962008,112962008 | Repair of perforating laceration of cornea not involving uveal tissue (procedure) |
-112960000,112960000 | Reconstruction of conjunctival cul-de-sac with graft (procedure) |
-108246006,108246006 | Tonometry AND/OR tonography procedure (procedure) |
 108156003,108156003 | Posterior segment of eye excision (procedure) |
 108150009,108150009 | Anterior segment of eye endoscopy (procedure) |
 108148001,108148001 | Anterior segment of eye excision (procedure) |
@@ -408,7 +408,7 @@ conceptId,idAndFsnTerm
 91552000,91552000 | Postoperative revision of scleral fistulization procedure (procedure) |
 91084003,91084003 | Gonioscopy with evaluation (procedure) |
 90854001,90854001 | Revision of filtering bleb (procedure) |
-90243001,90243001 | Destruction of lesion of retina by diathermy (procedure) |
+90243001,90243001 | Diathermy of lesion of retina (procedure) |
 89942008,89942008 | Removal of foreign body of iris by incision (procedure) |
 89176003,89176003 | Implantation of vitreous for retinal reattachment with buckling (procedure) |
 88812000,88812000 | Excision of lesion of ciliary body (procedure) |
@@ -475,7 +475,7 @@ conceptId,idAndFsnTerm
 66922009,66922009 | Division of goniosynechiae (procedure) |
 66542005,66542005 | Zonulolysis with lens extraction (procedure) |
 66359001,66359001 | Intracapsular extraction of lens by inferior temporal route (procedure) |
-66241002,66241002 | Repair of retina for retinal tear or defect (procedure) |
+66208000,66208000 | Repair of retina for retinal tear or defect by photocoagulation (procedure) |
 65839000,65839000 | Ophthalmic ultrasonic foreign body localization (procedure) |
 65812008,65812008 | Removal of secondary membranous cataract with iridectomy (procedure) |
 64971001,64971001 | Fulguration of retina (procedure) |
@@ -528,8 +528,9 @@ conceptId,idAndFsnTerm
 47242009,47242009 | Excision of lesion of anterior chamber of eye (procedure) |
 47130006,47130006 | Conjunctivoplasty with extensive rearrangement (procedure) |
 46870009,46870009 | P32 tracer study of eye (procedure) |
-46718002,46718002 | Destruction of lesion of cornea by electrocauterization (procedure) |
+46718002,46718002 | Cauterization of lesion of cornea using electrical energy (procedure) |
 46697004,46697004 | Incision of zeisian gland (procedure) |
+46641002,46641002 | Application of eye pad (procedure) |
 46309001,46309001 | Extraction of primary membranous cataract by excision (procedure) |
 45817009,45817009 | Removal of foreign body from retina by incision (procedure) |
 45102007,45102007 | Surgical repair of posterior segment of eye (procedure) |
@@ -538,7 +539,6 @@ conceptId,idAndFsnTerm
 44716001,44716001 | Biopsy of cornea (procedure) |
 44703001,44703001 | Trabeculotomy ab externo (procedure) |
 44592003,44592003 | Cauterization of ulcer of cornea (procedure) |
-44410008,44410008 | Incision and expression of conjunctival follicles (procedure) |
 44291006,44291006 | Cauterization of meibomian gland (procedure) |
 44269004,44269004 | Curette evacuation of lens (procedure) |
 43582002,43582002 | Mechanical vitrectomy by anterior approach (procedure) |
@@ -547,7 +547,7 @@ conceptId,idAndFsnTerm
 42286009,42286009 | Destructive procedure on posterior segment of eye (procedure) |
 42161006,42161006 | Keratocentesis (procedure) |
 42156009,42156009 | Incision of abscess of sclera (procedure) |
-41515001,41515001 | Electrocoagulation of retina for destruction of lesion (procedure) |
+41515001,41515001 | Coagulation of lesion of retina using electrical energy (procedure) |
 41496004,"41496004 | Ophthalmic echography with amplitude quantitation, A-mode (procedure) |"
 41480002,41480002 | Excision of prolapsed ciliary body (procedure) |
 40997008,40997008 | Trephine sclerectomy with implant (procedure) |
@@ -574,12 +574,13 @@ conceptId,idAndFsnTerm
 35137007,35137007 | Photocoagulation of ciliary body (procedure) |
 35009002,35009002 | Destruction of lesion of retina (procedure) |
 34854007,34854007 | Repair of filtering bleb (procedure) |
+34489002,34489002 | Free graft to conjunctiva (procedure) |
 33481008,33481008 | Mechanical fragmentation of secondary membrane (procedure) |
 33412005,33412005 | Closure of fistula of cornea (procedure) |
 33095001,33095001 | Fistulectomy of cornea (procedure) |
 32788008,32788008 | Lamellar resection of sclera with implant (procedure) |
 31944008,31944008 | Chemocauterization of corneal epithelium (procedure) |
-31230008,31230008 | Electrocoagulation of retina for repair of tear (procedure) |
+31230008,31230008 | Repair of tear of retina by coagulation using electrical energy (procedure) |
 31222007,31222007 | Paracentesis of anterior chamber of eye (procedure) |
 30946002,30946002 | Encircling procedure of sclera for buckling (procedure) |
 30931009,30931009 | Repair of choroid (procedure) |
@@ -631,10 +632,10 @@ conceptId,idAndFsnTerm
 12868007,12868007 | Revision of operative wound of anterior segment of eye (procedure) |
 12163000,12163000 | Needling of secondary cataract (procedure) |
 11912002,11912002 | Scraping of trachoma follicles (procedure) |
+11895000,11895000 | Tracer study of eye (procedure) |
 11819005,11819005 | Ocular thermography (procedure) |
 10831003,10831003 | Direct closure of laceration of conjunctiva with nonperforating scleral laceration (procedure) |
 10807008,10807008 | Scleral reinforcement with graft (procedure) |
-10529001,10529001 | Repair of filtering bleb by suture with conjunctival flap (procedure) |
 9754005,9754005 | Repair of laceration of sclera with synchronous repair of conjunctiva (procedure) |
 9555008,9555008 | Incision of chalazion (procedure) |
 9137006,"9137006 | Discission of membranous cataract, secondary (procedure) |"

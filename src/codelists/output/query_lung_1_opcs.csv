@@ -1,0 +1,834 @@
+snomed,opcs,opcs_term
+241226006,L133,L13.3 Arteriography of pulmonary artery
+310832007,Y263,Y26.3 Stapling of organ NOC
+46412002,E544,E54.4 Excision of segment of lung
+232646009,E441,E44.1 Excision of carina
+232622002,E473,E47.3 Repair of bronchus NEC
+91160008,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+169003001,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+442303003,E578,E57.8 Other specified other open operations on lung
+173178001,E552,E55.2 Open excision of lesion of lung
+287465001,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
+1119345001,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+450608000,E502,E50.2 Endoscopic laser destruction of lesion of lower respiratory tract using rigid bronchoscope
+241293008,Y938,Y93.8 Other specified gallium-67 imaging
+169021003,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
+241540006,Y973,Y97.3 Radiology with post contrast
+58074001,Y278,Y27.8 Other specified graft to organ NOC
+169115000,U215,U21.5 Contrast fluoroscopy NEC
+57113004,Y931,Y93.1 Gallium-67 imaging scan
+241226006,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
+287306002,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
+431430006,Y931,Y93.1 Gallium-67 imaging scan
+287465001,E591,E59.1 Needle biopsy of lesion of lung
+79653008,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
+43831007,E593,E59.3 Biopsy of lesion of lung NEC
+721044005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+241540006,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+169021003,Y973,Y97.3 Radiology with post contrast
+232622002,E479,E47.9 Unspecified other open operations on bronchus
+233214006,L138,L13.8 Other specified transluminal operations on pulmonary artery
+4539004,E462,E46.2 Excision of cyst of bronchus
+448287006,Z245,Z24.5 Bronchus
+175253007,L101,L10.1 Repair of pulmonary artery using prosthesis
+88039007,K019,K01.9 Unspecified transplantation of heart and lung
+397396006,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
+397398007,E521,E52.1 Irrigation of bronchus NEC
+169021003,U215,U21.5 Contrast fluoroscopy NEC
+441624004,Y949,Y94.9 Unspecified radiopharmaceutical imaging
+736974006,Z942,Z94.2 Right sided operation
+418876000,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+287465001,Y535,Y53.5 Approach to organ under image intensifier
+397396006,E522,E52.2 Aspiration of bronchus NEC
+708884000,E552,E55.2 Open excision of lesion of lung
+241616006,Y971,Y97.1 Radiology with pre and post contrast
+169057008,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+49528005,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
+20142006,E546,E54.6 Reduction of lung volume
+175267003,L132,L13.2 Percutaneous transluminal embolisation of pulmonary artery
+82651004,Y253,Y25.3 Removal of retained suture from organ NOC
+35295005,Y539,Y53.9 Unspecified approach to organ under image control
+233213000,L109,L10.9 Unspecified repair of pulmonary artery
+119755005,E578,E57.8 Other specified other open operations on lung
+84200003,Y533,Y53.3 Approach to organ under computed tomography scan control
+764864002,U152,U15.2 Lung ventilation scanning NEC
+232660006,Z941,Z94.1 Bilateral operation
+169003001,Y973,Y97.3 Radiology with post contrast
+88039007,K012,K01.2 Revision of transplantation of heart and lung
+169021003,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+90249002,E598,E59.8 Other specified other operations on lung
+177784006,T071,T07.1 Decortication of pleura
+232632009,E548,E54.8 Other specified excision of lung
+450608000,E482,E48.2 Fibreoptic endoscopic laser destruction of lesion of lower respiratory tract
+82651004,Y258,Y25.8 Other specified suture of organ NOC
+441624004,Y941,Y94.1 Dopamine transporter scan
+287306002,E495,"E49.5 Diagnostic fibreoptic endoscopic examination of lower respiratory tract with biopsy, lavage and brush cytology of lesion of lower respiratory tract"
+19095002,Y071,Y07.1 Ligation of organ NOC
+702544007,X453,X45.3 Donation of lobe of lung
+765042000,Y536,Y53.6 Approach to organ under video control
+708861007,E598,E59.8 Other specified other operations on lung
+61000087103,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
+429609002,E546,E54.6 Reduction of lung volume
+169115000,Z246,Z24.6 Lung
+287296007,E528,E52.8 Other specified other operations on bronchus
+169003001,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
+16332841000119106,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+79789005,E472,E47.2 Closure of fistula of bronchus
+79653008,E503,E50.3 Endoscopic destruction of lesion of lower respiratory tract using rigid bronchoscope NEC
+431430006,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
+233213000,L103,L10.3 Repair of anomalous pulmonary artery NEC
+119744005,Y421,Y42.1 External manipulation of organ NOC
+119730004,E468,E46.8 Other specified partial extirpation of bronchus
+241304008,Y938,Y93.8 Other specified gallium-67 imaging
+736974006,E543,E54.3 Lobectomy of lung
+301083005,Y532,Y53.2 Approach to organ under ultrasonic control
+425948009,Y531,Y53.1 Approach to organ under radiological control
+91160008,U217,U21.7 Plain x-ray NEC
+241304008,Y931,Y93.1 Gallium-67 imaging scan
+261566003,L128,L12.8 Other specified other open operations on pulmonary artery
+47806007,Y229,Y22.9 Unspecified drainage of organ NOC
+241297009,U152,U15.2 Lung ventilation scanning NEC
+726426008,E543,E54.3 Lobectomy of lung
+169057008,Z246,Z24.6 Lung
+398194002,E473,E47.3 Repair of bronchus NEC
+232633004,E548,E54.8 Other specified excision of lung
+287306002,E498,E49.8 Other specified diagnostic fibreoptic endoscopic examination of lower respiratory tract
+441624004,Y942,Y94.2 Octreotide imaging
+431216004,L138,L13.8 Other specified transluminal operations on pulmonary artery
+233209007,Y049,Y04.9 Unspecified replantation of organ NOC
+287306002,E519,E51.9 Unspecified diagnostic endoscopic examination of lower respiratory tract using rigid bronchoscope
+62843007,E598,E59.8 Other specified other operations on lung
+119730004,Y051,Y05.1 Total excision of organ NOC
+765042000,Y535,Y53.5 Approach to organ under image intensifier
+241304008,Y939,Y93.9 Unspecified gallium-67 imaging
+287465001,Y534,Y53.4 Approach to organ under fluoroscopic control
+232657004,K012,K01.2 Revision of transplantation of heart and lung
+765041007,Y532,Y53.2 Approach to organ under ultrasonic control
+770700009,Y145,Y14.5 Insertion of stent graft into organ NOC
+241226006,Y538,Y53.8 Other specified approach to organ under image control
+43831007,Y538,Y53.8 Other specified approach to organ under image control
+169142004,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
+431430006,Y948,Y94.8 Other specified radiopharmaceutical imaging
+49795001,E541,E54.1 Total pneumonectomy
+726425007,E543,E54.3 Lobectomy of lung
+175267003,Y534,Y53.4 Approach to organ under fluoroscopic control
+58074001,E473,E47.3 Repair of bronchus NEC
+232642006,E541,E54.1 Total pneumonectomy
+287465001,Y538,Y53.8 Other specified approach to organ under image control
+425948009,Y533,Y53.3 Approach to organ under computed tomography scan control
+20142006,E541,E54.1 Total pneumonectomy
+241227002,Y539,Y53.9 Unspecified approach to organ under image control
+169142004,U158,U15.8 Other specified diagnostic imaging of respiratory system
+418786005,Z401,Z40.1 Pulmonary artery
+77648009,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
+58074001,E472,E47.2 Closure of fistula of bronchus
+312849006,E471,E47.1 Open biopsy of lesion of bronchus NEC
+119746007,E549,E54.9 Unspecified excision of lung
+241616006,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+233213000,L101,L10.1 Repair of pulmonary artery using prosthesis
+301083005,L125,L12.5 Open embolisation of pulmonary artery
+119746007,E548,E54.8 Other specified excision of lung
+736748006,E546,E54.6 Reduction of lung volume
+241298004,U152,U15.2 Lung ventilation scanning NEC
+61000087103,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+829831000000100,Y361,Y36.1 Introduction of gold seeds into organ NOC
+232624001,E462,E46.2 Excision of cyst of bronchus
+433240003,L716,L71.6 Percutaneous transluminal thrombolysis of artery
+49528005,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
+287296007,Y409,Y40.9 Unspecified dilation of organ NOC
+713162006,Y991,Y99.1 Cadaveric donor
+119755005,E571,E57.1 Repair of lung
+175254001,L101,L10.1 Repair of pulmonary artery using prosthesis
+418786005,U117,U11.7 Magnetic resonance angiography
+287310004,E552,E55.2 Open excision of lesion of lung
+337877003,Y493,Y49.3 Thoracotomy approach NEC
+58074001,Y279,Y27.9 Unspecified graft to organ NOC
+49795001,E441,E44.1 Excision of carina
+448287006,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
+441624004,U214,U21.4 Single photon emission computed tomography NEC
+116030005,Y744,Y74.4 Thoracoscopic video-assisted approach to thoracic cavity
+232623007,E471,E47.1 Open biopsy of lesion of bronchus NEC
+433030005,L128,L12.8 Other specified other open operations on pulmonary artery
+173098009,E464,E46.4 Open destruction of lesion of bronchus
+51000087101,U215,U21.5 Contrast fluoroscopy NEC
+433857008,L136,L13.6 Percutaneous transluminal insertion of stent into pulmonary artery
+241542003,U212,U21.2 Computed tomography NEC
+233216008,L128,L12.8 Other specified other open operations on pulmonary artery
+418876000,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
+88039007,E539,E53.9 Unspecified transplantation of lung
+735016006,Z942,Z94.2 Right sided operation
+119746007,E552,E55.2 Open excision of lesion of lung
+173176002,E551,E55.1 Open decortication of lesion of lung
+241053004,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+169021003,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
+84200003,Y538,Y53.8 Other specified approach to organ under image control
+169057008,Y971,Y97.1 Radiology with pre and post contrast
+169003001,U215,U21.5 Contrast fluoroscopy NEC
+58074001,Y275,Y27.5 Vein graft NOC
+427800005,Y291,Y29.1 Surgical removal of foreign body from organ NOC
+431430006,Y943,Y94.3 Metaiodobenzylguanidine imaging
+426436008,L104,L10.4 Repair of pulmonary arterial sling
+169003001,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
+241293008,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
+770700009,Y141,Y14.1 Insertion of expanding covered metal stent into organ NOC
+359623004,E543,E54.3 Lobectomy of lung
+90249002,E593,E59.3 Biopsy of lesion of lung NEC
+49528005,E553,E55.3 Open cauterisation of lesion of lung
+431430006,Y941,Y94.1 Dopamine transporter scan
+43831007,Y531,Y53.1 Approach to organ under radiological control
+119746007,E546,E54.6 Reduction of lung volume
+241540006,Z246,Z24.6 Lung
+232647000,E473,E47.3 Repair of bronchus NEC
+287306002,E499,E49.9 Unspecified diagnostic fibreoptic endoscopic examination of lower respiratory tract
+232622002,E463,E46.3 Excision of lesion of bronchus NEC
+765041007,Y531,Y53.1 Approach to organ under radiological control
+58074001,Y274,Y27.4 Attention to graft of organ NOC
+870380006,Y971,Y97.1 Radiology with pre and post contrast
+431430006,Y939,Y93.9 Unspecified gallium-67 imaging
+301083005,Y534,Y53.4 Approach to organ under fluoroscopic control
+49528005,E559,E55.9 Unspecified open extirpation of lesion of lung
+35295005,Y535,Y53.5 Approach to organ under image intensifier
+429609002,Y744,Y74.4 Thoracoscopic video-assisted approach to thoracic cavity
+431430006,Y938,Y93.8 Other specified gallium-67 imaging
+427138007,L013,L01.3 Repair of anomalous pulmonary artery origin from ascending aorta
+398194002,Y251,Y25.1 Suture of laceration of organ NOC
+241616006,U211,U21.1 Magnetic resonance imaging NEC
+119755005,Y268,Y26.8 Other specified other repair of organ NOC
+448287006,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
+169142004,Y938,Y93.8 Other specified gallium-67 imaging
+232650002,E572,E57.2 Ligation of bulla of lung
+119746007,E542,E54.2 Bilobectomy of lung
+431489004,Y534,Y53.4 Approach to organ under fluoroscopic control
+119730004,E463,E46.3 Excision of lesion of bronchus NEC
+57113004,U152,U15.2 Lung ventilation scanning NEC
+447751001,Z245,Z24.5 Bronchus
+287465001,Y533,Y53.3 Approach to organ under computed tomography scan control
+82651004,E571,E57.1 Repair of lung
+2079001,L103,L10.3 Repair of anomalous pulmonary artery NEC
+173098009,E469,E46.9 Unspecified partial extirpation of bronchus
+47806007,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
+241227002,Y536,Y53.6 Approach to organ under video control
+232647000,E541,E54.1 Total pneumonectomy
+708812005,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
+232622002,E464,E46.4 Open destruction of lesion of bronchus
+418876000,U215,U21.5 Contrast fluoroscopy NEC
+119744005,Y429,Y42.9 Unspecified manipulation of organ NOC
+15648005,L121,L12.1 Application of band to pulmonary artery
+241540006,Z941,Z94.1 Bilateral operation
+870380006,Y973,Y97.3 Radiology with post contrast
+427800005,E578,E57.8 Other specified other open operations on lung
+736748006,Y362,Y36.2 Introduction of therapeutic implant into organ NOC
+232622002,E471,E47.1 Open biopsy of lesion of bronchus NEC
+433240003,Y534,Y53.4 Approach to organ under fluoroscopic control
+241293008,U158,U15.8 Other specified diagnostic imaging of respiratory system
+397840008,Y259,Y25.9 Unspecified suture of organ NOC
+173102001,E441,E44.1 Excision of carina
+418876000,Y971,Y97.1 Radiology with pre and post contrast
+770700009,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
+90249002,E599,E59.9 Unspecified other operations on lung
+169115000,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
+173176002,E554,E55.4 Open destruction of lesion of lung NEC
+241303002,Y949,Y94.9 Unspecified radiopharmaceutical imaging
+49404006,A605,A60.5 Injection of destructive substance into peripheral nerve
+20142006,E548,E54.8 Other specified excision of lung
+49528005,E551,E55.1 Open decortication of lesion of lung
+173172000,E544,E54.4 Excision of segment of lung
+287465001,Y532,Y53.2 Approach to organ under ultrasonic control
+82651004,Y251,Y25.1 Suture of laceration of organ NOC
+287309009,E552,E55.2 Open excision of lesion of lung
+29785002,Y222,Y22.2 Aspiration of other lesion of organ NOC
+59325001,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
+708812005,Y538,Y53.8 Other specified approach to organ under image control
+241227002,Y531,Y53.1 Approach to organ under radiological control
+79653008,E502,E50.2 Endoscopic laser destruction of lesion of lower respiratory tract using rigid bronchoscope
+310394000,Y263,Y26.3 Stapling of organ NOC
+232657004,E532,E53.2 Single lung transplant
+232660006,E538,E53.8 Other specified transplantation of lung
+51000087101,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
+62843007,Y421,Y42.1 External manipulation of organ NOC
+232591009,Z245,Z24.5 Bronchus
+433030005,Y534,Y53.4 Approach to organ under fluoroscopic control
+241303002,Y939,Y93.9 Unspecified gallium-67 imaging
+418876000,Z249,Z24.9 Respiratory tract NEC
+359623004,E542,E54.2 Bilobectomy of lung
+62843007,Y428,Y42.8 Other specified manipulation of organ NOC
+35295005,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
+173098009,E463,E46.3 Excision of lesion of bronchus NEC
+425948009,L135,L13.5 Percutaneous transluminal balloon angioplasty of pulmonary artery NEC
+169115000,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+58074001,Y272,Y27.2 Allograft to organ NOC
+726428009,E543,E54.3 Lobectomy of lung
+88039007,E532,E53.2 Single lung transplant
+241541005,Y973,Y97.3 Radiology with post contrast
+441677009,U158,U15.8 Other specified diagnostic imaging of respiratory system
+432074001,L138,L13.8 Other specified transluminal operations on pulmonary artery
+119746007,E545,E54.5 Partial lobectomy of lung NEC
+241540006,Y971,Y97.1 Radiology with pre and post contrast
+241226006,Y532,Y53.2 Approach to organ under ultrasonic control
+49528005,E554,E55.4 Open destruction of lesion of lung NEC
+425948009,Y536,Y53.6 Approach to organ under video control
+232622002,E469,E46.9 Unspecified partial extirpation of bronchus
+90249002,E594,E59.4 Drainage of lung
+61000087103,Z245,Z24.5 Bronchus
+119755005,Y263,Y26.3 Stapling of organ NOC
+241541005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+241616006,Z246,Z24.6 Lung
+232657004,K011,K01.1 Allotransplantation of heart and lung
+233211003,Y162,Y16.2 Anastomosis of organ NOC
+726428009,Z942,Z94.2 Right sided operation
+450608000,E503,E50.3 Endoscopic destruction of lesion of lower respiratory tract using rigid bronchoscope NEC
+35295005,Y538,Y53.8 Other specified approach to organ under image control
+440466000,Y931,Y93.1 Gallium-67 imaging scan
+765041007,Y536,Y53.6 Approach to organ under video control
+175267003,Y531,Y53.1 Approach to organ under radiological control
+241227002,Y532,Y53.2 Approach to organ under ultrasonic control
+90249002,E592,E59.2 Aspiration biopsy of lesion of lung
+232653000,E571,E57.1 Repair of lung
+397396006,E489,E48.9 Unspecified therapeutic fibreoptic endoscopic operations on lower respiratory tract
+232591009,E498,E49.8 Other specified diagnostic fibreoptic endoscopic examination of lower respiratory tract
+397396006,E505,E50.5 Endoscopic removal of foreign body from lower respiratory tract using rigid bronchoscope
+119755005,E572,E57.2 Ligation of bulla of lung
+35295005,Y532,Y53.2 Approach to organ under ultrasonic control
+441624004,Y931,Y93.1 Gallium-67 imaging scan
+119746007,E544,E54.4 Excision of segment of lung
+169003001,Z246,Z24.6 Lung
+49528005,E502,E50.2 Endoscopic laser destruction of lesion of lower respiratory tract using rigid bronchoscope
+870380006,U364,U36.4 Ultrasound elastography
+169142004,Y948,Y94.8 Other specified radiopharmaceutical imaging
+169142004,Y941,Y94.1 Dopamine transporter scan
+301083005,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
+43831007,E595,E59.5 Percutaneous radiofrequency ablation of lesion of lung
+232641004,E543,E54.3 Lobectomy of lung
+173098009,E468,E46.8 Other specified partial extirpation of bronchus
+310393006,E571,E57.1 Repair of lung
+425948009,L134,L13.4 Percutaneous transluminal cutting balloon angioplasty of pulmonary artery
+397396006,E485,E48.5 Fibreoptic endoscopic removal of foreign body from lower respiratory tract
+241293008,Y939,Y93.9 Unspecified gallium-67 imaging
+169142004,Z246,Z24.6 Lung
+61339001,E528,E52.8 Other specified other operations on bronchus
+387748005,E553,E55.3 Open cauterisation of lesion of lung
+90249002,E591,E59.1 Needle biopsy of lesion of lung
+173102001,E464,E46.4 Open destruction of lesion of bronchus
+241053004,Z246,Z24.6 Lung
+35295005,Y536,Y53.6 Approach to organ under video control
+232646009,Y712,Y71.2 Secondary operations NOC
+241304008,Z246,Z24.6 Lung
+232636007,Z942,Z94.2 Right sided operation
+61000087103,Z942,Z94.2 Right sided operation
+232648005,E548,E54.8 Other specified excision of lung
+440466000,Y943,Y94.3 Metaiodobenzylguanidine imaging
+43831007,Y536,Y53.6 Approach to organ under video control
+232622002,E462,E46.2 Excision of cyst of bronchus
+829831000000100,Y374,Y37.4 Insertion of marker into organ NOC
+43831007,Y534,Y53.4 Approach to organ under fluoroscopic control
+241540006,U212,U21.2 Computed tomography NEC
+433240003,L661,L66.1 Percutaneous transluminal arterial thrombolysis and reconstruction
+431489004,L133,L13.3 Arteriography of pulmonary artery
+450608000,E554,E55.4 Open destruction of lesion of lung NEC
+440466000,Y939,Y93.9 Unspecified gallium-67 imaging
+397396006,E486,E48.6 Fibreoptic endoscopic irrigation of lower respiratory tract
+233208004,L128,L12.8 Other specified other open operations on pulmonary artery
+175267003,Y533,Y53.3 Approach to organ under computed tomography scan control
+47806007,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
+241226006,Y534,Y53.4 Approach to organ under fluoroscopic control
+233208004,L122,L12.2 Adjustment of band to pulmonary artery
+241293008,Y941,Y94.1 Dopamine transporter scan
+1119344002,Z245,Z24.5 Bronchus
+870380006,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
+441624004,Z246,Z24.6 Lung
+241227002,Y535,Y53.5 Approach to organ under image intensifier
+116030005,E593,E59.3 Biopsy of lesion of lung NEC
+56909003,E522,E52.2 Aspiration of bronchus NEC
+61000087103,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
+241053004,U158,U15.8 Other specified diagnostic imaging of respiratory system
+175253007,L108,L10.8 Other specified repair of pulmonary artery
+51000087101,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
+765042000,Y533,Y53.3 Approach to organ under computed tomography scan control
+721044005,Y971,Y97.1 Radiology with pre and post contrast
+169021003,Y971,Y97.1 Radiology with pre and post contrast
+232649002,E573,E57.3 Deflation of bulla of lung
+397398007,E486,E48.6 Fibreoptic endoscopic irrigation of lower respiratory tract
+241227002,Y534,Y53.4 Approach to organ under fluoroscopic control
+232646009,E541,E54.1 Total pneumonectomy
+241304008,Y949,Y94.9 Unspecified radiopharmaceutical imaging
+397396006,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
+425948009,Y534,Y53.4 Approach to organ under fluoroscopic control
+443396005,E594,E59.4 Drainage of lung
+448523009,Z246,Z24.6 Lung
+89862001,E571,E57.1 Repair of lung
+24599003,L722,L72.2 Monitoring of arterial pressure
+443396005,Y533,Y53.3 Approach to organ under computed tomography scan control
+241541005,Z941,Z94.1 Bilateral operation
+418786005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+233214006,Y408,Y40.8 Other specified dilation of organ NOC
+735015005,E541,E54.1 Total pneumonectomy
+233208004,L123,L12.3 Removal of band from pulmonary artery
+765042000,Y539,Y53.9 Unspecified approach to organ under image control
+870380006,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+232640003,E473,E47.3 Repair of bronchus NEC
+301083005,Y533,Y53.3 Approach to organ under computed tomography scan control
+397396006,E509,E50.9 Unspecified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
+440466000,Z246,Z24.6 Lung
+232640003,E543,E54.3 Lobectomy of lung
+301083005,Y539,Y53.9 Unspecified approach to organ under image control
+726425007,Z942,Z94.2 Right sided operation
+440466000,Y942,Y94.2 Octreotide imaging
+169057008,Y973,Y97.3 Radiology with post contrast
+173176002,E552,E55.2 Open excision of lesion of lung
+397396006,E504,E50.4 Endoscopic aspiration of lower respiratory tract using rigid bronchoscope
+112813007,L013,L01.3 Repair of anomalous pulmonary artery origin from ascending aorta
+49404006,Z128,Z12.8 Specified nerve NEC
+119730004,E464,E46.4 Open destruction of lesion of bronchus
+232638008,Z943,Z94.3 Left sided operation
+359618004,E544,E54.4 Excision of segment of lung
+277437006,Y248,Y24.8 Other specified microvascular repair of organ NOC
+770700009,Y149,Y14.9 Unspecified placement of stent in organ NOC
+35295005,E591,E59.1 Needle biopsy of lesion of lung
+233213000,L104,L10.4 Repair of pulmonary arterial sling
+241542003,Z246,Z24.6 Lung
+49404006,A601,A60.1 Enucleation of peripheral nerve
+735015005,Z943,Z94.3 Left sided operation
+301083005,Y535,Y53.5 Approach to organ under image intensifier
+82651004,Y259,Y25.9 Unspecified suture of organ NOC
+119744005,E528,E52.8 Other specified other operations on bronchus
+232638008,E544,E54.4 Excision of segment of lung
+169142004,Y931,Y93.1 Gallium-67 imaging scan
+241227002,L133,L13.3 Arteriography of pulmonary artery
+233208004,L125,L12.5 Open embolisation of pulmonary artery
+173098009,E462,E46.2 Excision of cyst of bronchus
+241303002,Y931,Y93.1 Gallium-67 imaging scan
+1119345001,U217,U21.7 Plain x-ray NEC
+765042000,Y532,Y53.2 Approach to organ under ultrasonic control
+175253007,L104,L10.4 Repair of pulmonary arterial sling
+312849006,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
+429122009,L136,L13.6 Percutaneous transluminal insertion of stent into pulmonary artery
+173176002,E559,E55.9 Unspecified open extirpation of lesion of lung
+441624004,Y939,Y93.9 Unspecified gallium-67 imaging
+173191000,E592,E59.2 Aspiration biopsy of lesion of lung
+397396006,Z243,Z24.3 Trachea
+425948009,Y535,Y53.5 Approach to organ under image intensifier
+433857008,Y534,Y53.4 Approach to organ under fluoroscopic control
+232637003,E544,E54.4 Excision of segment of lung
+448523009,E498,E49.8 Other specified diagnostic fibreoptic endoscopic examination of lower respiratory tract
+233211003,L108,L10.8 Other specified repair of pulmonary artery
+232631002,E552,E55.2 Open excision of lesion of lung
+175267003,Y535,Y53.5 Approach to organ under image intensifier
+29785002,E471,E47.1 Open biopsy of lesion of bronchus NEC
+441624004,Y943,Y94.3 Metaiodobenzylguanidine imaging
+440466000,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
+736748006,Y763,Y76.3 Endoscopic approach to other body cavity
+708812005,Y535,Y53.5 Approach to organ under image intensifier
+1119344002,Z943,Z94.3 Left sided operation
+241303002,Y938,Y93.8 Other specified gallium-67 imaging
+241304008,Y941,Y94.1 Dopamine transporter scan
+232624001,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
+20142006,E544,E54.4 Excision of segment of lung
+770700009,Y142,Y14.2 Insertion of expanding metal stent into organ NOC
+88039007,K011,K01.1 Allotransplantation of heart and lung
+770700009,Y148,Y14.8 Other specified placement of stent in organ NOC
+721044005,U354,U35.4 Computed tomography of pulmonary arteries
+765041007,Y533,Y53.3 Approach to organ under computed tomography scan control
+765042000,Y538,Y53.8 Other specified approach to organ under image control
+77648009,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
+61000087103,Y973,Y97.3 Radiology with post contrast
+20142006,E549,E54.9 Unspecified excision of lung
+450873006,E598,E59.8 Other specified other operations on lung
+59325001,Z245,Z24.5 Bronchus
+432231006,Y204,Y20.4 Fine needle aspiration NOC
+87101000,E463,E46.3 Excision of lesion of bronchus NEC
+169021003,Z246,Z24.6 Lung
+1119344002,U217,U21.7 Plain x-ray NEC
+49404006,A602,A60.2 Avulsion of peripheral nerve
+78603008,E593,E59.3 Biopsy of lesion of lung NEC
+119730004,E462,E46.2 Excision of cyst of bronchus
+708812005,Y539,Y53.9 Unspecified approach to organ under image control
+765041007,Y534,Y53.4 Approach to organ under fluoroscopic control
+770700009,Z245,Z24.5 Bronchus
+19095002,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
+232649002,E572,E57.2 Ligation of bulla of lung
+232643001,E541,E54.1 Total pneumonectomy
+169142004,Y949,Y94.9 Unspecified radiopharmaceutical imaging
+84200003,Y536,Y53.6 Approach to organ under video control
+20142006,E543,E54.3 Lobectomy of lung
+119730004,E469,E46.9 Unspecified partial extirpation of bronchus
+241304008,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
+4539004,E441,E44.1 Excision of carina
+119738006,Y261,Y26.1 Reconstruction of organ NOC
+119746007,E543,E54.3 Lobectomy of lung
+175267003,Y536,Y53.6 Approach to organ under video control
+241303002,Y943,Y94.3 Metaiodobenzylguanidine imaging
+57113004,Y939,Y93.9 Unspecified gallium-67 imaging
+241226006,Y539,Y53.9 Unspecified approach to organ under image control
+287306002,E518,E51.8 Other specified diagnostic endoscopic examination of lower respiratory tract using rigid bronchoscope
+49404006,A609,A60.9 Unspecified destruction of peripheral nerve
+359615001,E545,E54.5 Partial lobectomy of lung NEC
+287309009,Y498,Y49.8 Other specified approach through thoracic cavity
+829831000000100,Y533,Y53.3 Approach to organ under computed tomography scan control
+61000087103,U215,U21.5 Contrast fluoroscopy NEC
+448287006,E463,E46.3 Excision of lesion of bronchus NEC
+57113004,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
+287306002,Z245,Z24.5 Bronchus
+233213000,L102,L10.2 Repair of pulmonary artery using patch
+173098009,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
+233208004,L124,L12.4 Open embolectomy of pulmonary artery
+233208004,L121,L12.1 Application of band to pulmonary artery
+301083005,Y531,Y53.1 Approach to organ under radiological control
+397396006,E503,E50.3 Endoscopic destruction of lesion of lower respiratory tract using rigid bronchoscope NEC
+397396006,E483,E48.3 Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC
+765042000,Z942,Z94.2 Right sided operation
+58074001,Y276,Y27.6 Prosthetic graft NOC
+450348001,E592,E59.2 Aspiration biopsy of lesion of lung
+431596004,Y534,Y53.4 Approach to organ under fluoroscopic control
+90249002,E595,E59.5 Percutaneous radiofrequency ablation of lesion of lung
+425437006,L126,L12.6 Pulmonary artery ligation
+241616006,Y973,Y97.3 Radiology with post contrast
+233216008,Y069,Y06.9 Unspecified excision of lesion of organ NOC
+440466000,Y949,Y94.9 Unspecified radiopharmaceutical imaging
+397396006,E487,E48.7 Fibreoptic endoscopic photodynamic therapy of lesion of lower respiratory tract
+450608000,Z246,Z24.6 Lung
+175267003,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
+169003001,Y971,Y97.1 Radiology with pre and post contrast
+232628003,E593,E59.3 Biopsy of lesion of lung NEC
+232591009,Z246,Z24.6 Lung
+35295005,Y531,Y53.1 Approach to organ under radiological control
+20142006,E542,E54.2 Bilobectomy of lung
+448287006,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
+387747000,Y131,Y13.1 Cauterisation of lesion of organ NOC
+88039007,K018,K01.8 Other specified transplantation of heart and lung
+59325001,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
+173176002,E553,E55.3 Open cauterisation of lesion of lung
+241303002,U158,U15.8 Other specified diagnostic imaging of respiratory system
+241541005,U212,U21.2 Computed tomography NEC
+173179009,E553,E55.3 Open cauterisation of lesion of lung
+397395005,E521,E52.1 Irrigation of bronchus NEC
+397396006,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
+764864002,Y948,Y94.8 Other specified radiopharmaceutical imaging
+232633004,Y052,Y05.2 Partial excision of organ NOC
+241299007,Y948,Y94.8 Other specified radiopharmaceutical imaging
+310393006,Y251,Y25.1 Suture of laceration of organ NOC
+241541005,Z246,Z24.6 Lung
+726427004,Z943,Z94.3 Left sided operation
+58205009,Z245,Z24.5 Bronchus
+88039007,E531,E53.1 Double lung transplant
+82651004,Y252,Y25.2 Resuture of organ NOC
+287465001,Y531,Y53.1 Approach to organ under radiological control
+241304008,U158,U15.8 Other specified diagnostic imaging of respiratory system
+173176002,E558,E55.8 Other specified open extirpation of lesion of lung
+241542003,Z941,Z94.1 Bilateral operation
+79653008,E464,E46.4 Open destruction of lesion of bronchus
+432074001,L128,L12.8 Other specified other open operations on pulmonary artery
+119746007,E541,E54.1 Total pneumonectomy
+418876000,Y973,Y97.3 Radiology with post contrast
+3654008,E544,E54.4 Excision of segment of lung
+19095002,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
+765042000,Y534,Y53.4 Approach to organ under fluoroscopic control
+418786005,Y971,Y97.1 Radiology with pre and post contrast
+58074001,Y271,Y27.1 Autograft to organ NOC
+57113004,Y941,Y94.1 Dopamine transporter scan
+232651003,E552,E55.2 Open excision of lesion of lung
+870380006,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
+429609002,E441,E44.1 Excision of carina
+175267003,Y539,Y53.9 Unspecified approach to organ under image control
+49528005,E483,E48.3 Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC
+20142006,E545,E54.5 Partial lobectomy of lung NEC
+241541005,Y971,Y97.1 Radiology with pre and post contrast
+829831000000100,E598,E59.8 Other specified other operations on lung
+119743004,E528,E52.8 Other specified other operations on bronchus
+175267003,Y538,Y53.8 Other specified approach to organ under image control
+175253007,L102,L10.2 Repair of pulmonary artery using patch
+119753003,E571,E57.1 Repair of lung
+708861007,Y112,Y11.2 Cryotherapy to organ NOC
+241303002,Y941,Y94.1 Dopamine transporter scan
+241293008,Y949,Y94.9 Unspecified radiopharmaceutical imaging
+447751001,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
+232639000,Z943,Z94.3 Left sided operation
+59325001,E471,E47.1 Open biopsy of lesion of bronchus NEC
+241226006,Y536,Y53.6 Approach to organ under video control
+765042000,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
+241297009,Y948,Y94.8 Other specified radiopharmaceutical imaging
+397396006,E521,E52.1 Irrigation of bronchus NEC
+232636007,E544,E54.4 Excision of segment of lung
+119738006,E473,E47.3 Repair of bronchus NEC
+232622002,E478,E47.8 Other specified other open operations on bronchus
+232648005,E441,E44.1 Excision of carina
+287306002,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
+1119344002,Y971,Y97.1 Radiology with pre and post contrast
+433030005,L138,L13.8 Other specified transluminal operations on pulmonary artery
+72109001,E473,E47.3 Repair of bronchus NEC
+726427004,E543,E54.3 Lobectomy of lung
+287306002,E493,E49.3 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and brush cytology of lesion of lower respiratory tract
+448287006,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
+770700009,Y143,Y14.3 Insertion of metal stent into organ NOC
+16332841000119106,U354,U35.4 Computed tomography of pulmonary arteries
+58205009,E505,E50.5 Endoscopic removal of foreign body from lower respiratory tract using rigid bronchoscope
+59325001,Y204,Y20.4 Fine needle aspiration NOC
+77648009,Y498,Y49.8 Other specified approach through thoracic cavity
+232643001,E441,E44.1 Excision of carina
+312849006,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
+233208004,L126,L12.6 Pulmonary artery ligation
+241293008,Y931,Y93.1 Gallium-67 imaging scan
+735016006,E541,E54.1 Total pneumonectomy
+232657004,K019,K01.9 Unspecified transplantation of heart and lung
+78603008,E591,E59.1 Needle biopsy of lesion of lung
+450348001,E593,E59.3 Biopsy of lesion of lung NEC
+169142004,Y942,Y94.2 Octreotide imaging
+447751001,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
+447751001,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
+175253007,L103,L10.3 Repair of anomalous pulmonary artery NEC
+233209007,L128,L12.8 Other specified other open operations on pulmonary artery
+51000087101,Z943,Z94.3 Left sided operation
+447975009,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
+241053004,Y971,Y97.1 Radiology with pre and post contrast
+432074001,Y037,Y03.7 Removal of prosthesis from organ NOC
+432074001,Y534,Y53.4 Approach to organ under fluoroscopic control
+442303003,E573,E57.3 Deflation of bulla of lung
+241226006,Y531,Y53.1 Approach to organ under radiological control
+49528005,E552,E55.2 Open excision of lesion of lung
+431430006,Y942,Y94.2 Octreotide imaging
+19095002,E478,E47.8 Other specified other open operations on bronchus
+119755005,E574,E57.4 Incision of lung NEC
+241293008,Y942,Y94.2 Octreotide imaging
+173171007,E545,E54.5 Partial lobectomy of lung NEC
+232624001,E463,E46.3 Excision of lesion of bronchus NEC
+433240003,Z401,Z40.1 Pulmonary artery
+232647000,E441,E44.1 Excision of carina
+441677009,U159,U15.9 Unspecified diagnostic imaging of respiratory system
+12986006,E552,E55.2 Open excision of lesion of lung
+418876000,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
+441677009,Z246,Z24.6 Lung
+233213000,L108,L10.8 Other specified repair of pulmonary artery
+49404006,A606,A60.6 Selective denervation of peripheral nerve
+301083005,Y538,Y53.8 Other specified approach to organ under image control
+397840008,E473,E47.3 Repair of bronchus NEC
+232644007,E441,E44.1 Excision of carina
+431430006,Y949,Y94.9 Unspecified radiopharmaceutical imaging
+301083005,Y536,Y53.6 Approach to organ under video control
+448523009,Y764,Y76.4 Endoscopic ultrasonic approach to other body cavity
+232622002,E472,E47.2 Closure of fistula of bronchus
+870380006,Z246,Z24.6 Lung
+58205009,E485,E48.5 Fibreoptic endoscopic removal of foreign body from lower respiratory tract
+43831007,E591,E59.1 Needle biopsy of lesion of lung
+1119345001,Y971,Y97.1 Radiology with pre and post contrast
+232656008,E573,E57.3 Deflation of bulla of lung
+5632009,E471,E47.1 Open biopsy of lesion of bronchus NEC
+57113004,Y938,Y93.8 Other specified gallium-67 imaging
+447751001,Y069,Y06.9 Unspecified excision of lesion of organ NOC
+431430006,Z246,Z24.6 Lung
+84200003,Y535,Y53.5 Approach to organ under image intensifier
+84200003,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
+43831007,E598,E59.8 Other specified other operations on lung
+169057008,U217,U21.7 Plain x-ray NEC
+232635006,Z942,Z94.2 Right sided operation
+232657004,K018,K01.8 Other specified transplantation of heart and lung
+241227002,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
+450348001,E591,E59.1 Needle biopsy of lesion of lung
+43831007,E594,E59.4 Drainage of lung
+232641004,E441,E44.1 Excision of carina
+57113004,Y949,Y94.9 Unspecified radiopharmaceutical imaging
+287305003,Y291,Y29.1 Surgical removal of foreign body from organ NOC
+274319000,E591,E59.1 Needle biopsy of lesion of lung
+765041007,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
+708812005,Y532,Y53.2 Approach to organ under ultrasonic control
+173098009,E441,E44.1 Excision of carina
+448538005,X453,X45.3 Donation of lobe of lung
+232625000,E473,E47.3 Repair of bronchus NEC
+232635006,E544,E54.4 Excision of segment of lung
+29785002,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
+61339001,Y208,Y20.8 Other specified biopsy of organ NOC
+91160008,Z245,Z24.5 Bronchus
+91160008,Y973,Y97.3 Radiology with post contrast
+175253007,L109,L10.9 Unspecified repair of pulmonary artery
+277182002,L128,L12.8 Other specified other open operations on pulmonary artery
+35295005,Y534,Y53.4 Approach to organ under fluoroscopic control
+287465001,Y536,Y53.6 Approach to organ under video control
+1119345001,Y973,Y97.3 Radiology with post contrast
+43831007,Y539,Y53.9 Unspecified approach to organ under image control
+49404006,A603,A60.3 Transection of peripheral nerve
+51000087101,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+337877003,E552,E55.2 Open excision of lesion of lung
+175267003,Y532,Y53.2 Approach to organ under ultrasonic control
+241303002,Y942,Y94.2 Octreotide imaging
+84200003,Y531,Y53.1 Approach to organ under radiological control
+431430006,U158,U15.8 Other specified diagnostic imaging of respiratory system
+261563006,L128,L12.8 Other specified other open operations on pulmonary artery
+441624004,Y948,Y94.8 Other specified radiopharmaceutical imaging
+43831007,E592,E59.2 Aspiration biopsy of lesion of lung
+765042000,Y531,Y53.1 Approach to organ under radiological control
+119744005,Y428,Y42.8 Other specified manipulation of organ NOC
+721044005,Y973,Y97.3 Radiology with post contrast
+173171007,E543,E54.3 Lobectomy of lung
+359618004,E543,E54.3 Lobectomy of lung
+765041007,Y539,Y53.9 Unspecified approach to organ under image control
+241302007,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
+425948009,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
+241542003,Y973,Y97.3 Radiology with post contrast
+1119344002,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+79653008,E482,E48.2 Fibreoptic endoscopic laser destruction of lesion of lower respiratory tract
+232637003,Z942,Z94.2 Right sided operation
+15015009,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
+726426008,Z943,Z94.3 Left sided operation
+77648009,E552,E55.2 Open excision of lesion of lung
+397396006,E484,E48.4 Fibreoptic endoscopic aspiration of lower respiratory tract
+43831007,E599,E59.9 Unspecified other operations on lung
+16332841000119106,Y973,Y97.3 Radiology with post contrast
+241303002,Y948,Y94.8 Other specified radiopharmaceutical imaging
+277437006,E478,E47.8 Other specified other open operations on bronchus
+447751001,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
+16332841000119106,Y971,Y97.1 Radiology with pre and post contrast
+51000087101,Y971,Y97.1 Radiology with pre and post contrast
+241298004,Y948,Y94.8 Other specified radiopharmaceutical imaging
+119736005,E473,E47.3 Repair of bronchus NEC
+241293008,Y948,Y94.8 Other specified radiopharmaceutical imaging
+88039007,E533,E53.3 Single lobe lung transplant
+397398007,E506,E50.6 Endoscopic irrigation of lower respiratory tract using rigid bronchoscope
+232591009,Z243,Z24.3 Trachea
+359618004,E545,E54.5 Partial lobectomy of lung NEC
+232644007,E541,E54.1 Total pneumonectomy
+57113004,Y943,Y94.3 Metaiodobenzylguanidine imaging
+418549007,Y534,Y53.4 Approach to organ under fluoroscopic control
+232634005,E548,E54.8 Other specified excision of lung
+241299007,U152,U15.2 Lung ventilation scanning NEC
+84200003,L133,L13.3 Arteriography of pulmonary artery
+241303002,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
+301083005,L132,L13.2 Percutaneous transluminal embolisation of pulmonary artery
+119755005,Y262,Y26.2 Plastic repair of organ NOC
+45558009,E574,E57.4 Incision of lung NEC
+287465001,Y539,Y53.9 Unspecified approach to organ under image control
+51000087101,Y973,Y97.3 Radiology with post contrast
+336863008,E552,E55.2 Open excision of lesion of lung
+418786005,Y973,Y97.3 Radiology with post contrast
+450608000,E483,E48.3 Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC
+310394000,E571,E57.1 Repair of lung
+84200003,Y532,Y53.2 Approach to organ under ultrasonic control
+241227002,Y533,Y53.3 Approach to organ under computed tomography scan control
+387747000,Y111,Y11.1 Cauterisation of organ NOC
+440466000,Y948,Y94.8 Other specified radiopharmaceutical imaging
+770700009,Y146,Y14.6 Insertion of biodegradable stent into organ NOC
+57113004,Y948,Y94.8 Other specified radiopharmaceutical imaging
+232622002,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
+287309009,E549,E54.9 Unspecified excision of lung
+72109001,E472,E47.2 Closure of fistula of bronchus
+241304008,Y943,Y94.3 Metaiodobenzylguanidine imaging
+84200003,Y534,Y53.4 Approach to organ under fluoroscopic control
+397396006,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
+770700009,Y144,Y14.4 Insertion of plastic stent into organ NOC
+770700009,Y534,Y53.4 Approach to organ under fluoroscopic control
+432067006,L136,L13.6 Percutaneous transluminal insertion of stent into pulmonary artery
+287306002,E492,E49.2 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and lavage of lesion of lower respiratory tract
+57113004,Y942,Y94.2 Octreotide imaging
+78603008,Y744,Y74.4 Thoracoscopic video-assisted approach to thoracic cavity
+43831007,Y535,Y53.5 Approach to organ under image intensifier
+241542003,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+119755005,Y264,Y26.4 Removal of other repair material from organ NOC
+397396006,E506,E50.6 Endoscopic irrigation of lower respiratory tract using rigid bronchoscope
+119755005,Y261,Y26.1 Reconstruction of organ NOC
+1119345001,Z245,Z24.5 Bronchus
+426987001,E595,E59.5 Percutaneous radiofrequency ablation of lesion of lung
+241053004,Y973,Y97.3 Radiology with post contrast
+84200003,Y539,Y53.9 Unspecified approach to organ under image control
+51000087101,Z245,Z24.5 Bronchus
+58074001,Y273,Y27.3 Xenograft to organ NOC
+173184003,E572,E57.2 Ligation of bulla of lung
+82651004,Y254,Y25.4 Removal of other suture from organ NOC
+241226006,Y535,Y53.5 Approach to organ under image intensifier
+91160008,Y971,Y97.1 Radiology with pre and post contrast
+241293008,Z246,Z24.6 Lung
+708812005,Y534,Y53.4 Approach to organ under fluoroscopic control
+765041007,L133,L13.3 Arteriography of pulmonary artery
+310832007,E472,E47.2 Closure of fistula of bronchus
+448134000,E856,E85.6 Continuous positive airway pressure
+241302007,U152,U15.2 Lung ventilation scanning NEC
+765041007,Y538,Y53.8 Other specified approach to organ under image control
+232632009,Y052,Y05.2 Partial excision of organ NOC
+173170008,E542,E54.2 Bilobectomy of lung
+232642006,E441,E44.1 Excision of carina
+119730004,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
+770700009,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
+169115000,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
+87101000,E462,E46.2 Excision of cyst of bronchus
+432231006,E591,E59.1 Needle biopsy of lesion of lung
+770700009,E528,E52.8 Other specified other operations on bronchus
+397396006,E482,E48.2 Fibreoptic endoscopic laser destruction of lesion of lower respiratory tract
+765041007,Z943,Z94.3 Left sided operation
+241293008,Y943,Y94.3 Metaiodobenzylguanidine imaging
+79653008,E483,E48.3 Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC
+440466000,Y938,Y93.8 Other specified gallium-67 imaging
+440466000,Y941,Y94.1 Dopamine transporter scan
+43831007,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
+169115000,Y973,Y97.3 Radiology with post contrast
+241304008,Y942,Y94.2 Octreotide imaging
+397396006,E502,E50.2 Endoscopic laser destruction of lesion of lower respiratory tract using rigid bronchoscope
+233208004,L129,L12.9 Unspecified other open operations on pulmonary artery
+232655007,E592,E59.2 Aspiration biopsy of lesion of lung
+425948009,Y538,Y53.8 Other specified approach to organ under image control
+62843007,Y429,Y42.9 Unspecified manipulation of organ NOC
+79653008,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
+61000087103,Y971,Y97.1 Radiology with pre and post contrast
+119755005,E573,E57.3 Deflation of bulla of lung
+387747000,E598,E59.8 Other specified other operations on lung
+49404006,A608,A60.8 Other specified destruction of peripheral nerve
+232622002,E468,E46.8 Other specified partial extirpation of bronchus
+78603008,E592,E59.2 Aspiration biopsy of lesion of lung
+287306002,E494,E49.4 Diagnostic fibreoptic endoscopic examination of lower respiratory tract with lavage and brush cytology of lesion of lower respiratory tract
+431596004,L131,L13.1 Percutaneous transluminal embolectomy of pulmonary artery
+441624004,Y938,Y93.8 Other specified gallium-67 imaging
+1119344002,Y973,Y97.3 Radiology with post contrast
+49404006,A604,A60.4 Radiofrequency controlled thermal destruction of peripheral nerve
+173185002,E573,E57.3 Deflation of bulla of lung
+765042000,L133,L13.3 Arteriography of pulmonary artery
+440466000,U214,U21.4 Single photon emission computed tomography NEC
+119755005,E579,E57.9 Unspecified other open operations on lung
+433857008,Y781,Y78.1 Arteriotomy approach to organ using image guidance with fluoroscopy
+173190004,E591,E59.1 Needle biopsy of lesion of lung
+425948009,Y539,Y53.9 Unspecified approach to organ under image control
+29785002,Z245,Z24.5 Bronchus
+287305003,E528,E52.8 Other specified other operations on bronchus
+441624004,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
+49528005,E503,E50.3 Endoscopic destruction of lesion of lower respiratory tract using rigid bronchoscope NEC
+35295005,Y204,Y20.4 Fine needle aspiration NOC
+713162006,X453,X45.3 Donation of lobe of lung
+43831007,Y533,Y53.3 Approach to organ under computed tomography scan control
+448287006,Y069,Y06.9 Unspecified excision of lesion of organ NOC
+173177006,E551,E55.1 Open decortication of lesion of lung
+175263004,L125,L12.5 Open embolisation of pulmonary artery
+232634005,Y052,Y05.2 Partial excision of organ NOC
+232639000,E544,E54.4 Excision of segment of lung
+708812005,Y536,Y53.6 Approach to organ under video control
+232652005,E573,E57.3 Deflation of bulla of lung
+431489004,Y442,Y44.2 Monitoring of pressure in organ NOC
+708812005,E594,E59.4 Drainage of lung
+49528005,E482,E48.2 Fibreoptic endoscopic laser destruction of lesion of lower respiratory tract
+119755005,Y265,Y26.5 Other attention to repair of organ NOC
+169142004,Y943,Y94.3 Metaiodobenzylguanidine imaging
+1119345001,Z942,Z94.2 Right sided operation
+241227002,Y538,Y53.8 Other specified approach to organ under image control
+425948009,Y532,Y53.2 Approach to organ under ultrasonic control
+232631002,Y063,Y06.3 Enucleation of lesion of organ NOC
+232591009,Z244,Z24.4 Carina
+119736005,E472,E47.2 Closure of fistula of bronchus
+241542003,Y971,Y97.1 Radiology with pre and post contrast
+82651004,Y255,Y25.5 Other attention to suture of organ NOC
+119730004,E478,E47.8 Other specified other open operations on bronchus
+232649002,E578,E57.8 Other specified other open operations on lung
+86112008,E473,E47.3 Repair of bronchus NEC
+88039007,E538,E53.8 Other specified transplantation of lung
+169115000,Y971,Y97.1 Radiology with pre and post contrast
+119738006,E472,E47.2 Closure of fistula of bronchus
+708812005,Y533,Y53.3 Approach to organ under computed tomography scan control
+397840008,E472,E47.2 Closure of fistula of bronchus
+119746007,E441,E44.1 Excision of carina
+29785002,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
+49528005,E558,E55.8 Other specified open extirpation of lesion of lung
+232591009,E518,E51.8 Other specified diagnostic endoscopic examination of lower respiratory tract using rigid bronchoscope
+708812005,Y531,Y53.1 Approach to organ under radiological control
+241226006,Y533,Y53.3 Approach to organ under computed tomography scan control
+119755005,Y269,Y26.9 Unspecified other repair of organ NOC
+169142004,Y939,Y93.9 Unspecified gallium-67 imaging
+35295005,Y533,Y53.3 Approach to organ under computed tomography scan control
+432067006,Y534,Y53.4 Approach to organ under fluoroscopic control
+43831007,Y532,Y53.2 Approach to organ under ultrasonic control
+310832007,E473,E47.3 Repair of bronchus NEC
+241304008,Y948,Y94.8 Other specified radiopharmaceutical imaging
+765041007,Y535,Y53.5 Approach to organ under image intensifier
+431216004,Y534,Y53.4 Approach to organ under fluoroscopic control
+418549007,L133,L13.3 Arteriography of pulmonary artery

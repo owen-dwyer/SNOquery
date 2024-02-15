@@ -1,54 +1,92 @@
 snomed,opcs,opcs_term
 49586007,H144,H14.4 Appendicocaecostomy
+118866001,Q569,Q56.9 Unspecified other operations on female genital tract
 85472003,T374,T37.4 Repair of mesentery of small intestine
+118867005,Q548,Q54.8 Other specified operations on other ligament of uterus
 250073009,Y252,Y25.2 Resuture of organ NOC
 63187005,Q521,Q52.1 Excision of lesion of broad ligament of uterus
 238299003,T371,T37.1 Excision of lesion of mesentery of small intestine
 73257006,Y031,Y03.1 Maintenance of prosthesis in organ NOC
+77442000,Y037,Y03.7 Removal of prosthesis from organ NOC
+169353003,Z534,Z53.4 Peritoneal cavity
 47765003,T094,T09.4 Chemical open pleurodesis
-44366009,T291,T29.1 Excision of umbilicus
+238262003,T341,T34.1 Open drainage of subphrenic abscess
+238288000,T468,T46.8 Other specified other drainage of peritoneal cavity
 440189003,Y032,Y03.2 Renewal of prosthesis in organ NOC
 120174003,T388,T38.8 Other specified operations on mesentery of colon
 25187007,T363,T36.3 Destruction of lesion of omentum
 87102007,Y066,Y06.6 Vacuum excision of lesion of organ NOC
+10848006,Y037,Y03.7 Removal of prosthesis from organ NOC
+235314005,H012,H01.2 Emergency excision of abnormal appendix NEC
+8613002,H033,H03.3 Exteriorisation of appendix
 78233008,Y252,Y25.2 Resuture of organ NOC
+708988001,X428,X42.8 Other specified placement of other apparatus for compensation for renal failure
+772081005,Y281,Y28.1 Insertion of synthetic mesh into organ NOC
+180277007,X421,X42.1 Insertion of temporary peritoneal dialysis catheter
 709633006,T439,T43.9 Unspecified diagnostic endoscopic examination of peritoneum
 66681002,A124,A12.4 Creation of ventriculoperitoneal shunt
 387826009,T341,T34.1 Open drainage of subphrenic abscess
+80264004,Y398,Y39.8 Other specified injection of other substance into organ NOC
 450435004,T463,T46.3 Irrigation of peritoneal cavity
+238268004,T368,T36.8 Other specified operations on omentum
 32578005,Y205,Y20.5 Percutaneous biopsy NOC
+176742008,Y229,Y22.9 Unspecified drainage of organ NOC
 32578005,Y203,Y20.3 Biopsy of lesion of organ NOC
+772774007,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 63343006,Y751,Y75.1 Laparoscopically assisted approach to abdominal cavity
 710313004,Y943,Y94.3 Metaiodobenzylguanidine imaging
+238257004,T348,T34.8 Other specified open drainage of peritoneum
 676002,X428,X42.8 Other specified placement of other apparatus for compensation for renal failure
 359902008,T289,T28.9 Unspecified other repair of anterior abdominal wall
+238269007,T388,T38.8 Other specified operations on mesentery of colon
 450435004,Y755,Y75.5 Laparoscopic ultrasonic approach to abdominal cavity
 440041009,Y037,Y03.7 Removal of prosthesis from organ NOC
 225230008,X428,X42.8 Other specified placement of other apparatus for compensation for renal failure
+238257004,T342,T34.2 Open drainage of pelvic abscess
 87053005,Q528,Q52.8 Other specified operations on broad ligament of uterus
 214173000,Q548,Q54.8 Other specified operations on other ligament of uterus
 241479003,Y971,Y97.1 Radiology with pre and post contrast
+359691006,T462,T46.2 Drainage of ascites NEC
 47765003,T099,T09.9 Unspecified other open operations on pleura
 431946006,Y971,Y97.1 Radiology with pre and post contrast
+238262003,T451,T45.1 Image controlled percutaneous drainage of subphrenic abscess
 225230008,X429,X42.9 Unspecified placement of other apparatus for compensation for renal failure
+80264004,T484,T48.4 Introduction of substance into peritoneal cavity NEC
 177981006,T391,T39.1 Excision of lesion of posterior peritoneum
+178020005,X658,X65.8 Other specified radiotherapy delivery
 359902008,T288,T28.8 Other specified other repair of anterior abdominal wall
+708613002,T341,T34.1 Open drainage of subphrenic abscess
 241479003,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 120176001,T373,T37.3 Biopsy of lesion of mesentery of small intestine
 359981003,Y079,Y07.9 Unspecified obliteration of cavity of organ NOC
+238286001,T463,T46.3 Irrigation of peritoneal cavity
+8613002,H018,H01.8 Other specified emergency excision of appendix
 676002,X402,X40.2 Peritoneal dialysis NEC
 68141001,T382,T38.2 Destruction of lesion of mesentery of colon
+438341004,X428,X42.8 Other specified placement of other apparatus for compensation for renal failure
 709643009,T433,T43.3 Diagnostic endoscopic ultrasound examination of peritoneum
+238257004,T452,T45.2 Image controlled percutaneous drainage of pelvic abscess
 71192002,X406,X40.6 Continuous ambulatory peritoneal dialysis
 709643009,T411,T41.1 Open biopsy of lesion of peritoneum NEC
+50065002,Y398,Y39.8 Other specified injection of other substance into organ NOC
+708613002,T462,T46.2 Drainage of ascites NEC
+288110008,T488,T48.8 Other specified other operations on peritoneum
 63343006,Y206,Y20.6 Plugged biopsy NOC
 710197007,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 431946006,Z534,Z53.4 Peritoneal cavity
+772080006,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
+609260005,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 6801000,Y059,Y05.9 Unspecified excision of organ NOC
 32578005,H031,H03.1 Drainage of abscess of appendix
+8613002,H022,H02.2 Planned delayed appendicectomy NEC
 6025007,H029,H02.9 Unspecified other excision of appendix
+438341004,X411,X41.1 Insertion of ambulatory peritoneal dialysis catheter
+265084002,Q549,Q54.9 Unspecified operations on other ligament of uterus
 276189003,Y053,Y05.3 Excision of sinus track from organ NOC
 387824007,T348,T34.8 Other specified open drainage of peritoneum
+13176000,T468,T46.8 Other specified other drainage of peritoneal cavity
+238257004,T453,T45.3 Image controlled percutaneous drainage of abdominal abscess NEC
+45602008,T415,T41.5 Freeing of extensive adhesions of peritoneum
 60305009,T374,T37.4 Repair of mesentery of small intestine
 238307009,T368,T36.8 Other specified operations on omentum
 47045001,Y069,Y06.9 Unspecified excision of lesion of organ NOC
@@ -59,123 +97,214 @@ snomed,opcs,opcs_term
 25187007,Y222,Y22.2 Aspiration of other lesion of organ NOC
 443041005,Y531,Y53.1 Approach to organ under radiological control
 39258002,T374,T37.4 Repair of mesentery of small intestine
+51113007,H032,H03.2 Drainage of appendix NEC
+238276002,Y228,Y22.8 Other specified drainage of organ NOC
+238277006,T391,T39.1 Excision of lesion of posterior peritoneum
+238265001,H161,H16.1 Drainage of colon
 63343006,Y207,Y20.7 Vacuum biopsy of lesion of organ NOC
+51113007,Y181,Y18.1 Freeing of adhesions of organ NOC
+50065002,T488,T48.8 Other specified other operations on peritoneum
+177996005,T424,T42.4 Endoscopic removal of foreign body from peritoneum
+89999000,Q523,Q52.3 Shortening of broad ligament of uterus
 120174003,T381,T38.1 Excision of lesion of mesentery of colon
 709633006,T433,T43.3 Diagnostic endoscopic ultrasound examination of peritoneum
 55281003,Q548,Q54.8 Other specified operations on other ligament of uterus
 238303008,Y055,Y05.5 Debridement of organ NOC
+708614008,T423,T42.3 Endoscopic division of adhesions of peritoneum
 708876004,H024,H02.4 Incidental appendicectomy
+386676003,T416,T41.6 Excision of peritoneum
 55281003,Y118,Y11.8 Other specified other destruction of organ NOC
+608790005,T271,T27.1 Repair of ventral hernia using insert of natural material
 76359002,Y221,Y22.1 Aspiration of haematoma of organ NOC
 241479003,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 171757002,A534,A53.4 Creation of lumboperitoneal shunt
+238260006,T459,T45.9 Unspecified image controlled operations on abdominal cavity
 63343006,Q548,Q54.8 Other specified operations on other ligament of uterus
 710313004,Y948,Y94.8 Other specified radiopharmaceutical imaging
+608790005,T982,T98.2 Repair of recurrent ventral hernia using insert of prosthetic material
 177940003,T332,T33.2 Open destruction of lesion of peritoneum
+171756006,A533,A53.3 Creation of syringoperitoneal shunt
 72741000,A538,A53.8 Other specified drainage of spinal canal
 709633006,T411,T41.1 Open biopsy of lesion of peritoneum NEC
-45669002,T369,T36.9 Unspecified operations on omentum
+238286001,T462,T46.2 Drainage of ascites NEC
+118837004,H021,H02.1 Interval appendicectomy
 676002,X421,X42.1 Insertion of temporary peritoneal dialysis catheter
+43340002,Q549,Q54.9 Unspecified operations on other ligament of uterus
 71192002,X405,X40.5 Automated peritoneal dialysis
 81561002,Y255,Y25.5 Other attention to suture of organ NOC
 178005004,Y535,Y53.5 Approach to organ under image intensifier
+238292007,T305,T30.5 Packing of abdominal cavity
+238280007,T348,T34.8 Other specified open drainage of peritoneum
 709633006,T432,T43.2 Diagnostic endoscopic examination of peritoneum and biopsy of lesion of intra-abdominal organ NEC
 72741000,A536,A53.6 Creation of lumbar subcutaneous shunt
+772775008,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 174041007,H018,H01.8 Other specified emergency excision of appendix
+238286001,T342,T34.2 Open drainage of pelvic abscess
 174036004,H012,H01.2 Emergency excision of abnormal appendix NEC
+238286001,T349,T34.9 Unspecified open drainage of peritoneum
 65542000,Q528,Q52.8 Other specified operations on broad ligament of uterus
+177980007,T391,T39.1 Excision of lesion of posterior peritoneum
 710313004,Y941,Y94.1 Dopamine transporter scan
 710197007,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 32578005,Y208,Y20.8 Other specified biopsy of organ NOC
+238314006,Y032,Y03.2 Renewal of prosthesis in organ NOC
+772773001,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
+230825008,A141,A14.1 Renewal of cerebroventricular shunt
+608790005,T273,T27.3 Repair of ventral hernia using sutures
+238260006,T348,T34.8 Other specified open drainage of peritoneum
+118837004,H018,H01.8 Other specified emergency excision of appendix
+438342006,X418,X41.8 Other specified placement of ambulatory apparatus for compensation for renal failure
+50065002,Y394,Y39.4 Lipofilling injection into organ NOC
 25187007,T368,T36.8 Other specified operations on omentum
+772079008,T982,T98.2 Repair of recurrent ventral hernia using insert of prosthetic material
 708701002,Y531,Y53.1 Approach to organ under radiological control
 120182003,T434,T43.4 Diagnostic endoscopic ultrasound examination of peritoneum and biopsy of intra-abdominal organ
 177064004,Q522,Q52.2 Destruction of lesion of broad ligament of uterus
 708701002,Y204,Y20.4 Fine needle aspiration NOC
+29391003,T461,T46.1 Paracentesis abdominis for ascites
+238286001,T468,T46.8 Other specified other drainage of peritoneal cavity
 6801000,Y054,Y05.4 Ex vivo resection of organ NOC
 708701002,Y539,Y53.9 Unspecified approach to organ under image control
 120174003,T383,T38.3 Biopsy of lesion of mesentery of colon
+238301005,T428,T42.8 Other specified therapeutic endoscopic operations on peritoneum
 66513002,T363,T36.3 Destruction of lesion of omentum
 708680006,T461,T46.1 Paracentesis abdominis for ascites
 78233008,Y251,Y25.1 Suture of laceration of organ NOC
+772774007,T271,T27.1 Repair of ventral hernia using insert of natural material
+235314005,H013,H01.3 Emergency excision of normal appendix
 430104008,T431,T43.1 Diagnostic endoscopic examination of peritoneum and biopsy of lesion of peritoneum
+238348007,Y168,Y16.8 Other specified connection of organ NOC
 33158004,W761,W76.1 Excision of ligament
 63343006,Y202,Y20.2 Stereotactic biopsy of organ NOC
+708613002,T461,T46.1 Paracentesis abdominis for ascites
 120176001,T379,T37.9 Unspecified operations on mesentery of small intestine
+830155008,T482,T48.2 Introduction of cytotoxic substance into peritoneal cavity
+238287005,T348,T34.8 Other specified open drainage of peritoneum
+177973005,T384,T38.4 Repair of mesentery of colon
 71192002,X421,X42.1 Insertion of temporary peritoneal dialysis catheter
 35083003,T384,T38.4 Repair of mesentery of colon
 87102007,Y063,Y06.3 Enucleation of lesion of organ NOC
 42332004,H033,H03.3 Exteriorisation of appendix
 713903002,T361,T36.1 Omentectomy
 225230008,X411,X41.1 Insertion of ambulatory peritoneal dialysis catheter
+10848006,X412,X41.2 Removal of ambulatory peritoneal dialysis catheter
+1172563000,X411,X41.1 Insertion of ambulatory peritoneal dialysis catheter
 1299000,H024,H02.4 Incidental appendicectomy
+80264004,T483,T48.3 Introduction of therapeutic substance into peritoneal cavity
+449182000,T488,T48.8 Other specified other operations on peritoneum
+10444003,T368,T36.8 Other specified operations on omentum
+51113007,H038,H03.8 Other specified other operations on appendix
 1299000,H023,H02.3 Prophylactic appendicectomy NEC
 39258002,T388,T38.8 Other specified operations on mesentery of colon
+177973005,T382,T38.2 Destruction of lesion of mesentery of colon
 241479003,Y973,Y97.3 Radiology with post contrast
 708876004,H022,H02.2 Planned delayed appendicectomy NEC
 59982008,Q548,Q54.8 Other specified operations on other ligament of uterus
 32578005,Y209,Y20.9 Unspecified biopsy of organ NOC
+29391003,T462,T46.2 Drainage of ascites NEC
+772079008,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 361168006,Y259,Y25.9 Unspecified suture of organ NOC
+29078006,P315,P31.5 Removal of intrauterine contraceptive device from pouch of Douglas
 443935000,H012,H01.2 Emergency excision of abnormal appendix NEC
 29481005,T432,T43.2 Diagnostic endoscopic examination of peritoneum and biopsy of lesion of intra-abdominal organ NEC
+174052001,H031,H03.1 Drainage of abscess of appendix
 39258002,T382,T38.2 Destruction of lesion of mesentery of colon
 87102007,Y053,Y05.3 Excision of sinus track from organ NOC
+238263008,T451,T45.1 Image controlled percutaneous drainage of subphrenic abscess
 443037006,H031,H03.1 Drainage of abscess of appendix
 120176001,T371,T37.1 Excision of lesion of mesentery of small intestine
 56168005,P314,P31.4 Culdotomy NEC
+302455000,T461,T46.1 Paracentesis abdominis for ascites
+238260006,T341,T34.1 Open drainage of subphrenic abscess
+708613002,T468,T46.8 Other specified other drainage of peritoneal cavity
 120194007,Y421,Y42.1 External manipulation of organ NOC
+235314005,H028,H02.8 Other specified other excision of appendix
+80264004,Y381,Y38.1 Continuous injection of therapeutic substance into organ NOC
 428648006,X405,X40.5 Automated peritoneal dialysis
 387826009,Y532,Y53.2 Approach to organ under ultrasonic control
+238277006,Y061,Y06.1 Marsupialisation of organ NOC
+238257004,T461,T46.1 Paracentesis abdominis for ascites
 710313004,Z534,Z53.4 Peritoneal cavity
 64941009,T488,T48.8 Other specified other operations on peritoneum
 78233008,Y258,Y25.8 Other specified suture of organ NOC
+238310002,T488,T48.8 Other specified other operations on peritoneum
 225230008,X419,X41.9 Unspecified placement of ambulatory apparatus for compensation for renal failure
+235335007,T343,T34.3 Open drainage of abdominal abscess NEC
 39258002,T371,T37.1 Excision of lesion of mesentery of small intestine
 120184002,T374,T37.4 Repair of mesentery of small intestine
 32578005,Y207,Y20.7 Vacuum biopsy of lesion of organ NOC
+238276002,T348,T34.8 Other specified open drainage of peritoneum
 67976002,P318,P31.8 Other specified operations on pouch of Douglas
+772084002,T981,T98.1 Repair of recurrent ventral hernia using insert of natural material
+608790005,Y755,Y75.5 Laparoscopic ultrasonic approach to abdominal cavity
+80264004,Y388,Y38.8 Other specified injection of therapeutic substance into organ NOC
 276189003,Y054,Y05.4 Ex vivo resection of organ NOC
 29481005,T434,T43.4 Diagnostic endoscopic ultrasound examination of peritoneum and biopsy of intra-abdominal organ
 85472003,T389,T38.9 Unspecified operations on mesentery of colon
 708646008,T393,T39.3 Biopsy of lesion of posterior peritoneum
+238280007,Y228,Y22.8 Other specified drainage of organ NOC
 176456009,T193,T19.3 Ligation of patent processus vaginalis
 120174003,T378,T37.8 Other specified operations on mesentery of small intestine
 708876004,H018,H01.8 Other specified emergency excision of appendix
 63343006,Y204,Y20.4 Fine needle aspiration NOC
+359691006,T463,T46.3 Irrigation of peritoneal cavity
 3399007,T361,T36.1 Omentectomy
 710197007,Z281,Z28.1 Appendix
 29481005,T439,T43.9 Unspecified diagnostic endoscopic examination of peritoneum
 241479003,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 66513002,Y308,Y30.8 Other specified incision of organ NOC
+708613002,T458,T45.8 Other specified image controlled operations on abdominal cavity
 39258002,T378,T37.8 Other specified operations on mesentery of small intestine
 177969007,T373,T37.3 Biopsy of lesion of mesentery of small intestine
 6801000,T373,T37.3 Biopsy of lesion of mesentery of small intestine
+238287005,T468,T46.8 Other specified other drainage of peritoneal cavity
 87102007,Y067,Y06.7 Radiofrequency excision of lesion of organ NOC
 17041004,H031,H03.1 Drainage of abscess of appendix
 11878008,Y069,Y06.9 Unspecified excision of lesion of organ NOC
+10444003,T364,T36.4 Biopsy of lesion of omentum
+118837004,H039,H03.9 Unspecified other operations on appendix
+178021009,T482,T48.2 Introduction of cytotoxic substance into peritoneal cavity
 32578005,H039,H03.9 Unspecified other operations on appendix
+80264004,Y393,Y39.3 Injection of inert substance into organ NOC
 54080001,Q522,Q52.2 Destruction of lesion of broad ligament of uterus
+426150005,T413,T41.3 Freeing of adhesions of peritoneum
 6025007,H021,H02.1 Interval appendicectomy
 6025007,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 708680006,Y534,Y53.4 Approach to organ under fluoroscopic control
+287853009,T413,T41.3 Freeing of adhesions of peritoneum
 35083003,T374,T37.4 Repair of mesentery of small intestine
 708701002,Y538,Y53.8 Other specified approach to organ under image control
+89999000,Q568,Q56.8 Other specified other operations on female genital tract
+238309007,T483,T48.3 Introduction of therapeutic substance into peritoneal cavity
+238260006,T458,T45.8 Other specified image controlled operations on abdominal cavity
+80264004,T489,T48.9 Unspecified other operations on peritoneum
+238261005,T451,T45.1 Image controlled percutaneous drainage of subphrenic abscess
+238278001,G632,G63.2 Incision of jejunum
+708613002,T459,T45.9 Unspecified image controlled operations on abdominal cavity
+235314005,H019,H01.9 Unspecified emergency excision of appendix
 87102007,Y059,Y05.9 Unspecified excision of organ NOC
 250073009,Y254,Y25.4 Removal of other suture from organ NOC
 1299000,Y051,Y05.1 Total excision of organ NOC
-45669002,T361,T36.1 Omentectomy
+608790005,T272,T27.2 Repair of ventral hernia using insert of prosthetic material
 120176001,T389,T38.9 Unspecified operations on mesentery of colon
 73257006,X402,X40.2 Peritoneal dialysis NEC
 177923007,T292,T29.2 Excision of urachus
+43340002,Q548,Q54.8 Other specified operations on other ligament of uterus
 25187007,T361,T36.1 Omentectomy
 8979005,L811,L81.1 Creation of peritovenous shunt
 709655003,T468,T46.8 Other specified other drainage of peritoneal cavity
+450578006,P316,P31.6 Removal of foreign body from pouch of Douglas NEC
+238286001,T343,T34.3 Open drainage of abdominal abscess NEC
 708680006,Y539,Y53.9 Unspecified approach to organ under image control
+50065002,Y391,Y39.1 Injection of radiocontrast substance into sinus track from organ NOC
+118866001,Q562,Q56.2 Fertiloscopy
 6801000,T383,T38.3 Biopsy of lesion of mesentery of colon
 177941004,T331,T33.1 Open excision of lesion of peritoneum
 68141001,T379,T37.9 Unspecified operations on mesentery of small intestine
+177966000,T378,T37.8 Other specified operations on mesentery of small intestine
 224316005,Q548,Q54.8 Other specified operations on other ligament of uterus
 710197007,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+177966000,T379,T37.9 Unspecified operations on mesentery of small intestine
 387824007,T459,T45.9 Unspecified image controlled operations on abdominal cavity
 225231007,X419,X41.9 Unspecified placement of ambulatory apparatus for compensation for renal failure
 6025007,Y755,Y75.5 Laparoscopic ultrasonic approach to abdominal cavity
@@ -187,74 +316,111 @@ snomed,opcs,opcs_term
 120196009,Y428,Y42.8 Other specified manipulation of organ NOC
 66513002,T362,T36.2 Excision of lesion of omentum
 63343006,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
+238260006,T343,T34.3 Open drainage of abdominal abscess NEC
 450435004,Y751,Y75.1 Laparoscopically assisted approach to abdominal cavity
+89999000,Q561,Q56.1 Fertility investigation of female NEC
 709655003,Y533,Y53.3 Approach to organ under computed tomography scan control
 32578005,H038,H03.8 Other specified other operations on appendix
+29078006,P313,P31.3 Aspiration of pouch of Douglas
 174041007,H013,H01.3 Emergency excision of normal appendix
+307582003,H032,H03.2 Drainage of appendix NEC
 178005004,T451,T45.1 Image controlled percutaneous drainage of subphrenic abscess
+45602008,T423,T42.3 Endoscopic division of adhesions of peritoneum
 73910002,T301,T30.1 Reopening of abdomen and re-exploration of intra-abdominal operation site and surgical arrest of postoperative bleeding
 710313004,Y942,Y94.2 Octreotide imaging
+708988001,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
+177955007,T484,T48.4 Introduction of substance into peritoneal cavity NEC
+708613002,T451,T45.1 Image controlled percutaneous drainage of subphrenic abscess
 32578005,H032,H03.2 Drainage of appendix NEC
-85503007,K238,K23.8 Other specified other operations of wall of heart
 120174003,T384,T38.4 Repair of mesentery of colon
 68141001,T383,T38.3 Biopsy of lesion of mesentery of colon
 81561002,Y259,Y25.9 Unspecified suture of organ NOC
 275245003,T411,T41.1 Open biopsy of lesion of peritoneum NEC
 29481005,T433,T43.3 Diagnostic endoscopic ultrasound examination of peritoneum
-82418001,P222,P22.2 Anterior colporrhaphy and amputation of cervix uteri NEC
+609263007,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
+118848006,T369,T36.9 Unspecified operations on omentum
 90472003,Q548,Q54.8 Other specified operations on other ligament of uterus
 47765003,T093,T09.3 Mechanical open pleurodesis
 1299000,H028,H02.8 Other specified other excision of appendix
+29078006,P318,P31.8 Other specified operations on pouch of Douglas
+177945008,T349,T34.9 Unspecified open drainage of peritoneum
 708876004,H021,H02.1 Interval appendicectomy
+772079008,Y281,Y28.1 Insertion of synthetic mesh into organ NOC
+238312005,Z534,Z53.4 Peritoneal cavity
 89305009,T468,T46.8 Other specified other drainage of peritoneal cavity
 359975006,P318,P31.8 Other specified operations on pouch of Douglas
 65542000,Y059,Y05.9 Unspecified excision of organ NOC
+439825000,T488,T48.8 Other specified other operations on peritoneum
 448143009,H334,H33.4 Anterior resection of rectum and anastomosis NEC
 25187007,T365,T36.5 Creation of omental flap
 6801000,T381,T38.1 Excision of lesion of mesentery of colon
+448481005,H038,H03.8 Other specified other operations on appendix
 63939001,Q548,Q54.8 Other specified operations on other ligament of uterus
+708613002,T349,T34.9 Unspecified open drainage of peritoneum
+280392009,A124,A12.4 Creation of ventriculoperitoneal shunt
 387824007,T451,T45.1 Image controlled percutaneous drainage of subphrenic abscess
 29481005,T438,T43.8 Other specified diagnostic endoscopic examination of peritoneum
+440383008,T856,T85.6 Block dissection of pelvic lymph nodes
 387824007,T349,T34.9 Unspecified open drainage of peritoneum
 178005004,Y539,Y53.9 Unspecified approach to organ under image control
 177993002,T421,T42.1 Endoscopic resection of lesion of peritoneum
-274960001,T368,T36.8 Other specified operations on omentum
+178016006,T468,T46.8 Other specified other drainage of peritoneal cavity
+10444003,T362,T36.2 Excision of lesion of omentum
 53829005,P313,P31.3 Aspiration of pouch of Douglas
 36897004,T244,T24.4 Removal of prosthetic material from previous repair of umbilical hernia
 430104008,Y204,Y20.4 Fine needle aspiration NOC
+238283009,G632,G63.2 Incision of jejunum
+240288004,R048,R04.8 Other specified therapeutic percutaneous operations on fetus
 58277002,P317,P31.7 Extirpation of lesion of pouch of Douglas
+238261005,T428,T42.8 Other specified therapeutic endoscopic operations on peritoneum
 2199005,P317,P31.7 Extirpation of lesion of pouch of Douglas
 120174003,T382,T38.2 Destruction of lesion of mesentery of colon
 708646008,T411,T41.1 Open biopsy of lesion of peritoneum NEC
-274959006,T368,T36.8 Other specified operations on omentum
+238277006,T331,T33.1 Open excision of lesion of peritoneum
 63343006,Y203,Y20.3 Biopsy of lesion of organ NOC
 41457005,T308,T30.8 Other specified opening of abdomen
 225230008,X418,X41.8 Other specified placement of ambulatory apparatus for compensation for renal failure
 41457005,T309,T30.9 Unspecified opening of abdomen
+51113007,H033,H03.3 Exteriorisation of appendix
 120182003,T439,T43.9 Unspecified diagnostic endoscopic examination of peritoneum
 34538004,Q548,Q54.8 Other specified operations on other ligament of uterus
 14684005,X402,X40.2 Peritoneal dialysis NEC
+178012008,T461,T46.1 Paracentesis abdominis for ascites
+608790005,T278,T27.8 Other specified repair of other hernia of abdominal wall
+180273006,X412,X41.2 Removal of ambulatory peritoneal dialysis catheter
+238257004,T463,T46.3 Irrigation of peritoneal cavity
+118837004,H019,H01.9 Unspecified emergency excision of appendix
+772775008,Y282,Y28.2 Insertion of biological mesh into organ NOC
 80146002,H022,H02.2 Planned delayed appendicectomy NEC
 54080001,Q528,Q52.8 Other specified operations on broad ligament of uterus
+772081005,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 32578005,Y201,Y20.1 Stereotactic biopsy of lesion of organ NOC
 708647004,T364,T36.4 Biopsy of lesion of omentum
 373647002,Y204,Y20.4 Fine needle aspiration NOC
 174041007,Y751,Y75.1 Laparoscopically assisted approach to abdominal cavity
+238277006,T421,T42.1 Endoscopic resection of lesion of peritoneum
 6025007,H028,H02.8 Other specified other excision of appendix
 64772004,T374,T37.4 Repair of mesentery of small intestine
 307581005,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
-44366009,T299,T29.9 Unspecified operations on umbilicus
 120182003,T432,T43.2 Diagnostic endoscopic examination of peritoneum and biopsy of lesion of intra-abdominal organ NEC
+29078006,P319,P31.9 Unspecified operations on pouch of Douglas
+315311009,Q548,Q54.8 Other specified operations on other ligament of uterus
+440383008,Z941,Z94.1 Bilateral operation
 710197007,U216,U21.6 Ultrasound scan NEC
 32578005,H033,H03.3 Exteriorisation of appendix
 224316005,Y131,Y13.1 Cauterisation of lesion of organ NOC
 6025007,H018,H01.8 Other specified emergency excision of appendix
 90472003,Y269,Y26.9 Unspecified other repair of organ NOC
+264971004,T423,T42.3 Endoscopic division of adhesions of peritoneum
 238304002,T392,T39.2 Destruction of lesion of posterior peritoneum
 85472003,T384,T38.4 Repair of mesentery of colon
 6025007,Y751,Y75.1 Laparoscopically assisted approach to abdominal cavity
-44366009,Y301,Y30.1 Incision of lesion of organ NOC
+230829002,A143,A14.3 Removal of cerebroventricular shunt
+118837004,H031,H03.1 Drainage of abscess of appendix
+708613002,T348,T34.8 Other specified open drainage of peritoneum
+238308004,T483,T48.3 Introduction of therapeutic substance into peritoneal cavity
 708876004,H028,H02.8 Other specified other excision of appendix
+280392009,A149,A14.9 Unspecified other operations on connection from ventricle of brain
 120181005,T433,T43.3 Diagnostic endoscopic ultrasound examination of peritoneum
 80146002,H018,H01.8 Other specified emergency excision of appendix
 112920001,Q528,Q52.8 Other specified operations on broad ligament of uterus
@@ -262,16 +428,26 @@ snomed,opcs,opcs_term
 78233008,Y254,Y25.4 Removal of other suture from organ NOC
 238321006,X402,X40.2 Peritoneal dialysis NEC
 708628002,T431,T43.1 Diagnostic endoscopic examination of peritoneum and biopsy of lesion of peritoneum
+178020005,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
+280392009,A142,A14.2 Revision of cerebroventricular shunt NEC
+180272001,X411,X41.1 Insertion of ambulatory peritoneal dialysis catheter
+10444003,T365,T36.5 Creation of omental flap
+772776009,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 710313004,U218,U21.8 Other specified diagnostic imaging procedures
+772083008,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 168819002,T484,T48.4 Introduction of substance into peritoneal cavity NEC
+118848006,T365,T36.5 Creation of omental flap
 250073009,Q528,Q52.8 Other specified operations on broad ligament of uterus
 120176001,T384,T38.4 Repair of mesentery of colon
 708680006,Y535,Y53.5 Approach to organ under image intensifier
 178005004,Y534,Y53.4 Approach to organ under fluoroscopic control
 3399007,T369,T36.9 Unspecified operations on omentum
+609263007,Y751,Y75.1 Laparoscopically assisted approach to abdominal cavity
+8613002,H032,H03.2 Drainage of appendix NEC
 87102007,Y069,Y06.9 Unspecified excision of lesion of organ NOC
-45669002,T363,T36.3 Destruction of lesion of omentum
 387826009,Y539,Y53.9 Unspecified approach to organ under image control
+736025008,T484,T48.4 Introduction of substance into peritoneal cavity NEC
+177980007,T392,T39.2 Destruction of lesion of posterior peritoneum
 47208000,T368,T36.8 Other specified operations on omentum
 33158004,Z535,Z53.5 Omentum
 174041007,H019,H01.9 Unspecified emergency excision of appendix
@@ -283,44 +459,77 @@ snomed,opcs,opcs_term
 387826009,Y538,Y53.8 Other specified approach to organ under image control
 238305001,T431,T43.1 Diagnostic endoscopic examination of peritoneum and biopsy of lesion of peritoneum
 85472003,T371,T37.1 Excision of lesion of mesentery of small intestine
+238269007,Y228,Y22.8 Other specified drainage of organ NOC
 83416007,Y111,Y11.1 Cauterisation of organ NOC
+51113007,Y189,Y18.9 Unspecified release of organ NOC
+77442000,A535,A53.5 Drainage of cerebrospinal fluid NEC
 72741000,A532,A53.2 Creation of thecoperitoneal shunt
+238282004,T331,T33.1 Open excision of lesion of peritoneum
 116233004,Y209,Y20.9 Unspecified biopsy of organ NOC
 709643009,T439,T43.9 Unspecified diagnostic endoscopic examination of peritoneum
 120181005,T439,T43.9 Unspecified diagnostic endoscopic examination of peritoneum
 177055009,Q521,Q52.1 Excision of lesion of broad ligament of uterus
-85503007,Y691,Y69.1 Harvest of omentum
 177977006,T384,T38.4 Repair of mesentery of colon
+235335007,T453,T45.3 Image controlled percutaneous drainage of abdominal abscess NEC
 3399007,T365,T36.5 Creation of omental flap
 359902008,T282,T28.2 Suture of anterior abdominal wall
-45669002,T368,T36.8 Other specified operations on omentum
+440305003,Z398,Z39.8 Specified vein NEC
+772084002,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
+359691006,T349,T34.9 Unspecified open drainage of peritoneum
 440189003,G388,G38.8 Other specified other open operations on stomach
 17041004,Y309,Y30.9 Unspecified incision of organ NOC
 73910002,T304,T30.4 Opening of abdomen and exploration of groin
 716562007,T468,T46.8 Other specified other drainage of peritoneal cavity
+238263008,T341,T34.1 Open drainage of subphrenic abscess
+438341004,X421,X42.1 Insertion of temporary peritoneal dialysis catheter
+50065002,Z536,Z53.6 Mesentery
+238315007,Y036,Y03.6 Adjustment to prosthesis in organ NOC
+609260005,Y751,Y75.1 Laparoscopically assisted approach to abdominal cavity
+51113007,H031,H03.1 Drainage of abscess of appendix
 443040006,Y037,Y03.7 Removal of prosthesis from organ NOC
 241479003,U082,U08.2 Ultrasound of abdomen
+10848006,X428,X42.8 Other specified placement of other apparatus for compensation for renal failure
 63343006,Y205,Y20.5 Percutaneous biopsy NOC
+265084002,Q548,Q54.8 Other specified operations on other ligament of uterus
 224316005,Y111,Y11.1 Cauterisation of organ NOC
+77442000,A539,A53.9 Unspecified drainage of spinal canal
+238276002,T458,T45.8 Other specified image controlled operations on abdominal cavity
+238301005,T398,T39.8 Other specified operations on posterior peritoneum
+772774007,Y282,Y28.2 Insertion of biological mesh into organ NOC
 17041004,H032,H03.2 Drainage of appendix NEC
+178020005,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 387824007,T452,T45.2 Image controlled percutaneous drainage of pelvic abscess
+176388000,M831,M83.1 Drainage of paravesical abscess
+238266000,T343,T34.3 Open drainage of abdominal abscess NEC
 36897004,T249,T24.9 Unspecified primary repair of umbilical hernia
+176746006,P312,P31.2 Drainage of pouch of Douglas
 73910002,T309,T30.9 Unspecified opening of abdomen
 716558001,Y532,Y53.2 Approach to organ under ultrasonic control
+359691006,T469,T46.9 Unspecified other drainage of peritoneal cavity
 708680006,Y533,Y53.3 Approach to organ under computed tomography scan control
+280392009,A145,A14.5 Attention to cerebroventricular shunt NEC
+177966000,T374,T37.4 Repair of mesentery of small intestine
 699796007,A128,A12.8 Other specified creation of connection from ventricle of brain
 63343006,Y209,Y20.9 Unspecified biopsy of organ NOC
 13893002,Y073,Y07.3 Obliteration of sinus track from organ NOC
+177966000,T372,T37.2 Destruction of lesion of mesentery of small intestine
 120176001,T388,T38.8 Other specified operations on mesentery of colon
 47020004,A124,A12.4 Creation of ventriculoperitoneal shunt
 80146002,H029,H02.9 Unspecified other excision of appendix
+236935006,Q528,Q52.8 Other specified operations on broad ligament of uterus
 87102007,Y062,Y06.2 Deroofing of cyst of organ NOC
 69498006,Y181,Y18.1 Freeing of adhesions of organ NOC
+177945008,T342,T34.2 Open drainage of pelvic abscess
 238294008,T484,T48.4 Introduction of substance into peritoneal cavity NEC
+772081005,T272,T27.2 Repair of ventral hernia using insert of prosthetic material
 120174003,Y309,Y30.9 Unspecified incision of organ NOC
 25187007,T364,T36.4 Biopsy of lesion of omentum
+386676003,T489,T48.9 Unspecified other operations on peritoneum
+238301005,T338,T33.8 Other specified open extirpation of lesion of peritoneum
 120194007,Y429,Y42.9 Unspecified manipulation of organ NOC
 36897004,T248,T24.8 Other specified primary repair of umbilical hernia
+238283009,T348,T34.8 Other specified open drainage of peritoneum
+238281006,T458,T45.8 Other specified image controlled operations on abdominal cavity
 250073009,Y259,Y25.9 Unspecified suture of organ NOC
 87102007,Y061,Y06.1 Marsupialisation of organ NOC
 710313004,Y938,Y93.8 Other specified gallium-67 imaging
@@ -331,38 +540,50 @@ snomed,opcs,opcs_term
 235313004,H023,H02.3 Prophylactic appendicectomy NEC
 238319001,X402,X40.2 Peritoneal dialysis NEC
 64772004,T378,T37.8 Other specified operations on mesentery of small intestine
-44366009,Y308,Y30.8 Other specified incision of organ NOC
 708876004,H012,H01.2 Emergency excision of abnormal appendix NEC
 3399007,T368,T36.8 Other specified operations on omentum
 78233008,Y253,Y25.3 Removal of retained suture from organ NOC
 709633006,Y533,Y53.3 Approach to organ under computed tomography scan control
+772776009,Y281,Y28.1 Insertion of synthetic mesh into organ NOC
 225230008,X412,X41.2 Removal of ambulatory peritoneal dialysis catheter
+8613002,H021,H02.1 Interval appendicectomy
+13176000,T348,T34.8 Other specified open drainage of peritoneum
+708613002,T463,T46.3 Irrigation of peritoneal cavity
 37402004,H031,H03.1 Drainage of abscess of appendix
 47208000,Y269,Y26.9 Unspecified other repair of organ NOC
 177975003,T382,T38.2 Destruction of lesion of mesentery of colon
 6801000,T382,T38.2 Destruction of lesion of mesentery of colon
+235315006,H032,H03.2 Drainage of appendix NEC
 236936007,Q528,Q52.8 Other specified operations on broad ligament of uterus
 178005004,Y536,Y53.6 Approach to organ under video control
 387824007,T343,T34.3 Open drainage of abdominal abscess NEC
 225231007,X421,X42.1 Insertion of temporary peritoneal dialysis catheter
 33989004,Y049,Y04.9 Unspecified replantation of organ NOC
+359691006,T468,T46.8 Other specified other drainage of peritoneal cavity
 73910002,T303,T30.3 Reopening of abdomen NEC
 250073009,Y258,Y25.8 Other specified suture of organ NOC
 387826009,T451,T45.1 Image controlled percutaneous drainage of subphrenic abscess
+235314005,H018,H01.8 Other specified emergency excision of appendix
 78233008,Y259,Y25.9 Unspecified suture of organ NOC
 214173000,Q521,Q52.1 Excision of lesion of broad ligament of uterus
+262015000,T368,T36.8 Other specified operations on omentum
 73910002,T302,T30.2 Reopening of abdomen and re-exploration of intra-abdominal operation site NEC
 77665000,Q541,Q54.1 Suspension of uterus NEC
 54017006,Q543,Q54.3 Division of uteropelvic ligament
 432654009,X428,X42.8 Other specified placement of other apparatus for compensation for renal failure
 63343006,Y208,Y20.8 Other specified biopsy of organ NOC
-44366009,T294,T29.4 Biopsy of lesion of umbilicus
+700496000,T483,T48.3 Introduction of therapeutic substance into peritoneal cavity
 25187007,T369,T36.9 Unspecified operations on omentum
+440383008,T875,T87.5 Excision or biopsy of para-aortic lymph node
 174041007,H011,H01.1 Emergency excision of abnormal appendix and drainage HFQ
 443016003,Y533,Y53.3 Approach to organ under computed tomography scan control
-2745006,T368,T36.8 Other specified operations on omentum
+439825000,Y755,Y75.5 Laparoscopic ultrasonic approach to abdominal cavity
+118867005,Q549,Q54.9 Unspecified operations on other ligament of uterus
+238348007,T088,T08.8 Other specified open drainage of pleural cavity
 177961005,T364,T36.4 Biopsy of lesion of omentum
 54080001,Y131,Y13.1 Cauterisation of lesion of organ NOC
+302455000,T462,T46.2 Drainage of ascites NEC
+176749004,P315,P31.5 Removal of intrauterine contraceptive device from pouch of Douglas
 6025007,H011,H01.1 Emergency excision of abnormal appendix and drainage HFQ
 87102007,Y065,Y06.5 Gamma wave excision of lesion of organ NOC
 387826009,Y533,Y53.3 Approach to organ under computed tomography scan control
@@ -371,29 +592,41 @@ snomed,opcs,opcs_term
 39258002,T389,T38.9 Unspecified operations on mesentery of colon
 85472003,T373,T37.3 Biopsy of lesion of mesentery of small intestine
 6801000,T379,T37.9 Unspecified operations on mesentery of small intestine
+29078006,P316,P31.6 Removal of foreign body from pouch of Douglas NEC
 6801000,Y052,Y05.2 Partial excision of organ NOC
 28523002,N111,N11.1 Excision of hydrocele sac
-44366009,T296,T29.6 Plastic operations on umbilicus
+238280007,T428,T42.8 Other specified therapeutic endoscopic operations on peritoneum
 66513002,T368,T36.8 Other specified operations on omentum
 39258002,T372,T37.2 Destruction of lesion of mesentery of small intestine
+50065002,Y388,Y38.8 Other specified injection of therapeutic substance into organ NOC
+609263007,Y755,Y75.5 Laparoscopic ultrasonic approach to abdominal cavity
 85472003,T382,T38.2 Destruction of lesion of mesentery of colon
 238245008,T292,T29.2 Excision of urachus
 238241004,T292,T29.2 Excision of urachus
 708680006,T462,T46.2 Drainage of ascites NEC
+708636006,T343,T34.3 Open drainage of abdominal abscess NEC
 120182003,T438,T43.8 Other specified diagnostic endoscopic examination of peritoneum
+238269007,T378,T37.8 Other specified operations on mesentery of small intestine
 120176001,T378,T37.8 Other specified operations on mesentery of small intestine
+118848006,T368,T36.8 Other specified operations on omentum
+238281006,T348,T34.8 Other specified open drainage of peritoneum
 443935000,H011,H01.1 Emergency excision of abnormal appendix and drainage HFQ
 17041004,H038,H03.8 Other specified other operations on appendix
 709112001,T088,T08.8 Other specified open drainage of pleural cavity
 78384007,T361,T36.1 Omentectomy
 25187007,Y223,Y22.3 Irrigation of organ NOC
+118837004,H024,H02.4 Incidental appendicectomy
 87102007,Y055,Y05.5 Debridement of organ NOC
+236935006,Y221,Y22.1 Aspiration of haematoma of organ NOC
 178005004,Y538,Y53.8 Other specified approach to organ under image control
 120182003,T433,T43.3 Diagnostic endoscopic ultrasound examination of peritoneum
 708680006,T463,T46.3 Irrigation of peritoneal cavity
+233195002,K688,K68.8 Other specified drainage of pericardium
 6801000,T374,T37.4 Repair of mesentery of small intestine
+238275003,T458,T45.8 Other specified image controlled operations on abdominal cavity
 430105009,T373,T37.3 Biopsy of lesion of mesentery of small intestine
 387716006,T463,T46.3 Irrigation of peritoneal cavity
+359691006,T461,T46.1 Paracentesis abdominis for ascites
 174041007,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 30172007,Q548,Q54.8 Other specified operations on other ligament of uterus
 387826009,Y535,Y53.5 Approach to organ under image intensifier
@@ -405,24 +638,34 @@ snomed,opcs,opcs_term
 450502006,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 709643009,Y532,Y53.2 Approach to organ under ultrasonic control
 174045003,H021,H02.1 Interval appendicectomy
+238260006,T349,T34.9 Unspecified open drainage of peritoneum
 250073009,Y253,Y25.3 Removal of retained suture from organ NOC
+238257004,T343,T34.3 Open drainage of abdominal abscess NEC
 709633006,T431,T43.1 Diagnostic endoscopic examination of peritoneum and biopsy of lesion of peritoneum
 6801000,Y053,Y05.3 Excision of sinus track from organ NOC
 276189003,Y059,Y05.9 Unspecified excision of organ NOC
 174036004,H011,H01.1 Emergency excision of abnormal appendix and drainage HFQ
+50065002,Y393,Y39.3 Injection of inert substance into organ NOC
+708613002,T343,T34.3 Open drainage of abdominal abscess NEC
 120176001,T382,T38.2 Destruction of lesion of mesentery of colon
 3399007,T363,T36.3 Destruction of lesion of omentum
 65542000,Q548,Q54.8 Other specified operations on other ligament of uterus
 47765003,T091,T09.1 Open destruction of lesion of pleura
 1163275000,Q011,Q01.1 Amputation of cervix uteri
+238260006,T453,T45.3 Image controlled percutaneous drainage of abdominal abscess NEC
 708701002,Y533,Y53.3 Approach to organ under computed tomography scan control
 45195004,Q548,Q54.8 Other specified operations on other ligament of uterus
 120174003,T372,T37.2 Destruction of lesion of mesentery of small intestine
+8613002,H012,H01.2 Emergency excision of abnormal appendix NEC
+238286001,T461,T46.1 Paracentesis abdominis for ascites
 11291002,T362,T36.2 Excision of lesion of omentum
+178020005,T481,T48.1 Introduction of radioactive substance into peritoneal cavity
 432654009,X419,X41.9 Unspecified placement of ambulatory apparatus for compensation for renal failure
 359902008,T283,T28.3 Resuture of previous incision of anterior abdominal wall
 68141001,T372,T37.2 Destruction of lesion of mesentery of small intestine
 78233008,Y255,Y25.5 Other attention to suture of organ NOC
+118866001,Q521,Q52.1 Excision of lesion of broad ligament of uterus
+177973005,T383,T38.3 Biopsy of lesion of mesentery of colon
 64772004,T373,T37.3 Biopsy of lesion of mesentery of small intestine
 64772004,T372,T37.2 Destruction of lesion of mesentery of small intestine
 68748002,Q548,Q54.8 Other specified operations on other ligament of uterus
@@ -430,20 +673,27 @@ snomed,opcs,opcs_term
 430105009,Y204,Y20.4 Fine needle aspiration NOC
 46852006,W761,W76.1 Excision of ligament
 387824007,T342,T34.2 Open drainage of pelvic abscess
+236892008,P315,P31.5 Removal of intrauterine contraceptive device from pouch of Douglas
 63939001,Y268,Y26.8 Other specified other repair of organ NOC
 120194007,Y428,Y42.8 Other specified manipulation of organ NOC
+8613002,H024,H02.4 Incidental appendicectomy
 87102007,Y058,Y05.8 Other specified excision of organ NOC
+80264004,Y392,Y39.2 Other injection of radiocontrast substance into organ NOC
 307581005,Y751,Y75.1 Laparoscopically assisted approach to abdominal cavity
 307581005,Y755,Y75.5 Laparoscopic ultrasonic approach to abdominal cavity
 11878008,Q521,Q52.1 Excision of lesion of broad ligament of uterus
-44366009,T295,T29.5 Excision of fistula of umbilicus
+608790005,T989,T98.9 Unspecified repair of recurrent other hernia of abdominal wall
 387826009,Y536,Y53.6 Approach to organ under video control
+29391003,T463,T46.3 Irrigation of peritoneal cavity
 78233008,T418,T41.8 Other specified other open operations on peritoneum
 235313004,H022,H02.2 Planned delayed appendicectomy NEC
 120181005,T434,T43.4 Diagnostic endoscopic ultrasound examination of peritoneum and biopsy of intra-abdominal organ
 709643009,T432,T43.2 Diagnostic endoscopic examination of peritoneum and biopsy of lesion of intra-abdominal organ NEC
+8613002,H028,H02.8 Other specified other excision of appendix
+238279009,G385,G38.5 Incision of stomach NEC
 78233008,T413,T41.3 Freeing of adhesions of peritoneum
 174036004,H018,H01.8 Other specified emergency excision of appendix
+118837004,H028,H02.8 Other specified other excision of appendix
 708680006,T468,T46.8 Other specified other drainage of peritoneal cavity
 432654009,X412,X41.2 Removal of ambulatory peritoneal dialysis catheter
 43426004,Q568,Q56.8 Other specified other operations on female genital tract
@@ -451,61 +701,90 @@ snomed,opcs,opcs_term
 387826009,Y534,Y53.4 Approach to organ under fluoroscopic control
 81561002,Y253,Y25.3 Removal of retained suture from organ NOC
 42349006,Q521,Q52.1 Excision of lesion of broad ligament of uterus
+51113007,Y188,Y18.8 Other specified release of organ NOC
+438342006,Y032,Y03.2 Renewal of prosthesis in organ NOC
 716554004,T468,T46.8 Other specified other drainage of peritoneal cavity
 174036004,H019,H01.9 Unspecified emergency excision of appendix
-44366009,T292,T29.2 Excision of urachus
+307582003,H031,H03.1 Drainage of abscess of appendix
+708613002,T342,T34.2 Open drainage of pelvic abscess
+80264004,T482,T48.2 Introduction of cytotoxic substance into peritoneal cavity
 68141001,T384,T38.4 Repair of mesentery of colon
+238280007,T458,T45.8 Other specified image controlled operations on abdominal cavity
 236213005,M358,M35.8 Other specified partial excision of bladder
+772083008,T278,T27.8 Other specified repair of other hernia of abdominal wall
 87102007,Y054,Y05.4 Ex vivo resection of organ NOC
 17444001,T364,T36.4 Biopsy of lesion of omentum
 432654009,X429,X42.9 Unspecified placement of other apparatus for compensation for renal failure
+178006003,T452,T45.2 Image controlled percutaneous drainage of pelvic abscess
 68748002,Y209,Y20.9 Unspecified biopsy of organ NOC
 387826009,T458,T45.8 Other specified image controlled operations on abdominal cavity
-45669002,T362,T36.2 Excision of lesion of omentum
+118866001,Q561,Q56.1 Fertility investigation of female NEC
 1299000,Y052,Y05.2 Partial excision of organ NOC
 235316007,H625,H62.5 Irrigation of bowel NEC
 710313004,Y931,Y93.1 Gallium-67 imaging scan
 120176001,T374,T37.4 Repair of mesentery of small intestine
 78233008,T419,T41.9 Unspecified other open operations on peritoneum
+238315007,X418,X41.8 Other specified placement of ambulatory apparatus for compensation for renal failure
 78233008,T412,T41.2 Division of band of peritoneum
 38615002,T313,T31.3 Excision of lesion of anterior abdominal wall NEC
 32578005,Y204,Y20.4 Fine needle aspiration NOC
 30196002,Q528,Q52.8 Other specified operations on broad ligament of uterus
 5738003,Y209,Y20.9 Unspecified biopsy of organ NOC
 223306006,Q528,Q52.8 Other specified operations on broad ligament of uterus
+238266000,T428,T42.8 Other specified therapeutic endoscopic operations on peritoneum
 250073009,Y255,Y25.5 Other attention to suture of organ NOC
 47765003,T098,T09.8 Other specified other open operations on pleura
 361168006,Q548,Q54.8 Other specified operations on other ligament of uterus
 6801000,T388,T38.8 Other specified operations on mesentery of colon
+235335007,T428,T42.8 Other specified therapeutic endoscopic operations on peritoneum
 177940003,T338,T33.8 Other specified open extirpation of lesion of peritoneum
 448143009,H333,H33.3 Anterior resection of rectum and anastomosis of colon to rectum using staples
 43426004,Y069,Y06.9 Unspecified excision of lesion of organ NOC
 3399007,T362,T36.2 Excision of lesion of omentum
 235313004,H021,H02.1 Interval appendicectomy
+609260005,Y755,Y75.5 Laparoscopic ultrasonic approach to abdominal cavity
+177980007,T393,T39.3 Biopsy of lesion of posterior peritoneum
 39258002,T384,T38.4 Repair of mesentery of colon
+118866001,Q568,Q56.8 Other specified other operations on female genital tract
 120184002,T384,T38.4 Repair of mesentery of colon
 6801000,Y051,Y05.1 Total excision of organ NOC
+608790005,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 387826009,T348,T34.8 Other specified open drainage of peritoneum
+772775008,T981,T98.1 Repair of recurrent ventral hernia using insert of natural material
+708993003,T414,T41.4 Open removal of foreign body from peritoneum
+50065002,Y381,Y38.1 Continuous injection of therapeutic substance into organ NOC
 6025007,H023,H02.3 Prophylactic appendicectomy NEC
+238257004,T349,T34.9 Unspecified open drainage of peritoneum
 440041009,G388,G38.8 Other specified other open operations on stomach
+118837004,H013,H01.3 Emergency excision of normal appendix
+238279009,T348,T34.8 Other specified open drainage of peritoneum
 39258002,T379,T37.9 Unspecified operations on mesentery of small intestine
 72741000,A535,A53.5 Drainage of cerebrospinal fluid NEC
 174041007,Y755,Y75.5 Laparoscopic ultrasonic approach to abdominal cavity
 238322004,X402,X40.2 Peritoneal dialysis NEC
+438342006,X428,X42.8 Other specified placement of other apparatus for compensation for renal failure
 1299000,Y058,Y05.8 Other specified excision of organ NOC
-44366009,T293,T29.3 Extirpation of lesion of umbilicus
+238286001,T341,T34.1 Open drainage of subphrenic abscess
+177966000,T371,T37.1 Excision of lesion of mesentery of small intestine
 54080001,Y111,Y11.1 Cauterisation of organ NOC
 276189003,Q528,Q52.8 Other specified operations on broad ligament of uterus
+440383008,Q011,Q01.1 Amputation of cervix uteri
 710313004,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
+238282004,T391,T39.1 Excision of lesion of posterior peritoneum
+118866001,Q529,Q52.9 Unspecified operations on broad ligament of uterus
+708613002,T452,T45.2 Image controlled percutaneous drainage of pelvic abscess
 68141001,T373,T37.3 Biopsy of lesion of mesentery of small intestine
 448474003,H334,H33.4 Anterior resection of rectum and anastomosis NEC
 6801000,T372,T37.2 Destruction of lesion of mesentery of small intestine
 71192002,X402,X40.2 Peritoneal dialysis NEC
+238300006,T331,T33.1 Open excision of lesion of peritoneum
 40559003,Q542,Q54.2 Plication of round ligament of uterus
 79887000,T331,T33.1 Open excision of lesion of peritoneum
-85503007,Y271,Y27.1 Autograft to organ NOC
+29078006,P314,P31.4 Culdotomy NEC
 81561002,Y258,Y25.8 Other specified suture of organ NOC
+359691006,T341,T34.1 Open drainage of subphrenic abscess
 47765003,T108,T10.8 Other specified therapeutic endoscopic operations on pleura
+177945008,T341,T34.1 Open drainage of subphrenic abscess
 709643009,T431,T43.1 Diagnostic endoscopic examination of peritoneum and biopsy of lesion of peritoneum
 6801000,T378,T37.8 Other specified operations on mesentery of small intestine
 85472003,T379,T37.9 Unspecified operations on mesentery of small intestine
@@ -515,53 +794,94 @@ snomed,opcs,opcs_term
 431946006,U212,U21.2 Computed tomography NEC
 448474003,H333,H33.3 Anterior resection of rectum and anastomosis of colon to rectum using staples
 709112001,Y168,Y16.8 Other specified connection of organ NOC
+50065002,Y392,Y39.2 Other injection of radiocontrast substance into organ NOC
+264974007,L811,L81.1 Creation of peritovenous shunt
 177983009,T393,T39.3 Biopsy of lesion of posterior peritoneum
+238286001,T348,T34.8 Other specified open drainage of peritoneum
 116233004,Q548,Q54.8 Other specified operations on other ligament of uterus
 76066005,Q541,Q54.1 Suspension of uterus NEC
+8613002,H029,H02.9 Unspecified other excision of appendix
+118837004,H011,H01.1 Emergency excision of abnormal appendix and drainage HFQ
 708701002,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 276189003,Q521,Q52.1 Excision of lesion of broad ligament of uterus
+238266000,T453,T45.3 Image controlled percutaneous drainage of abdominal abscess NEC
 81561002,Y252,Y25.2 Resuture of organ NOC
 361168006,Y251,Y25.1 Suture of laceration of organ NOC
+177980007,T398,T39.8 Other specified operations on posterior peritoneum
+238276002,T428,T42.8 Other specified therapeutic endoscopic operations on peritoneum
+772080006,Y282,Y28.2 Insertion of biological mesh into organ NOC
 85472003,T378,T37.8 Other specified operations on mesentery of small intestine
+280392009,A148,A14.8 Other specified other operations on connection from ventricle of brain
+708613002,T454,T45.4 Image controlled percutaneous drainage of lesion of abdominal cavity NEC
 708876004,Y753,Y75.3 Robotic minimal access approach to abdominal cavity
+359691006,T348,T34.8 Other specified open drainage of peritoneum
+77442000,A532,A53.2 Creation of thecoperitoneal shunt
+238300006,T391,T39.1 Excision of lesion of posterior peritoneum
+89999000,Q569,Q56.9 Unspecified other operations on female genital tract
+238278001,T348,T34.8 Other specified open drainage of peritoneum
+50065002,Y399,Y39.9 Unspecified injection of other substance into organ NOC
+439825000,Y021,Y02.1 Implantation of prosthesis into organ NOC
+238260006,T454,T45.4 Image controlled percutaneous drainage of lesion of abdominal cavity NEC
+45602008,T413,T41.3 Freeing of adhesions of peritoneum
+177973005,T381,T38.1 Excision of lesion of mesentery of colon
 41457005,Z533,Z53.3 Peritoneum
 174041007,H012,H01.2 Emergency excision of abnormal appendix NEC
 80146002,H011,H01.1 Emergency excision of abnormal appendix and drainage HFQ
+118837004,H023,H02.3 Prophylactic appendicectomy NEC
 1299000,H021,H02.1 Interval appendicectomy
 68141001,T374,T37.4 Repair of mesentery of small intestine
-45669002,T365,T36.5 Creation of omental flap
-44366009,T298,T29.8 Other specified operations on umbilicus
+89999000,Q528,Q52.8 Other specified operations on broad ligament of uterus
+29391003,T484,T48.4 Introduction of substance into peritoneal cavity NEC
+609260005,T982,T98.2 Repair of recurrent ventral hernia using insert of prosthetic material
+609260005,T272,T27.2 Repair of ventral hernia using insert of prosthetic material
 177940003,T331,T33.1 Open excision of lesion of peritoneum
 716558001,T468,T46.8 Other specified other drainage of peritoneal cavity
 708819001,T361,T36.1 Omentectomy
 431946006,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+359691006,T342,T34.2 Open drainage of pelvic abscess
 80146002,H024,H02.4 Incidental appendicectomy
 282142006,Q541,Q54.1 Suspension of uterus NEC
 178005004,Y532,Y53.2 Approach to organ under ultrasonic control
 448143009,H338,H33.8 Other specified excision of rectum
+118848006,T364,T36.4 Biopsy of lesion of omentum
 72741000,A534,A53.4 Creation of lumboperitoneal shunt
+708988001,X418,X41.8 Other specified placement of ambulatory apparatus for compensation for renal failure
 174039006,H013,H01.3 Emergency excision of normal appendix
 443037006,Y533,Y53.3 Approach to organ under computed tomography scan control
 238237003,T292,T29.2 Excision of urachus
-171755005,A532,A53.2 Creation of thecoperitoneal shunt
 709633006,T434,T43.4 Diagnostic endoscopic ultrasound examination of peritoneum and biopsy of intra-abdominal organ
+708613002,T469,T46.9 Unspecified other drainage of peritoneal cavity
 265083008,Q523,Q52.3 Shortening of broad ligament of uterus
 120181005,T431,T43.1 Diagnostic endoscopic examination of peritoneum and biopsy of lesion of peritoneum
+708988001,Y034,Y03.4 Other resiting of prosthesis in organ NOC
 80146002,H013,H01.3 Emergency excision of normal appendix
 36897004,T292,T29.2 Excision of urachus
+177945008,T343,T34.3 Open drainage of abdominal abscess NEC
 46852006,O345,O34.5 Falciform ligament of liver
 1163275000,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 87102007,Q548,Q54.8 Other specified operations on other ligament of uterus
 214173000,Y069,Y06.9 Unspecified excision of lesion of organ NOC
 708680006,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 68748002,Q528,Q52.8 Other specified operations on broad ligament of uterus
+238275003,T428,T42.8 Other specified therapeutic endoscopic operations on peritoneum
 443041005,T468,T46.8 Other specified other drainage of peritoneal cavity
+238257004,T451,T45.1 Image controlled percutaneous drainage of subphrenic abscess
 66513002,T365,T36.5 Creation of omental flap
+708613002,T453,T45.3 Image controlled percutaneous drainage of abdominal abscess NEC
 430104008,T411,T41.1 Open biopsy of lesion of peritoneum NEC
+29391003,T469,T46.9 Unspecified other drainage of peritoneal cavity
+238275003,Y228,Y22.8 Other specified drainage of organ NOC
 1299000,Y054,Y05.4 Ex vivo resection of organ NOC
+439825000,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
+609263007,T982,T98.2 Repair of recurrent ventral hernia using insert of prosthetic material
 359978008,P311,P31.1 Culdoplasty
+238257004,T462,T46.2 Drainage of ascites NEC
 120174003,T389,T38.9 Unspecified operations on mesentery of colon
+118837004,H038,H03.8 Other specified other operations on appendix
+238268004,Y228,Y22.8 Other specified drainage of organ NOC
 78233008,T415,T41.5 Freeing of extensive adhesions of peritoneum
+80264004,Y391,Y39.1 Injection of radiocontrast substance into sinus track from organ NOC
+177966000,T373,T37.3 Biopsy of lesion of mesentery of small intestine
 47045001,Q548,Q54.8 Other specified operations on other ligament of uterus
 36897004,T243,T24.3 Repair of umbilical hernia using sutures
 373647002,Z534,Z53.4 Peritoneal cavity
@@ -569,18 +889,24 @@ snomed,opcs,opcs_term
 80160000,Q528,Q52.8 Other specified operations on broad ligament of uterus
 432654009,Y534,Y53.4 Approach to organ under fluoroscopic control
 6801000,Y058,Y05.8 Other specified excision of organ NOC
+448481005,Y037,Y03.7 Removal of prosthesis from organ NOC
 6025007,H013,H01.3 Emergency excision of normal appendix
+238281006,T428,T42.8 Other specified therapeutic endoscopic operations on peritoneum
 708680006,Y536,Y53.6 Approach to organ under video control
 6025007,H019,H01.9 Unspecified emergency excision of appendix
 72741000,A533,A53.3 Creation of syringoperitoneal shunt
 178005004,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 63343006,Y755,Y75.5 Laparoscopic ultrasonic approach to abdominal cavity
 238299003,T381,T38.1 Excision of lesion of mesentery of colon
+439825000,T418,T41.8 Other specified other open operations on peritoneum
 81561002,T368,T36.8 Other specified operations on omentum
 276189003,Y052,Y05.2 Partial excision of organ NOC
+359691006,T343,T34.3 Open drainage of abdominal abscess NEC
+8613002,H013,H01.3 Emergency excision of normal appendix
 6801000,T371,T37.1 Excision of lesion of mesentery of small intestine
 73910002,T308,T30.8 Other specified opening of abdomen
 82730006,H024,H02.4 Incidental appendicectomy
+608790005,T279,T27.9 Unspecified repair of other hernia of abdominal wall
 235316007,Y515,Y51.5 Approach to organ through appendicostomy
 25187007,Y228,Y22.8 Other specified drainage of organ NOC
 64772004,T371,T37.1 Excision of lesion of mesentery of small intestine
@@ -591,6 +917,7 @@ snomed,opcs,opcs_term
 177063005,Q541,Q54.1 Suspension of uterus NEC
 39258002,T381,T38.1 Excision of lesion of mesentery of colon
 177968004,T372,T37.2 Destruction of lesion of mesentery of small intestine
+238261005,T341,T34.1 Open drainage of subphrenic abscess
 87102007,Y051,Y05.1 Total excision of organ NOC
 112913008,P314,P31.4 Culdotomy NEC
 85472003,T381,T38.1 Excision of lesion of mesentery of colon
@@ -598,71 +925,117 @@ snomed,opcs,opcs_term
 178005004,Y533,Y53.3 Approach to organ under computed tomography scan control
 276189003,Y058,Y05.8 Other specified excision of organ NOC
 710313004,Y939,Y93.9 Unspecified gallium-67 imaging
+10444003,T369,T36.9 Unspecified operations on omentum
 450435004,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
+238275003,T348,T34.8 Other specified open drainage of peritoneum
 361168006,Y254,Y25.4 Removal of other suture from organ NOC
 177976002,T383,T38.3 Biopsy of lesion of mesentery of colon
 63343006,Y201,Y20.1 Stereotactic biopsy of lesion of organ NOC
 36897004,T242,T24.2 Repair of umbilical hernia using insert of prosthetic material
 276974006,T361,T36.1 Omentectomy
+178020005,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 177940003,T339,T33.9 Unspecified open extirpation of lesion of peritoneum
 431946006,Y973,Y97.3 Radiology with post contrast
+386676003,T488,T48.8 Other specified other operations on peritoneum
 6025007,H022,H02.2 Planned delayed appendicectomy NEC
+80264004,T481,T48.1 Introduction of radioactive substance into peritoneal cavity
 708701002,Y532,Y53.2 Approach to organ under ultrasonic control
 7171009,Q548,Q54.8 Other specified operations on other ligament of uterus
 443016003,T453,T45.3 Image controlled percutaneous drainage of abdominal abscess NEC
 225231007,X429,X42.9 Unspecified placement of other apparatus for compensation for renal failure
 25187007,Y229,Y22.9 Unspecified drainage of organ NOC
+772080006,T271,T27.1 Repair of ventral hernia using insert of natural material
 64772004,T379,T37.9 Unspecified operations on mesentery of small intestine
 112920001,Y209,Y20.9 Unspecified biopsy of organ NOC
 177056005,Q522,Q52.2 Destruction of lesion of broad ligament of uterus
 120182003,T431,T43.1 Diagnostic endoscopic examination of peritoneum and biopsy of lesion of peritoneum
+8613002,H031,H03.1 Drainage of abscess of appendix
+177988000,T412,T41.2 Division of band of peritoneum
 45195004,Q528,Q52.8 Other specified operations on broad ligament of uterus
+177980007,T399,T39.9 Unspecified operations on posterior peritoneum
+238284003,T348,T34.8 Other specified open drainage of peritoneum
 80160000,Y204,Y20.4 Fine needle aspiration NOC
+118837004,H033,H03.3 Exteriorisation of appendix
 359975006,Y269,Y26.9 Unspecified other repair of organ NOC
+280392009,A144,A14.4 Irrigation of cerebroventricular shunt
+238257004,T468,T46.8 Other specified other drainage of peritoneal cavity
 63343006,Q528,Q52.8 Other specified operations on broad ligament of uterus
 69498006,P318,P31.8 Other specified operations on pouch of Douglas
+8613002,H039,H03.9 Unspecified other operations on appendix
 235313004,H029,H02.9 Unspecified other excision of appendix
+608790005,T988,T98.8 Other specified repair of recurrent other hernia of abdominal wall
+89999000,Q522,Q52.2 Destruction of lesion of broad ligament of uterus
+238260006,T452,T45.2 Image controlled percutaneous drainage of pelvic abscess
+238314006,X418,X41.8 Other specified placement of ambulatory apparatus for compensation for renal failure
 709633006,T438,T43.8 Other specified diagnostic endoscopic examination of peritoneum
+314589009,T453,T45.3 Image controlled percutaneous drainage of abdominal abscess NEC
+238312005,Q133,Q13.3 Intrauterine artificial insemination
 432654009,X421,X42.1 Insertion of temporary peritoneal dialysis catheter
+280392009,A141,A14.1 Renewal of cerebroventricular shunt
 80146002,H019,H01.9 Unspecified emergency excision of appendix
 120174003,Y308,Y30.8 Other specified incision of organ NOC
+238301005,Y068,Y06.8 Other specified excision of lesion of organ NOC
 174036004,H013,H01.3 Emergency excision of normal appendix
 698973009,A128,A12.8 Other specified creation of connection from ventricle of brain
-45669002,T364,T36.4 Biopsy of lesion of omentum
+80264004,Y394,Y39.4 Lipofilling injection into organ NOC
+118866001,Q528,Q52.8 Other specified operations on broad ligament of uterus
+238282004,T421,T42.1 Endoscopic resection of lesion of peritoneum
 387824007,T341,T34.1 Open drainage of subphrenic abscess
 708680006,Y538,Y53.8 Other specified approach to organ under image control
 33989004,Y041,Y04.1 Microvascular reattachment of organ NOC
 32578005,Y206,Y20.6 Plugged biopsy NOC
 66513002,Y309,Y30.9 Unspecified incision of organ NOC
+238286001,T469,T46.9 Unspecified other drainage of peritoneal cavity
 1299000,Y059,Y05.9 Unspecified excision of organ NOC
 83416007,Y131,Y13.1 Cauterisation of lesion of organ NOC
 225231007,X411,X41.1 Insertion of ambulatory peritoneal dialysis catheter
+772084002,Y282,Y28.2 Insertion of biological mesh into organ NOC
+235335007,H161,H16.1 Drainage of colon
+772773001,Y281,Y28.1 Insertion of synthetic mesh into organ NOC
 177942006,T332,T33.2 Open destruction of lesion of peritoneum
+772776009,T982,T98.2 Repair of recurrent ventral hernia using insert of prosthetic material
 39258002,T383,T38.3 Biopsy of lesion of mesentery of colon
 177970008,T374,T37.4 Repair of mesentery of small intestine
 238306000,T431,T43.1 Diagnostic endoscopic examination of peritoneum and biopsy of lesion of peritoneum
 80146002,H023,H02.3 Prophylactic appendicectomy NEC
+238257004,T469,T46.9 Unspecified other drainage of peritoneal cavity
 225230008,X402,X40.2 Peritoneal dialysis NEC
+608790005,T981,T98.1 Repair of recurrent ventral hernia using insert of natural material
+280392009,A143,A14.3 Removal of cerebroventricular shunt
+177946009,T341,T34.1 Open drainage of subphrenic abscess
 79887000,T391,T39.1 Excision of lesion of posterior peritoneum
 1299000,H029,H02.9 Unspecified other excision of appendix
 361176008,Z118,Z11.8 Specified sacral plexus NEC
 120181005,T438,T43.8 Other specified diagnostic endoscopic examination of peritoneum
 230816002,A128,A12.8 Other specified creation of connection from ventricle of brain
+118837004,H029,H02.9 Unspecified other excision of appendix
+608790005,T983,T98.3 Repair of recurrent ventral hernia using sutures
+77442000,A536,A53.6 Creation of lumbar subcutaneous shunt
+8613002,H023,H02.3 Prophylactic appendicectomy NEC
 87102007,Y068,Y06.8 Other specified excision of lesion of organ NOC
 66513002,Y301,Y30.1 Incision of lesion of organ NOC
+176742008,Q568,Q56.8 Other specified other operations on female genital tract
+238257004,T454,T45.4 Image controlled percutaneous drainage of lesion of abdominal cavity NEC
 49438003,H011,H01.1 Emergency excision of abnormal appendix and drainage HFQ
+238284003,G385,G38.5 Incision of stomach NEC
 710313004,Y949,Y94.9 Unspecified radiopharmaceutical imaging
+118848006,T363,T36.3 Destruction of lesion of omentum
+77442000,A538,A53.8 Other specified drainage of spinal canal
 47765003,T095,T09.5 Open pleurodesis NEC
 120181005,T432,T43.2 Diagnostic endoscopic examination of peritoneum and biopsy of lesion of intra-abdominal organ NEC
+29391003,T468,T46.8 Other specified other drainage of peritoneal cavity
 276189003,Y055,Y05.5 Debridement of organ NOC
 361176008,A608,A60.8 Other specified destruction of peripheral nerve
 47765003,T148,T14.8 Other specified other operations on pleura
+77442000,A534,A53.4 Creation of lumboperitoneal shunt
+177973005,T388,T38.8 Other specified operations on mesentery of colon
 177962003,T365,T36.5 Creation of omental flap
 450635009,T411,T41.1 Open biopsy of lesion of peritoneum NEC
 238318009,X406,X40.6 Continuous ambulatory peritoneal dialysis
 450502006,Y751,Y75.1 Laparoscopically assisted approach to abdominal cavity
 72741000,A539,A53.9 Unspecified drainage of spinal canal
 716554004,Y532,Y53.2 Approach to organ under ultrasonic control
+10444003,T363,T36.3 Destruction of lesion of omentum
 708680006,Y531,Y53.1 Approach to organ under radiological control
 710197007,Y971,Y97.1 Radiology with pre and post contrast
 120194007,T378,T37.8 Other specified operations on mesentery of small intestine
@@ -677,59 +1050,82 @@ snomed,opcs,opcs_term
 711169008,M491,M49.1 Closure of cystostomy
 709643009,T434,T43.4 Diagnostic endoscopic ultrasound examination of peritoneum and biopsy of intra-abdominal organ
 387826009,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
+772773001,T272,T27.2 Repair of ventral hernia using insert of prosthetic material
+8613002,H019,H01.9 Unspecified emergency excision of appendix
 6801000,T384,T38.4 Repair of mesentery of colon
 432654009,X411,X41.1 Insertion of ambulatory peritoneal dialysis catheter
 120176001,T372,T37.2 Destruction of lesion of mesentery of small intestine
+238281006,Y228,Y22.8 Other specified drainage of organ NOC
 238304002,T422,T42.2 Endoscopic destruction of lesion of peritoneum
 25187007,Y221,Y22.1 Aspiration of haematoma of organ NOC
 120174003,T371,T37.1 Excision of lesion of mesentery of small intestine
+426150005,T415,T41.5 Freeing of extensive adhesions of peritoneum
+118837004,H022,H02.2 Planned delayed appendicectomy NEC
 78233008,T414,T41.4 Open removal of foreign body from peritoneum
 178005004,Y531,Y53.1 Approach to organ under radiological control
+29078006,P312,P31.2 Drainage of pouch of Douglas
 1299000,Y055,Y05.5 Debridement of organ NOC
 238303008,T331,T33.1 Open excision of lesion of peritoneum
+238260006,T451,T45.1 Image controlled percutaneous drainage of subphrenic abscess
 177967009,T371,T37.1 Excision of lesion of mesentery of small intestine
 80146002,H021,H02.1 Interval appendicectomy
+231359009,Y823,Y82.3 Application of local anaesthetic NEC
 49570000,Q541,Q54.1 Suspension of uterus NEC
 361168006,Y258,Y25.8 Other specified suture of organ NOC
 716562007,Y534,Y53.4 Approach to organ under fluoroscopic control
 387715005,T463,T46.3 Irrigation of peritoneal cavity
 78233008,T411,T41.1 Open biopsy of lesion of peritoneum NEC
+118866001,Q523,Q52.3 Shortening of broad ligament of uterus
 225231007,X428,X42.8 Other specified placement of other apparatus for compensation for renal failure
 47765003,Y053,Y05.3 Excision of sinus track from organ NOC
 450502006,T364,T36.4 Biopsy of lesion of omentum
+89999000,Q521,Q52.1 Excision of lesion of broad ligament of uterus
 65995008,Q058,Q05.8 Other specified other operations on cervix uteri
 373647002,T458,T45.8 Other specified image controlled operations on abdominal cavity
 82833003,P316,P31.6 Removal of foreign body from pouch of Douglas NEC
+238263008,T428,T42.8 Other specified therapeutic endoscopic operations on peritoneum
 275245003,T393,T39.3 Biopsy of lesion of posterior peritoneum
 177974004,T381,T38.1 Excision of lesion of mesentery of colon
+89999000,Q562,Q56.2 Fertiloscopy
 708876004,H019,H01.9 Unspecified emergency excision of appendix
+50065002,Y389,Y38.9 Unspecified injection of therapeutic substance into organ NOC
 448143009,H336,H33.6 Anterior resection of rectum and exteriorisation of bowel
 87102007,Y064,Y06.4 Excision of scar tissue NOC
 60305009,T384,T38.4 Repair of mesentery of colon
 32578005,Y202,Y20.2 Stereotactic biopsy of organ NOC
 6801000,T389,T38.9 Unspecified operations on mesentery of colon
 177960006,T363,T36.3 Destruction of lesion of omentum
+169353003,X657,X65.7 Delivery of radionuclide therapy NEC
+80264004,Y395,Y39.5 Tattooing of organ NOC
 387824007,T454,T45.4 Image controlled percutaneous drainage of lesion of abdominal cavity NEC
+238282004,Y061,Y06.1 Marsupialisation of organ NOC
+608790005,T274,T27.4 Removal of prosthetic material from previous repair of ventral hernia
 11878008,Q548,Q54.8 Other specified operations on other ligament of uterus
+80264004,Y389,Y38.9 Unspecified injection of therapeutic substance into organ NOC
+176747002,P313,P31.3 Aspiration of pouch of Douglas
 120181005,Z536,Z53.6 Mesentery
 235313004,H024,H02.4 Incidental appendicectomy
 85472003,T383,T38.3 Biopsy of lesion of mesentery of colon
 443040006,Y531,Y53.1 Approach to organ under radiological control
 80160000,Q548,Q54.8 Other specified operations on other ligament of uterus
 177982004,T392,T39.2 Destruction of lesion of posterior peritoneum
-44366009,Y309,Y30.9 Unspecified incision of organ NOC
 45195004,Y209,Y20.9 Unspecified biopsy of organ NOC
 359902008,T281,T28.1 Closure of gastroschisis
 120174003,Y301,Y30.1 Incision of lesion of organ NOC
 443040006,T488,T48.8 Other specified other operations on peritoneum
+118866001,Q522,Q52.2 Destruction of lesion of broad ligament of uterus
 68141001,T378,T37.8 Other specified operations on mesentery of small intestine
 250073009,Y251,Y25.1 Suture of laceration of organ NOC
+177945008,T348,T34.8 Other specified open drainage of peritoneum
 708701002,Y534,Y53.4 Approach to organ under fluoroscopic control
 120174003,T379,T37.9 Unspecified operations on mesentery of small intestine
 112920001,Q548,Q54.8 Other specified operations on other ligament of uterus
+77442000,A531,A53.1 Cerebrospinal syringostomy
 33989004,Q548,Q54.8 Other specified operations on other ligament of uterus
 47765003,T103,T10.3 Endoscopic pleurodesis NEC
 1299000,H022,H02.2 Planned delayed appendicectomy NEC
+238300006,Y063,Y06.3 Enucleation of lesion of organ NOC
+29078006,P311,P31.1 Culdoplasty
 708819001,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 708701002,Y535,Y53.5 Approach to organ under image intensifier
 276189003,Y051,Y05.1 Total excision of organ NOC
@@ -741,34 +1137,57 @@ snomed,opcs,opcs_term
 236936007,Y251,Y25.1 Suture of laceration of organ NOC
 238304002,T332,T33.2 Open destruction of lesion of peritoneum
 387826009,Y531,Y53.1 Approach to organ under radiological control
+10444003,T361,T36.1 Omentectomy
+118837004,H012,H01.2 Emergency excision of abnormal appendix NEC
 81561002,Y251,Y25.1 Suture of laceration of organ NOC
+8613002,H038,H03.8 Other specified other operations on appendix
+80264004,T488,T48.8 Other specified other operations on peritoneum
+608790005,Y751,Y75.1 Laparoscopically assisted approach to abdominal cavity
 238323009,X402,X40.2 Peritoneal dialysis NEC
 71192002,X411,X41.1 Insertion of ambulatory peritoneal dialysis catheter
+235314005,H011,H01.1 Emergency excision of abnormal appendix and drainage HFQ
+80264004,Y399,Y39.9 Unspecified injection of other substance into organ NOC
+8613002,H011,H01.1 Emergency excision of abnormal appendix and drainage HFQ
 68141001,T371,T37.1 Excision of lesion of mesentery of small intestine
+177973005,T389,T38.9 Unspecified operations on mesentery of colon
 116233004,Q528,Q52.8 Other specified operations on broad ligament of uterus
+81130000,Q528,Q52.8 Other specified operations on broad ligament of uterus
 47765003,T109,T10.9 Unspecified therapeutic endoscopic operations on pleura
+51113007,H039,H03.9 Unspecified other operations on appendix
 709643009,T438,T43.8 Other specified diagnostic endoscopic examination of peritoneum
 33989004,Y048,Y04.8 Other specified replantation of organ NOC
+89999000,Q529,Q52.9 Unspecified operations on broad ligament of uterus
+238260006,T342,T34.2 Open drainage of pelvic abscess
 66513002,T364,T36.4 Biopsy of lesion of omentum
 66513002,T361,T36.1 Omentectomy
 29481005,T411,T41.1 Open biopsy of lesion of peritoneum NEC
+118848006,T361,T36.1 Omentectomy
+77442000,A533,A53.3 Creation of syringoperitoneal shunt
 36897004,T241,T24.1 Repair of umbilical hernia using insert of natural material
+1172563000,X421,X42.1 Insertion of temporary peritoneal dialysis catheter
 5738003,P318,P31.8 Other specified operations on pouch of Douglas
 15395004,P317,P31.7 Extirpation of lesion of pouch of Douglas
 708680006,T469,T46.9 Unspecified other drainage of peritoneal cavity
+708988001,Y033,Y03.3 Correction of displacement of prosthesis NOC
+118837004,H032,H03.2 Drainage of appendix NEC
 47765003,T102,T10.2 Endoscopic pleurodesis using talc
 225231007,X412,X41.2 Removal of ambulatory peritoneal dialysis catheter
 47765003,T092,T09.2 Open biopsy of lesion of pleura
 359981003,P318,P31.8 Other specified operations on pouch of Douglas
 361168006,Y253,Y25.3 Removal of retained suture from organ NOC
 54017006,Q548,Q54.8 Other specified operations on other ligament of uterus
+440305003,L933,L93.3 Ligation of vein NEC
+118848006,T362,T36.2 Excision of lesion of omentum
 238305001,T411,T41.1 Open biopsy of lesion of peritoneum NEC
 708701002,Y536,Y53.6 Approach to organ under video control
 85472003,T372,T37.2 Destruction of lesion of mesentery of small intestine
 225230008,X421,X42.1 Insertion of temporary peritoneal dialysis catheter
+238262003,T428,T42.8 Other specified therapeutic endoscopic operations on peritoneum
 307581005,H021,H02.1 Interval appendicectomy
 6025007,H024,H02.4 Incidental appendicectomy
 708876004,H029,H02.9 Unspecified other excision of appendix
 80146002,H012,H01.2 Emergency excision of abnormal appendix NEC
 235313004,H028,H02.8 Other specified other excision of appendix
+238257004,T341,T34.1 Open drainage of subphrenic abscess
+772083008,T279,T27.9 Unspecified repair of other hernia of abdominal wall
 708876004,H013,H01.3 Emergency excision of normal appendix

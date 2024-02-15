@@ -1,0 +1,20 @@
+OPCS_4CHAR,OPCS_4CHAR_Meaning,OPCS_3CHAR,OPCS_3CHAR_Meaning,Mapping1,Mapping2,CorectRMapping
+E541,Total pneumonectomy,,,Pneumonectomy ,Pneumonectomy ,Pneumonectomy 
+E542,Bilobectomy of lung,,,Lobectomy,Lobectomy,Lobectomy
+E543,Lobectomy of lung,,,Lobectomy,Lobectomy,Lobectomy
+E544,Excision of segment of lung,,,Sleeve/wedge,Sleeve/wedge,Sleeve/wedge
+E545,Partial lobectomy of lung NEC,,,Sleeve/wedge,Sleeve/wedge,Sleeve/wedge
+E548,Other specified excision of lung,,,Sleeve/wedge,Sleeve/wedge,Sleeve/wedge
+E549,Unspecified excision of lung,,,Sleeve/wedge,Sleeve/wedge,Sleeve/wedge
+E552,Open excision of lesion of lung,,,Sleeve/wedge,Sleeve/wedge,Sleeve/wedge
+E554,Open destruction of lesion of lung NEC,,,Sleeve/wedge,Sleeve/wedge,Sleeve/wedge
+E559,Unspecified open extirpation of lesion of lung,,,Sleeve/wedge,Sleeve/wedge,Sleeve/wedge
+E391,Open excision of lesion of trachea,,,Other ,Other ,Other 
+E398,Other specified partial excision of trachea,,,Other ,Other ,Other 
+E399,Unspecified partial excision of trachea,,,Other ,Other ,Other 
+E461,Sleeve resection of bronchus and anastomosis HFQ,,,Other ,Other ,Other 
+E463,Excision of lesion of bronchus NEC,,,Other ,Other ,Other 
+E468,Other specified partial extirpation of bronchus,,,Other ,Other ,Other 
+E558,Other specified open extirpation of lesion of lung,,,Other ,Other ,Other 
+T013,Excision of lesion of chest wall,,,Other ,Other ,Other 
+T018,Other specified partial excision of chest wall,,,Other ,Other ,Other 

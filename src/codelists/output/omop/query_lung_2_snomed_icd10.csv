@@ -1,627 +1,278 @@
 ,concept_code_y,concept_name_y,opcs
-35,0BHK01Z,"Insertion of Radioactive Element into Right Lung, Open Approach",0BHK01Z
-36,0BHK02Z,"Insertion of Monitoring Device into Right Lung, Open Approach",0BHK02Z
-37,0BHK03Z,"Insertion of Infusion Device into Right Lung, Open Approach",0BHK03Z
-38,0BHK0YZ,"Insertion of Other Device into Right Lung, Open Approach",0BHK0YZ
-39,0BHK31Z,"Insertion of Radioactive Element into Right Lung, Percutaneous Approach",0BHK31Z
-40,0BHK32Z,"Insertion of Monitoring Device into Right Lung, Percutaneous Approach",0BHK32Z
-41,0BHK33Z,"Insertion of Infusion Device into Right Lung, Percutaneous Approach",0BHK33Z
-42,0BHK3YZ,"Insertion of Other Device into Right Lung, Percutaneous Approach",0BHK3YZ
-43,0BHK41Z,"Insertion of Radioactive Element into Right Lung, Percutaneous Endoscopic Approach",0BHK41Z
-44,0BHK42Z,"Insertion of Monitoring Device into Right Lung, Percutaneous Endoscopic Approach",0BHK42Z
-45,0BHK43Z,"Insertion of Infusion Device into Right Lung, Percutaneous Endoscopic Approach",0BHK43Z
-46,0BHK4YZ,"Insertion of Other Device into Right Lung, Percutaneous Endoscopic Approach",0BHK4YZ
-47,0BHK71Z,"Insertion of Radioactive Element into Right Lung, Via Natural or Artificial Opening",0BHK71Z
-48,0BHK72Z,"Insertion of Monitoring Device into Right Lung, Via Natural or Artificial Opening",0BHK72Z
-49,0BHK73Z,"Insertion of Infusion Device into Right Lung, Via Natural or Artificial Opening",0BHK73Z
-50,0BHK7YZ,"Insertion of Other Device into Right Lung, Via Natural or Artificial Opening",0BHK7YZ
-51,0BHK81Z,"Insertion of Radioactive Element into Right Lung, Via Natural or Artificial Opening Endoscopic",0BHK81Z
-52,0BHK82Z,"Insertion of Monitoring Device into Right Lung, Via Natural or Artificial Opening Endoscopic",0BHK82Z
-53,0BHK83Z,"Insertion of Infusion Device into Right Lung, Via Natural or Artificial Opening Endoscopic",0BHK83Z
-54,0BHK8YZ,"Insertion of Other Device into Right Lung, Via Natural or Artificial Opening Endoscopic",0BHK8YZ
-55,0BHL01Z,"Insertion of Radioactive Element into Left Lung, Open Approach",0BHL01Z
-56,0BHL02Z,"Insertion of Monitoring Device into Left Lung, Open Approach",0BHL02Z
-57,0BHL03Z,"Insertion of Infusion Device into Left Lung, Open Approach",0BHL03Z
-58,0BHL0YZ,"Insertion of Other Device into Left Lung, Open Approach",0BHL0YZ
-59,0BHL31Z,"Insertion of Radioactive Element into Left Lung, Percutaneous Approach",0BHL31Z
-60,0BHL32Z,"Insertion of Monitoring Device into Left Lung, Percutaneous Approach",0BHL32Z
-61,0BHL33Z,"Insertion of Infusion Device into Left Lung, Percutaneous Approach",0BHL33Z
-62,0BHL3YZ,"Insertion of Other Device into Left Lung, Percutaneous Approach",0BHL3YZ
-63,0BHL41Z,"Insertion of Radioactive Element into Left Lung, Percutaneous Endoscopic Approach",0BHL41Z
-64,0BHL42Z,"Insertion of Monitoring Device into Left Lung, Percutaneous Endoscopic Approach",0BHL42Z
-65,0BHL43Z,"Insertion of Infusion Device into Left Lung, Percutaneous Endoscopic Approach",0BHL43Z
-66,0BHL4YZ,"Insertion of Other Device into Left Lung, Percutaneous Endoscopic Approach",0BHL4YZ
-67,0BHL71Z,"Insertion of Radioactive Element into Left Lung, Via Natural or Artificial Opening",0BHL71Z
-68,0BHL72Z,"Insertion of Monitoring Device into Left Lung, Via Natural or Artificial Opening",0BHL72Z
-69,0BHL73Z,"Insertion of Infusion Device into Left Lung, Via Natural or Artificial Opening",0BHL73Z
-70,0BHL7YZ,"Insertion of Other Device into Left Lung, Via Natural or Artificial Opening",0BHL7YZ
-71,0BHL81Z,"Insertion of Radioactive Element into Left Lung, Via Natural or Artificial Opening Endoscopic",0BHL81Z
-72,0BHL82Z,"Insertion of Monitoring Device into Left Lung, Via Natural or Artificial Opening Endoscopic",0BHL82Z
-73,0BHL83Z,"Insertion of Infusion Device into Left Lung, Via Natural or Artificial Opening Endoscopic",0BHL83Z
-74,0BHL8YZ,"Insertion of Other Device into Left Lung, Via Natural or Artificial Opening Endoscopic",0BHL8YZ
-75,DBY2FZZ,Plaque Radiation of Lung,DBY2FZZ
-80,0BYC0Z0,"Transplantation of Right Upper Lung Lobe, Allogeneic, Open Approach",0BYC0Z0
-81,0BYC0Z1,"Transplantation of Right Upper Lung Lobe, Syngeneic, Open Approach",0BYC0Z1
-82,0BYC0Z2,"Transplantation of Right Upper Lung Lobe, Zooplastic, Open Approach",0BYC0Z2
-83,0BYD0Z0,"Transplantation of Right Middle Lung Lobe, Allogeneic, Open Approach",0BYD0Z0
-84,0BYD0Z1,"Transplantation of Right Middle Lung Lobe, Syngeneic, Open Approach",0BYD0Z1
-85,0BYD0Z2,"Transplantation of Right Middle Lung Lobe, Zooplastic, Open Approach",0BYD0Z2
-86,0BYF0Z0,"Transplantation of Right Lower Lung Lobe, Allogeneic, Open Approach",0BYF0Z0
-87,0BYF0Z1,"Transplantation of Right Lower Lung Lobe, Syngeneic, Open Approach",0BYF0Z1
-88,0BYF0Z2,"Transplantation of Right Lower Lung Lobe, Zooplastic, Open Approach",0BYF0Z2
-89,0BYG0Z0,"Transplantation of Left Upper Lung Lobe, Allogeneic, Open Approach",0BYG0Z0
-90,0BYG0Z1,"Transplantation of Left Upper Lung Lobe, Syngeneic, Open Approach",0BYG0Z1
-91,0BYG0Z2,"Transplantation of Left Upper Lung Lobe, Zooplastic, Open Approach",0BYG0Z2
-92,0BYH0Z0,"Transplantation of Lung Lingula, Allogeneic, Open Approach",0BYH0Z0
-93,0BYH0Z1,"Transplantation of Lung Lingula, Syngeneic, Open Approach",0BYH0Z1
-94,0BYH0Z2,"Transplantation of Lung Lingula, Zooplastic, Open Approach",0BYH0Z2
-95,0BYJ0Z0,"Transplantation of Left Lower Lung Lobe, Allogeneic, Open Approach",0BYJ0Z0
-96,0BYJ0Z1,"Transplantation of Left Lower Lung Lobe, Syngeneic, Open Approach",0BYJ0Z1
-97,0BYJ0Z2,"Transplantation of Left Lower Lung Lobe, Zooplastic, Open Approach",0BYJ0Z2
-98,0BYK0Z0,"Transplantation of Right Lung, Allogeneic, Open Approach",0BYK0Z0
-99,0BYK0Z1,"Transplantation of Right Lung, Syngeneic, Open Approach",0BYK0Z1
-100,0BYK0Z2,"Transplantation of Right Lung, Zooplastic, Open Approach",0BYK0Z2
-101,0BYL0Z0,"Transplantation of Left Lung, Allogeneic, Open Approach",0BYL0Z0
-102,0BYL0Z1,"Transplantation of Left Lung, Syngeneic, Open Approach",0BYL0Z1
-103,0BYL0Z2,"Transplantation of Left Lung, Zooplastic, Open Approach",0BYL0Z2
-104,0BYM0Z0,"Transplantation of Bilateral Lungs, Allogeneic, Open Approach",0BYM0Z0
-105,0BYM0Z1,"Transplantation of Bilateral Lungs, Syngeneic, Open Approach",0BYM0Z1
-106,0BYM0Z2,"Transplantation of Bilateral Lungs, Zooplastic, Open Approach",0BYM0Z2
-107,0BPK00Z,"Removal of Drainage Device from Right Lung, Open Approach",0BPK00Z
-108,0BPK01Z,"Removal of Radioactive Element from Right Lung, Open Approach",0BPK01Z
-109,0BPK02Z,"Removal of Monitoring Device from Right Lung, Open Approach",0BPK02Z
-110,0BPK03Z,"Removal of Infusion Device from Right Lung, Open Approach",0BPK03Z
-111,0BPK30Z,"Removal of Drainage Device from Right Lung, Percutaneous Approach",0BPK30Z
-112,0BPK31Z,"Removal of Radioactive Element from Right Lung, Percutaneous Approach",0BPK31Z
-113,0BPK32Z,"Removal of Monitoring Device from Right Lung, Percutaneous Approach",0BPK32Z
-114,0BPK33Z,"Removal of Infusion Device from Right Lung, Percutaneous Approach",0BPK33Z
-115,0BPK40Z,"Removal of Drainage Device from Right Lung, Percutaneous Endoscopic Approach",0BPK40Z
-116,0BPK41Z,"Removal of Radioactive Element from Right Lung, Percutaneous Endoscopic Approach",0BPK41Z
-117,0BPK42Z,"Removal of Monitoring Device from Right Lung, Percutaneous Endoscopic Approach",0BPK42Z
-118,0BPK43Z,"Removal of Infusion Device from Right Lung, Percutaneous Endoscopic Approach",0BPK43Z
-119,0BPK70Z,"Removal of Drainage Device from Right Lung, Via Natural or Artificial Opening",0BPK70Z
-120,0BPK71Z,"Removal of Radioactive Element from Right Lung, Via Natural or Artificial Opening",0BPK71Z
-121,0BPK72Z,"Removal of Monitoring Device from Right Lung, Via Natural or Artificial Opening",0BPK72Z
-122,0BPK73Z,"Removal of Infusion Device from Right Lung, Via Natural or Artificial Opening",0BPK73Z
-123,0BPK80Z,"Removal of Drainage Device from Right Lung, Via Natural or Artificial Opening Endoscopic",0BPK80Z
-124,0BPK81Z,"Removal of Radioactive Element from Right Lung, Via Natural or Artificial Opening Endoscopic",0BPK81Z
-125,0BPK82Z,"Removal of Monitoring Device from Right Lung, Via Natural or Artificial Opening Endoscopic",0BPK82Z
-126,0BPK83Z,"Removal of Infusion Device from Right Lung, Via Natural or Artificial Opening Endoscopic",0BPK83Z
-127,0BPKX0Z,"Removal of Drainage Device from Right Lung, External Approach",0BPKX0Z
-128,0BPKX1Z,"Removal of Radioactive Element from Right Lung, External Approach",0BPKX1Z
-129,0BPKX2Z,"Removal of Monitoring Device from Right Lung, External Approach",0BPKX2Z
-130,0BPKX3Z,"Removal of Infusion Device from Right Lung, External Approach",0BPKX3Z
-131,0BPL00Z,"Removal of Drainage Device from Left Lung, Open Approach",0BPL00Z
-132,0BPL01Z,"Removal of Radioactive Element from Left Lung, Open Approach",0BPL01Z
-133,0BPL02Z,"Removal of Monitoring Device from Left Lung, Open Approach",0BPL02Z
-134,0BPL03Z,"Removal of Infusion Device from Left Lung, Open Approach",0BPL03Z
-135,0BPL30Z,"Removal of Drainage Device from Left Lung, Percutaneous Approach",0BPL30Z
-136,0BPL31Z,"Removal of Radioactive Element from Left Lung, Percutaneous Approach",0BPL31Z
-137,0BPL32Z,"Removal of Monitoring Device from Left Lung, Percutaneous Approach",0BPL32Z
-138,0BPL33Z,"Removal of Infusion Device from Left Lung, Percutaneous Approach",0BPL33Z
-139,0BPL40Z,"Removal of Drainage Device from Left Lung, Percutaneous Endoscopic Approach",0BPL40Z
-140,0BPL41Z,"Removal of Radioactive Element from Left Lung, Percutaneous Endoscopic Approach",0BPL41Z
-141,0BPL42Z,"Removal of Monitoring Device from Left Lung, Percutaneous Endoscopic Approach",0BPL42Z
-142,0BPL43Z,"Removal of Infusion Device from Left Lung, Percutaneous Endoscopic Approach",0BPL43Z
-143,0BPL70Z,"Removal of Drainage Device from Left Lung, Via Natural or Artificial Opening",0BPL70Z
-144,0BPL71Z,"Removal of Radioactive Element from Left Lung, Via Natural or Artificial Opening",0BPL71Z
-145,0BPL72Z,"Removal of Monitoring Device from Left Lung, Via Natural or Artificial Opening",0BPL72Z
-146,0BPL73Z,"Removal of Infusion Device from Left Lung, Via Natural or Artificial Opening",0BPL73Z
-147,0BPL80Z,"Removal of Drainage Device from Left Lung, Via Natural or Artificial Opening Endoscopic",0BPL80Z
-148,0BPL81Z,"Removal of Radioactive Element from Left Lung, Via Natural or Artificial Opening Endoscopic",0BPL81Z
-149,0BPL82Z,"Removal of Monitoring Device from Left Lung, Via Natural or Artificial Opening Endoscopic",0BPL82Z
-150,0BPL83Z,"Removal of Infusion Device from Left Lung, Via Natural or Artificial Opening Endoscopic",0BPL83Z
-151,0BPLX0Z,"Removal of Drainage Device from Left Lung, External Approach",0BPLX0Z
-152,0BPLX1Z,"Removal of Radioactive Element from Left Lung, External Approach",0BPLX1Z
-153,0BPLX2Z,"Removal of Monitoring Device from Left Lung, External Approach",0BPLX2Z
-154,0BPLX3Z,"Removal of Infusion Device from Left Lung, External Approach",0BPLX3Z
-155,DB023Z0,"Beam Radiation of Lung using Electrons, Intraoperative",DB023Z0
-156,DB023ZZ,Beam Radiation of Lung using Electrons,DB023ZZ
-157,DB024ZZ,"Beam Radiation of Lung using Heavy Particles (Protons,Ions)",DB024ZZ
-158,DB025ZZ,Beam Radiation of Lung using Neutrons,DB025ZZ
-159,DB026ZZ,Beam Radiation of Lung using Neutron Capture,DB026ZZ
-160,DB22DZZ,Stereotactic Other Photon Radiosurgery of Lung,DB22DZZ
-161,DB22HZZ,Stereotactic Particulate Radiosurgery of Lung,DB22HZZ
-162,DB22JZZ,Stereotactic Gamma Beam Radiosurgery of Lung,DB22JZZ
-163,DBY28ZZ,Hyperthermia of Lung,DBY28ZZ
-164,DBY2KZZ,Laser Interstitial Thermal Therapy of Lung,DBY2KZZ
-165,DB020ZZ,Beam Radiation of Lung using Photons <1 MeV,DB020ZZ
-166,DB021ZZ,Beam Radiation of Lung using Photons 1 - 10 MeV,DB021ZZ
-167,DB022ZZ,Beam Radiation of Lung using Photons >10 MeV,DB022ZZ
-201,0BPK0YZ,"Removal of Other Device from Right Lung, Open Approach",0BPK0YZ
-202,0BPK3YZ,"Removal of Other Device from Right Lung, Percutaneous Approach",0BPK3YZ
-203,0BPK4YZ,"Removal of Other Device from Right Lung, Percutaneous Endoscopic Approach",0BPK4YZ
-204,0BPK7YZ,"Removal of Other Device from Right Lung, Via Natural or Artificial Opening",0BPK7YZ
-205,0BPK8YZ,"Removal of Other Device from Right Lung, Via Natural or Artificial Opening Endoscopic",0BPK8YZ
-206,0BPL0YZ,"Removal of Other Device from Left Lung, Open Approach",0BPL0YZ
-207,0BPL3YZ,"Removal of Other Device from Left Lung, Percutaneous Approach",0BPL3YZ
-208,0BPL4YZ,"Removal of Other Device from Left Lung, Percutaneous Endoscopic Approach",0BPL4YZ
-209,0BPL7YZ,"Removal of Other Device from Left Lung, Via Natural or Artificial Opening",0BPL7YZ
-210,0BPL8YZ,"Removal of Other Device from Left Lung, Via Natural or Artificial Opening Endoscopic",0BPL8YZ
-239,0BBK0ZX,"Excision of Right Lung, Open Approach, Diagnostic",0BBK0ZX
-240,0BBK0ZZ,"Excision of Right Lung, Open Approach",0BBK0ZZ
-241,0BBK3ZX,"Excision of Right Lung, Percutaneous Approach, Diagnostic",0BBK3ZX
-242,0BBK3ZZ,"Excision of Right Lung, Percutaneous Approach",0BBK3ZZ
-243,0BBK4ZX,"Excision of Right Lung, Percutaneous Endoscopic Approach, Diagnostic",0BBK4ZX
-244,0BBK4ZZ,"Excision of Right Lung, Percutaneous Endoscopic Approach",0BBK4ZZ
-245,0BBK7ZX,"Excision of Right Lung, Via Natural or Artificial Opening, Diagnostic",0BBK7ZX
-246,0BBK7ZZ,"Excision of Right Lung, Via Natural or Artificial Opening",0BBK7ZZ
-247,0BBK8ZX,"Excision of Right Lung, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBK8ZX
-248,0BBK8ZZ,"Excision of Right Lung, Via Natural or Artificial Opening Endoscopic",0BBK8ZZ
-249,0BBL0ZX,"Excision of Left Lung, Open Approach, Diagnostic",0BBL0ZX
-250,0BBL0ZZ,"Excision of Left Lung, Open Approach",0BBL0ZZ
-251,0BBL3ZX,"Excision of Left Lung, Percutaneous Approach, Diagnostic",0BBL3ZX
-252,0BBL3ZZ,"Excision of Left Lung, Percutaneous Approach",0BBL3ZZ
-253,0BBL4ZX,"Excision of Left Lung, Percutaneous Endoscopic Approach, Diagnostic",0BBL4ZX
-254,0BBL4ZZ,"Excision of Left Lung, Percutaneous Endoscopic Approach",0BBL4ZZ
-255,0BBL7ZX,"Excision of Left Lung, Via Natural or Artificial Opening, Diagnostic",0BBL7ZX
-256,0BBL7ZZ,"Excision of Left Lung, Via Natural or Artificial Opening",0BBL7ZZ
-257,0BBL8ZX,"Excision of Left Lung, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBL8ZX
-258,0BBL8ZZ,"Excision of Left Lung, Via Natural or Artificial Opening Endoscopic",0BBL8ZZ
-259,0BBM0ZX,"Excision of Bilateral Lungs, Open Approach, Diagnostic",0BBM0ZX
-260,0BBM0ZZ,"Excision of Bilateral Lungs, Open Approach",0BBM0ZZ
-261,0BBM3ZX,"Excision of Bilateral Lungs, Percutaneous Approach, Diagnostic",0BBM3ZX
-262,0BBM3ZZ,"Excision of Bilateral Lungs, Percutaneous Approach",0BBM3ZZ
-263,0BBM4ZX,"Excision of Bilateral Lungs, Percutaneous Endoscopic Approach, Diagnostic",0BBM4ZX
-264,0BBM4ZZ,"Excision of Bilateral Lungs, Percutaneous Endoscopic Approach",0BBM4ZZ
-265,0BBM7ZX,"Excision of Bilateral Lungs, Via Natural or Artificial Opening, Diagnostic",0BBM7ZX
-266,0BBM7ZZ,"Excision of Bilateral Lungs, Via Natural or Artificial Opening",0BBM7ZZ
-267,0BBM8ZX,"Excision of Bilateral Lungs, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBM8ZX
-268,0BBM8ZZ,"Excision of Bilateral Lungs, Via Natural or Artificial Opening Endoscopic",0BBM8ZZ
-311,02LR0CT,"Occlusion of Ductus Arteriosus with Extraluminal Device, Open Approach",02LR0CT
-312,02LR0DT,"Occlusion of Ductus Arteriosus with Intraluminal Device, Open Approach",02LR0DT
-313,02LR0ZT,"Occlusion of Ductus Arteriosus, Open Approach",02LR0ZT
-314,02LR3CT,"Occlusion of Ductus Arteriosus with Extraluminal Device, Percutaneous Approach",02LR3CT
-315,02LR3DT,"Occlusion of Ductus Arteriosus with Intraluminal Device, Percutaneous Approach",02LR3DT
-316,02LR3ZT,"Occlusion of Ductus Arteriosus, Percutaneous Approach",02LR3ZT
-317,02LR4CT,"Occlusion of Ductus Arteriosus with Extraluminal Device, Percutaneous Endoscopic Approach",02LR4CT
-318,02LR4DT,"Occlusion of Ductus Arteriosus with Intraluminal Device, Percutaneous Endoscopic Approach",02LR4DT
-319,02LR4ZT,"Occlusion of Ductus Arteriosus, Percutaneous Endoscopic Approach",02LR4ZT
-340,02FQ3Z0,"Fragmentation of Right Pulmonary Artery, Percutaneous Approach, Ultrasonic",02FQ3Z0
-341,02FQ3ZZ,"Fragmentation of Right Pulmonary Artery, Percutaneous Approach",02FQ3ZZ
-342,02FR3Z0,"Fragmentation of Left Pulmonary Artery, Percutaneous Approach, Ultrasonic",02FR3Z0
-343,02FR3ZZ,"Fragmentation of Left Pulmonary Artery, Percutaneous Approach",02FR3ZZ
-344,DB12B6Z,Low Dose Rate (LDR) Brachytherapy of Lung using Cesium 131 (Cs-131),DB12B6Z
-345,DB12BB1,"Low Dose Rate (LDR) Brachytherapy of Lung using Palladium 103 (Pd-103), Unidirectional Source",DB12BB1
-348,0B5C0ZZ,"Destruction of Right Upper Lung Lobe, Open Approach",0B5C0ZZ
-349,0B5C3ZZ,"Destruction of Right Upper Lung Lobe, Percutaneous Approach",0B5C3ZZ
-350,0B5C4ZZ,"Destruction of Right Upper Lung Lobe, Percutaneous Endoscopic Approach",0B5C4ZZ
-351,0B5C7ZZ,"Destruction of Right Upper Lung Lobe, Via Natural or Artificial Opening",0B5C7ZZ
-352,0B5C8ZZ,"Destruction of Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5C8ZZ
-353,0B5D0ZZ,"Destruction of Right Middle Lung Lobe, Open Approach",0B5D0ZZ
-354,0B5D3ZZ,"Destruction of Right Middle Lung Lobe, Percutaneous Approach",0B5D3ZZ
-355,0B5D4ZZ,"Destruction of Right Middle Lung Lobe, Percutaneous Endoscopic Approach",0B5D4ZZ
-356,0B5D7ZZ,"Destruction of Right Middle Lung Lobe, Via Natural or Artificial Opening",0B5D7ZZ
-357,0B5D8ZZ,"Destruction of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5D8ZZ
-358,0B5F0ZZ,"Destruction of Right Lower Lung Lobe, Open Approach",0B5F0ZZ
-359,0B5F3ZZ,"Destruction of Right Lower Lung Lobe, Percutaneous Approach",0B5F3ZZ
-360,0B5F4ZZ,"Destruction of Right Lower Lung Lobe, Percutaneous Endoscopic Approach",0B5F4ZZ
-361,0B5F7ZZ,"Destruction of Right Lower Lung Lobe, Via Natural or Artificial Opening",0B5F7ZZ
-362,0B5F8ZZ,"Destruction of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5F8ZZ
-363,0B5G0ZZ,"Destruction of Left Upper Lung Lobe, Open Approach",0B5G0ZZ
-364,0B5G3ZZ,"Destruction of Left Upper Lung Lobe, Percutaneous Approach",0B5G3ZZ
-365,0B5G4ZZ,"Destruction of Left Upper Lung Lobe, Percutaneous Endoscopic Approach",0B5G4ZZ
-366,0B5G7ZZ,"Destruction of Left Upper Lung Lobe, Via Natural or Artificial Opening",0B5G7ZZ
-367,0B5G8ZZ,"Destruction of Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5G8ZZ
-368,0B5H0ZZ,"Destruction of Lung Lingula, Open Approach",0B5H0ZZ
-369,0B5H3ZZ,"Destruction of Lung Lingula, Percutaneous Approach",0B5H3ZZ
-370,0B5H4ZZ,"Destruction of Lung Lingula, Percutaneous Endoscopic Approach",0B5H4ZZ
-371,0B5H7ZZ,"Destruction of Lung Lingula, Via Natural or Artificial Opening",0B5H7ZZ
-372,0B5H8ZZ,"Destruction of Lung Lingula, Via Natural or Artificial Opening Endoscopic",0B5H8ZZ
-373,0B5J0ZZ,"Destruction of Left Lower Lung Lobe, Open Approach",0B5J0ZZ
-374,0B5J3ZZ,"Destruction of Left Lower Lung Lobe, Percutaneous Approach",0B5J3ZZ
-375,0B5J4ZZ,"Destruction of Left Lower Lung Lobe, Percutaneous Endoscopic Approach",0B5J4ZZ
-376,0B5J7ZZ,"Destruction of Left Lower Lung Lobe, Via Natural or Artificial Opening",0B5J7ZZ
-377,0B5J8ZZ,"Destruction of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5J8ZZ
-378,0B5K0ZZ,"Destruction of Right Lung, Open Approach",0B5K0ZZ
-379,0B5K3ZZ,"Destruction of Right Lung, Percutaneous Approach",0B5K3ZZ
-380,0B5K4ZZ,"Destruction of Right Lung, Percutaneous Endoscopic Approach",0B5K4ZZ
-381,0B5K7ZZ,"Destruction of Right Lung, Via Natural or Artificial Opening",0B5K7ZZ
-382,0B5K8ZZ,"Destruction of Right Lung, Via Natural or Artificial Opening Endoscopic",0B5K8ZZ
-383,0B5L0ZZ,"Destruction of Left Lung, Open Approach",0B5L0ZZ
-384,0B5L3ZZ,"Destruction of Left Lung, Percutaneous Approach",0B5L3ZZ
-385,0B5L4ZZ,"Destruction of Left Lung, Percutaneous Endoscopic Approach",0B5L4ZZ
-386,0B5L7ZZ,"Destruction of Left Lung, Via Natural or Artificial Opening",0B5L7ZZ
-387,0B5L8ZZ,"Destruction of Left Lung, Via Natural or Artificial Opening Endoscopic",0B5L8ZZ
-388,0B5M0ZZ,"Destruction of Bilateral Lungs, Open Approach",0B5M0ZZ
-389,0B5M3ZZ,"Destruction of Bilateral Lungs, Percutaneous Approach",0B5M3ZZ
-390,0B5M4ZZ,"Destruction of Bilateral Lungs, Percutaneous Endoscopic Approach",0B5M4ZZ
-391,0B5M7ZZ,"Destruction of Bilateral Lungs, Via Natural or Artificial Opening",0B5M7ZZ
-392,0B5M8ZZ,"Destruction of Bilateral Lungs, Via Natural or Artificial Opening Endoscopic",0B5M8ZZ
-393,DB1297Z,High Dose Rate (HDR) Brachytherapy of Lung using Cesium 137 (Cs-137),DB1297Z
-394,DB1298Z,High Dose Rate (HDR) Brachytherapy of Lung using Iridium 192 (Ir-192),DB1298Z
-395,DB1299Z,High Dose Rate (HDR) Brachytherapy of Lung using Iodine 125 (I-125),DB1299Z
-396,DB129BZ,High Dose Rate (HDR) Brachytherapy of Lung using Palladium 103 (Pd-103),DB129BZ
-397,DB129CZ,High Dose Rate (HDR) Brachytherapy of Lung using Californium 252 (Cf-252),DB129CZ
-398,DB129YZ,High Dose Rate (HDR) Brachytherapy of Lung using Other Isotope,DB129YZ
-399,DB12B7Z,Low Dose Rate (LDR) Brachytherapy of Lung using Cesium 137 (Cs-137),DB12B7Z
-400,DB12B8Z,Low Dose Rate (LDR) Brachytherapy of Lung using Iridium 192 (Ir-192),DB12B8Z
-401,DB12B9Z,Low Dose Rate (LDR) Brachytherapy of Lung using Iodine 125 (I-125),DB12B9Z
-402,DB12BBZ,Low Dose Rate (LDR) Brachytherapy of Lung using Palladium 103 (Pd-103),DB12BBZ
-403,DB12BCZ,Low Dose Rate (LDR) Brachytherapy of Lung using Californium 252 (Cf-252),DB12BCZ
-404,DB12BYZ,Low Dose Rate (LDR) Brachytherapy of Lung using Other Isotope,DB12BYZ
-405,DBY27ZZ,Contact Radiation of Lung,DBY27ZZ
-475,BB12ZZZ,Fluoroscopy of Right Lung,BB12ZZZ
-476,BB13ZZZ,Fluoroscopy of Left Lung,BB13ZZZ
-477,BB14ZZZ,Fluoroscopy of Bilateral Lungs,BB14ZZZ
-547,0DBK4ZX,"Excision of Ascending Colon, Percutaneous Endoscopic Approach, Diagnostic",0DBK4ZX
-548,0DBL4ZX,"Excision of Transverse Colon, Percutaneous Endoscopic Approach, Diagnostic",0DBL4ZX
-549,0DBM4ZX,"Excision of Descending Colon, Percutaneous Endoscopic Approach, Diagnostic",0DBM4ZX
-550,0DBN4ZX,"Excision of Sigmoid Colon, Percutaneous Endoscopic Approach, Diagnostic",0DBN4ZX
-576,0BBC0ZX,"Excision of Right Upper Lung Lobe, Open Approach, Diagnostic",0BBC0ZX
-577,0BBC8ZX,"Excision of Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBC8ZX
-578,0BBC8ZZ,"Excision of Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBC8ZZ
-579,0BBF0ZX,"Excision of Right Lower Lung Lobe, Open Approach, Diagnostic",0BBF0ZX
-580,0BBF8ZX,"Excision of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBF8ZX
-581,0BBF8ZZ,"Excision of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBF8ZZ
-582,0BBG0ZX,"Excision of Left Upper Lung Lobe, Open Approach, Diagnostic",0BBG0ZX
-583,0BBG8ZX,"Excision of Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBG8ZX
-584,0BBG8ZZ,"Excision of Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBG8ZZ
-585,0BBJ0ZX,"Excision of Left Lower Lung Lobe, Open Approach, Diagnostic",0BBJ0ZX
-586,0BBJ8ZX,"Excision of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBJ8ZX
-587,0BBJ8ZZ,"Excision of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBJ8ZZ
-612,0BB93ZZ,"Excision of Lingula Bronchus, Percutaneous Approach",0BB93ZZ
-613,0BB94ZZ,"Excision of Lingula Bronchus, Percutaneous Endoscopic Approach",0BB94ZZ
-614,0BB97ZZ,"Excision of Lingula Bronchus, Via Natural or Artificial Opening",0BB97ZZ
-615,0BB98ZZ,"Excision of Lingula Bronchus, Via Natural or Artificial Opening Endoscopic",0BB98ZZ
-616,0BT94ZZ,"Resection of Lingula Bronchus, Percutaneous Endoscopic Approach",0BT94ZZ
-736,0B9900Z,"Drainage of Lingula Bronchus with Drainage Device, Open Approach",0B9900Z
-737,0B990ZX,"Drainage of Lingula Bronchus, Open Approach, Diagnostic",0B990ZX
-738,0B990ZZ,"Drainage of Lingula Bronchus, Open Approach",0B990ZZ
-739,0B9930Z,"Drainage of Lingula Bronchus with Drainage Device, Percutaneous Approach",0B9930Z
-740,0B993ZX,"Drainage of Lingula Bronchus, Percutaneous Approach, Diagnostic",0B993ZX
-741,0B993ZZ,"Drainage of Lingula Bronchus, Percutaneous Approach",0B993ZZ
-742,0B9940Z,"Drainage of Lingula Bronchus with Drainage Device, Percutaneous Endoscopic Approach",0B9940Z
-743,0B994ZX,"Drainage of Lingula Bronchus, Percutaneous Endoscopic Approach, Diagnostic",0B994ZX
-744,0B994ZZ,"Drainage of Lingula Bronchus, Percutaneous Endoscopic Approach",0B994ZZ
-745,0B9970Z,"Drainage of Lingula Bronchus with Drainage Device, Via Natural or Artificial Opening",0B9970Z
-746,0B997ZX,"Drainage of Lingula Bronchus, Via Natural or Artificial Opening, Diagnostic",0B997ZX
-747,0B997ZZ,"Drainage of Lingula Bronchus, Via Natural or Artificial Opening",0B997ZZ
-748,0B9980Z,"Drainage of Lingula Bronchus with Drainage Device, Via Natural or Artificial Opening Endoscopic",0B9980Z
-749,0B998ZX,"Drainage of Lingula Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic",0B998ZX
-750,0B998ZZ,"Drainage of Lingula Bronchus, Via Natural or Artificial Opening Endoscopic",0B998ZZ
-753,0B9C00Z,"Drainage of Right Upper Lung Lobe with Drainage Device, Open Approach",0B9C00Z
-754,0B9C0ZX,"Drainage of Right Upper Lung Lobe, Open Approach, Diagnostic",0B9C0ZX
-755,0B9C0ZZ,"Drainage of Right Upper Lung Lobe, Open Approach",0B9C0ZZ
-756,0B9C30Z,"Drainage of Right Upper Lung Lobe with Drainage Device, Percutaneous Approach",0B9C30Z
-757,0B9C3ZX,"Drainage of Right Upper Lung Lobe, Percutaneous Approach, Diagnostic",0B9C3ZX
-758,0B9C3ZZ,"Drainage of Right Upper Lung Lobe, Percutaneous Approach",0B9C3ZZ
-759,0B9C40Z,"Drainage of Right Upper Lung Lobe with Drainage Device, Percutaneous Endoscopic Approach",0B9C40Z
-760,0B9C4ZX,"Drainage of Right Upper Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0B9C4ZX
-761,0B9C4ZZ,"Drainage of Right Upper Lung Lobe, Percutaneous Endoscopic Approach",0B9C4ZZ
-762,0B9C70Z,"Drainage of Right Upper Lung Lobe with Drainage Device, Via Natural or Artificial Opening",0B9C70Z
-763,0B9C7ZX,"Drainage of Right Upper Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0B9C7ZX
-764,0B9C7ZZ,"Drainage of Right Upper Lung Lobe, Via Natural or Artificial Opening",0B9C7ZZ
-765,0B9C80Z,"Drainage of Right Upper Lung Lobe with Drainage Device, Via Natural or Artificial Opening Endoscopic",0B9C80Z
-766,0B9C8ZX,"Drainage of Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0B9C8ZX
-767,0B9C8ZZ,"Drainage of Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B9C8ZZ
-768,0B9D00Z,"Drainage of Right Middle Lung Lobe with Drainage Device, Open Approach",0B9D00Z
-769,0B9D0ZX,"Drainage of Right Middle Lung Lobe, Open Approach, Diagnostic",0B9D0ZX
-770,0B9D0ZZ,"Drainage of Right Middle Lung Lobe, Open Approach",0B9D0ZZ
-771,0B9D30Z,"Drainage of Right Middle Lung Lobe with Drainage Device, Percutaneous Approach",0B9D30Z
-772,0B9D3ZX,"Drainage of Right Middle Lung Lobe, Percutaneous Approach, Diagnostic",0B9D3ZX
-773,0B9D3ZZ,"Drainage of Right Middle Lung Lobe, Percutaneous Approach",0B9D3ZZ
-774,0B9D40Z,"Drainage of Right Middle Lung Lobe with Drainage Device, Percutaneous Endoscopic Approach",0B9D40Z
-775,0B9D4ZX,"Drainage of Right Middle Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0B9D4ZX
-776,0B9D4ZZ,"Drainage of Right Middle Lung Lobe, Percutaneous Endoscopic Approach",0B9D4ZZ
-777,0B9D70Z,"Drainage of Right Middle Lung Lobe with Drainage Device, Via Natural or Artificial Opening",0B9D70Z
-778,0B9D7ZX,"Drainage of Right Middle Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0B9D7ZX
-779,0B9D7ZZ,"Drainage of Right Middle Lung Lobe, Via Natural or Artificial Opening",0B9D7ZZ
-780,0B9D80Z,"Drainage of Right Middle Lung Lobe with Drainage Device, Via Natural or Artificial Opening Endoscopic",0B9D80Z
-781,0B9D8ZX,"Drainage of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0B9D8ZX
-782,0B9D8ZZ,"Drainage of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B9D8ZZ
-783,0B9F00Z,"Drainage of Right Lower Lung Lobe with Drainage Device, Open Approach",0B9F00Z
-784,0B9F0ZX,"Drainage of Right Lower Lung Lobe, Open Approach, Diagnostic",0B9F0ZX
-785,0B9F0ZZ,"Drainage of Right Lower Lung Lobe, Open Approach",0B9F0ZZ
-786,0B9F30Z,"Drainage of Right Lower Lung Lobe with Drainage Device, Percutaneous Approach",0B9F30Z
-787,0B9F3ZX,"Drainage of Right Lower Lung Lobe, Percutaneous Approach, Diagnostic",0B9F3ZX
-788,0B9F3ZZ,"Drainage of Right Lower Lung Lobe, Percutaneous Approach",0B9F3ZZ
-789,0B9F40Z,"Drainage of Right Lower Lung Lobe with Drainage Device, Percutaneous Endoscopic Approach",0B9F40Z
-790,0B9F4ZX,"Drainage of Right Lower Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0B9F4ZX
-791,0B9F4ZZ,"Drainage of Right Lower Lung Lobe, Percutaneous Endoscopic Approach",0B9F4ZZ
-792,0B9F70Z,"Drainage of Right Lower Lung Lobe with Drainage Device, Via Natural or Artificial Opening",0B9F70Z
-793,0B9F7ZX,"Drainage of Right Lower Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0B9F7ZX
-794,0B9F7ZZ,"Drainage of Right Lower Lung Lobe, Via Natural or Artificial Opening",0B9F7ZZ
-795,0B9F80Z,"Drainage of Right Lower Lung Lobe with Drainage Device, Via Natural or Artificial Opening Endoscopic",0B9F80Z
-796,0B9F8ZX,"Drainage of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0B9F8ZX
-797,0B9F8ZZ,"Drainage of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B9F8ZZ
-798,0B9G00Z,"Drainage of Left Upper Lung Lobe with Drainage Device, Open Approach",0B9G00Z
-799,0B9G0ZX,"Drainage of Left Upper Lung Lobe, Open Approach, Diagnostic",0B9G0ZX
-800,0B9G0ZZ,"Drainage of Left Upper Lung Lobe, Open Approach",0B9G0ZZ
-801,0B9G30Z,"Drainage of Left Upper Lung Lobe with Drainage Device, Percutaneous Approach",0B9G30Z
-802,0B9G3ZX,"Drainage of Left Upper Lung Lobe, Percutaneous Approach, Diagnostic",0B9G3ZX
-803,0B9G3ZZ,"Drainage of Left Upper Lung Lobe, Percutaneous Approach",0B9G3ZZ
-804,0B9G40Z,"Drainage of Left Upper Lung Lobe with Drainage Device, Percutaneous Endoscopic Approach",0B9G40Z
-805,0B9G4ZX,"Drainage of Left Upper Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0B9G4ZX
-806,0B9G4ZZ,"Drainage of Left Upper Lung Lobe, Percutaneous Endoscopic Approach",0B9G4ZZ
-807,0B9G70Z,"Drainage of Left Upper Lung Lobe with Drainage Device, Via Natural or Artificial Opening",0B9G70Z
-808,0B9G7ZX,"Drainage of Left Upper Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0B9G7ZX
-809,0B9G7ZZ,"Drainage of Left Upper Lung Lobe, Via Natural or Artificial Opening",0B9G7ZZ
-810,0B9G80Z,"Drainage of Left Upper Lung Lobe with Drainage Device, Via Natural or Artificial Opening Endoscopic",0B9G80Z
-811,0B9G8ZX,"Drainage of Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0B9G8ZX
-812,0B9G8ZZ,"Drainage of Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B9G8ZZ
-813,0B9H00Z,"Drainage of Lung Lingula with Drainage Device, Open Approach",0B9H00Z
-814,0B9H0ZX,"Drainage of Lung Lingula, Open Approach, Diagnostic",0B9H0ZX
-815,0B9H0ZZ,"Drainage of Lung Lingula, Open Approach",0B9H0ZZ
-816,0B9H30Z,"Drainage of Lung Lingula with Drainage Device, Percutaneous Approach",0B9H30Z
-817,0B9H3ZX,"Drainage of Lung Lingula, Percutaneous Approach, Diagnostic",0B9H3ZX
-818,0B9H3ZZ,"Drainage of Lung Lingula, Percutaneous Approach",0B9H3ZZ
-819,0B9H40Z,"Drainage of Lung Lingula with Drainage Device, Percutaneous Endoscopic Approach",0B9H40Z
-820,0B9H4ZX,"Drainage of Lung Lingula, Percutaneous Endoscopic Approach, Diagnostic",0B9H4ZX
-821,0B9H4ZZ,"Drainage of Lung Lingula, Percutaneous Endoscopic Approach",0B9H4ZZ
-822,0B9H70Z,"Drainage of Lung Lingula with Drainage Device, Via Natural or Artificial Opening",0B9H70Z
-823,0B9H7ZX,"Drainage of Lung Lingula, Via Natural or Artificial Opening, Diagnostic",0B9H7ZX
-824,0B9H7ZZ,"Drainage of Lung Lingula, Via Natural or Artificial Opening",0B9H7ZZ
-825,0B9H80Z,"Drainage of Lung Lingula with Drainage Device, Via Natural or Artificial Opening Endoscopic",0B9H80Z
-826,0B9H8ZX,"Drainage of Lung Lingula, Via Natural or Artificial Opening Endoscopic, Diagnostic",0B9H8ZX
-827,0B9H8ZZ,"Drainage of Lung Lingula, Via Natural or Artificial Opening Endoscopic",0B9H8ZZ
-828,0B9J00Z,"Drainage of Left Lower Lung Lobe with Drainage Device, Open Approach",0B9J00Z
-829,0B9J0ZX,"Drainage of Left Lower Lung Lobe, Open Approach, Diagnostic",0B9J0ZX
-830,0B9J0ZZ,"Drainage of Left Lower Lung Lobe, Open Approach",0B9J0ZZ
-831,0B9J30Z,"Drainage of Left Lower Lung Lobe with Drainage Device, Percutaneous Approach",0B9J30Z
-832,0B9J3ZX,"Drainage of Left Lower Lung Lobe, Percutaneous Approach, Diagnostic",0B9J3ZX
-833,0B9J3ZZ,"Drainage of Left Lower Lung Lobe, Percutaneous Approach",0B9J3ZZ
-834,0B9J40Z,"Drainage of Left Lower Lung Lobe with Drainage Device, Percutaneous Endoscopic Approach",0B9J40Z
-835,0B9J4ZX,"Drainage of Left Lower Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0B9J4ZX
-836,0B9J4ZZ,"Drainage of Left Lower Lung Lobe, Percutaneous Endoscopic Approach",0B9J4ZZ
-837,0B9J70Z,"Drainage of Left Lower Lung Lobe with Drainage Device, Via Natural or Artificial Opening",0B9J70Z
-838,0B9J7ZX,"Drainage of Left Lower Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0B9J7ZX
-839,0B9J7ZZ,"Drainage of Left Lower Lung Lobe, Via Natural or Artificial Opening",0B9J7ZZ
-840,0B9J80Z,"Drainage of Left Lower Lung Lobe with Drainage Device, Via Natural or Artificial Opening Endoscopic",0B9J80Z
-841,0B9J8ZX,"Drainage of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0B9J8ZX
-842,0B9J8ZZ,"Drainage of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B9J8ZZ
-843,0B9K00Z,"Drainage of Right Lung with Drainage Device, Open Approach",0B9K00Z
-844,0B9K0ZX,"Drainage of Right Lung, Open Approach, Diagnostic",0B9K0ZX
-845,0B9K0ZZ,"Drainage of Right Lung, Open Approach",0B9K0ZZ
-846,0B9K30Z,"Drainage of Right Lung with Drainage Device, Percutaneous Approach",0B9K30Z
-847,0B9K3ZX,"Drainage of Right Lung, Percutaneous Approach, Diagnostic",0B9K3ZX
-848,0B9K3ZZ,"Drainage of Right Lung, Percutaneous Approach",0B9K3ZZ
-849,0B9K40Z,"Drainage of Right Lung with Drainage Device, Percutaneous Endoscopic Approach",0B9K40Z
-850,0B9K4ZX,"Drainage of Right Lung, Percutaneous Endoscopic Approach, Diagnostic",0B9K4ZX
-851,0B9K4ZZ,"Drainage of Right Lung, Percutaneous Endoscopic Approach",0B9K4ZZ
-852,0B9K70Z,"Drainage of Right Lung with Drainage Device, Via Natural or Artificial Opening",0B9K70Z
-853,0B9K7ZX,"Drainage of Right Lung, Via Natural or Artificial Opening, Diagnostic",0B9K7ZX
-854,0B9K7ZZ,"Drainage of Right Lung, Via Natural or Artificial Opening",0B9K7ZZ
-855,0B9K80Z,"Drainage of Right Lung with Drainage Device, Via Natural or Artificial Opening Endoscopic",0B9K80Z
-856,0B9K8ZX,"Drainage of Right Lung, Via Natural or Artificial Opening Endoscopic, Diagnostic",0B9K8ZX
-857,0B9K8ZZ,"Drainage of Right Lung, Via Natural or Artificial Opening Endoscopic",0B9K8ZZ
-858,0B9L00Z,"Drainage of Left Lung with Drainage Device, Open Approach",0B9L00Z
-859,0B9L0ZX,"Drainage of Left Lung, Open Approach, Diagnostic",0B9L0ZX
-860,0B9L0ZZ,"Drainage of Left Lung, Open Approach",0B9L0ZZ
-861,0B9L30Z,"Drainage of Left Lung with Drainage Device, Percutaneous Approach",0B9L30Z
-862,0B9L3ZX,"Drainage of Left Lung, Percutaneous Approach, Diagnostic",0B9L3ZX
-863,0B9L3ZZ,"Drainage of Left Lung, Percutaneous Approach",0B9L3ZZ
-864,0B9L40Z,"Drainage of Left Lung with Drainage Device, Percutaneous Endoscopic Approach",0B9L40Z
-865,0B9L4ZX,"Drainage of Left Lung, Percutaneous Endoscopic Approach, Diagnostic",0B9L4ZX
-866,0B9L4ZZ,"Drainage of Left Lung, Percutaneous Endoscopic Approach",0B9L4ZZ
-867,0B9L70Z,"Drainage of Left Lung with Drainage Device, Via Natural or Artificial Opening",0B9L70Z
-868,0B9L7ZX,"Drainage of Left Lung, Via Natural or Artificial Opening, Diagnostic",0B9L7ZX
-869,0B9L7ZZ,"Drainage of Left Lung, Via Natural or Artificial Opening",0B9L7ZZ
-870,0B9L80Z,"Drainage of Left Lung with Drainage Device, Via Natural or Artificial Opening Endoscopic",0B9L80Z
-871,0B9L8ZX,"Drainage of Left Lung, Via Natural or Artificial Opening Endoscopic, Diagnostic",0B9L8ZX
-872,0B9L8ZZ,"Drainage of Left Lung, Via Natural or Artificial Opening Endoscopic",0B9L8ZZ
-873,0B9M00Z,"Drainage of Bilateral Lungs with Drainage Device, Open Approach",0B9M00Z
-874,0B9M0ZX,"Drainage of Bilateral Lungs, Open Approach, Diagnostic",0B9M0ZX
-875,0B9M0ZZ,"Drainage of Bilateral Lungs, Open Approach",0B9M0ZZ
-876,0B9M30Z,"Drainage of Bilateral Lungs with Drainage Device, Percutaneous Approach",0B9M30Z
-877,0B9M3ZX,"Drainage of Bilateral Lungs, Percutaneous Approach, Diagnostic",0B9M3ZX
-878,0B9M3ZZ,"Drainage of Bilateral Lungs, Percutaneous Approach",0B9M3ZZ
-879,0B9M40Z,"Drainage of Bilateral Lungs with Drainage Device, Percutaneous Endoscopic Approach",0B9M40Z
-880,0B9M4ZX,"Drainage of Bilateral Lungs, Percutaneous Endoscopic Approach, Diagnostic",0B9M4ZX
-881,0B9M4ZZ,"Drainage of Bilateral Lungs, Percutaneous Endoscopic Approach",0B9M4ZZ
-882,0B9M70Z,"Drainage of Bilateral Lungs with Drainage Device, Via Natural or Artificial Opening",0B9M70Z
-883,0B9M7ZX,"Drainage of Bilateral Lungs, Via Natural or Artificial Opening, Diagnostic",0B9M7ZX
-884,0B9M7ZZ,"Drainage of Bilateral Lungs, Via Natural or Artificial Opening",0B9M7ZZ
-885,0B9M80Z,"Drainage of Bilateral Lungs with Drainage Device, Via Natural or Artificial Opening Endoscopic",0B9M80Z
-886,0B9M8ZX,"Drainage of Bilateral Lungs, Via Natural or Artificial Opening Endoscopic, Diagnostic",0B9M8ZX
-887,0B9M8ZZ,"Drainage of Bilateral Lungs, Via Natural or Artificial Opening Endoscopic",0B9M8ZZ
-1083,02BQ0ZX,"Excision of Right Pulmonary Artery, Open Approach, Diagnostic",02BQ0ZX
-1084,02BR0ZX,"Excision of Left Pulmonary Artery, Open Approach, Diagnostic",02BR0ZX
-1085,0BB90ZX,"Excision of Lingula Bronchus, Open Approach, Diagnostic",0BB90ZX
-1090,0BBD0ZX,"Excision of Right Middle Lung Lobe, Open Approach, Diagnostic",0BBD0ZX
-1093,0BBH0ZX,"Excision of Lung Lingula, Open Approach, Diagnostic",0BBH0ZX
-1194,0BBH0ZZ,"Excision of Lung Lingula, Open Approach",0BBH0ZZ
-1195,0BBH3ZX,"Excision of Lung Lingula, Percutaneous Approach, Diagnostic",0BBH3ZX
-1196,0BBH3ZZ,"Excision of Lung Lingula, Percutaneous Approach",0BBH3ZZ
-1197,0BBH4ZX,"Excision of Lung Lingula, Percutaneous Endoscopic Approach, Diagnostic",0BBH4ZX
-1198,0BBH4ZZ,"Excision of Lung Lingula, Percutaneous Endoscopic Approach",0BBH4ZZ
-1199,0BBH7ZX,"Excision of Lung Lingula, Via Natural or Artificial Opening, Diagnostic",0BBH7ZX
-1200,0BBH7ZZ,"Excision of Lung Lingula, Via Natural or Artificial Opening",0BBH7ZZ
-1201,0BBH8ZX,"Excision of Lung Lingula, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBH8ZX
-1202,0BBH8ZZ,"Excision of Lung Lingula, Via Natural or Artificial Opening Endoscopic",0BBH8ZZ
-1203,0BTH0ZZ,"Resection of Lung Lingula, Open Approach",0BTH0ZZ
-1204,0BTH4ZZ,"Resection of Lung Lingula, Percutaneous Endoscopic Approach",0BTH4ZZ
-1687,BB2400Z,"Computerized Tomography (CT Scan) of Bilateral Lungs using High Osmolar Contrast, Unenhanced and Enhanced",BB2400Z
-1688,BB240ZZ,Computerized Tomography (CT Scan) of Bilateral Lungs using High Osmolar Contrast,BB240ZZ
-1689,BB2410Z,"Computerized Tomography (CT Scan) of Bilateral Lungs using Low Osmolar Contrast, Unenhanced and Enhanced",BB2410Z
-1690,BB241ZZ,Computerized Tomography (CT Scan) of Bilateral Lungs using Low Osmolar Contrast,BB241ZZ
-1691,BB24Y0Z,"Computerized Tomography (CT Scan) of Bilateral Lungs using Other Contrast, Unenhanced and Enhanced",BB24Y0Z
-1692,BB24YZZ,Computerized Tomography (CT Scan) of Bilateral Lungs using Other Contrast,BB24YZZ
-1693,BB24ZZZ,Computerized Tomography (CT Scan) of Bilateral Lungs,BB24ZZZ
-1729,BB3GY0Z,"Magnetic Resonance Imaging (MRI) of Lung Apices using Other Contrast, Unenhanced and Enhanced",BB3GY0Z
-1730,BB3GYZZ,Magnetic Resonance Imaging (MRI) of Lung Apices using Other Contrast,BB3GYZZ
-1731,BB3GZZZ,Magnetic Resonance Imaging (MRI) of Lung Apices,BB3GZZZ
-1753,0BB93ZX,"Excision of Lingula Bronchus, Percutaneous Approach, Diagnostic",0BB93ZX
-1754,0BB94ZX,"Excision of Lingula Bronchus, Percutaneous Endoscopic Approach, Diagnostic",0BB94ZX
-1755,0BB97ZX,"Excision of Lingula Bronchus, Via Natural or Artificial Opening, Diagnostic",0BB97ZX
-1756,0BB98ZX,"Excision of Lingula Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BB98ZX
-1757,0BD94ZX,"Extraction of Lingula Bronchus, Percutaneous Endoscopic Approach, Diagnostic",0BD94ZX
-1758,0BD98ZX,"Extraction of Lingula Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BD98ZX
-1777,0BTK0ZZ,"Resection of Right Lung, Open Approach",0BTK0ZZ
-1778,0BTL0ZZ,"Resection of Left Lung, Open Approach",0BTL0ZZ
-1779,0BTM0ZZ,"Resection of Bilateral Lungs, Open Approach",0BTM0ZZ
-1783,0BTK4ZZ,"Resection of Right Lung, Percutaneous Endoscopic Approach",0BTK4ZZ
-1784,0BTL4ZZ,"Resection of Left Lung, Percutaneous Endoscopic Approach",0BTL4ZZ
-1785,0BTM4ZZ,"Resection of Bilateral Lungs, Percutaneous Endoscopic Approach",0BTM4ZZ
-2126,0BTC0ZZ,"Resection of Right Upper Lung Lobe, Open Approach",0BTC0ZZ
-2127,0BTC4ZZ,"Resection of Right Upper Lung Lobe, Percutaneous Endoscopic Approach",0BTC4ZZ
-2128,0BTD0ZZ,"Resection of Right Middle Lung Lobe, Open Approach",0BTD0ZZ
-2129,0BTD4ZZ,"Resection of Right Middle Lung Lobe, Percutaneous Endoscopic Approach",0BTD4ZZ
-2130,0BTF0ZZ,"Resection of Right Lower Lung Lobe, Open Approach",0BTF0ZZ
-2131,0BTF4ZZ,"Resection of Right Lower Lung Lobe, Percutaneous Endoscopic Approach",0BTF4ZZ
-2132,0BTG0ZZ,"Resection of Left Upper Lung Lobe, Open Approach",0BTG0ZZ
-2133,0BTG4ZZ,"Resection of Left Upper Lung Lobe, Percutaneous Endoscopic Approach",0BTG4ZZ
-2134,0BTJ0ZZ,"Resection of Left Lower Lung Lobe, Open Approach",0BTJ0ZZ
-2135,0BTJ4ZZ,"Resection of Left Lower Lung Lobe, Percutaneous Endoscopic Approach",0BTJ4ZZ
-2195,0BWKX0Z,"Revision of Drainage Device in Right Lung, External Approach",0BWKX0Z
-2196,0BWL30Z,"Revision of Drainage Device in Left Lung, Percutaneous Approach",0BWL30Z
-2197,0BWL80Z,"Revision of Drainage Device in Left Lung, Via Natural or Artificial Opening Endoscopic",0BWL80Z
-2198,0BWLX0Z,"Revision of Drainage Device in Left Lung, External Approach",0BWLX0Z
-2504,02NQ0ZZ,"Release Right Pulmonary Artery, Open Approach",02NQ0ZZ
-2505,02NQ3ZZ,"Release Right Pulmonary Artery, Percutaneous Approach",02NQ3ZZ
-2506,02NQ4ZZ,"Release Right Pulmonary Artery, Percutaneous Endoscopic Approach",02NQ4ZZ
-2507,02NR0ZZ,"Release Left Pulmonary Artery, Open Approach",02NR0ZZ
-2508,02NR3ZZ,"Release Left Pulmonary Artery, Percutaneous Approach",02NR3ZZ
-2509,02NR4ZZ,"Release Left Pulmonary Artery, Percutaneous Endoscopic Approach",02NR4ZZ
-2510,0BN90ZZ,"Release Lingula Bronchus, Open Approach",0BN90ZZ
-2511,0BN93ZZ,"Release Lingula Bronchus, Percutaneous Approach",0BN93ZZ
-2512,0BN94ZZ,"Release Lingula Bronchus, Percutaneous Endoscopic Approach",0BN94ZZ
-2513,0BN97ZZ,"Release Lingula Bronchus, Via Natural or Artificial Opening",0BN97ZZ
-2514,0BN98ZZ,"Release Lingula Bronchus, Via Natural or Artificial Opening Endoscopic",0BN98ZZ
-2517,0BNC0ZZ,"Release Right Upper Lung Lobe, Open Approach",0BNC0ZZ
-2518,0BNC3ZZ,"Release Right Upper Lung Lobe, Percutaneous Approach",0BNC3ZZ
-2519,0BNC4ZZ,"Release Right Upper Lung Lobe, Percutaneous Endoscopic Approach",0BNC4ZZ
-2520,0BNC7ZZ,"Release Right Upper Lung Lobe, Via Natural or Artificial Opening",0BNC7ZZ
-2521,0BNC8ZZ,"Release Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BNC8ZZ
-2522,0BND0ZZ,"Release Right Middle Lung Lobe, Open Approach",0BND0ZZ
-2523,0BND3ZZ,"Release Right Middle Lung Lobe, Percutaneous Approach",0BND3ZZ
-2524,0BND4ZZ,"Release Right Middle Lung Lobe, Percutaneous Endoscopic Approach",0BND4ZZ
-2525,0BND7ZZ,"Release Right Middle Lung Lobe, Via Natural or Artificial Opening",0BND7ZZ
-2526,0BND8ZZ,"Release Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BND8ZZ
-2527,0BNF0ZZ,"Release Right Lower Lung Lobe, Open Approach",0BNF0ZZ
-2528,0BNF3ZZ,"Release Right Lower Lung Lobe, Percutaneous Approach",0BNF3ZZ
-2529,0BNF4ZZ,"Release Right Lower Lung Lobe, Percutaneous Endoscopic Approach",0BNF4ZZ
-2530,0BNF7ZZ,"Release Right Lower Lung Lobe, Via Natural or Artificial Opening",0BNF7ZZ
-2531,0BNF8ZZ,"Release Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BNF8ZZ
-2532,0BNG0ZZ,"Release Left Upper Lung Lobe, Open Approach",0BNG0ZZ
-2533,0BNG3ZZ,"Release Left Upper Lung Lobe, Percutaneous Approach",0BNG3ZZ
-2534,0BNG4ZZ,"Release Left Upper Lung Lobe, Percutaneous Endoscopic Approach",0BNG4ZZ
-2535,0BNG7ZZ,"Release Left Upper Lung Lobe, Via Natural or Artificial Opening",0BNG7ZZ
-2536,0BNG8ZZ,"Release Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BNG8ZZ
-2537,0BNH0ZZ,"Release Lung Lingula, Open Approach",0BNH0ZZ
-2538,0BNH3ZZ,"Release Lung Lingula, Percutaneous Approach",0BNH3ZZ
-2539,0BNH4ZZ,"Release Lung Lingula, Percutaneous Endoscopic Approach",0BNH4ZZ
-2540,0BNH7ZZ,"Release Lung Lingula, Via Natural or Artificial Opening",0BNH7ZZ
-2541,0BNH8ZZ,"Release Lung Lingula, Via Natural or Artificial Opening Endoscopic",0BNH8ZZ
-2542,0BNJ0ZZ,"Release Left Lower Lung Lobe, Open Approach",0BNJ0ZZ
-2543,0BNJ3ZZ,"Release Left Lower Lung Lobe, Percutaneous Approach",0BNJ3ZZ
-2544,0BNJ4ZZ,"Release Left Lower Lung Lobe, Percutaneous Endoscopic Approach",0BNJ4ZZ
-2545,0BNJ7ZZ,"Release Left Lower Lung Lobe, Via Natural or Artificial Opening",0BNJ7ZZ
-2546,0BNJ8ZZ,"Release Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BNJ8ZZ
-2547,0BNK0ZZ,"Release Right Lung, Open Approach",0BNK0ZZ
-2548,0BNK3ZZ,"Release Right Lung, Percutaneous Approach",0BNK3ZZ
-2549,0BNK4ZZ,"Release Right Lung, Percutaneous Endoscopic Approach",0BNK4ZZ
-2550,0BNK7ZZ,"Release Right Lung, Via Natural or Artificial Opening",0BNK7ZZ
-2551,0BNK8ZZ,"Release Right Lung, Via Natural or Artificial Opening Endoscopic",0BNK8ZZ
-2552,0BNL0ZZ,"Release Left Lung, Open Approach",0BNL0ZZ
-2553,0BNL3ZZ,"Release Left Lung, Percutaneous Approach",0BNL3ZZ
-2554,0BNL4ZZ,"Release Left Lung, Percutaneous Endoscopic Approach",0BNL4ZZ
-2555,0BNL7ZZ,"Release Left Lung, Via Natural or Artificial Opening",0BNL7ZZ
-2556,0BNL8ZZ,"Release Left Lung, Via Natural or Artificial Opening Endoscopic",0BNL8ZZ
-2557,0BNM0ZZ,"Release Bilateral Lungs, Open Approach",0BNM0ZZ
-2558,0BNM3ZZ,"Release Bilateral Lungs, Percutaneous Approach",0BNM3ZZ
-2559,0BNM4ZZ,"Release Bilateral Lungs, Percutaneous Endoscopic Approach",0BNM4ZZ
-2560,0BNM7ZZ,"Release Bilateral Lungs, Via Natural or Artificial Opening",0BNM7ZZ
-2561,0BNM8ZZ,"Release Bilateral Lungs, Via Natural or Artificial Opening Endoscopic",0BNM8ZZ
-2762,0BBC4ZX,"Excision of Right Upper Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBC4ZX
-2764,0BBD4ZX,"Excision of Right Middle Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBD4ZX
-2766,0BBF4ZX,"Excision of Right Lower Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBF4ZX
-2768,0BBG4ZX,"Excision of Left Upper Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBG4ZX
-2772,0BBJ4ZX,"Excision of Left Lower Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBJ4ZX
-2787,0BDC4ZX,"Extraction of Right Upper Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDC4ZX
-2788,0BDD4ZX,"Extraction of Right Middle Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDD4ZX
-2789,0BDF4ZX,"Extraction of Right Lower Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDF4ZX
-2790,0BDG4ZX,"Extraction of Left Upper Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDG4ZX
-2791,0BDH4ZX,"Extraction of Lung Lingula, Percutaneous Endoscopic Approach, Diagnostic",0BDH4ZX
-2792,0BDJ4ZX,"Extraction of Left Lower Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDJ4ZX
-2793,0BDK4ZX,"Extraction of Right Lung, Percutaneous Endoscopic Approach, Diagnostic",0BDK4ZX
-2794,0BDL4ZX,"Extraction of Left Lung, Percutaneous Endoscopic Approach, Diagnostic",0BDL4ZX
-2795,0BDM4ZX,"Extraction of Bilateral Lungs, Percutaneous Endoscopic Approach, Diagnostic",0BDM4ZX
-3472,0BBD0ZZ,"Excision of Right Middle Lung Lobe, Open Approach",0BBD0ZZ
-3473,0BBD3ZX,"Excision of Right Middle Lung Lobe, Percutaneous Approach, Diagnostic",0BBD3ZX
-3474,0BBD3ZZ,"Excision of Right Middle Lung Lobe, Percutaneous Approach",0BBD3ZZ
-3476,0BBD4ZZ,"Excision of Right Middle Lung Lobe, Percutaneous Endoscopic Approach",0BBD4ZZ
-3477,0BBD7ZX,"Excision of Right Middle Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBD7ZX
-3478,0BBD7ZZ,"Excision of Right Middle Lung Lobe, Via Natural or Artificial Opening",0BBD7ZZ
-3479,0BBD8ZX,"Excision of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBD8ZX
-3480,0BBD8ZZ,"Excision of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBD8ZZ
-3523,0BBC0ZZ,"Excision of Right Upper Lung Lobe, Open Approach",0BBC0ZZ
-3524,0BBC3ZX,"Excision of Right Upper Lung Lobe, Percutaneous Approach, Diagnostic",0BBC3ZX
-3525,0BBC3ZZ,"Excision of Right Upper Lung Lobe, Percutaneous Approach",0BBC3ZZ
-3526,0BBC7ZX,"Excision of Right Upper Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBC7ZX
-3527,0BBC7ZZ,"Excision of Right Upper Lung Lobe, Via Natural or Artificial Opening",0BBC7ZZ
-3528,0BBF0ZZ,"Excision of Right Lower Lung Lobe, Open Approach",0BBF0ZZ
-3529,0BBF3ZX,"Excision of Right Lower Lung Lobe, Percutaneous Approach, Diagnostic",0BBF3ZX
-3530,0BBF3ZZ,"Excision of Right Lower Lung Lobe, Percutaneous Approach",0BBF3ZZ
-3531,0BBF7ZX,"Excision of Right Lower Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBF7ZX
-3532,0BBF7ZZ,"Excision of Right Lower Lung Lobe, Via Natural or Artificial Opening",0BBF7ZZ
-3533,0BBG0ZZ,"Excision of Left Upper Lung Lobe, Open Approach",0BBG0ZZ
-3534,0BBG3ZX,"Excision of Left Upper Lung Lobe, Percutaneous Approach, Diagnostic",0BBG3ZX
-3535,0BBG3ZZ,"Excision of Left Upper Lung Lobe, Percutaneous Approach",0BBG3ZZ
-3536,0BBG7ZX,"Excision of Left Upper Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBG7ZX
-3537,0BBG7ZZ,"Excision of Left Upper Lung Lobe, Via Natural or Artificial Opening",0BBG7ZZ
-3538,0BBJ0ZZ,"Excision of Left Lower Lung Lobe, Open Approach",0BBJ0ZZ
-3539,0BBJ3ZX,"Excision of Left Lower Lung Lobe, Percutaneous Approach, Diagnostic",0BBJ3ZX
-3540,0BBJ3ZZ,"Excision of Left Lower Lung Lobe, Percutaneous Approach",0BBJ3ZZ
-3541,0BBJ7ZX,"Excision of Left Lower Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBJ7ZX
-3542,0BBJ7ZZ,"Excision of Left Lower Lung Lobe, Via Natural or Artificial Opening",0BBJ7ZZ
-3546,0BBC4ZZ,"Excision of Right Upper Lung Lobe, Percutaneous Endoscopic Approach",0BBC4ZZ
-3550,0BBF4ZZ,"Excision of Right Lower Lung Lobe, Percutaneous Endoscopic Approach",0BBF4ZZ
-3552,0BBG4ZZ,"Excision of Left Upper Lung Lobe, Percutaneous Endoscopic Approach",0BBG4ZZ
-3556,0BBJ4ZZ,"Excision of Left Lower Lung Lobe, Percutaneous Endoscopic Approach",0BBJ4ZZ
-3677,0BDC8ZX,"Extraction of Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDC8ZX
-3678,0BDD8ZX,"Extraction of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDD8ZX
-3679,0BDF8ZX,"Extraction of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDF8ZX
-3680,0BDG8ZX,"Extraction of Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDG8ZX
-3681,0BDH8ZX,"Extraction of Lung Lingula, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDH8ZX
-3682,0BDJ8ZX,"Extraction of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDJ8ZX
-3683,0BDK8ZX,"Extraction of Right Lung, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDK8ZX
-3684,0BDL8ZX,"Extraction of Left Lung, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDL8ZX
-3685,0BDM8ZX,"Extraction of Bilateral Lungs, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDM8ZX
-3876,02QQ3ZZ,"Repair Right Pulmonary Artery, Percutaneous Approach",02QQ3ZZ
-3877,02QR3ZZ,"Repair Left Pulmonary Artery, Percutaneous Approach",02QR3ZZ
-3879,0BQC0ZZ,"Repair Right Upper Lung Lobe, Open Approach",0BQC0ZZ
-3880,0BQC3ZZ,"Repair Right Upper Lung Lobe, Percutaneous Approach",0BQC3ZZ
-3881,0BQC4ZZ,"Repair Right Upper Lung Lobe, Percutaneous Endoscopic Approach",0BQC4ZZ
-3882,0BQC7ZZ,"Repair Right Upper Lung Lobe, Via Natural or Artificial Opening",0BQC7ZZ
-3883,0BQC8ZZ,"Repair Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQC8ZZ
-3884,0BQD0ZZ,"Repair Right Middle Lung Lobe, Open Approach",0BQD0ZZ
-3885,0BQD3ZZ,"Repair Right Middle Lung Lobe, Percutaneous Approach",0BQD3ZZ
-3886,0BQD4ZZ,"Repair Right Middle Lung Lobe, Percutaneous Endoscopic Approach",0BQD4ZZ
-3887,0BQD7ZZ,"Repair Right Middle Lung Lobe, Via Natural or Artificial Opening",0BQD7ZZ
-3888,0BQD8ZZ,"Repair Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQD8ZZ
-3889,0BQF0ZZ,"Repair Right Lower Lung Lobe, Open Approach",0BQF0ZZ
-3890,0BQF3ZZ,"Repair Right Lower Lung Lobe, Percutaneous Approach",0BQF3ZZ
-3891,0BQF4ZZ,"Repair Right Lower Lung Lobe, Percutaneous Endoscopic Approach",0BQF4ZZ
-3892,0BQF7ZZ,"Repair Right Lower Lung Lobe, Via Natural or Artificial Opening",0BQF7ZZ
-3893,0BQF8ZZ,"Repair Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQF8ZZ
-3894,0BQG0ZZ,"Repair Left Upper Lung Lobe, Open Approach",0BQG0ZZ
-3895,0BQG3ZZ,"Repair Left Upper Lung Lobe, Percutaneous Approach",0BQG3ZZ
-3896,0BQG4ZZ,"Repair Left Upper Lung Lobe, Percutaneous Endoscopic Approach",0BQG4ZZ
-3897,0BQG7ZZ,"Repair Left Upper Lung Lobe, Via Natural or Artificial Opening",0BQG7ZZ
-3898,0BQG8ZZ,"Repair Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQG8ZZ
-3899,0BQH0ZZ,"Repair Lung Lingula, Open Approach",0BQH0ZZ
-3900,0BQH3ZZ,"Repair Lung Lingula, Percutaneous Approach",0BQH3ZZ
-3901,0BQH4ZZ,"Repair Lung Lingula, Percutaneous Endoscopic Approach",0BQH4ZZ
-3902,0BQH7ZZ,"Repair Lung Lingula, Via Natural or Artificial Opening",0BQH7ZZ
-3903,0BQH8ZZ,"Repair Lung Lingula, Via Natural or Artificial Opening Endoscopic",0BQH8ZZ
-3904,0BQJ0ZZ,"Repair Left Lower Lung Lobe, Open Approach",0BQJ0ZZ
-3905,0BQJ3ZZ,"Repair Left Lower Lung Lobe, Percutaneous Approach",0BQJ3ZZ
-3906,0BQJ4ZZ,"Repair Left Lower Lung Lobe, Percutaneous Endoscopic Approach",0BQJ4ZZ
-3907,0BQJ7ZZ,"Repair Left Lower Lung Lobe, Via Natural or Artificial Opening",0BQJ7ZZ
-3908,0BQJ8ZZ,"Repair Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQJ8ZZ
-3909,0BQK0ZZ,"Repair Right Lung, Open Approach",0BQK0ZZ
-3910,0BQK3ZZ,"Repair Right Lung, Percutaneous Approach",0BQK3ZZ
-3911,0BQK4ZZ,"Repair Right Lung, Percutaneous Endoscopic Approach",0BQK4ZZ
-3912,0BQK7ZZ,"Repair Right Lung, Via Natural or Artificial Opening",0BQK7ZZ
-3913,0BQK8ZZ,"Repair Right Lung, Via Natural or Artificial Opening Endoscopic",0BQK8ZZ
-3914,0BQL0ZZ,"Repair Left Lung, Open Approach",0BQL0ZZ
-3915,0BQL3ZZ,"Repair Left Lung, Percutaneous Approach",0BQL3ZZ
-3916,0BQL4ZZ,"Repair Left Lung, Percutaneous Endoscopic Approach",0BQL4ZZ
-3917,0BQL7ZZ,"Repair Left Lung, Via Natural or Artificial Opening",0BQL7ZZ
-3918,0BQL8ZZ,"Repair Left Lung, Via Natural or Artificial Opening Endoscopic",0BQL8ZZ
-3919,0BQM0ZZ,"Repair Bilateral Lungs, Open Approach",0BQM0ZZ
-3920,0BQM3ZZ,"Repair Bilateral Lungs, Percutaneous Approach",0BQM3ZZ
-3921,0BQM4ZZ,"Repair Bilateral Lungs, Percutaneous Endoscopic Approach",0BQM4ZZ
-3922,0BQM7ZZ,"Repair Bilateral Lungs, Via Natural or Artificial Opening",0BQM7ZZ
-3923,0BQM8ZZ,"Repair Bilateral Lungs, Via Natural or Artificial Opening Endoscopic",0BQM8ZZ
+59,0BBK0ZX,"Excision of Right Lung, Open Approach, Diagnostic",0BBK0ZX
+60,0BBK0ZZ,"Excision of Right Lung, Open Approach",0BBK0ZZ
+61,0BBK3ZX,"Excision of Right Lung, Percutaneous Approach, Diagnostic",0BBK3ZX
+62,0BBK3ZZ,"Excision of Right Lung, Percutaneous Approach",0BBK3ZZ
+63,0BBK4ZX,"Excision of Right Lung, Percutaneous Endoscopic Approach, Diagnostic",0BBK4ZX
+64,0BBK4ZZ,"Excision of Right Lung, Percutaneous Endoscopic Approach",0BBK4ZZ
+65,0BBK7ZX,"Excision of Right Lung, Via Natural or Artificial Opening, Diagnostic",0BBK7ZX
+66,0BBK7ZZ,"Excision of Right Lung, Via Natural or Artificial Opening",0BBK7ZZ
+67,0BBK8ZX,"Excision of Right Lung, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBK8ZX
+68,0BBK8ZZ,"Excision of Right Lung, Via Natural or Artificial Opening Endoscopic",0BBK8ZZ
+69,0BBL0ZX,"Excision of Left Lung, Open Approach, Diagnostic",0BBL0ZX
+70,0BBL0ZZ,"Excision of Left Lung, Open Approach",0BBL0ZZ
+71,0BBL3ZX,"Excision of Left Lung, Percutaneous Approach, Diagnostic",0BBL3ZX
+72,0BBL3ZZ,"Excision of Left Lung, Percutaneous Approach",0BBL3ZZ
+73,0BBL4ZX,"Excision of Left Lung, Percutaneous Endoscopic Approach, Diagnostic",0BBL4ZX
+74,0BBL4ZZ,"Excision of Left Lung, Percutaneous Endoscopic Approach",0BBL4ZZ
+75,0BBL7ZX,"Excision of Left Lung, Via Natural or Artificial Opening, Diagnostic",0BBL7ZX
+76,0BBL7ZZ,"Excision of Left Lung, Via Natural or Artificial Opening",0BBL7ZZ
+77,0BBL8ZX,"Excision of Left Lung, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBL8ZX
+78,0BBL8ZZ,"Excision of Left Lung, Via Natural or Artificial Opening Endoscopic",0BBL8ZZ
+79,0BBM0ZX,"Excision of Bilateral Lungs, Open Approach, Diagnostic",0BBM0ZX
+80,0BBM0ZZ,"Excision of Bilateral Lungs, Open Approach",0BBM0ZZ
+81,0BBM3ZX,"Excision of Bilateral Lungs, Percutaneous Approach, Diagnostic",0BBM3ZX
+82,0BBM3ZZ,"Excision of Bilateral Lungs, Percutaneous Approach",0BBM3ZZ
+83,0BBM4ZX,"Excision of Bilateral Lungs, Percutaneous Endoscopic Approach, Diagnostic",0BBM4ZX
+84,0BBM4ZZ,"Excision of Bilateral Lungs, Percutaneous Endoscopic Approach",0BBM4ZZ
+85,0BBM7ZX,"Excision of Bilateral Lungs, Via Natural or Artificial Opening, Diagnostic",0BBM7ZX
+86,0BBM7ZZ,"Excision of Bilateral Lungs, Via Natural or Artificial Opening",0BBM7ZZ
+87,0BBM8ZX,"Excision of Bilateral Lungs, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBM8ZX
+88,0BBM8ZZ,"Excision of Bilateral Lungs, Via Natural or Artificial Opening Endoscopic",0BBM8ZZ
+122,02LR0CT,"Occlusion of Ductus Arteriosus with Extraluminal Device, Open Approach",02LR0CT
+123,02LR0DT,"Occlusion of Ductus Arteriosus with Intraluminal Device, Open Approach",02LR0DT
+124,02LR0ZT,"Occlusion of Ductus Arteriosus, Open Approach",02LR0ZT
+125,02LR3CT,"Occlusion of Ductus Arteriosus with Extraluminal Device, Percutaneous Approach",02LR3CT
+126,02LR3DT,"Occlusion of Ductus Arteriosus with Intraluminal Device, Percutaneous Approach",02LR3DT
+127,02LR3ZT,"Occlusion of Ductus Arteriosus, Percutaneous Approach",02LR3ZT
+128,02LR4CT,"Occlusion of Ductus Arteriosus with Extraluminal Device, Percutaneous Endoscopic Approach",02LR4CT
+129,02LR4DT,"Occlusion of Ductus Arteriosus with Intraluminal Device, Percutaneous Endoscopic Approach",02LR4DT
+130,02LR4ZT,"Occlusion of Ductus Arteriosus, Percutaneous Endoscopic Approach",02LR4ZT
+151,02FQ3Z0,"Fragmentation of Right Pulmonary Artery, Percutaneous Approach, Ultrasonic",02FQ3Z0
+152,02FQ3ZZ,"Fragmentation of Right Pulmonary Artery, Percutaneous Approach",02FQ3ZZ
+153,02FR3Z0,"Fragmentation of Left Pulmonary Artery, Percutaneous Approach, Ultrasonic",02FR3Z0
+154,02FR3ZZ,"Fragmentation of Left Pulmonary Artery, Percutaneous Approach",02FR3ZZ
+155,DB12B6Z,Low Dose Rate (LDR) Brachytherapy of Lung using Cesium 131 (Cs-131),DB12B6Z
+156,DB12BB1,"Low Dose Rate (LDR) Brachytherapy of Lung using Palladium 103 (Pd-103), Unidirectional Source",DB12BB1
+159,0B5C0ZZ,"Destruction of Right Upper Lung Lobe, Open Approach",0B5C0ZZ
+160,0B5C3ZZ,"Destruction of Right Upper Lung Lobe, Percutaneous Approach",0B5C3ZZ
+161,0B5C4ZZ,"Destruction of Right Upper Lung Lobe, Percutaneous Endoscopic Approach",0B5C4ZZ
+162,0B5C7ZZ,"Destruction of Right Upper Lung Lobe, Via Natural or Artificial Opening",0B5C7ZZ
+163,0B5C8ZZ,"Destruction of Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5C8ZZ
+164,0B5D0ZZ,"Destruction of Right Middle Lung Lobe, Open Approach",0B5D0ZZ
+165,0B5D3ZZ,"Destruction of Right Middle Lung Lobe, Percutaneous Approach",0B5D3ZZ
+166,0B5D4ZZ,"Destruction of Right Middle Lung Lobe, Percutaneous Endoscopic Approach",0B5D4ZZ
+167,0B5D7ZZ,"Destruction of Right Middle Lung Lobe, Via Natural or Artificial Opening",0B5D7ZZ
+168,0B5D8ZZ,"Destruction of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5D8ZZ
+169,0B5F0ZZ,"Destruction of Right Lower Lung Lobe, Open Approach",0B5F0ZZ
+170,0B5F3ZZ,"Destruction of Right Lower Lung Lobe, Percutaneous Approach",0B5F3ZZ
+171,0B5F4ZZ,"Destruction of Right Lower Lung Lobe, Percutaneous Endoscopic Approach",0B5F4ZZ
+172,0B5F7ZZ,"Destruction of Right Lower Lung Lobe, Via Natural or Artificial Opening",0B5F7ZZ
+173,0B5F8ZZ,"Destruction of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5F8ZZ
+174,0B5G0ZZ,"Destruction of Left Upper Lung Lobe, Open Approach",0B5G0ZZ
+175,0B5G3ZZ,"Destruction of Left Upper Lung Lobe, Percutaneous Approach",0B5G3ZZ
+176,0B5G4ZZ,"Destruction of Left Upper Lung Lobe, Percutaneous Endoscopic Approach",0B5G4ZZ
+177,0B5G7ZZ,"Destruction of Left Upper Lung Lobe, Via Natural or Artificial Opening",0B5G7ZZ
+178,0B5G8ZZ,"Destruction of Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5G8ZZ
+179,0B5H0ZZ,"Destruction of Lung Lingula, Open Approach",0B5H0ZZ
+180,0B5H3ZZ,"Destruction of Lung Lingula, Percutaneous Approach",0B5H3ZZ
+181,0B5H4ZZ,"Destruction of Lung Lingula, Percutaneous Endoscopic Approach",0B5H4ZZ
+182,0B5H7ZZ,"Destruction of Lung Lingula, Via Natural or Artificial Opening",0B5H7ZZ
+183,0B5H8ZZ,"Destruction of Lung Lingula, Via Natural or Artificial Opening Endoscopic",0B5H8ZZ
+184,0B5J0ZZ,"Destruction of Left Lower Lung Lobe, Open Approach",0B5J0ZZ
+185,0B5J3ZZ,"Destruction of Left Lower Lung Lobe, Percutaneous Approach",0B5J3ZZ
+186,0B5J4ZZ,"Destruction of Left Lower Lung Lobe, Percutaneous Endoscopic Approach",0B5J4ZZ
+187,0B5J7ZZ,"Destruction of Left Lower Lung Lobe, Via Natural or Artificial Opening",0B5J7ZZ
+188,0B5J8ZZ,"Destruction of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5J8ZZ
+189,0B5K0ZZ,"Destruction of Right Lung, Open Approach",0B5K0ZZ
+190,0B5K3ZZ,"Destruction of Right Lung, Percutaneous Approach",0B5K3ZZ
+191,0B5K4ZZ,"Destruction of Right Lung, Percutaneous Endoscopic Approach",0B5K4ZZ
+192,0B5K7ZZ,"Destruction of Right Lung, Via Natural or Artificial Opening",0B5K7ZZ
+193,0B5K8ZZ,"Destruction of Right Lung, Via Natural or Artificial Opening Endoscopic",0B5K8ZZ
+194,0B5L0ZZ,"Destruction of Left Lung, Open Approach",0B5L0ZZ
+195,0B5L3ZZ,"Destruction of Left Lung, Percutaneous Approach",0B5L3ZZ
+196,0B5L4ZZ,"Destruction of Left Lung, Percutaneous Endoscopic Approach",0B5L4ZZ
+197,0B5L7ZZ,"Destruction of Left Lung, Via Natural or Artificial Opening",0B5L7ZZ
+198,0B5L8ZZ,"Destruction of Left Lung, Via Natural or Artificial Opening Endoscopic",0B5L8ZZ
+199,0B5M0ZZ,"Destruction of Bilateral Lungs, Open Approach",0B5M0ZZ
+200,0B5M3ZZ,"Destruction of Bilateral Lungs, Percutaneous Approach",0B5M3ZZ
+201,0B5M4ZZ,"Destruction of Bilateral Lungs, Percutaneous Endoscopic Approach",0B5M4ZZ
+202,0B5M7ZZ,"Destruction of Bilateral Lungs, Via Natural or Artificial Opening",0B5M7ZZ
+203,0B5M8ZZ,"Destruction of Bilateral Lungs, Via Natural or Artificial Opening Endoscopic",0B5M8ZZ
+204,DB1297Z,High Dose Rate (HDR) Brachytherapy of Lung using Cesium 137 (Cs-137),DB1297Z
+205,DB1298Z,High Dose Rate (HDR) Brachytherapy of Lung using Iridium 192 (Ir-192),DB1298Z
+206,DB1299Z,High Dose Rate (HDR) Brachytherapy of Lung using Iodine 125 (I-125),DB1299Z
+207,DB129BZ,High Dose Rate (HDR) Brachytherapy of Lung using Palladium 103 (Pd-103),DB129BZ
+208,DB129CZ,High Dose Rate (HDR) Brachytherapy of Lung using Californium 252 (Cf-252),DB129CZ
+209,DB129YZ,High Dose Rate (HDR) Brachytherapy of Lung using Other Isotope,DB129YZ
+210,DB12B7Z,Low Dose Rate (LDR) Brachytherapy of Lung using Cesium 137 (Cs-137),DB12B7Z
+211,DB12B8Z,Low Dose Rate (LDR) Brachytherapy of Lung using Iridium 192 (Ir-192),DB12B8Z
+212,DB12B9Z,Low Dose Rate (LDR) Brachytherapy of Lung using Iodine 125 (I-125),DB12B9Z
+213,DB12BBZ,Low Dose Rate (LDR) Brachytherapy of Lung using Palladium 103 (Pd-103),DB12BBZ
+214,DB12BCZ,Low Dose Rate (LDR) Brachytherapy of Lung using Californium 252 (Cf-252),DB12BCZ
+215,DB12BYZ,Low Dose Rate (LDR) Brachytherapy of Lung using Other Isotope,DB12BYZ
+216,DBY27ZZ,Contact Radiation of Lung,DBY27ZZ
+286,BB12ZZZ,Fluoroscopy of Right Lung,BB12ZZZ
+287,BB13ZZZ,Fluoroscopy of Left Lung,BB13ZZZ
+288,BB14ZZZ,Fluoroscopy of Bilateral Lungs,BB14ZZZ
+358,0DBK4ZX,"Excision of Ascending Colon, Percutaneous Endoscopic Approach, Diagnostic",0DBK4ZX
+359,0DBL4ZX,"Excision of Transverse Colon, Percutaneous Endoscopic Approach, Diagnostic",0DBL4ZX
+360,0DBM4ZX,"Excision of Descending Colon, Percutaneous Endoscopic Approach, Diagnostic",0DBM4ZX
+361,0DBN4ZX,"Excision of Sigmoid Colon, Percutaneous Endoscopic Approach, Diagnostic",0DBN4ZX
+387,0BBC0ZX,"Excision of Right Upper Lung Lobe, Open Approach, Diagnostic",0BBC0ZX
+388,0BBC8ZX,"Excision of Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBC8ZX
+389,0BBC8ZZ,"Excision of Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBC8ZZ
+390,0BBF0ZX,"Excision of Right Lower Lung Lobe, Open Approach, Diagnostic",0BBF0ZX
+391,0BBF8ZX,"Excision of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBF8ZX
+392,0BBF8ZZ,"Excision of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBF8ZZ
+393,0BBG0ZX,"Excision of Left Upper Lung Lobe, Open Approach, Diagnostic",0BBG0ZX
+394,0BBG8ZX,"Excision of Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBG8ZX
+395,0BBG8ZZ,"Excision of Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBG8ZZ
+396,0BBJ0ZX,"Excision of Left Lower Lung Lobe, Open Approach, Diagnostic",0BBJ0ZX
+397,0BBJ8ZX,"Excision of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBJ8ZX
+398,0BBJ8ZZ,"Excision of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBJ8ZZ
+423,0BB93ZZ,"Excision of Lingula Bronchus, Percutaneous Approach",0BB93ZZ
+424,0BB94ZZ,"Excision of Lingula Bronchus, Percutaneous Endoscopic Approach",0BB94ZZ
+425,0BB97ZZ,"Excision of Lingula Bronchus, Via Natural or Artificial Opening",0BB97ZZ
+426,0BB98ZZ,"Excision of Lingula Bronchus, Via Natural or Artificial Opening Endoscopic",0BB98ZZ
+427,0BT94ZZ,"Resection of Lingula Bronchus, Percutaneous Endoscopic Approach",0BT94ZZ
+663,02BQ0ZX,"Excision of Right Pulmonary Artery, Open Approach, Diagnostic",02BQ0ZX
+664,02BR0ZX,"Excision of Left Pulmonary Artery, Open Approach, Diagnostic",02BR0ZX
+665,0BB90ZX,"Excision of Lingula Bronchus, Open Approach, Diagnostic",0BB90ZX
+670,0BBD0ZX,"Excision of Right Middle Lung Lobe, Open Approach, Diagnostic",0BBD0ZX
+673,0BBH0ZX,"Excision of Lung Lingula, Open Approach, Diagnostic",0BBH0ZX
+749,0BBH0ZZ,"Excision of Lung Lingula, Open Approach",0BBH0ZZ
+750,0BBH3ZX,"Excision of Lung Lingula, Percutaneous Approach, Diagnostic",0BBH3ZX
+751,0BBH3ZZ,"Excision of Lung Lingula, Percutaneous Approach",0BBH3ZZ
+752,0BBH4ZX,"Excision of Lung Lingula, Percutaneous Endoscopic Approach, Diagnostic",0BBH4ZX
+753,0BBH4ZZ,"Excision of Lung Lingula, Percutaneous Endoscopic Approach",0BBH4ZZ
+754,0BBH7ZX,"Excision of Lung Lingula, Via Natural or Artificial Opening, Diagnostic",0BBH7ZX
+755,0BBH7ZZ,"Excision of Lung Lingula, Via Natural or Artificial Opening",0BBH7ZZ
+756,0BBH8ZX,"Excision of Lung Lingula, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBH8ZX
+757,0BBH8ZZ,"Excision of Lung Lingula, Via Natural or Artificial Opening Endoscopic",0BBH8ZZ
+758,0BTH0ZZ,"Resection of Lung Lingula, Open Approach",0BTH0ZZ
+759,0BTH4ZZ,"Resection of Lung Lingula, Percutaneous Endoscopic Approach",0BTH4ZZ
+1212,BB2400Z,"Computerized Tomography (CT Scan) of Bilateral Lungs using High Osmolar Contrast, Unenhanced and Enhanced",BB2400Z
+1213,BB240ZZ,Computerized Tomography (CT Scan) of Bilateral Lungs using High Osmolar Contrast,BB240ZZ
+1214,BB2410Z,"Computerized Tomography (CT Scan) of Bilateral Lungs using Low Osmolar Contrast, Unenhanced and Enhanced",BB2410Z
+1215,BB241ZZ,Computerized Tomography (CT Scan) of Bilateral Lungs using Low Osmolar Contrast,BB241ZZ
+1216,BB24Y0Z,"Computerized Tomography (CT Scan) of Bilateral Lungs using Other Contrast, Unenhanced and Enhanced",BB24Y0Z
+1217,BB24YZZ,Computerized Tomography (CT Scan) of Bilateral Lungs using Other Contrast,BB24YZZ
+1218,BB24ZZZ,Computerized Tomography (CT Scan) of Bilateral Lungs,BB24ZZZ
+1254,BB3GY0Z,"Magnetic Resonance Imaging (MRI) of Lung Apices using Other Contrast, Unenhanced and Enhanced",BB3GY0Z
+1255,BB3GYZZ,Magnetic Resonance Imaging (MRI) of Lung Apices using Other Contrast,BB3GYZZ
+1256,BB3GZZZ,Magnetic Resonance Imaging (MRI) of Lung Apices,BB3GZZZ
+1278,0BB93ZX,"Excision of Lingula Bronchus, Percutaneous Approach, Diagnostic",0BB93ZX
+1279,0BB94ZX,"Excision of Lingula Bronchus, Percutaneous Endoscopic Approach, Diagnostic",0BB94ZX
+1280,0BB97ZX,"Excision of Lingula Bronchus, Via Natural or Artificial Opening, Diagnostic",0BB97ZX
+1281,0BB98ZX,"Excision of Lingula Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BB98ZX
+1282,0BD94ZX,"Extraction of Lingula Bronchus, Percutaneous Endoscopic Approach, Diagnostic",0BD94ZX
+1283,0BD98ZX,"Extraction of Lingula Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BD98ZX
+1302,0BTK0ZZ,"Resection of Right Lung, Open Approach",0BTK0ZZ
+1303,0BTL0ZZ,"Resection of Left Lung, Open Approach",0BTL0ZZ
+1304,0BTM0ZZ,"Resection of Bilateral Lungs, Open Approach",0BTM0ZZ
+1308,0BTK4ZZ,"Resection of Right Lung, Percutaneous Endoscopic Approach",0BTK4ZZ
+1309,0BTL4ZZ,"Resection of Left Lung, Percutaneous Endoscopic Approach",0BTL4ZZ
+1310,0BTM4ZZ,"Resection of Bilateral Lungs, Percutaneous Endoscopic Approach",0BTM4ZZ
+1590,0BTC0ZZ,"Resection of Right Upper Lung Lobe, Open Approach",0BTC0ZZ
+1591,0BTC4ZZ,"Resection of Right Upper Lung Lobe, Percutaneous Endoscopic Approach",0BTC4ZZ
+1592,0BTD0ZZ,"Resection of Right Middle Lung Lobe, Open Approach",0BTD0ZZ
+1593,0BTD4ZZ,"Resection of Right Middle Lung Lobe, Percutaneous Endoscopic Approach",0BTD4ZZ
+1594,0BTF0ZZ,"Resection of Right Lower Lung Lobe, Open Approach",0BTF0ZZ
+1595,0BTF4ZZ,"Resection of Right Lower Lung Lobe, Percutaneous Endoscopic Approach",0BTF4ZZ
+1596,0BTG0ZZ,"Resection of Left Upper Lung Lobe, Open Approach",0BTG0ZZ
+1597,0BTG4ZZ,"Resection of Left Upper Lung Lobe, Percutaneous Endoscopic Approach",0BTG4ZZ
+1598,0BTJ0ZZ,"Resection of Left Lower Lung Lobe, Open Approach",0BTJ0ZZ
+1599,0BTJ4ZZ,"Resection of Left Lower Lung Lobe, Percutaneous Endoscopic Approach",0BTJ4ZZ
+2029,0BBC4ZX,"Excision of Right Upper Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBC4ZX
+2031,0BBD4ZX,"Excision of Right Middle Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBD4ZX
+2033,0BBF4ZX,"Excision of Right Lower Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBF4ZX
+2035,0BBG4ZX,"Excision of Left Upper Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBG4ZX
+2039,0BBJ4ZX,"Excision of Left Lower Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBJ4ZX
+2054,0BDC4ZX,"Extraction of Right Upper Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDC4ZX
+2055,0BDD4ZX,"Extraction of Right Middle Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDD4ZX
+2056,0BDF4ZX,"Extraction of Right Lower Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDF4ZX
+2057,0BDG4ZX,"Extraction of Left Upper Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDG4ZX
+2058,0BDH4ZX,"Extraction of Lung Lingula, Percutaneous Endoscopic Approach, Diagnostic",0BDH4ZX
+2059,0BDJ4ZX,"Extraction of Left Lower Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDJ4ZX
+2060,0BDK4ZX,"Extraction of Right Lung, Percutaneous Endoscopic Approach, Diagnostic",0BDK4ZX
+2061,0BDL4ZX,"Extraction of Left Lung, Percutaneous Endoscopic Approach, Diagnostic",0BDL4ZX
+2062,0BDM4ZX,"Extraction of Bilateral Lungs, Percutaneous Endoscopic Approach, Diagnostic",0BDM4ZX
+2702,0BBD0ZZ,"Excision of Right Middle Lung Lobe, Open Approach",0BBD0ZZ
+2703,0BBD3ZX,"Excision of Right Middle Lung Lobe, Percutaneous Approach, Diagnostic",0BBD3ZX
+2704,0BBD3ZZ,"Excision of Right Middle Lung Lobe, Percutaneous Approach",0BBD3ZZ
+2706,0BBD4ZZ,"Excision of Right Middle Lung Lobe, Percutaneous Endoscopic Approach",0BBD4ZZ
+2707,0BBD7ZX,"Excision of Right Middle Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBD7ZX
+2708,0BBD7ZZ,"Excision of Right Middle Lung Lobe, Via Natural or Artificial Opening",0BBD7ZZ
+2709,0BBD8ZX,"Excision of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBD8ZX
+2710,0BBD8ZZ,"Excision of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBD8ZZ
+2753,0BBC0ZZ,"Excision of Right Upper Lung Lobe, Open Approach",0BBC0ZZ
+2754,0BBC3ZX,"Excision of Right Upper Lung Lobe, Percutaneous Approach, Diagnostic",0BBC3ZX
+2755,0BBC3ZZ,"Excision of Right Upper Lung Lobe, Percutaneous Approach",0BBC3ZZ
+2756,0BBC7ZX,"Excision of Right Upper Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBC7ZX
+2757,0BBC7ZZ,"Excision of Right Upper Lung Lobe, Via Natural or Artificial Opening",0BBC7ZZ
+2758,0BBF0ZZ,"Excision of Right Lower Lung Lobe, Open Approach",0BBF0ZZ
+2759,0BBF3ZX,"Excision of Right Lower Lung Lobe, Percutaneous Approach, Diagnostic",0BBF3ZX
+2760,0BBF3ZZ,"Excision of Right Lower Lung Lobe, Percutaneous Approach",0BBF3ZZ
+2761,0BBF7ZX,"Excision of Right Lower Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBF7ZX
+2762,0BBF7ZZ,"Excision of Right Lower Lung Lobe, Via Natural or Artificial Opening",0BBF7ZZ
+2763,0BBG0ZZ,"Excision of Left Upper Lung Lobe, Open Approach",0BBG0ZZ
+2764,0BBG3ZX,"Excision of Left Upper Lung Lobe, Percutaneous Approach, Diagnostic",0BBG3ZX
+2765,0BBG3ZZ,"Excision of Left Upper Lung Lobe, Percutaneous Approach",0BBG3ZZ
+2766,0BBG7ZX,"Excision of Left Upper Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBG7ZX
+2767,0BBG7ZZ,"Excision of Left Upper Lung Lobe, Via Natural or Artificial Opening",0BBG7ZZ
+2768,0BBJ0ZZ,"Excision of Left Lower Lung Lobe, Open Approach",0BBJ0ZZ
+2769,0BBJ3ZX,"Excision of Left Lower Lung Lobe, Percutaneous Approach, Diagnostic",0BBJ3ZX
+2770,0BBJ3ZZ,"Excision of Left Lower Lung Lobe, Percutaneous Approach",0BBJ3ZZ
+2771,0BBJ7ZX,"Excision of Left Lower Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBJ7ZX
+2772,0BBJ7ZZ,"Excision of Left Lower Lung Lobe, Via Natural or Artificial Opening",0BBJ7ZZ
+2776,0BBC4ZZ,"Excision of Right Upper Lung Lobe, Percutaneous Endoscopic Approach",0BBC4ZZ
+2780,0BBF4ZZ,"Excision of Right Lower Lung Lobe, Percutaneous Endoscopic Approach",0BBF4ZZ
+2782,0BBG4ZZ,"Excision of Left Upper Lung Lobe, Percutaneous Endoscopic Approach",0BBG4ZZ
+2786,0BBJ4ZZ,"Excision of Left Lower Lung Lobe, Percutaneous Endoscopic Approach",0BBJ4ZZ
+2907,0BDC8ZX,"Extraction of Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDC8ZX
+2908,0BDD8ZX,"Extraction of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDD8ZX
+2909,0BDF8ZX,"Extraction of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDF8ZX
+2910,0BDG8ZX,"Extraction of Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDG8ZX
+2911,0BDH8ZX,"Extraction of Lung Lingula, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDH8ZX
+2912,0BDJ8ZX,"Extraction of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDJ8ZX
+2913,0BDK8ZX,"Extraction of Right Lung, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDK8ZX
+2914,0BDL8ZX,"Extraction of Left Lung, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDL8ZX
+2915,0BDM8ZX,"Extraction of Bilateral Lungs, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDM8ZX
+3106,02QQ3ZZ,"Repair Right Pulmonary Artery, Percutaneous Approach",02QQ3ZZ
+3107,02QR3ZZ,"Repair Left Pulmonary Artery, Percutaneous Approach",02QR3ZZ
+3109,0BQC0ZZ,"Repair Right Upper Lung Lobe, Open Approach",0BQC0ZZ
+3110,0BQC3ZZ,"Repair Right Upper Lung Lobe, Percutaneous Approach",0BQC3ZZ
+3111,0BQC4ZZ,"Repair Right Upper Lung Lobe, Percutaneous Endoscopic Approach",0BQC4ZZ
+3112,0BQC7ZZ,"Repair Right Upper Lung Lobe, Via Natural or Artificial Opening",0BQC7ZZ
+3113,0BQC8ZZ,"Repair Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQC8ZZ
+3114,0BQD0ZZ,"Repair Right Middle Lung Lobe, Open Approach",0BQD0ZZ
+3115,0BQD3ZZ,"Repair Right Middle Lung Lobe, Percutaneous Approach",0BQD3ZZ
+3116,0BQD4ZZ,"Repair Right Middle Lung Lobe, Percutaneous Endoscopic Approach",0BQD4ZZ
+3117,0BQD7ZZ,"Repair Right Middle Lung Lobe, Via Natural or Artificial Opening",0BQD7ZZ
+3118,0BQD8ZZ,"Repair Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQD8ZZ
+3119,0BQF0ZZ,"Repair Right Lower Lung Lobe, Open Approach",0BQF0ZZ
+3120,0BQF3ZZ,"Repair Right Lower Lung Lobe, Percutaneous Approach",0BQF3ZZ
+3121,0BQF4ZZ,"Repair Right Lower Lung Lobe, Percutaneous Endoscopic Approach",0BQF4ZZ
+3122,0BQF7ZZ,"Repair Right Lower Lung Lobe, Via Natural or Artificial Opening",0BQF7ZZ
+3123,0BQF8ZZ,"Repair Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQF8ZZ
+3124,0BQG0ZZ,"Repair Left Upper Lung Lobe, Open Approach",0BQG0ZZ
+3125,0BQG3ZZ,"Repair Left Upper Lung Lobe, Percutaneous Approach",0BQG3ZZ
+3126,0BQG4ZZ,"Repair Left Upper Lung Lobe, Percutaneous Endoscopic Approach",0BQG4ZZ
+3127,0BQG7ZZ,"Repair Left Upper Lung Lobe, Via Natural or Artificial Opening",0BQG7ZZ
+3128,0BQG8ZZ,"Repair Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQG8ZZ
+3129,0BQH0ZZ,"Repair Lung Lingula, Open Approach",0BQH0ZZ
+3130,0BQH3ZZ,"Repair Lung Lingula, Percutaneous Approach",0BQH3ZZ
+3131,0BQH4ZZ,"Repair Lung Lingula, Percutaneous Endoscopic Approach",0BQH4ZZ
+3132,0BQH7ZZ,"Repair Lung Lingula, Via Natural or Artificial Opening",0BQH7ZZ
+3133,0BQH8ZZ,"Repair Lung Lingula, Via Natural or Artificial Opening Endoscopic",0BQH8ZZ
+3134,0BQJ0ZZ,"Repair Left Lower Lung Lobe, Open Approach",0BQJ0ZZ
+3135,0BQJ3ZZ,"Repair Left Lower Lung Lobe, Percutaneous Approach",0BQJ3ZZ
+3136,0BQJ4ZZ,"Repair Left Lower Lung Lobe, Percutaneous Endoscopic Approach",0BQJ4ZZ
+3137,0BQJ7ZZ,"Repair Left Lower Lung Lobe, Via Natural or Artificial Opening",0BQJ7ZZ
+3138,0BQJ8ZZ,"Repair Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQJ8ZZ
+3139,0BQK0ZZ,"Repair Right Lung, Open Approach",0BQK0ZZ
+3140,0BQK3ZZ,"Repair Right Lung, Percutaneous Approach",0BQK3ZZ
+3141,0BQK4ZZ,"Repair Right Lung, Percutaneous Endoscopic Approach",0BQK4ZZ
+3142,0BQK7ZZ,"Repair Right Lung, Via Natural or Artificial Opening",0BQK7ZZ
+3143,0BQK8ZZ,"Repair Right Lung, Via Natural or Artificial Opening Endoscopic",0BQK8ZZ
+3144,0BQL0ZZ,"Repair Left Lung, Open Approach",0BQL0ZZ
+3145,0BQL3ZZ,"Repair Left Lung, Percutaneous Approach",0BQL3ZZ
+3146,0BQL4ZZ,"Repair Left Lung, Percutaneous Endoscopic Approach",0BQL4ZZ
+3147,0BQL7ZZ,"Repair Left Lung, Via Natural or Artificial Opening",0BQL7ZZ
+3148,0BQL8ZZ,"Repair Left Lung, Via Natural or Artificial Opening Endoscopic",0BQL8ZZ
+3149,0BQM0ZZ,"Repair Bilateral Lungs, Open Approach",0BQM0ZZ
+3150,0BQM3ZZ,"Repair Bilateral Lungs, Percutaneous Approach",0BQM3ZZ
+3151,0BQM4ZZ,"Repair Bilateral Lungs, Percutaneous Endoscopic Approach",0BQM4ZZ
+3152,0BQM7ZZ,"Repair Bilateral Lungs, Via Natural or Artificial Opening",0BQM7ZZ
+3153,0BQM8ZZ,"Repair Bilateral Lungs, Via Natural or Artificial Opening Endoscopic",0BQM8ZZ

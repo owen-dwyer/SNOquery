@@ -314,15 +314,9 @@ conceptId,idAndFsnTerm
 231559005,231559005 | Biopsy of lesion of globe (procedure) |
 225704005,225704005 | Rodding of palpebral conjunctiva (procedure) |
 225701002,225701002 | Massaging of the eye (procedure) |
-225697000,225697000 | Covering eye (procedure) |
-225696009,225696009 | Applying eye shield (procedure) |
-225695008,225695008 | Applying cartella shield (procedure) |
-225694007,225694007 | Applying glucks shield (procedure) |
 225693001,225693001 | Applying double eye pad (procedure) |
 225692006,225692006 | Applying eye pad and bandage (procedure) |
 225691004,225691004 | Applying eye pad and shield (procedure) |
-225690003,225690003 | Applying pressure eye pad (procedure) |
-225689007,225689007 | Applying dark glasses (procedure) |
 225687009,225687009 | Observing eye during eye care (procedure) |
 225684002,225684002 | Cleaning eye (procedure) |
 225683008,225683008 | Bathing eye (procedure) |
@@ -530,7 +524,6 @@ conceptId,idAndFsnTerm
 46870009,46870009 | P32 tracer study of eye (procedure) |
 46718002,46718002 | Cauterization of lesion of cornea using electrical energy (procedure) |
 46697004,46697004 | Incision of zeisian gland (procedure) |
-46641002,46641002 | Application of eye pad (procedure) |
 46309001,46309001 | Extraction of primary membranous cataract by excision (procedure) |
 45817009,45817009 | Removal of foreign body from retina by incision (procedure) |
 45102007,45102007 | Surgical repair of posterior segment of eye (procedure) |
@@ -632,7 +625,6 @@ conceptId,idAndFsnTerm
 12868007,12868007 | Revision of operative wound of anterior segment of eye (procedure) |
 12163000,12163000 | Needling of secondary cataract (procedure) |
 11912002,11912002 | Scraping of trachoma follicles (procedure) |
-11895000,11895000 | Tracer study of eye (procedure) |
 11819005,11819005 | Ocular thermography (procedure) |
 10831003,10831003 | Direct closure of laceration of conjunctiva with nonperforating scleral laceration (procedure) |
 10807008,10807008 | Scleral reinforcement with graft (procedure) |

@@ -3,9 +3,7 @@ snomed,opcs,opcs_term
 426580006,C799,C79.9 Unspecified operations on vitreous body
 397112000,C452,C45.2 Excision of lesion of cornea NEC
 231750006,C743,C74.3 Mechanical lensectomy
-430833007,C455,C45.5 Radiotherapy to lesion of cornea
 231748003,C738,C73.8 Other specified incision of capsule of lens
-231768009,C546,C54.6 Removal of implant or explant from sclera
 450698009,C832,C83.2 Macular translocation three hundred and sixty degrees
 446862000,C722,C72.2 Suction extraction of lens
 34098008,C141,C14.1 Flap of skin to eyelid
@@ -16,48 +14,31 @@ snomed,opcs,opcs_term
 61779007,C042,C04.2 Revision of prosthetic replacement for eyeball
 40997008,C532,C53.2 Excision of lesion of sclera NEC
 416100002,C662,C66.2 Cauterisation of ciliary body
-386611002,C741,C74.1 Curettage of lens
 866200001,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 82027008,C604,C60.4 Iridoplasty NEC
-69724002,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-118898007,C438,C43.8 Other specified other operations on conjunctiva
 113113000,Y973,Y97.3 Radiology with post contrast
 172460005,C558,C55.8 Other specified incision of sclera
-83816004,C064,C06.4 Removal of foreign body from orbit
-4503005,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 37709009,C533,C53.3 Cauterisation of lesion of sclera
 6005008,Y015,Y01.5 Alloreplacement of organ from cadaver heart non-beating NOC
 363115007,Y319,Y31.9 Unspecified exploration of organ NOC
-69724002,C721,C72.1 Forceps extraction of lens
-359963001,C479,C47.9 Unspecified closure of cornea
 231747008,C731,C73.1 Membranectomy of lens
-347747004,C468,C46.8 Other specified plastic operations on cornea
-89153001,C713,C71.3 Aspiration of lens
 426580006,C798,C79.8 Other specified operations on vitreous body
 172565003,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
 45102007,Y264,Y26.4 Removal of other repair material from organ NOC
 45031008,Y102,Y10.2 Electrocauterisation of organ NOC
 87021001,C796,C79.6 Internal tamponade of retina using liquid
-67835007,C539,C53.9 Unspecified extirpation of lesion of sclera
 37182005,C471,C47.1 Suture of cornea
 410459005,Z182,Z18.2 Cornea
 426056001,C522,C52.2 Deep sclerectomy without spacer
 9137006,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-439522009,C798,C79.8 Other specified operations on vitreous body
 17606004,C521,C52.1 Deep sclerectomy with spacer
-429713004,C903,C90.3 Subtenons anaesthetic
 47130006,C403,C40.3 Sliding graft to conjunctiva
-83816004,C022,C02.2 Destruction of lesion of orbit
 397539000,C821,C82.1 Cauterisation of lesion of retina
 7898005,C822,C82.2 Cryotherapy to lesion of retina
-414507007,C733,C73.3 Capsulotomy of posterior lens capsule
-416773006,C615,C61.5 Viscogonioplasty
 450698009,C818,C81.8 Other specified photocoagulation of retina for detachment
 43334009,C691,C69.1 Reformation of anterior chamber of eye
 231764006,C823,C82.3 External beam radiotherapy to lesion of retina
 18137003,C713,C71.3 Aspiration of lens
-54362002,Y291,Y29.1 Surgical removal of foreign body from organ NOC
-404628003,C728,C72.8 Other specified intracapsular extraction of lens
 879785009,Y409,Y40.9 Unspecified dilation of organ NOC
 446938009,C843,C84.3 Biopsy of lesion of retina
 414536007,Y081,Y08.1 Laser excision of organ NOC
@@ -67,14 +48,9 @@ snomed,opcs,opcs_term
 371348009,C623,C62.3 Laser iridotomy
 35552007,C481,C48.1 Surgical removal of foreign body from cornea
 300082008,S473,S47.3 Incision of lesion of skin of head or neck
-713161004,Y081,Y08.1 Laser excision of organ NOC
 336651000,C743,C74.3 Mechanical lensectomy
-69724002,C713,C71.3 Aspiration of lens
 386607008,C623,C62.3 Laser iridotomy
-426475004,C647,C64.7 Insertion of iris hooks
 419191005,C443,C44.3 Endothelial graft to cornea
-83816004,C084,C08.4 Retrobulbar injection into orbit
-172426003,C489,C48.9 Unspecified removal of foreign body from cornea
 231775005,C823,C82.3 External beam radiotherapy to lesion of retina
 64522003,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 50538003,C647,C64.7 Insertion of iris hooks
@@ -82,19 +58,12 @@ snomed,opcs,opcs_term
 85785001,C732,C73.2 Capsulotomy of anterior lens capsule
 700373001,Y269,Y26.9 Unspecified other repair of organ NOC
 295850006,C604,C60.4 Iridoplasty NEC
-6307005,C463,C46.3 Penetrating graft to cornea
 59943006,Y131,Y13.1 Cauterisation of lesion of organ NOC
-373416003,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 22768003,Y259,Y25.9 Unspecified suture of organ NOC
 172538005,C647,C64.7 Insertion of iris hooks
 20019002,C438,C43.8 Other specified other operations on conjunctiva
 32788008,Y021,Y02.1 Implantation of prosthesis into organ NOC
-69724002,C754,C75.4 Insertion of prosthetic replacement for lens using suture fixation
-5671007,Y298,Y29.8 Other specified removal of foreign body from organ NOC
 63228006,Y059,Y05.9 Unspecified excision of organ NOC
-83816004,C068,C06.8 Other specified incision of orbit
-118904000,C538,C53.8 Other specified extirpation of lesion of sclera
-438601000,C918,C91.8 Other specified operations on anterior segment of eye
 425797007,C889,C88.9 Unspecified destruction of subretinal lesion
 866200001,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 120114008,C471,C47.1 Suture of cornea
@@ -103,16 +72,11 @@ snomed,opcs,opcs_term
 75170007,C743,C74.3 Mechanical lensectomy
 78216001,C471,C47.1 Suture of cornea
 172524003,C721,C72.1 Forceps extraction of lens
-13346001,C692,C69.2 Paracentesis of anterior chamber of eye
 446548003,C732,C73.2 Capsulotomy of anterior lens capsule
 64835001,C592,C59.2 Surgical iridectomy
 172469006,C574,C57.4 Suture of sclera
-118898007,C418,C41.8 Other specified incision of conjunctiva
 17606004,C532,C53.2 Excision of lesion of sclera NEC
-417488009,C438,C43.8 Other specified other operations on conjunctiva
 172485001,C611,C61.1 Laser trabeculoplasty
-414507007,C739,C73.9 Unspecified incision of capsule of lens
-20397006,C514,C51.4 Tattooing of cornea
 28242004,C465,C46.5 Deep lamellar graft to cornea
 40899005,Y131,Y13.1 Cauterisation of lesion of organ NOC
 360411008,C774,C77.4 Surgical removal of foreign body from lens
@@ -123,30 +87,22 @@ snomed,opcs,opcs_term
 401306006,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 78110003,Y354,Y35.4 Introduction of radioactive substance into organ for brachytherapy NOC
 446490007,C754,C75.4 Insertion of prosthetic replacement for lens using suture fixation
-386611002,C728,C72.8 Other specified intracapsular extraction of lens
 13927007,C552,C55.2 Corneoscleral trephine
 84077007,C574,C57.4 Suture of sclera
-414507007,C776,C77.6 Insertion of capsule tension ring
 722184001,C443,C44.3 Endothelial graft to cornea
 203644001,C554,C55.4 Expansion of sclera
 35717002,C742,C74.2 Discission of cataract
-19875009,Y222,Y22.2 Aspiration of other lesion of organ NOC
 363115007,Y311,Y31.1 Exploration of sinus track from organ NOC
-88840005,Y181,Y18.1 Freeing of adhesions of organ NOC
-118904000,C573,C57.3 Graft to sclera
 397537003,C664,C66.4 Laser photocoagulation of ciliary body
 438490000,C608,C60.8 Other specified filtering operations on iris
 231744001,C713,C71.3 Aspiration of lens
 231766008,C855,C85.5 Retinopexy NEC
 9754005,C401,C40.1 Mucosal graft to conjunctiva
-417728005,C438,C43.8 Other specified other operations on conjunctiva
 450698009,C822,C82.2 Cryotherapy to lesion of retina
 41515001,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
 74579006,C698,C69.8 Other specified other operations on anterior chamber of eye
 397521009,U216,U21.6 Ultrasound scan NEC
 450698009,C859,C85.9 Unspecified fixation of retina
-37332006,Y298,Y29.8 Other specified removal of foreign body from organ NOC
-54885007,C748,C74.8 Other specified other extraction of lens
 231737005,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 296867007,C792,C79.2 Vitrectomy using pars plana approach
 172529008,C732,C73.2 Capsulotomy of anterior lens capsule
@@ -167,32 +123,21 @@ snomed,opcs,opcs_term
 89978003,C592,C59.2 Surgical iridectomy
 44317007,C888,C88.8 Other specified destruction of subretinal lesion
 80806006,C545,C54.5 Buckling of sclera NEC
-231733009,C611,C61.1 Laser trabeculoplasty
 86948006,C828,C82.8 Other specified destruction of lesion of retina
 35552007,C471,C47.1 Suture of cornea
-424945000,C712,C71.2 Phacoemulsification of lens
-83816004,C069,C06.9 Unspecified incision of orbit
-387746009,C398,C39.8 Other specified extirpation of lesion of conjunctiva
 450698009,C846,C84.6 Retinotomy NEC
 172571009,C802,C80.2 Peel of internal limiting membrane
 700401002,C403,C40.3 Sliding graft to conjunctiva
 41496004,Z199,Z19.9 Eye NEC
-69724002,C748,C74.8 Other specified other extraction of lens
 172523009,C728,C72.8 Other specified intracapsular extraction of lens
 446279000,C456,C45.6 Destruction of lesion of cornea NEC
 80000004,Y131,Y13.1 Cauterisation of lesion of organ NOC
-69724002,C752,C75.2 Revision of prosthetic replacement for lens
-404628003,C721,C72.1 Forceps extraction of lens
 363115007,Y318,Y31.8 Other specified exploration of organ NOC
 35552007,C488,C48.8 Other specified removal of foreign body from cornea
 401306006,C647,C64.7 Insertion of iris hooks
 76824005,C405,C40.5 Suture of conjunctiva
 112970003,C848,C84.8 Other specified other operations on retina
 231737005,X658,X65.8 Other specified radiotherapy delivery
-69724002,C759,C75.9 Unspecified prosthesis of lens
-83816004,C081,C08.1 Transposition of ligament of orbit
-231733009,C615,C61.5 Viscogonioplasty
-73200001,C664,C66.4 Laser photocoagulation of ciliary body
 85785001,C731,C73.1 Membranectomy of lens
 113113000,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 314133005,C648,C64.8 Other specified other operations on iris
@@ -206,83 +151,54 @@ snomed,opcs,opcs_term
 19320007,Y139,Y13.9 Unspecified other destruction of lesion of organ NOC
 426926007,C437,C43.7 Transplantation of conjunctiva
 57569002,C678,C67.8 Other specified other operations on ciliary body
-118901008,C679,C67.9 Unspecified other operations on ciliary body
 66208000,C812,C81.2 Laser photocoagulation of retina for detachment
 75227000,C718,C71.8 Other specified extracapsular extraction of lens
 78110003,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
-4350002,Y037,Y03.7 Removal of prosthesis from organ NOC
 445023004,C645,C64.5 Removal of foreign body from iris
 446490007,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-49289001,C793,C79.3 Injection of vitreous substitute into vitreous body NEC
 40833009,Y085,Y08.5 Laser modification of organ NOC
 65812008,C711,C71.1 Simple linear extraction of lens
 37709009,C592,C59.2 Surgical iridectomy
 252782004,A845,A84.5 Electroretinography NEC
 700373001,Y268,Y26.8 Other specified other repair of organ NOC
-118898007,C409,C40.9 Unspecified repair of conjunctiva
-75787004,C918,C91.8 Other specified operations on anterior segment of eye
 48507008,Y258,Y25.8 Other specified suture of organ NOC
 8920006,C843,C84.3 Biopsy of lesion of retina
-118908002,C918,C91.8 Other specified operations on anterior segment of eye
 397805007,C252,C25.2 Conjunctivodacryocystorhinostomy
 54085006,C579,C57.9 Unspecified other operations on sclera
 172532006,C738,C73.8 Other specified incision of capsule of lens
 386607008,C629,C62.9 Unspecified incision of iris
 427478009,C878,C87.8 Other specified evaluation of retina
-69724002,C758,C75.8 Other specified prosthesis of lens
-75787004,C911,C91.1 Optical coherence tomography of anterior segment of eye
-53696006,C842,C84.2 Excision of lesion of retina NEC
 16658002,C822,C82.2 Cryotherapy to lesion of retina
-444111004,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 78917001,C812,C81.2 Laser photocoagulation of retina for detachment
 25316003,C455,C45.5 Radiotherapy to lesion of cornea
 83202004,Y262,Y26.2 Plastic repair of organ NOC
 231747008,C733,C73.3 Capsulotomy of posterior lens capsule
 34524006,C554,C55.4 Expansion of sclera
 440578004,C821,C82.1 Cauterisation of lesion of retina
-51281007,C433,C43.3 Removal of foreign body from conjunctiva
 415840002,C444,C44.4 Photorefractive keratectomy
-444111004,C723,C72.3 Cryoextraction of lens
 172389006,C401,C40.1 Mucosal graft to conjunctiva
 112962008,C471,C47.1 Suture of cornea
 6615001,A845,A84.5 Electroretinography NEC
 427387001,C796,C79.6 Internal tamponade of retina using liquid
-231346001,Y809,Y80.9 Unspecified general anaesthetic
 231747008,C732,C73.2 Capsulotomy of anterior lens capsule
 75792002,Y019,Y01.9 Unspecified replacement of organ NOC
 88752005,C591,C59.1 Iridocyclectomy
-833324006,C798,C79.8 Other specified operations on vitreous body
 265295001,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 65812008,C721,C72.1 Forceps extraction of lens
 231785006,C842,C84.2 Excision of lesion of retina NEC
-426534009,C803,C80.3 Delamination of epiretinal fibrovascular membrane
 241037002,Z199,Z19.9 Eye NEC
-231755001,C794,C79.4 Injection into vitreous body NEC
 446548003,C734,C73.4 Capsulotomy of lens NEC
-424945000,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-118906003,C812,C81.2 Laser photocoagulation of retina for detachment
 290015004,C401,C40.1 Mucosal graft to conjunctiva
-67835007,C541,C54.1 Overlay scleroplasty
-82155009,C713,C71.3 Aspiration of lens
-440587008,Y716,Y71.6 Second revisional operation NOC
 25853004,C812,C81.2 Laser photocoagulation of retina for detachment
 58388006,C404,C40.4 Prosthetic replacement of conjunctiva
 293820001,C461,C46.1 Refractive keratoplasty
-54885007,C732,C73.2 Capsulotomy of anterior lens capsule
 82027008,C608,C60.8 Other specified filtering operations on iris
 231736001,C665,C66.5 Destruction of ciliary body NEC
 172538005,C743,C74.3 Mechanical lensectomy
-172392005,C404,C40.4 Prosthetic replacement of conjunctiva
-444111004,C729,C72.9 Unspecified intracapsular extraction of lens
 172525002,C776,C77.6 Insertion of capsule tension ring
 63228006,Y053,Y05.3 Excision of sinus track from organ NOC
-26633008,C849,C84.9 Unspecified other operations on retina
-13346001,C699,C69.9 Unspecified other operations on anterior chamber of eye
-385468004,C732,C73.2 Capsulotomy of anterior lens capsule
 231762005,C812,C81.2 Laser photocoagulation of retina for detachment
-172436006,C512,C51.2 Chelation of cornea
 75227000,C741,C74.1 Curettage of lens
-417223000,Y036,Y03.6 Adjustment to prosthesis in organ NOC
 8920006,C549,C54.9 Unspecified buckling operations for attachment of retina
 446099001,C845,C84.5 Drainage of subretinal fluid through retina
 427402009,C796,C79.6 Internal tamponade of retina using liquid
@@ -291,33 +207,24 @@ snomed,opcs,opcs_term
 89978003,C722,C72.2 Suction extraction of lens
 73689008,C643,C64.3 Destruction of lesion of iris
 78191003,C775,C77.5 Magnetic extraction of foreign body from lens
-118904000,C531,C53.1 Punch resection of sclera
 89978003,C729,C72.9 Unspecified intracapsular extraction of lens
 83202004,Y263,Y26.3 Stapling of organ NOC
 82948008,Y111,Y11.1 Cauterisation of organ NOC
 120122001,Y261,Y26.1 Reconstruction of organ NOC
 35009002,C888,C88.8 Other specified destruction of subretinal lesion
-414507007,C748,C74.8 Other specified other extraction of lens
 108148001,Y058,Y05.8 Other specified excision of organ NOC
-67546003,C064,C06.4 Removal of foreign body from orbit
 67991000,C711,C71.1 Simple linear extraction of lens
 74184007,C732,C73.2 Capsulotomy of anterior lens capsule
-54885007,C721,C72.1 Forceps extraction of lens
 29664009,C592,C59.2 Surgical iridectomy
 172415009,C445,C44.5 Laser subepithelial keratomileusis
 112969004,C812,C81.2 Laser photocoagulation of retina for detachment
-444600006,C482,C48.2 Magnetic extraction of foreign body from cornea
 231779004,C793,C79.3 Injection of vitreous substitute into vitreous body NEC
 446490007,C713,C71.3 Aspiration of lens
 120119003,C918,C91.8 Other specified operations on anterior segment of eye
 274337004,C511,C51.1 Biopsy of lesion of cornea
 19740002,C713,C71.3 Aspiration of lens
-416606009,Y037,Y03.7 Removal of prosthesis from organ NOC
-416133007,C434,C43.4 Subconjunctival injection
 65839000,U216,U21.6 Ultrasound scan NEC
-83816004,C021,C02.1 Excision of lesion of orbit
 59590004,C039,C03.9 Unspecified insertion of prosthesis of eye
-118898007,C431,C43.1 Division of adhesions of conjunctiva
 231726009,Y082,Y08.2 Laser excision of lesion of organ NOC
 108143005,Y053,Y05.3 Excision of sinus track from organ NOC
 172509007,C662,C66.2 Cauterisation of ciliary body
@@ -325,10 +232,8 @@ snomed,opcs,opcs_term
 446635005,C531,C53.1 Punch resection of sclera
 18274005,C622,C62.2 Surgical iridotomy
 47242009,Y061,Y06.1 Marsupialisation of organ NOC
-416199008,Y254,Y25.4 Removal of other suture from organ NOC
 700373001,Y265,Y26.5 Other attention to repair of organ NOC
 63356004,C771,C77.1 Capsulectomy
-429713004,C908,C90.8 Other specified local anaesthetics for ophthalmology procedures
 75792002,Y016,Y01.6 Alloreplacement of organ from cadaver NOC
 1179030003,C601,C60.1 Trabeculectomy
 41496004,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
@@ -336,39 +241,27 @@ snomed,opcs,opcs_term
 21491001,Y299,Y29.9 Unspecified removal of foreign body from organ NOC
 85785001,C738,C73.8 Other specified incision of capsule of lens
 85257004,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
-54885007,C743,C74.3 Mechanical lensectomy
-231770000,C849,C84.9 Unspecified other operations on retina
 386607008,C622,C62.2 Surgical iridotomy
 314117007,Y717,Y71.7 Third or greater revisional operation NOC
-231770000,C792,C79.2 Vitrectomy using pars plana approach
 85785001,C739,C73.9 Unspecified incision of capsule of lens
-84149000,C776,C77.6 Insertion of capsule tension ring
 450698009,C833,C83.3 Limited macular translocation
 84077007,C573,C57.3 Graft to sclera
 33412005,Y073,Y07.3 Obliteration of sinus track from organ NOC
 59590004,C012,C01.2 Enucleation of eye
 86948006,C825,C82.5 Panretinal laser photocoagulation to lesion of retina
 44317007,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
-385468004,C738,C73.8 Other specified incision of capsule of lens
 231751005,C752,C75.2 Revision of prosthetic replacement for lens
 14707009,Y055,Y05.5 Debridement of organ NOC
 414873001,Y084,Y08.4 Laser destruction of lesion of organ NOC
-83816004,C049,C04.9 Unspecified attention to prosthesis of eye
-373353005,C864,C86.4 Removal of foreign body from eye NEC
 397313004,C499,C49.9 Unspecified incision of cornea
 404627008,C733,C73.3 Capsulotomy of posterior lens capsule
 7798001,C408,C40.8 Other specified repair of conjunctiva
 66655001,C436,C43.6 Creation of hood of conjunctiva
 414436009,C444,C44.4 Photorefractive keratectomy
 231747008,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-61220009,C864,C86.4 Removal of foreign body from eye NEC
-83816004,C044,C04.4 Removal of prosthetic replacement for eyeball
 722184001,Y014,Y01.4 Alloreplacement of organ from cadaver heart beating NOC
-53696006,C833,C83.3 Limited macular translocation
-14400005,C798,C79.8 Other specified operations on vitreous body
 426966006,C521,C52.1 Deep sclerectomy with spacer
 60656008,C463,C46.3 Penetrating graft to cornea
-67835007,C572,C57.2 Repair of sclera
 439269000,Y698,Y69.8 Other specified harvest of other tissue
 446590009,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 60177007,C791,C79.1 Vitrectomy using anterior approach
@@ -378,92 +271,61 @@ snomed,opcs,opcs_term
 445023004,C433,C43.3 Removal of foreign body from conjunctiva
 43111005,Y354,Y35.4 Introduction of radioactive substance into organ for brachytherapy NOC
 413955007,Y021,Y02.1 Implantation of prosthesis into organ NOC
-6307005,C467,C46.7 Transplant of corneal limbal cells
-22871000,C918,C91.8 Other specified operations on anterior segment of eye
 446548003,C711,C71.1 Simple linear extraction of lens
 426158003,C795,C79.5 Internal tamponade of retina using gas
 231756000,C796,C79.6 Internal tamponade of retina using liquid
 113113000,Z161,Z16.1 Orbit
-67835007,C534,C53.4 Destruction of lesion of sclera NEC
 76824005,C404,C40.4 Prosthetic replacement of conjunctiva
 446635005,C522,C52.2 Deep sclerectomy without spacer
 359951006,C678,C67.8 Other specified other operations on ciliary body
 172400008,C435,C43.5 Exploration of conjunctiva
 9754005,C572,C57.2 Repair of sclera
-445138001,Y388,Y38.8 Other specified injection of therapeutic substance into organ NOC
 46562009,C742,C74.2 Discission of cataract
 84542000,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 700417008,C466,C46.6 Amniotic membrane graft to cornea
-386611002,C754,C75.4 Insertion of prosthetic replacement for lens using suture fixation
 416100002,C669,C66.9 Unspecified extirpation of ciliary body
 231773003,C802,C80.2 Peel of internal limiting membrane
 14480008,C199,C19.9 Unspecified incision of eyelid
 231736001,Y135,Y13.5 Ultrasonic destruction of lesion of organ NOC
-118904000,C558,C55.8 Other specified incision of sclera
 397521009,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 78191003,C732,C73.2 Capsulotomy of anterior lens capsule
-14400005,Y181,Y18.1 Freeing of adhesions of organ NOC
 231710008,C461,C46.1 Refractive keratoplasty
 120114008,C479,C47.9 Unspecified closure of cornea
-231770000,C797,C79.7 Removal of internal tamponade agent from vitreous body
 43111005,C889,C88.9 Unspecified destruction of subretinal lesion
 231773003,C804,C80.4 Segmentation of epiretinal fibrovascular membrane
 78110003,Y352,Y35.2 Introduction of iridium wire into organ NOC
-120113002,Y394,Y39.4 Lipofilling injection into organ NOC
 363115007,Y322,Y32.2 Re-exploration of organ and other repair of organ NOC
-274007003,C191,C19.1 Drainage of lesion of eyelid
 445944001,Y131,Y13.1 Cauterisation of lesion of organ NOC
-69724002,C749,C74.9 Unspecified other extraction of lens
 397521009,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
-26633008,C844,C84.4 Retinal vascular sheathotomy
 164729009,Y442,Y44.2 Monitoring of pressure in organ NOC
-67835007,C549,C54.9 Unspecified buckling operations for attachment of retina
-27668001,C515,C51.5 Placement of therapeutic contact lens on to cornea
 17632005,C798,C79.8 Other specified operations on vitreous body
 77950003,C889,C88.9 Unspecified destruction of subretinal lesion
-118904000,C574,C57.4 Suture of sclera
-258359008,Y118,Y11.8 Other specified other destruction of organ NOC
-387746009,C403,C40.3 Sliding graft to conjunctiva
-172426003,C482,C48.2 Magnetic extraction of foreign body from cornea
-26633008,C843,C84.3 Biopsy of lesion of retina
 446548003,C729,C72.9 Unspecified intracapsular extraction of lens
-420526005,C712,C71.2 Phacoemulsification of lens
-118904000,C533,C53.3 Cauterisation of lesion of sclera
 446099001,Y228,Y22.8 Other specified drainage of organ NOC
-118898007,C435,C43.5 Exploration of conjunctiva
 19740002,C718,C71.8 Other specified extracapsular extraction of lens
-53696006,C844,C84.4 Retinal vascular sheathotomy
-53696006,C811,C81.1 Xenon photocoagulation of retina for detachment
 43111005,C888,C88.8 Other specified destruction of subretinal lesion
 3605001,C665,C66.5 Destruction of ciliary body NEC
 397994004,C039,C03.9 Unspecified insertion of prosthesis of eye
 64835001,C771,C77.1 Capsulectomy
 722186004,Y014,Y01.4 Alloreplacement of organ from cadaver heart beating NOC
 450698009,C825,C82.5 Panretinal laser photocoagulation to lesion of retina
-64340000,Y298,Y29.8 Other specified removal of foreign body from organ NOC
 231744001,C743,C74.3 Mechanical lensectomy
 446862000,C728,C72.8 Other specified intracapsular extraction of lens
 34854007,C653,C65.3 Revision of bleb NEC
 274336008,C061,C06.1 Biopsy of lesion of orbit
 120086003,C012,C01.2 Enucleation of eye
-53696006,C818,C81.8 Other specified photocoagulation of retina for detachment
-79611007,C741,C74.1 Curettage of lens
 10831003,C405,C40.5 Suture of conjunctiva
 866200001,Z199,Z19.9 Eye NEC
 67991000,C776,C77.6 Insertion of capsule tension ring
 427326007,C859,C85.9 Unspecified fixation of retina
 231761003,C822,C82.2 Cryotherapy to lesion of retina
 8920006,C842,C84.2 Excision of lesion of retina NEC
-428618008,C891,C89.1 Insertion of sustained release device into posterior segment of eye
 60177007,C792,C79.2 Vitrectomy using pars plana approach
 231737005,X657,X65.7 Delivery of radionuclide therapy NEC
-118898007,C399,C39.9 Unspecified extirpation of lesion of conjunctiva
 30931009,Z194,Z19.4 Choroid
 44269004,C647,C64.7 Insertion of iris hooks
-386611002,C734,C73.4 Capsulotomy of lens NEC
 231737005,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 40485001,C452,C45.2 Excision of lesion of cornea NEC
-118898007,C411,C41.1 Peritomy
 231747008,C738,C73.8 Other specified incision of capsule of lens
 64522003,Y134,Y13.4 Radiofrequency controlled thermal destruction of lesion of organ NOC
 398874009,C826,C82.6 Laser photocoagulation to lesion of retina NEC
@@ -478,11 +340,8 @@ snomed,opcs,opcs_term
 75792002,Y018,Y01.8 Other specified replacement of organ NOC
 231725008,C592,C59.2 Surgical iridectomy
 64854001,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-84149000,C712,C71.2 Phacoemulsification of lens
 26786002,C546,C54.6 Removal of implant or explant from sclera
-53696006,C848,C84.8 Other specified other operations on retina
 63726006,C559,C55.9 Unspecified incision of sclera
-118906003,C843,C84.3 Biopsy of lesion of retina
 1156643002,C826,C82.6 Laser photocoagulation to lesion of retina NEC
 231748003,C731,C73.1 Membranectomy of lens
 48507008,C648,C64.8 Other specified other operations on iris
@@ -495,26 +354,19 @@ snomed,opcs,opcs_term
 309556000,C733,C73.3 Capsulotomy of posterior lens capsule
 69235008,C545,C54.5 Buckling of sclera NEC
 416831007,C601,C60.1 Trabeculectomy
-414507007,C742,C74.2 Discission of cataract
 5961007,C518,C51.8 Other specified other operations on cornea
 866200001,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 11819005,Y971,Y97.1 Radiology with pre and post contrast
 450698009,C848,C84.8 Other specified other operations on retina
 1019009,Y059,Y05.9 Unspecified excision of organ NOC
-387746009,C391,C39.1 Excision of lesion of conjunctiva
 172408001,X658,X65.8 Other specified radiotherapy delivery
-425424008,C553,C55.3 Drainage of subretinal fluid through sclera
 310662003,C829,C82.9 Unspecified destruction of lesion of retina
 415282007,C713,C71.3 Aspiration of lens
-53696006,C831,C83.1 Pigment epithelium translocation of retina
 346742000,C471,C47.1 Suture of cornea
-89788006,C482,C48.2 Magnetic extraction of foreign body from cornea
-108152001,C778,C77.8 Other specified other operations on lens
 335636001,C712,C71.2 Phacoemulsification of lens
 41496004,U216,U21.6 Ultrasound scan NEC
 85645002,C572,C57.2 Repair of sclera
 120125004,C868,C86.8 Other specified other operations on eye
-118898007,C434,C43.4 Subconjunctival injection
 309556000,Y084,Y08.4 Laser destruction of lesion of organ NOC
 47242009,Y066,Y06.6 Vacuum excision of lesion of organ NOC
 78110003,Y358,Y35.8 Other specified introduction of removable radioactive material into organ NOC
@@ -522,57 +374,33 @@ snomed,opcs,opcs_term
 312713003,C812,C81.2 Laser photocoagulation of retina for detachment
 252833009,Y442,Y44.2 Monitoring of pressure in organ NOC
 314233004,Y284,Y28.4 Insertion of mesh into organ NOC
-67835007,C579,C57.9 Unspecified other operations on sclera
 37002005,C848,C84.8 Other specified other operations on retina
-386611002,C722,C72.2 Suction extraction of lens
 373357006,Y069,Y06.9 Unspecified excision of lesion of organ NOC
 2914003,C551,C55.1 Drainage of lesion of sclera
-445138001,Y389,Y38.9 Unspecified injection of therapeutic substance into organ NOC
-373353005,C869,C86.9 Unspecified other operations on eye
 450698009,C824,C82.4 Plaque radiotherapy to lesion of retina
 700373001,Y263,Y26.3 Stapling of organ NOC
-69724002,C742,C74.2 Discission of cataract
-8813000,Y298,Y29.8 Other specified removal of foreign body from organ NOC
 82382005,C791,C79.1 Vitrectomy using anterior approach
 23379002,Y309,Y30.9 Unspecified incision of organ NOC
-79611007,C647,C64.7 Insertion of iris hooks
 172508004,C668,C66.8 Other specified extirpation of ciliary body
 37709009,C578,C57.8 Other specified other operations on sclera
-112963003,C776,C77.6 Insertion of capsule tension ring
-386611002,C729,C72.9 Unspecified intracapsular extraction of lens
 265297009,C889,C88.9 Unspecified destruction of subretinal lesion
 86948006,C824,C82.4 Plaque radiotherapy to lesion of retina
 33412005,C515,C51.5 Placement of therapeutic contact lens on to cornea
-112966006,C796,C79.6 Internal tamponade of retina using liquid
-312709005,C845,C84.5 Drainage of subretinal fluid through retina
 91552000,Y713,Y71.3 Revisional operations NOC
 450698009,C851,C85.1 Retinopexy using cryotherapy
-83816004,C052,C05.2 Plastic repair of cavity of orbit
-386611002,C776,C77.6 Insertion of capsule tension ring
 312713003,C821,C82.1 Cauterisation of lesion of retina
-373353005,C866,C86.6 Examination of eye under anaesthetic
 6889000,C545,C54.5 Buckling of sclera NEC
-118898007,C439,C43.9 Unspecified other operations on conjunctiva
 241037002,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
-118905004,C845,C84.5 Drainage of subretinal fluid through retina
 425816006,C874,C87.4 Ultrasonic evaluation of retina
-83816004,C082,C08.2 Open reduction of fracture of orbit
 34524006,C551,C55.1 Drainage of lesion of sclera
 22623003,C468,C46.8 Other specified plastic operations on cornea
 314233004,Y281,Y28.1 Insertion of synthetic mesh into organ NOC
 47242009,Y062,Y06.2 Deroofing of cyst of organ NOC
-19875009,Y228,Y22.8 Other specified drainage of organ NOC
-76240002,C798,C79.8 Other specified operations on vitreous body
-172548007,C774,C77.4 Surgical removal of foreign body from lens
 62935003,C498,C49.8 Other specified incision of cornea
 172538005,C776,C77.6 Insertion of capsule tension ring
 6005008,Y012,Y01.2 Alloreplacement of organ NOC
-69724002,C712,C71.2 Phacoemulsification of lens
 231771001,C798,C79.8 Other specified operations on vitreous body
-54885007,C734,C73.4 Capsulotomy of lens NEC
 450698009,C849,C84.9 Unspecified other operations on retina
-4350002,C518,C51.8 Other specified other operations on cornea
-231334000,C794,C79.4 Injection into vitreous body NEC
 20452001,C458,C45.8 Other specified extirpation of lesion of cornea
 58388006,C409,C40.9 Unspecified repair of conjunctiva
 61553000,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
@@ -580,23 +408,16 @@ snomed,opcs,opcs_term
 85257004,Y134,Y13.4 Radiofrequency controlled thermal destruction of lesion of organ NOC
 75903006,C811,C81.1 Xenon photocoagulation of retina for detachment
 397521009,Y973,Y97.3 Radiology with post contrast
-426565000,C805,C80.5 Removal of subretinal vascular membrane
 446862000,C754,C75.4 Insertion of prosthetic replacement for lens using suture fixation
-446718003,C848,C84.8 Other specified other operations on retina
 231748003,C734,C73.4 Capsulotomy of lens NEC
-72208004,C518,C51.8 Other specified other operations on cornea
-404628003,C723,C72.3 Cryoextraction of lens
 4323007,C538,C53.8 Other specified extirpation of lesion of sclera
 13303004,C551,C55.1 Drainage of lesion of sclera
 78191003,C739,C73.9 Unspecified incision of capsule of lens
-112966006,C791,C79.1 Vitrectomy using anterior approach
 8803008,C621,C62.1 Iridosclerotomy
 3499006,Y229,Y22.9 Unspecified drainage of organ NOC
-83816004,C058,C05.8 Other specified plastic repair of orbit
 312707007,Y292,Y29.2 Manipulative removal of foreign body from organ NOC
 8920006,C548,C54.8 Other specified buckling operations for attachment of retina
 113113000,U216,U21.6 Ultrasound scan NEC
-118904000,C543,C54.3 Buckling of sclera and implant HFQ
 241037002,U217,U21.7 Plain x-ray NEC
 172524003,C776,C77.6 Insertion of capsule tension ring
 385441004,C438,C43.8 Other specified other operations on conjunctiva
@@ -605,51 +426,30 @@ snomed,opcs,opcs_term
 282445003,C391,C39.1 Excision of lesion of conjunctiva
 172415009,C468,C46.8 Other specified plastic operations on cornea
 231705009,Y085,Y08.5 Laser modification of organ NOC
-308695001,C728,C72.8 Other specified intracapsular extraction of lens
 85785001,C733,C73.3 Capsulotomy of posterior lens capsule
-426534009,C842,C84.2 Excision of lesion of retina NEC
 415170005,C711,C71.1 Simple linear extraction of lens
-74410004,C652,C65.2 Injection of bleb
 312706003,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 44703001,C612,C61.2 Trabeculotomy
 231744001,C741,C74.1 Curettage of lens
 447099007,C438,C43.8 Other specified other operations on conjunctiva
-19875009,Y223,Y22.3 Irrigation of organ NOC
-386611002,C774,C77.4 Surgical removal of foreign body from lens
-67835007,C547,C54.7 Maintenance of implant or explant in sclera
-713161004,Y086,Y08.6 Laser incision of organ NOC
 231748003,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 397517002,C461,C46.1 Refractive keratoplasty
-69724002,C733,C73.3 Capsulotomy of posterior lens capsule
 66359001,C647,C64.7 Insertion of iris hooks
-69724002,C728,C72.8 Other specified intracapsular extraction of lens
 63356004,C731,C73.1 Membranectomy of lens
-387746009,C431,C43.1 Division of adhesions of conjunctiva
-53020005,C798,C79.8 Other specified operations on vitreous body
-287233001,C698,C69.8 Other specified other operations on anterior chamber of eye
 44269004,C741,C74.1 Curettage of lens
 89942008,C645,C64.5 Removal of foreign body from iris
 27998005,C578,C57.8 Other specified other operations on sclera
-9255007,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 274336008,C373,C37.3 Biopsy of lesion of muscle of eye
 60656008,C464,C46.4 Insertion of prosthesis into cornea
 422246005,C391,C39.1 Excision of lesion of conjunctiva
 3938007,C544,C54.4 Buckling of sclera and local or encircling explant HFQ
 75227000,C743,C74.3 Mechanical lensectomy
 26786002,C548,C54.8 Other specified buckling operations for attachment of retina
-387746009,C408,C40.8 Other specified repair of conjunctiva
-414507007,C731,C73.1 Membranectomy of lens
 35009002,C825,C82.5 Panretinal laser photocoagulation to lesion of retina
 77950003,C822,C82.2 Cryotherapy to lesion of retina
 430110008,C861,C86.1 Biopsy of lesion of eye NEC
 36812006,C599,C59.9 Unspecified excision of iris
-82036007,C898,C89.8 Other specified operations on posterior segment of eye
-118906003,C833,C83.3 Limited macular translocation
-54885007,C713,C71.3 Aspiration of lens
 13793006,C712,C71.2 Phacoemulsification of lens
-429713004,C904,C90.4 Peribulbar anaesthetic
-83816004,C013,C01.3 Evisceration of eye
-416618000,Y036,Y03.6 Adjustment to prosthesis in organ NOC
 85145001,C481,C48.1 Surgical removal of foreign body from cornea
 360411008,C732,C73.2 Capsulotomy of anterior lens capsule
 54766001,C436,C43.6 Creation of hood of conjunctiva
@@ -659,77 +459,51 @@ snomed,opcs,opcs_term
 314233004,Y711,Y71.1 Subsequent stage of staged operations NOC
 427023009,C833,C83.3 Limited macular translocation
 120121008,C778,C77.8 Other specified other operations on lens
-444111004,C731,C73.1 Membranectomy of lens
-231782009,C798,C79.8 Other specified operations on vitreous body
 172555009,C795,C79.5 Internal tamponade of retina using gas
 120127007,Y014,Y01.4 Alloreplacement of organ from cadaver heart beating NOC
-13767004,C848,C84.8 Other specified other operations on retina
 19740002,C719,C71.9 Unspecified extracapsular extraction of lens
 4877004,C719,C71.9 Unspecified extracapsular extraction of lens
 722186004,Y016,Y01.6 Alloreplacement of organ from cadaver NOC
-17348004,C893,C89.3 Injection of therapeutic substance into posterior segment of eye NEC
 75227000,C732,C73.2 Capsulotomy of anterior lens capsule
 172573007,C843,C84.3 Biopsy of lesion of retina
-54885007,C733,C73.3 Capsulotomy of posterior lens capsule
 866200001,U216,U21.6 Ultrasound scan NEC
 76135002,C402,C40.2 Amniotic graft to conjunctiva
 416100002,C663,C66.3 Cryotherapy to ciliary body
-118898007,C405,C40.5 Suture of conjunctiva
-347747004,Y262,Y26.2 Plastic repair of organ NOC
-71306000,C798,C79.8 Other specified operations on vitreous body
 78110003,Y351,Y35.1 Introduction of radioactive caesium into organ NOC
 424830006,Y088,Y08.8 Other specified laser therapy to organ NOC
 120086003,C018,C01.8 Other specified excision of eye
 85145001,C489,C48.9 Unspecified removal of foreign body from cornea
-385468004,C731,C73.1 Membranectomy of lens
 6889000,C544,C54.4 Buckling of sclera and local or encircling explant HFQ
-37581007,C464,C46.4 Insertion of prosthesis into cornea
-118903006,C796,C79.6 Internal tamponade of retina using liquid
 13927007,C554,C55.4 Expansion of sclera
 265295001,C711,C71.1 Simple linear extraction of lens
 75732000,C792,C79.2 Vitrectomy using pars plana approach
-83816004,C038,C03.8 Other specified insertion of prosthesis of eye
 363115007,Y329,Y32.9 Unspecified re-exploration of organ NOC
 87021001,C792,C79.2 Vitrectomy using pars plana approach
 231708006,C468,C46.8 Other specified plastic operations on cornea
 15912005,C391,C39.1 Excision of lesion of conjunctiva
 418170009,Y085,Y08.5 Laser modification of organ NOC
-67835007,C553,C55.3 Drainage of subretinal fluid through sclera
 88044000,C572,C57.2 Repair of sclera
-118904000,C548,C54.8 Other specified buckling operations for attachment of retina
 21491001,Y292,Y29.2 Manipulative removal of foreign body from organ NOC
 397574004,C818,C81.8 Other specified photocoagulation of retina for detachment
 91552000,C558,C55.8 Other specified incision of sclera
 450698009,C819,C81.9 Unspecified photocoagulation of retina for detachment
 38487005,C462,C46.2 Lamellar graft to cornea NEC
 40899005,C578,C57.8 Other specified other operations on sclera
-5130002,C742,C74.2 Discission of cataract
 446635005,C529,C52.9 Unspecified excision of sclera
 17179006,C461,C46.1 Refractive keratoplasty
 274336008,C432,C43.2 Biopsy of lesion of conjunctiva
 414873001,Y089,Y08.9 Unspecified laser therapy to organ NOC
-53696006,C841,C84.1 Epiretinal dissection
-426534009,C806,C80.6 Removal of subretinal membrane NEC
-53696006,C825,C82.5 Panretinal laser photocoagulation to lesion of retina
 108147006,Y309,Y30.9 Unspecified incision of organ NOC
 838278005,X629,X62.9 Unspecified assessment
-67835007,C554,C55.4 Expansion of sclera
 41496004,Y973,Y97.3 Radiology with post contrast
 35009002,C889,C88.9 Unspecified destruction of subretinal lesion
 90243001,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
 172415009,C444,C44.4 Photorefractive keratectomy
 2914003,C554,C55.4 Expansion of sclera
-386611002,C771,C77.1 Capsulectomy
-53696006,C845,C84.5 Drainage of subretinal fluid through retina
 45031008,C848,C84.8 Other specified other operations on retina
-54211003,C774,C77.4 Surgical removal of foreign body from lens
 446279000,Y084,Y08.4 Laser destruction of lesion of organ NOC
 75227000,C749,C74.9 Unspecified other extraction of lens
 410459005,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
-26633008,C848,C84.8 Other specified other operations on retina
-67835007,C532,C53.2 Excision of lesion of sclera NEC
-446508006,C776,C77.6 Insertion of capsule tension ring
-231770000,C794,C79.4 Injection into vitreous body NEC
 172415009,C469,C46.9 Unspecified plastic operations on cornea
 112962008,C479,C47.9 Unspecified closure of cornea
 359856000,C613,C61.3 Goniotomy
@@ -743,7 +517,6 @@ snomed,opcs,opcs_term
 47242009,Y068,Y06.8 Other specified excision of lesion of organ NOC
 312707007,C798,C79.8 Other specified operations on vitreous body
 172571009,C805,C80.5 Removal of subretinal vascular membrane
-410564006,Y381,Y38.1 Continuous injection of therapeutic substance into organ NOC
 72176009,C812,C81.2 Laser photocoagulation of retina for detachment
 88752005,C592,C59.2 Surgical iridectomy
 397554006,C467,C46.7 Transplant of corneal limbal cells
@@ -754,7 +527,6 @@ snomed,opcs,opcs_term
 72199008,C798,C79.8 Other specified operations on vitreous body
 12868007,Y716,Y71.6 Second revisional operation NOC
 113113000,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
-88282000,C713,C71.3 Aspiration of lens
 90243001,C888,C88.8 Other specified destruction of subretinal lesion
 85257004,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 44269004,C751,C75.1 Insertion of prosthetic replacement for lens NEC
@@ -766,16 +538,10 @@ snomed,opcs,opcs_term
 172408001,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 50538003,C776,C77.6 Insertion of capsule tension ring
 20466006,C452,C45.2 Excision of lesion of cornea NEC
-74948004,C848,C84.8 Other specified other operations on retina
 231767004,C578,C57.8 Other specified other operations on sclera
 18137003,C647,C64.7 Insertion of iris hooks
 8920006,C547,C54.7 Maintenance of implant or explant in sclera
-426565000,C841,C84.1 Epiretinal dissection
-73200001,C668,C66.8 Other specified extirpation of ciliary body
-54885007,C722,C72.2 Suction extraction of lens
-39130003,C518,C51.8 Other specified other operations on cornea
 294832005,C604,C60.4 Iridoplasty NEC
-417385008,C608,C60.8 Other specified filtering operations on iris
 172430000,C492,C49.2 Trephine of cornea
 22623003,C444,C44.4 Photorefractive keratectomy
 120125004,Y265,Y26.5 Other attention to repair of organ NOC
@@ -786,34 +552,23 @@ snomed,opcs,opcs_term
 3700004,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 312707007,Y298,Y29.8 Other specified removal of foreign body from organ NOC
 23379002,C678,C67.8 Other specified other operations on ciliary body
-13767004,Y299,Y29.9 Unspecified removal of foreign body from organ NOC
 397994004,C032,C03.2 Insertion of prosthetic replacement for eyeball
 79707009,C252,C25.2 Conjunctivodacryocystorhinostomy
-231346001,Y805,Y80.5 Rapid sequence induction of anaesthetic
 78110003,Y364,Y36.4 Introduction of non-removable radioactive substance into organ for brachytherapy NOC
 17606004,C522,C52.2 Deep sclerectomy without spacer
 231734003,C618,C61.8 Other specified other operations on trabecular meshwork of eye
-385468004,C718,C71.8 Other specified extracapsular extraction of lens
-9255007,Y298,Y29.8 Other specified removal of foreign body from organ NOC
 43111005,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 404638008,Y088,Y08.8 Other specified laser therapy to organ NOC
 64854001,C713,C71.3 Aspiration of lens
 19731001,Y973,Y97.3 Radiology with post contrast
-404628003,C722,C72.2 Suction extraction of lens
 172530003,C733,C73.3 Capsulotomy of posterior lens capsule
 13927007,C559,C55.9 Unspecified incision of sclera
 14707009,Y053,Y05.3 Excision of sinus track from organ NOC
 75870009,C648,C64.8 Other specified other operations on iris
-76240002,Y181,Y18.1 Freeing of adhesions of organ NOC
-82036007,C892,C89.2 Injection of steroid into posterior segment of eye
-414510000,C464,C46.4 Insertion of prosthesis into cornea
 76824005,C402,C40.2 Amniotic graft to conjunctiva
-69724002,C731,C73.1 Membranectomy of lens
-410564006,Y394,Y39.4 Lipofilling injection into organ NOC
 13097002,C545,C54.5 Buckling of sclera NEC
 450698009,C845,C84.5 Drainage of subretinal fluid through retina
 231714004,C452,C45.2 Excision of lesion of cornea NEC
-89622002,C918,C91.8 Other specified operations on anterior segment of eye
 172405003,Y085,Y08.5 Laser modification of organ NOC
 172508004,C662,C66.2 Cauterisation of ciliary body
 446548003,C733,C73.3 Capsulotomy of posterior lens capsule
@@ -822,17 +577,13 @@ snomed,opcs,opcs_term
 722185000,Y016,Y01.6 Alloreplacement of organ from cadaver NOC
 172460005,C553,C55.3 Drainage of subretinal fluid through sclera
 172477005,C603,C60.3 Fixation of iris
-83977000,C543,C54.3 Buckling of sclera and implant HFQ
 81085004,C918,C91.8 Other specified operations on anterior segment of eye
 43111005,C823,C82.3 External beam radiotherapy to lesion of retina
 446862000,C723,C72.3 Cryoextraction of lens
 76135002,C404,C40.4 Prosthetic replacement of conjunctiva
 450698009,C854,C85.4 Retinopexy using tissue adhesive
 77950003,C882,C88.2 Photodynamic therapy to subretinal lesion
-67835007,C552,C55.2 Corneoscleral trephine
-118906003,C818,C81.8 Other specified photocoagulation of retina for detachment
 410459005,Y973,Y97.3 Radiology with post contrast
-414507007,C732,C73.2 Capsulotomy of anterior lens capsule
 446548003,C748,C74.8 Other specified other extraction of lens
 33412005,C518,C51.8 Other specified other operations on cornea
 415281000,C711,C71.1 Simple linear extraction of lens
@@ -844,42 +595,31 @@ snomed,opcs,opcs_term
 44317007,C822,C82.2 Cryotherapy to lesion of retina
 11819005,Y973,Y97.3 Radiology with post contrast
 25316003,C459,C45.9 Unspecified extirpation of lesion of cornea
-709099008,C698,C69.8 Other specified other operations on anterior chamber of eye
 231738000,C661,C66.1 Excision of ciliary body
 3700004,C722,C72.2 Suction extraction of lens
 18476009,C722,C72.2 Suction extraction of lens
 47130006,C402,C40.2 Amniotic graft to conjunctiva
 172415009,C441,C44.1 Hydrogel prosthetic keratoplasty
-31705006,C713,C71.3 Aspiration of lens
 75792002,Y015,Y01.5 Alloreplacement of organ from cadaver heart non-beating NOC
-414507007,C741,C74.1 Curettage of lens
 54085006,Y292,Y29.2 Manipulative removal of foreign body from organ NOC
 41496004,Y971,Y97.1 Radiology with pre and post contrast
 386608003,C623,C62.3 Laser iridotomy
-118906003,C819,C81.9 Unspecified photocoagulation of retina for detachment
 241037002,Y973,Y97.3 Radiology with post contrast
 120114008,C473,C47.3 Removal of suture from cornea
 40899005,Y111,Y11.1 Cauterisation of organ NOC
 35009002,C821,C82.1 Cauterisation of lesion of retina
-120113002,Y391,Y39.1 Injection of radiocontrast substance into sinus track from organ NOC
-54885007,C729,C72.9 Unspecified intracapsular extraction of lens
 252846004,C875,C87.5 Scanning laser ophthalmoscopy evaluation of retina
-67835007,C546,C54.6 Removal of implant or explant from sclera
 397110008,C444,C44.4 Photorefractive keratectomy
 312707007,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 397800002,C038,C03.8 Other specified insertion of prosthesis of eye
 112960000,C408,C40.8 Other specified repair of conjunctiva
-85622008,C723,C72.3 Cryoextraction of lens
 90243001,C882,C88.2 Photodynamic therapy to subretinal lesion
 3499006,Y223,Y22.3 Irrigation of organ NOC
 61553000,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 231773003,C801,C80.1 Peel of epiretinal fibroglial membrane
 172447004,C533,C53.3 Cauterisation of lesion of sclera
-69724002,C739,C73.9 Unspecified incision of capsule of lens
 75318004,C574,C57.4 Suture of sclera
 75227000,C719,C71.9 Unspecified extracapsular extraction of lens
-120113002,Y389,Y38.9 Unspecified injection of therapeutic substance into organ NOC
-9722001,Y037,Y03.7 Removal of prosthesis from organ NOC
 61553000,Y971,Y97.1 Radiology with pre and post contrast
 427478009,A845,A84.5 Electroretinography NEC
 450698009,C542,C54.2 Imbrication of sclera
@@ -887,9 +627,6 @@ snomed,opcs,opcs_term
 70107009,Y269,Y26.9 Unspecified other repair of organ NOC
 60656008,C466,C46.6 Amniotic membrane graft to cornea
 386608003,C622,C62.2 Surgical iridotomy
-67835007,C558,C55.8 Other specified incision of sclera
-9812004,Y398,Y39.8 Other specified injection of other substance into organ NOC
-83816004,C088,C08.8 Other specified other operations on orbit
 35552007,C482,C48.2 Magnetic extraction of foreign body from cornea
 404636007,C611,C61.1 Laser trabeculoplasty
 64522003,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
@@ -898,9 +635,6 @@ snomed,opcs,opcs_term
 54085006,Y298,Y29.8 Other specified removal of foreign body from organ NOC
 19731001,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 89978003,C723,C72.3 Cryoextraction of lens
-418430006,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-67835007,C574,C57.4 Suture of sclera
-5130002,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 399867007,C812,C81.2 Laser photocoagulation of retina for detachment
 63228006,Y054,Y05.4 Ex vivo resection of organ NOC
 231748003,C732,C73.2 Capsulotomy of anterior lens capsule
@@ -910,26 +644,15 @@ snomed,opcs,opcs_term
 36812006,C591,C59.1 Iridocyclectomy
 76135002,C405,C40.5 Suture of conjunctiva
 430110008,Y204,Y20.4 Fine needle aspiration NOC
-120113002,Y398,Y39.8 Other specified injection of other substance into organ NOC
 14707009,Y054,Y05.4 Ex vivo resection of organ NOC
 425806003,C831,C83.1 Pigment epithelium translocation of retina
 297840009,C791,C79.1 Vitrectomy using anterior approach
-118909005,C694,C69.4 Irrigation of anterior chamber of eye
 9754005,C409,C40.9 Unspecified repair of conjunctiva
-74490003,C743,C74.3 Mechanical lensectomy
-6307005,C468,C46.8 Other specified plastic operations on cornea
-446508006,C648,C64.8 Other specified other operations on iris
 6486000,Y113,Y11.3 Curettage of organ NOC
-709099008,Y084,Y08.4 Laser destruction of lesion of organ NOC
-31530007,C645,C64.5 Removal of foreign body from iris
 450698009,C543,C54.3 Buckling of sclera and implant HFQ
 425806003,C839,C83.9 Unspecified translocation of retina
-6307005,C462,C46.2 Lamellar graft to cornea NEC
-444111004,C719,C71.9 Unspecified extracapsular extraction of lens
 310560003,C841,C84.1 Epiretinal dissection
 445749001,C601,C60.1 Trabeculectomy
-83816004,C018,C01.8 Other specified excision of eye
-118901008,C665,C66.5 Destruction of ciliary body NEC
 446590009,C723,C72.3 Cryoextraction of lens
 75396001,C408,C40.8 Other specified repair of conjunctiva
 231762005,C825,C82.5 Panretinal laser photocoagulation to lesion of retina
@@ -937,29 +660,19 @@ snomed,opcs,opcs_term
 75227000,C742,C74.2 Discission of cataract
 19740002,C711,C71.1 Simple linear extraction of lens
 78110003,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
-387746009,C419,C41.9 Unspecified incision of conjunctiva
 76458006,C648,C64.8 Other specified other operations on iris
-67760003,C713,C71.3 Aspiration of lens
-54885007,C719,C71.9 Unspecified extracapsular extraction of lens
-315602003,C868,C86.8 Other specified other operations on eye
 37741003,C698,C69.8 Other specified other operations on anterior chamber of eye
 108150009,Y419,Y41.9 Unspecified examination of organ NOC
 446938009,C061,C06.1 Biopsy of lesion of orbit
-444111004,C741,C74.1 Curettage of lens
-9722001,C918,C91.8 Other specified operations on anterior segment of eye
 74220006,C791,C79.1 Vitrectomy using anterior approach
 426580006,C791,C79.1 Vitrectomy using anterior approach
 426158003,C792,C79.2 Vitrectomy using pars plana approach
 414873001,Y088,Y08.8 Other specified laser therapy to organ NOC
-118900009,C648,C64.8 Other specified other operations on iris
 446548003,C742,C74.2 Discission of cataract
-83816004,C019,C01.9 Unspecified excision of eye
 223217009,C433,C43.3 Removal of foreign body from conjunctiva
 35009002,C828,C82.8 Other specified destruction of lesion of retina
-72528001,C544,C54.4 Buckling of sclera and local or encircling explant HFQ
 34854007,C652,C65.2 Injection of bleb
 35717002,C647,C64.7 Insertion of iris hooks
-67835007,C548,C54.8 Other specified buckling operations for attachment of retina
 40833009,C451,C45.1 Superficial keratectomy
 424830006,Y085,Y08.5 Laser modification of organ NOC
 81177005,Y084,Y08.4 Laser destruction of lesion of organ NOC
@@ -977,40 +690,29 @@ snomed,opcs,opcs_term
 172571009,C804,C80.4 Segmentation of epiretinal fibrovascular membrane
 35009002,C826,C82.6 Laser photocoagulation to lesion of retina NEC
 703983008,C852,C85.2 Retinopexy using diathermy
-118898007,C393,C39.3 Cryotherapy to lesion of conjunctiva
-83816004,C039,C03.9 Unspecified insertion of prosthesis of eye
 359851005,Y069,Y06.9 Unspecified excision of lesion of organ NOC
 172572002,C842,C84.2 Excision of lesion of retina NEC
 426158003,C791,C79.1 Vitrectomy using anterior approach
-88234006,C753,C75.3 Removal of prosthetic replacement for lens
-73200001,C661,C66.1 Excision of ciliary body
 172542008,C752,C75.2 Revision of prosthetic replacement for lens
 414085008,C516,C51.6 Topography evaluation of cornea
 172565003,C889,C88.9 Unspecified destruction of subretinal lesion
-414507007,C712,C71.2 Phacoemulsification of lens
 15912005,C393,C39.3 Cryotherapy to lesion of conjunctiva
 416100002,C664,C66.4 Laser photocoagulation of ciliary body
-373353005,C862,C86.2 Repair of globe
 84542000,C698,C69.8 Other specified other operations on anterior chamber of eye
 25316003,C457,C45.7 Debridement of lesion of cornea
-55931003,C643,C64.3 Destruction of lesion of iris
 6005008,Y016,Y01.6 Alloreplacement of organ from cadaver NOC
 43111005,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
 75396001,C409,C40.9 Unspecified repair of conjunctiva
-118904000,C551,C55.1 Drainage of lesion of sclera
 363115007,Y321,Y32.1 Re-exploration of organ and surgical arrest of postoperative bleeding NOC
 60656008,C467,C46.7 Transplant of corneal limbal cells
-417223000,C608,C60.8 Other specified filtering operations on iris
 425626001,C791,C79.1 Vitrectomy using anterior approach
 120122001,C778,C77.8 Other specified other operations on lens
 415170005,C712,C71.2 Phacoemulsification of lens
 3499006,C798,C79.8 Other specified operations on vitreous body
-67835007,C538,C53.8 Other specified extirpation of lesion of sclera
 4877004,C712,C71.2 Phacoemulsification of lens
 64971001,C821,C82.1 Cauterisation of lesion of retina
 700401002,C452,C45.2 Excision of lesion of cornea NEC
 231749006,C738,C73.8 Other specified incision of capsule of lens
-118901008,C664,C66.4 Laser photocoagulation of ciliary body
 426580006,C796,C79.6 Internal tamponade of retina using liquid
 172532006,Y086,Y08.6 Laser incision of organ NOC
 39029006,A842,A84.2 Electromyography
@@ -1022,53 +724,35 @@ snomed,opcs,opcs_term
 68849001,C623,C62.3 Laser iridotomy
 43111005,Y353,Y35.3 Introduction of radium into organ NOC
 65839000,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
-54885007,C731,C73.1 Membranectomy of lens
 429546007,C844,C84.4 Retinal vascular sheathotomy
 700401002,C391,C39.1 Excision of lesion of conjunctiva
 172530003,Y086,Y08.6 Laser incision of organ NOC
-404672000,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-9812004,Y391,Y39.1 Injection of radiocontrast substance into sinus track from organ NOC
 18476009,C592,C59.2 Surgical iridectomy
 44291006,Y111,Y11.1 Cauterisation of organ NOC
-373353005,C868,C86.8 Other specified other operations on eye
-67546003,C864,C86.4 Removal of foreign body from eye NEC
 172386004,X658,X65.8 Other specified radiotherapy delivery
 172405003,C451,C45.1 Superficial keratectomy
 450698009,C838,C83.8 Other specified translocation of retina
 40485001,C468,C46.8 Other specified plastic operations on cornea
 418170009,Y089,Y08.9 Unspecified laser therapy to organ NOC
-72208004,C519,C51.9 Unspecified other operations on cornea
 18137003,C776,C77.6 Insertion of capsule tension ring
 120125004,Y261,Y26.1 Reconstruction of organ NOC
-419767009,C712,C71.2 Phacoemulsification of lens
 231775005,C824,C82.4 Plaque radiotherapy to lesion of retina
-385468004,C733,C73.3 Capsulotomy of posterior lens capsule
 425626001,C795,C79.5 Internal tamponade of retina using gas
-414507007,C729,C72.9 Unspecified intracapsular extraction of lens
-172461009,C551,C55.1 Drainage of lesion of sclera
 300082008,C124,C12.4 Curettage of lesion of eyelid
 28242004,C466,C46.6 Amniotic membrane graft to cornea
 426580006,C793,C79.3 Injection of vitreous substitute into vitreous body NEC
 90854001,C653,C65.3 Revision of bleb NEC
-112964009,C713,C71.3 Aspiration of lens
 231748003,C733,C73.3 Capsulotomy of posterior lens capsule
 15912005,C398,C39.8 Other specified extirpation of lesion of conjunctiva
-18752000,Y299,Y29.9 Unspecified removal of foreign body from organ NOC
 73599006,Y084,Y08.4 Laser destruction of lesion of organ NOC
 295001,Y139,Y13.9 Unspecified other destruction of lesion of organ NOC
 18476009,C728,C72.8 Other specified intracapsular extraction of lens
 427387001,C791,C79.1 Vitrectomy using anterior approach
 75903006,C889,C88.9 Unspecified destruction of subretinal lesion
-118909005,C699,C69.9 Unspecified other operations on anterior chamber of eye
 46275005,C545,C54.5 Buckling of sclera NEC
-419767009,C515,C51.5 Placement of therapeutic contact lens on to cornea
 428201003,C853,C85.3 Retinopexy using mechanical tacks
-387746009,C438,C43.8 Other specified other operations on conjunctiva
 231740005,C668,C66.8 Other specified extirpation of ciliary body
-83816004,C061,C06.1 Biopsy of lesion of orbit
-386611002,C721,C72.1 Forceps extraction of lens
 446938009,C773,C77.3 Biopsy of lesion of lens
-231776006,C848,C84.8 Other specified other operations on retina
 6005008,Y011,Y01.1 Autoreplacement of organ NOC
 15912005,C395,C39.5 Radiotherapy to lesion of conjunctiva
 231775005,C825,C82.5 Panretinal laser photocoagulation to lesion of retina
@@ -1076,11 +760,7 @@ snomed,opcs,opcs_term
 172386004,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 13303004,C554,C55.4 Expansion of sclera
 8255002,C658,C65.8 Other specified operations following glaucoma surgery
-444111004,C749,C74.9 Unspecified other extraction of lens
-54885007,C718,C71.8 Other specified extracapsular extraction of lens
 61553000,U216,U21.6 Ultrasound scan NEC
-89038007,C648,C64.8 Other specified other operations on iris
-43908008,Y298,Y29.8 Other specified removal of foreign body from organ NOC
 22623003,C441,C44.1 Hydrogel prosthetic keratoplasty
 46309001,C742,C74.2 Discission of cataract
 231750006,C776,C77.6 Insertion of capsule tension ring
@@ -1091,47 +771,33 @@ snomed,opcs,opcs_term
 397538008,C826,C82.6 Laser photocoagulation to lesion of retina NEC
 231773003,C806,C80.6 Removal of subretinal membrane NEC
 120119003,Y269,Y26.9 Unspecified other repair of organ NOC
-118901008,C662,C66.2 Cauterisation of ciliary body
 60656008,C465,C46.5 Deep lamellar graft to cornea
 65839000,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 39153002,Y261,Y26.1 Reconstruction of organ NOC
 108147006,Y308,Y30.8 Other specified incision of organ NOC
-118905004,C849,C84.9 Unspecified other operations on retina
 265294002,C622,C62.2 Surgical iridotomy
 231727000,C598,C59.8 Other specified excision of iris
-118904000,C579,C57.9 Unspecified other operations on sclera
 74220006,C792,C79.2 Vitrectomy using pars plana approach
 428917000,C831,C83.1 Pigment epithelium translocation of retina
-10178000,C719,C71.9 Unspecified extracapsular extraction of lens
 23112007,C811,C81.1 Xenon photocoagulation of retina for detachment
 450698009,C544,C54.4 Buckling of sclera and local or encircling explant HFQ
-9255007,Y299,Y29.9 Unspecified removal of foreign body from organ NOC
 446099001,C848,C84.8 Other specified other operations on retina
 9754005,C404,C40.4 Prosthetic replacement of conjunctiva
 8920006,C848,C84.8 Other specified other operations on retina
 11819005,U361,U36.1 Thermography NEC
 72019009,C792,C79.2 Vitrectomy using pars plana approach
 61779007,C403,C40.3 Sliding graft to conjunctiva
-430833007,C459,C45.9 Unspecified extirpation of lesion of cornea
 22768003,Y251,Y25.1 Suture of laceration of organ NOC
 85257004,C823,C82.3 External beam radiotherapy to lesion of retina
 164729009,C518,C51.8 Other specified other operations on cornea
 172429005,C491,C49.1 Section of cornea
 58388006,C403,C40.3 Sliding graft to conjunctiva
 172408001,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
-287236009,C433,C43.3 Removal of foreign body from conjunctiva
-118898007,C404,C40.4 Prosthetic replacement of conjunctiva
 71091006,C663,C66.3 Cryotherapy to ciliary body
-414507007,C723,C72.3 Cryoextraction of lens
-54885007,C712,C71.2 Phacoemulsification of lens
 397110008,C451,C45.1 Superficial keratectomy
-231770000,C848,C84.8 Other specified other operations on retina
 359951006,Y118,Y11.8 Other specified other destruction of organ NOC
-444111004,C711,C71.1 Simple linear extraction of lens
 206175003,C032,C03.2 Insertion of prosthetic replacement for eyeball
-53696006,C843,C84.3 Biopsy of lesion of retina
 446938009,C861,C86.1 Biopsy of lesion of eye NEC
-444111004,C738,C73.8 Other specified incision of capsule of lens
 75396001,C404,C40.4 Prosthetic replacement of conjunctiva
 373356002,C013,C01.3 Evisceration of eye
 231718001,C558,C55.8 Other specified incision of sclera
@@ -1139,7 +805,6 @@ snomed,opcs,opcs_term
 1683003,C405,C40.5 Suture of conjunctiva
 12113005,C545,C54.5 Buckling of sclera NEC
 413550005,C498,C49.8 Other specified incision of cornea
-22871000,Y399,Y39.9 Unspecified injection of other substance into organ NOC
 85231002,C812,C81.2 Laser photocoagulation of retina for detachment
 88752005,C599,C59.9 Unspecified excision of iris
 9137006,C776,C77.6 Insertion of capsule tension ring
@@ -1151,77 +816,50 @@ snomed,opcs,opcs_term
 446548003,C612,C61.2 Trabeculotomy
 231787003,C843,C84.3 Biopsy of lesion of retina
 420213007,A823,A82.3 Multifocal electroretinography
-91177008,C866,C86.6 Examination of eye under anaesthetic
 252781006,A845,A84.5 Electroretinography NEC
 77950003,C888,C88.8 Other specified destruction of subretinal lesion
 75227000,C729,C72.9 Unspecified intracapsular extraction of lens
-76240002,C518,C51.8 Other specified other operations on cornea
-112966006,C793,C79.3 Injection of vitreous substitute into vitreous body NEC
 446590009,C728,C72.8 Other specified intracapsular extraction of lens
-444111004,C721,C72.1 Forceps extraction of lens
 78110003,Y353,Y35.3 Introduction of radium into organ NOC
 310561004,C841,C84.1 Epiretinal dissection
 18476009,C729,C72.9 Unspecified intracapsular extraction of lens
 74220006,C795,C79.5 Internal tamponade of retina using gas
-387746009,C395,C39.5 Radiotherapy to lesion of conjunctiva
 397560006,Y339,Y33.9 Unspecified puncture of organ NOC
 108150009,Y412,Y41.2 Endoscopic ultrasound staging examination of organ NOC
 172523009,C723,C72.3 Cryoextraction of lens
 85257004,X659,X65.9 Unspecified radiotherapy delivery
 259222004,Y113,Y11.3 Curettage of organ NOC
-386611002,C743,C74.3 Mechanical lensectomy
-426877004,C654,C65.4 Removal of releasable suture following glaucoma surgery
 172452009,C542,C54.2 Imbrication of sclera
 82027008,C606,C60.6 Viscocanulostomy
 172538005,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-69724002,C723,C72.3 Cryoextraction of lens
 446548003,C738,C73.8 Other specified incision of capsule of lens
 8920006,C846,C84.6 Retinotomy NEC
 88096002,C742,C74.2 Discission of cataract
 397574004,C819,C81.9 Unspecified photocoagulation of retina for detachment
 231760002,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
 293820001,C462,C46.2 Lamellar graft to cornea NEC
-78362007,C433,C43.3 Removal of foreign body from conjunctiva
-118906003,C828,C82.8 Other specified destruction of lesion of retina
 47130006,Y261,Y26.1 Reconstruction of organ NOC
 47130006,Y262,Y26.2 Plastic repair of organ NOC
 446108002,C826,C82.6 Laser photocoagulation to lesion of retina NEC
-20647004,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 450698009,C549,C54.9 Unspecified buckling operations for attachment of retina
-385468004,C721,C72.1 Forceps extraction of lens
 413452000,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-120113002,C518,C51.8 Other specified other operations on cornea
-27668001,C464,C46.4 Insertion of prosthesis into cornea
-231346001,Y804,Y80.4 Intravenous anaesthetic NEC
 231717006,Y131,Y13.1 Cauterisation of lesion of organ NOC
 450698009,C823,C82.3 External beam radiotherapy to lesion of retina
 19731001,Z199,Z19.9 Eye NEC
 421483006,C516,C51.6 Topography evaluation of cornea
 64522003,C848,C84.8 Other specified other operations on retina
-224227005,C433,C43.3 Removal of foreign body from conjunctiva
-414507007,C718,C71.8 Other specified extracapsular extraction of lens
 231744001,C718,C71.8 Other specified extracapsular extraction of lens
-782706003,C605,C60.5 Insertion of tube into anterior chamber of eye to assist drainage of aqueous humour
 414796008,C444,C44.4 Photorefractive keratectomy
 172460005,C554,C55.4 Expansion of sclera
 22623003,C463,C46.3 Penetrating graft to cornea
-426534009,C802,C80.2 Peel of internal limiting membrane
-53696006,C824,C82.4 Plaque radiotherapy to lesion of retina
 4323007,C533,C53.3 Cauterisation of lesion of sclera
 231756000,C795,C79.5 Internal tamponade of retina using gas
 85070003,C578,C57.8 Other specified other operations on sclera
-287233001,Y299,Y29.9 Unspecified removal of foreign body from organ NOC
-54362002,Y299,Y29.9 Unspecified removal of foreign body from organ NOC
 65812008,C729,C72.9 Unspecified intracapsular extraction of lens
-386611002,C772,C77.2 Couching of lens
-67835007,C542,C54.2 Imbrication of sclera
-118904000,C541,C54.1 Overlay scleroplasty
 83211004,C436,C43.6 Creation of hood of conjunctiva
 1186897008,C664,C66.4 Laser photocoagulation of ciliary body
-386611002,C779,C77.9 Unspecified other operations on lens
 172547002,C773,C77.3 Biopsy of lesion of lens
 43111005,Y363,Y36.3 Radioactive seed implantation NOC
-425424008,C845,C84.5 Drainage of subretinal fluid through retina
 64522003,Z198,Z19.8 Specified part of eye NEC
 14707009,C578,C57.8 Other specified other operations on sclera
 231747008,C734,C73.4 Capsulotomy of lens NEC
@@ -1231,7 +869,6 @@ snomed,opcs,opcs_term
 77184003,C392,C39.2 Cauterisation of lesion of conjunctiva
 771988004,C465,C46.5 Deep lamellar graft to cornea
 373357006,Y062,Y06.2 Deroofing of cyst of organ NOC
-13767004,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 439490005,C792,C79.2 Vitrectomy using pars plana approach
 265297009,C821,C82.1 Cauterisation of lesion of retina
 25316003,C451,C45.1 Superficial keratectomy
@@ -1241,9 +878,7 @@ snomed,opcs,opcs_term
 172415009,C463,C46.3 Penetrating graft to cornea
 22623003,C462,C46.2 Lamellar graft to cornea NEC
 29911008,Y112,Y11.2 Cryotherapy to organ NOC
-13767004,Y292,Y29.2 Manipulative removal of foreign body from organ NOC
 371346008,C623,C62.3 Laser iridotomy
-118904000,C552,C55.2 Corneoscleral trephine
 74184007,C731,C73.1 Membranectomy of lens
 29942003,C622,C62.2 Surgical iridotomy
 415281000,C718,C71.8 Other specified extracapsular extraction of lens
@@ -1252,32 +887,22 @@ snomed,opcs,opcs_term
 424830006,Y086,Y08.6 Laser incision of organ NOC
 6005008,Y019,Y01.9 Unspecified replacement of organ NOC
 61779007,C402,C40.2 Amniotic graft to conjunctiva
-172462002,C845,C84.5 Drainage of subretinal fluid through retina
 360405005,C774,C77.4 Surgical removal of foreign body from lens
 310559008,C841,C84.1 Epiretinal dissection
-118904000,C572,C57.2 Repair of sclera
-83816004,C053,C05.3 Enlargement of cavity of orbit
-373418002,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-118903006,C793,C79.3 Injection of vitreous substitute into vitreous body NEC
 59959006,C862,C86.2 Repair of globe
 33412005,C519,C51.9 Unspecified other operations on cornea
 360411008,C734,C73.4 Capsulotomy of lens NEC
 398874009,C819,C81.9 Unspecified photocoagulation of retina for detachment
-69724002,C753,C75.3 Removal of prosthetic replacement for lens
 88096002,C741,C74.1 Curettage of lens
-785683006,C228,C22.8 Other specified other operations on eyelid
 85785001,C734,C73.4 Capsulotomy of lens NEC
 427402009,C791,C79.1 Vitrectomy using anterior approach
 231718001,Y082,Y08.2 Laser excision of lesion of organ NOC
 172468003,C571,C57.1 Biopsy of lesion of sclera
 388285000,S473,S47.3 Incision of lesion of skin of head or neck
-231346001,Y802,Y80.2 Inhalation anaesthetic using endotracheal intubation NEC
-429057009,X658,X65.8 Other specified radiotherapy delivery
 75396001,C403,C40.3 Sliding graft to conjunctiva
 427326007,C854,C85.4 Retinopexy using tissue adhesive
 373357006,Y064,Y06.4 Excision of scar tissue NOC
 78917001,C811,C81.1 Xenon photocoagulation of retina for detachment
-49789002,C693,C69.3 Injection into anterior chamber of eye
 30880003,C601,C60.1 Trabeculectomy
 9754005,C402,C40.2 Amniotic graft to conjunctiva
 314117007,Y716,Y71.6 Second revisional operation NOC
@@ -1285,31 +910,19 @@ snomed,opcs,opcs_term
 63506005,X658,X65.8 Other specified radiotherapy delivery
 120114008,C472,C47.2 Adjustment to suture of cornea
 3700004,C647,C64.7 Insertion of iris hooks
-387746009,C405,C40.5 Suture of conjunctiva
-52150005,C615,C61.5 Viscogonioplasty
 1156643002,C825,C82.5 Panretinal laser photocoagulation to lesion of retina
 120125004,Y269,Y26.9 Unspecified other repair of organ NOC
-83816004,C083,C08.3 Removal of fixation from fracture of orbit
 397521009,Y971,Y97.1 Radiology with pre and post contrast
 26786002,C549,C54.9 Unspecified buckling operations for attachment of retina
-385468004,C729,C72.9 Unspecified intracapsular extraction of lens
 31222007,C692,C69.2 Paracentesis of anterior chamber of eye
 63506005,X659,X65.9 Unspecified radiotherapy delivery
 12113005,C544,C54.4 Buckling of sclera and local or encircling explant HFQ
 49257005,C826,C82.6 Laser photocoagulation to lesion of retina NEC
-231712000,C464,C46.4 Insertion of prosthesis into cornea
-259718008,Y059,Y05.9 Unspecified excision of organ NOC
-48671003,C795,C79.5 Internal tamponade of retina using gas
-13346001,C694,C69.4 Irrigation of anterior chamber of eye
 172523009,C721,C72.1 Forceps extraction of lens
-427979009,C797,C79.7 Removal of internal tamponade agent from vitreous body
-442235000,C467,C46.7 Transplant of corneal limbal cells
 172555009,C791,C79.1 Vitrectomy using anterior approach
-444600006,C433,C43.3 Removal of foreign body from conjunctiva
 360411008,C739,C73.9 Unspecified incision of capsule of lens
 75170007,C748,C74.8 Other specified other extraction of lens
 425626001,C792,C79.2 Vitrectomy using pars plana approach
-713161004,Y084,Y08.4 Laser destruction of lesion of organ NOC
 231748003,Y086,Y08.6 Laser incision of organ NOC
 252780007,A845,A84.5 Electroretinography NEC
 90243001,C889,C88.9 Unspecified destruction of subretinal lesion
@@ -1322,47 +935,28 @@ snomed,opcs,opcs_term
 30931009,C848,C84.8 Other specified other operations on retina
 1004036000,C452,C45.2 Excision of lesion of cornea NEC
 410702009,C743,C74.3 Mechanical lensectomy
-385468004,C728,C72.8 Other specified intracapsular extraction of lens
 13793006,C719,C71.9 Unspecified extracapsular extraction of lens
 359851005,Y061,Y06.1 Marsupialisation of organ NOC
 57551006,C646,C64.6 Stretching of iris
-67835007,C531,C53.1 Punch resection of sclera
-172426003,C481,C48.1 Surgical removal of foreign body from cornea
 2914003,C552,C55.2 Corneoscleral trephine
 35009002,C882,C88.2 Photodynamic therapy to subretinal lesion
 231779004,C794,C79.4 Injection into vitreous body NEC
-118906003,C844,C84.4 Retinal vascular sheathotomy
-445138001,Y393,Y39.3 Injection of inert substance into organ NOC
 58388006,C408,C40.8 Other specified repair of conjunctiva
-231770000,C844,C84.4 Retinal vascular sheathotomy
 426580006,C795,C79.5 Internal tamponade of retina using gas
-53696006,C846,C84.6 Retinotomy NEC
 425797007,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
 78110003,C848,C84.8 Other specified other operations on retina
-385468004,C742,C74.2 Discission of cataract
 66922009,C648,C64.8 Other specified other operations on iris
-414507007,C711,C71.1 Simple linear extraction of lens
 82027008,C609,C60.9 Unspecified filtering operations on iris
 427478009,C874,C87.4 Ultrasonic evaluation of retina
-231780001,C794,C79.4 Injection into vitreous body NEC
 61553000,Z199,Z19.9 Eye NEC
 112960000,C403,C40.3 Sliding graft to conjunctiva
-308694002,C719,C71.9 Unspecified extracapsular extraction of lens
-386611002,C775,C77.5 Magnetic extraction of foreign body from lens
 398874009,C812,C81.2 Laser photocoagulation of retina for detachment
-426534009,C809,C80.9 Unspecified operations on retinal membrane
-387746009,C437,C43.7 Transplantation of conjunctiva
-410564006,Y399,Y39.9 Unspecified injection of other substance into organ NOC
 38646003,C437,C43.7 Transplantation of conjunctiva
-83816004,C032,C03.2 Insertion of prosthetic replacement for eyeball
 64943007,C848,C84.8 Other specified other operations on retina
-4503005,C578,C57.8 Other specified other operations on sclera
 35009002,C829,C82.9 Unspecified destruction of lesion of retina
 700417008,C402,C40.2 Amniotic graft to conjunctiva
-118898007,C391,C39.1 Excision of lesion of conjunctiva
 78110003,Y134,Y13.4 Radiofrequency controlled thermal destruction of lesion of organ NOC
 206175003,C013,C01.3 Evisceration of eye
-708689007,C868,C86.8 Other specified other operations on eye
 88812000,C661,C66.1 Excision of ciliary body
 27998005,Y268,Y26.8 Other specified other repair of organ NOC
 45102007,Y269,Y26.9 Unspecified other repair of organ NOC
@@ -1377,40 +971,28 @@ snomed,opcs,opcs_term
 3499006,Y221,Y22.1 Aspiration of haematoma of organ NOC
 120119003,Y268,Y26.8 Other specified other repair of organ NOC
 401306006,C776,C77.6 Insertion of capsule tension ring
-5130002,C776,C77.6 Insertion of capsule tension ring
 23379002,Y301,Y30.1 Incision of lesion of organ NOC
 415170005,C719,C71.9 Unspecified extracapsular extraction of lens
 72713004,C419,C41.9 Unspecified incision of conjunctiva
 2914003,C558,C55.8 Other specified incision of sclera
 61553000,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
-387746009,C418,C41.8 Other specified incision of conjunctiva
 290015004,C402,C40.2 Amniotic graft to conjunctiva
 314126005,C642,C64.2 Excision of lesion of iris
 274336008,C571,C57.1 Biopsy of lesion of sclera
 37741003,Y068,Y06.8 Other specified excision of lesion of organ NOC
-444111004,Z941,Z94.1 Bilateral operation
 75870009,Y052,Y05.2 Partial excision of organ NOC
-30246007,C693,C69.3 Injection into anterior chamber of eye
 450698009,C812,C81.2 Laser photocoagulation of retina for detachment
-118906003,C822,C82.2 Cryotherapy to lesion of retina
 22768003,Y254,Y25.4 Removal of other suture from organ NOC
 415281000,C712,C71.2 Phacoemulsification of lens
 172435005,C511,C51.1 Biopsy of lesion of cornea
 10529001,Y259,Y25.9 Unspecified suture of organ NOC
 446565007,C891,C89.1 Insertion of sustained release device into posterior segment of eye
 880069007,C451,C45.1 Superficial keratectomy
-713161004,Y083,Y08.3 Laser destruction of organ NOC
-426534009,C801,C80.1 Peel of epiretinal fibroglial membrane
 60204005,C392,C39.2 Cauterisation of lesion of conjunctiva
-69724002,C732,C73.2 Capsulotomy of anterior lens capsule
-63120005,C431,C43.1 Division of adhesions of conjunctiva
-445138001,Y398,Y39.8 Other specified injection of other substance into organ NOC
-416199008,C438,C43.8 Other specified other operations on conjunctiva
 4877004,C711,C71.1 Simple linear extraction of lens
 89942008,Y309,Y30.9 Unspecified incision of organ NOC
 423308005,C848,C84.8 Other specified other operations on retina
 172132001,C012,C01.2 Enucleation of eye
-420260004,C712,C71.2 Phacoemulsification of lens
 14727005,C658,C65.8 Other specified operations following glaucoma surgery
 41496004,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 426332009,C823,C82.3 External beam radiotherapy to lesion of retina
@@ -1418,15 +1000,10 @@ snomed,opcs,opcs_term
 312705004,C798,C79.8 Other specified operations on vitreous body
 4877004,C713,C71.3 Aspiration of lens
 446548003,C722,C72.2 Suction extraction of lens
-417493007,C719,C71.9 Unspecified extracapsular extraction of lens
-445024005,C864,C86.4 Removal of foreign body from eye NEC
 85257004,X657,X65.7 Delivery of radionuclide therapy NEC
 34489002,C408,C40.8 Other specified repair of conjunctiva
 252803002,Y442,Y44.2 Monitoring of pressure in organ NOC
-387746009,C432,C43.2 Biopsy of lesion of conjunctiva
 19740002,C712,C71.2 Phacoemulsification of lens
-118906003,C831,C83.1 Pigment epithelium translocation of retina
-118898007,C402,C40.2 Amniotic graft to conjunctiva
 373357006,Y068,Y06.8 Other specified excision of lesion of organ NOC
 314133005,Y252,Y25.2 Resuture of organ NOC
 62428002,C471,C47.1 Suture of cornea
@@ -1439,79 +1016,49 @@ snomed,opcs,opcs_term
 14707009,Y051,Y05.1 Total excision of organ NOC
 12163000,C711,C71.1 Simple linear extraction of lens
 75227000,C712,C71.2 Phacoemulsification of lens
-81198005,Y181,Y18.1 Freeing of adhesions of organ NOC
 421865005,C516,C51.6 Topography evaluation of cornea
-54885007,C749,C74.9 Unspecified other extraction of lens
 427387001,C792,C79.2 Vitrectomy using pars plana approach
-118906003,C849,C84.9 Unspecified other operations on retina
-444111004,C743,C74.3 Mechanical lensectomy
-73200001,C679,C67.9 Unspecified other operations on ciliary body
-713161004,Y082,Y08.2 Laser excision of lesion of organ NOC
 417129009,C601,C60.1 Trabeculectomy
 27652007,C121,C12.1 Excision of lesion of eyelid NEC
-20647004,Y299,Y29.9 Unspecified removal of foreign body from organ NOC
-444600006,C775,C77.5 Magnetic extraction of foreign body from lens
-231770000,C846,C84.6 Retinotomy NEC
 53698007,C791,C79.1 Vitrectomy using anterior approach
 35552007,C489,C48.9 Unspecified removal of foreign body from cornea
 450698009,C858,C85.8 Other specified fixation of retina
 86948006,C829,C82.9 Unspecified destruction of lesion of retina
-118904000,C542,C54.2 Imbrication of sclera
 427326007,C858,C85.8 Other specified fixation of retina
 25316003,C458,C45.8 Other specified extirpation of lesion of cornea
-386611002,C733,C73.3 Capsulotomy of posterior lens capsule
 446548003,C743,C74.3 Mechanical lensectomy
 66960000,C471,C47.1 Suture of cornea
 72491000,C474,C47.4 Gluing of cornea
 85145001,C482,C48.2 Magnetic extraction of foreign body from cornea
 39346000,C391,C39.1 Excision of lesion of conjunctiva
-231784005,C798,C79.8 Other specified operations on vitreous body
 172532006,C734,C73.4 Capsulotomy of lens NEC
 1187011002,C691,C69.1 Reformation of anterior chamber of eye
 172573007,Z194,Z19.4 Choroid
-473370001,C553,C55.3 Drainage of subretinal fluid through sclera
 231710008,C445,C44.5 Laser subepithelial keratomileusis
-118898007,C408,C40.8 Other specified repair of conjunctiva
 427326007,C851,C85.1 Retinopexy using cryotherapy
 413955007,C522,C52.2 Deep sclerectomy without spacer
-74948004,Y298,Y29.8 Other specified removal of foreign body from organ NOC
 8920006,C541,C54.1 Overlay scleroplasty
-69724002,C722,C72.2 Suction extraction of lens
 446548003,C731,C73.1 Membranectomy of lens
-118906003,C845,C84.5 Drainage of subretinal fluid through retina
-118899004,C518,C51.8 Other specified other operations on cornea
 172408001,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 79259004,C711,C71.1 Simple linear extraction of lens
 65839000,Y973,Y97.3 Radiology with post contrast
 310662003,C821,C82.1 Cauterisation of lesion of retina
-363726008,C481,C48.1 Surgical removal of foreign body from cornea
 84072001,C458,C45.8 Other specified extirpation of lesion of cornea
 31230008,Y111,Y11.1 Cauterisation of organ NOC
 84077007,C578,C57.8 Other specified other operations on sclera
-1004045004,C794,C79.4 Injection into vitreous body NEC
-69724002,C711,C71.1 Simple linear extraction of lens
-386611002,C719,C71.9 Unspecified extracapsular extraction of lens
 44291006,Y131,Y13.1 Cauterisation of lesion of organ NOC
 22623003,C445,C44.5 Laser subepithelial keratomileusis
 26786002,C544,C54.4 Buckling of sclera and local or encircling explant HFQ
-231346001,Y808,Y80.8 Other specified general anaesthetic
 446548003,C719,C71.9 Unspecified extracapsular extraction of lens
-53570002,C864,C86.4 Removal of foreign body from eye NEC
-118905004,C848,C84.8 Other specified other operations on retina
-231733009,C614,C61.4 Goniopuncture
 64971001,Y171,Y17.1 Electrocauterisation of lesion of organ NOC
 10529001,C658,C65.8 Other specified operations following glaucoma surgery
 425816006,A845,A84.5 Electroretinography NEC
 63228006,Y051,Y05.1 Total excision of organ NOC
-442235000,C465,C46.5 Deep lamellar graft to cornea
 18476009,C721,C72.1 Forceps extraction of lens
 172571009,C806,C80.6 Removal of subretinal membrane NEC
 82948008,C821,C82.1 Cauterisation of lesion of retina
-426534009,C841,C84.1 Epiretinal dissection
 172415009,C461,C46.1 Refractive keratoplasty
 401306006,C712,C71.2 Phacoemulsification of lens
-53696006,C823,C82.3 External beam radiotherapy to lesion of retina
-7268007,C795,C79.5 Internal tamponade of retina using gas
 172508004,C669,C66.9 Unspecified extirpation of ciliary body
 58076004,Y085,Y08.5 Laser modification of organ NOC
 172574001,C548,C54.8 Other specified buckling operations for attachment of retina
@@ -1523,151 +1070,100 @@ snomed,opcs,opcs_term
 4323007,C532,C53.2 Excision of lesion of sclera NEC
 12113005,C543,C54.3 Buckling of sclera and implant HFQ
 418170009,Y084,Y08.4 Laser destruction of lesion of organ NOC
-417493007,C713,C71.3 Aspiration of lens
 120086003,C011,C01.1 Exenteration of orbit
 1019009,Y058,Y05.8 Other specified excision of organ NOC
 78191003,C733,C73.3 Capsulotomy of posterior lens capsule
 295001,Y138,Y13.8 Other specified other destruction of lesion of organ NOC
 415282007,C711,C71.1 Simple linear extraction of lens
 446548003,C721,C72.1 Forceps extraction of lens
-83816004,C085,C08.5 Internal fixation of fracture of orbit
-19875009,C798,C79.8 Other specified operations on vitreous body
-429713004,C909,C90.9 Unspecified local anaesthetics for ophthalmology procedures
 50141002,C543,C54.3 Buckling of sclera and implant HFQ
 373357006,Y061,Y06.1 Marsupialisation of organ NOC
 473279002,C882,C88.2 Photodynamic therapy to subretinal lesion
 7898005,C889,C88.9 Unspecified destruction of subretinal lesion
-414507007,C749,C74.9 Unspecified other extraction of lens
 231773003,C808,C80.8 Other specified operations on retinal membrane
 88096002,C743,C74.3 Mechanical lensectomy
 108143005,Y054,Y05.4 Ex vivo resection of organ NOC
 44592003,Y131,Y13.1 Cauterisation of lesion of organ NOC
-287588003,C828,C82.8 Other specified destruction of lesion of retina
 51081001,C518,C51.8 Other specified other operations on cornea
 172415009,C442,C44.2 Laser in situ keratomileusis
 700373001,Y264,Y26.4 Removal of other repair material from organ NOC
-8813000,C918,C91.8 Other specified operations on anterior segment of eye
 60712003,C532,C53.2 Excision of lesion of sclera NEC
 28242004,C658,C65.8 Other specified operations following glaucoma surgery
-410564006,Y395,Y39.5 Tattooing of organ NOC
 25316003,C452,C45.2 Excision of lesion of cornea NEC
 424830006,Y083,Y08.3 Laser destruction of organ NOC
 39243005,C743,C74.3 Mechanical lensectomy
 22768003,Y253,Y25.3 Removal of retained suture from organ NOC
 426580006,C792,C79.2 Vitrectomy using pars plana approach
 44329003,C641,C64.1 Excision of prolapsed iris
-386611002,C731,C73.1 Membranectomy of lens
-90589009,C864,C86.4 Removal of foreign body from eye NEC
 310662003,C825,C82.5 Panretinal laser photocoagulation to lesion of retina
 75170007,C741,C74.1 Curettage of lens
 75734004,C848,C84.8 Other specified other operations on retina
 70107009,Y263,Y26.3 Stapling of organ NOC
 108150009,Y413,Y41.3 Endoscopic ultrasound examination of organ NOC
-386611002,C778,C77.8 Other specified other operations on lens
-118899004,C519,C51.9 Unspecified other operations on cornea
-312709005,C553,C55.3 Drainage of subretinal fluid through sclera
-308694002,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-48933009,C864,C86.4 Removal of foreign body from eye NEC
 450698009,C826,C82.6 Laser photocoagulation to lesion of retina NEC
 172386004,X651,X65.1 Delivery of a fraction of total body irradiation
 446548003,C718,C71.8 Other specified extracapsular extraction of lens
-231769001,C546,C54.6 Removal of implant or explant from sclera
 66226002,C733,C73.3 Capsulotomy of posterior lens capsule
-442235000,C445,C44.5 Laser subepithelial keratomileusis
 20019002,Y429,Y42.9 Unspecified manipulation of organ NOC
 83868006,C771,C77.1 Capsulectomy
 722184001,Y015,Y01.5 Alloreplacement of organ from cadaver heart non-beating NOC
-48671003,C793,C79.3 Injection of vitreous substitute into vitreous body NEC
 172530003,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 446635005,C528,C52.8 Other specified excision of sclera
 8920006,C545,C54.5 Buckling of sclera NEC
 9137006,C647,C64.7 Insertion of iris hooks
-118906003,C838,C83.8 Other specified translocation of retina
 414873001,Y081,Y08.1 Laser excision of organ NOC
 231762005,C821,C82.1 Cauterisation of lesion of retina
 450698009,C829,C82.9 Unspecified destruction of lesion of retina
-430833007,C456,C45.6 Destruction of lesion of cornea NEC
-698939004,C648,C64.8 Other specified other operations on iris
 67991000,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-79611007,C776,C77.6 Insertion of capsule tension ring
-26633008,C846,C84.6 Retinotomy NEC
-265291005,C605,C60.5 Insertion of tube into anterior chamber of eye to assist drainage of aqueous humour
-419767009,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-88840005,C615,C61.5 Viscogonioplasty
 59590004,C032,C03.2 Insertion of prosthetic replacement for eyeball
 4593001,Y131,Y13.1 Cauterisation of lesion of organ NOC
 18551005,C398,C39.8 Other specified extirpation of lesion of conjunctiva
 203644001,C553,C55.3 Drainage of subretinal fluid through sclera
 231775005,C826,C82.6 Laser photocoagulation to lesion of retina NEC
-473370001,C845,C84.5 Drainage of subretinal fluid through retina
 446107007,C826,C82.6 Laser photocoagulation to lesion of retina NEC
-444111004,C732,C73.2 Capsulotomy of anterior lens capsule
 446938009,C432,C43.2 Biopsy of lesion of conjunctiva
 427478009,C875,C87.5 Scanning laser ophthalmoscopy evaluation of retina
 30104007,C738,C73.8 Other specified incision of capsule of lens
-67835007,C545,C54.5 Buckling of sclera NEC
 700401002,C408,C40.8 Other specified repair of conjunctiva
-231713005,C464,C46.4 Insertion of prosthesis into cornea
 6438007,C678,C67.8 Other specified other operations on ciliary body
-118909005,C698,C69.8 Other specified other operations on anterior chamber of eye
-417709003,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 65812008,C712,C71.2 Phacoemulsification of lens
 439490005,C848,C84.8 Other specified other operations on retina
-414507007,C713,C71.3 Aspiration of lens
 426332009,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
-231783004,C798,C79.8 Other specified operations on vitreous body
 172401007,C436,C43.6 Creation of hood of conjunctiva
 363115007,Y323,Y32.3 Re-exploration of organ and packing of organ NOC
 67991000,C647,C64.7 Insertion of iris hooks
 446507001,C918,C91.8 Other specified operations on anterior segment of eye
 38722003,C452,C45.2 Excision of lesion of cornea NEC
-444111004,C712,C71.2 Phacoemulsification of lens
-54885007,C738,C73.8 Other specified incision of capsule of lens
 30931009,Y269,Y26.9 Unspecified other repair of organ NOC
-231346001,C901,C90.1 Topical anaesthetic
-386611002,C713,C71.3 Aspiration of lens
 83202004,Y268,Y26.8 Other specified other repair of organ NOC
 40073002,C463,C46.3 Penetrating graft to cornea
 164729009,C868,C86.8 Other specified other operations on eye
 47242009,Y067,Y06.7 Radiofrequency excision of lesion of organ NOC
 172390002,C402,C40.2 Amniotic graft to conjunctiva
 63506005,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
-118910000,C898,C89.8 Other specified operations on posterior segment of eye
 17606004,C528,C52.8 Other specified excision of sclera
 1746005,C543,C54.3 Buckling of sclera and implant HFQ
-426676006,C466,C46.6 Amniotic membrane graft to cornea
-83816004,C011,C01.1 Exenteration of orbit
-416199008,Y253,Y25.3 Removal of retained suture from organ NOC
 26786002,C543,C54.3 Buckling of sclera and implant HFQ
-83816004,C089,C08.9 Unspecified other operations on orbit
 120118006,C918,C91.8 Other specified operations on anterior segment of eye
 416968006,C601,C60.1 Trabeculectomy
 203644001,C552,C55.2 Corneoscleral trephine
 65812008,C743,C74.3 Mechanical lensectomy
 4593001,Y111,Y11.1 Cauterisation of organ NOC
 312705004,Y298,Y29.8 Other specified removal of foreign body from organ NOC
-112966006,C799,C79.9 Unspecified operations on vitreous body
-120113002,Y399,Y39.9 Unspecified injection of other substance into organ NOC
 450698009,C852,C85.2 Retinopexy using diathermy
-418430006,C515,C51.5 Placement of therapeutic contact lens on to cornea
 30113009,C698,C69.8 Other specified other operations on anterior chamber of eye
 7898005,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
 120125004,Y264,Y26.4 Removal of other repair material from organ NOC
 414873001,Y085,Y08.5 Laser modification of organ NOC
-118898007,C392,C39.2 Cauterisation of lesion of conjunctiva
-118904000,C554,C55.4 Expansion of sclera
 75396001,Y262,Y26.2 Plastic repair of organ NOC
 816029007,C518,C51.8 Other specified other operations on cornea
 20403000,C591,C59.1 Iridocyclectomy
 13303004,C558,C55.8 Other specified incision of sclera
-118903006,C799,C79.9 Unspecified operations on vitreous body
-118901008,C663,C66.3 Cryotherapy to ciliary body
 446938009,C511,C51.1 Biopsy of lesion of cornea
 58388006,C401,C40.1 Mucosal graft to conjunctiva
 397112000,C391,C39.1 Excision of lesion of conjunctiva
 18476009,C723,C72.3 Cryoextraction of lens
 61732007,C528,C52.8 Other specified excision of sclera
-54885007,C739,C73.9 Unspecified incision of capsule of lens
 241037002,Y971,Y97.1 Radiology with pre and post contrast
 45817009,C848,C84.8 Other specified other operations on retina
 81924001,C888,C88.8 Other specified destruction of subretinal lesion
@@ -1677,97 +1173,62 @@ snomed,opcs,opcs_term
 22623003,C465,C46.5 Deep lamellar graft to cornea
 74184007,C734,C73.4 Capsulotomy of lens NEC
 80632003,C791,C79.1 Vitrectomy using anterior approach
-2536007,C693,C69.3 Injection into anterior chamber of eye
-426534009,C804,C80.4 Segmentation of epiretinal fibrovascular membrane
 172565003,C822,C82.2 Cryotherapy to lesion of retina
 63506005,X657,X65.7 Delivery of radionuclide therapy NEC
-444111004,C728,C72.8 Other specified intracapsular extraction of lens
-387746009,C394,C39.4 Curettage of lesion of conjunctiva
 700417008,C452,C45.2 Excision of lesion of cornea NEC
 386608003,C621,C62.1 Iridosclerotomy
 85070003,C592,C59.2 Surgical iridectomy
 312713003,C818,C81.8 Other specified photocoagulation of retina for detachment
-17348004,C898,C89.8 Other specified operations on posterior segment of eye
-231788008,C848,C84.8 Other specified other operations on retina
-410564006,Y391,Y39.1 Injection of radiocontrast substance into sinus track from organ NOC
 35717002,C776,C77.6 Insertion of capsule tension ring
-444111004,C733,C73.3 Capsulotomy of posterior lens capsule
 43111005,X658,X65.8 Other specified radiotherapy delivery
-64340000,Y299,Y29.9 Unspecified removal of foreign body from organ NOC
 287242008,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 62178009,Y111,Y11.1 Cauterisation of organ NOC
 82627009,C798,C79.8 Other specified operations on vitreous body
-429713004,C902,C90.2 Subconjunctival anaesthetic
 86948006,C826,C82.6 Laser photocoagulation to lesion of retina NEC
-445024005,C433,C43.3 Removal of foreign body from conjunctiva
 72710001,C572,C57.2 Repair of sclera
 2914003,C559,C55.9 Unspecified incision of sclera
 231747008,C739,C73.9 Unspecified incision of capsule of lens
-19875009,Y229,Y22.9 Unspecified drainage of organ NOC
-315602003,Y253,Y25.3 Removal of retained suture from organ NOC
-53696006,C829,C82.9 Unspecified destruction of lesion of retina
 397539000,C818,C81.8 Other specified photocoagulation of retina for detachment
-231765007,C845,C84.5 Drainage of subretinal fluid through retina
-118909005,C692,C69.2 Paracentesis of anterior chamber of eye
 26786002,C547,C54.7 Maintenance of implant or explant in sclera
 373357006,C868,C86.8 Other specified other operations on eye
 410459005,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 65812008,C739,C73.9 Unspecified incision of capsule of lens
-118910000,C893,C89.3 Injection of therapeutic substance into posterior segment of eye NEC
-54885007,C741,C74.1 Curettage of lens
 397516006,C444,C44.4 Photorefractive keratectomy
-231765007,C553,C55.3 Drainage of subretinal fluid through sclera
-410572008,C794,C79.4 Injection into vitreous body NEC
 274336008,C843,C84.3 Biopsy of lesion of retina
 314125009,C866,C86.6 Examination of eye under anaesthetic
 446548003,C739,C73.9 Unspecified incision of capsule of lens
 73599006,C848,C84.8 Other specified other operations on retina
 41515001,C889,C88.9 Unspecified destruction of subretinal lesion
 413954006,C558,C55.8 Other specified incision of sclera
-67835007,C559,C55.9 Unspecified incision of sclera
 838278005,X609,X60.9 Unspecified rehabilitation assessment
 120127007,Y015,Y01.5 Alloreplacement of organ from cadaver heart non-beating NOC
-445138001,Y395,Y39.5 Tattooing of organ NOC
-442235000,C462,C46.2 Lamellar graft to cornea NEC
 19320007,C678,C67.8 Other specified other operations on ciliary body
 33412005,C512,C51.2 Chelation of cornea
 75170007,C749,C74.9 Unspecified other extraction of lens
 428494000,C652,C65.2 Injection of bleb
 3605001,C669,C66.9 Unspecified extirpation of ciliary body
 446862000,C729,C72.9 Unspecified intracapsular extraction of lens
-22871000,Y389,Y38.9 Unspecified injection of therapeutic substance into organ NOC
 75903006,C882,C88.2 Photodynamic therapy to subretinal lesion
 425806003,C838,C83.8 Other specified translocation of retina
-231334000,C793,C79.3 Injection of vitreous substitute into vitreous body NEC
 172386004,X659,X65.9 Unspecified radiotherapy delivery
-112966006,C797,C79.7 Removal of internal tamponade agent from vitreous body
 58127007,C591,C59.1 Iridocyclectomy
 83877004,C613,C61.3 Goniotomy
 231786007,Y131,Y13.1 Cauterisation of lesion of organ NOC
 231744001,C723,C72.3 Cryoextraction of lens
-50737005,C798,C79.8 Other specified operations on vitreous body
 13303004,C559,C55.9 Unspecified incision of sclera
 415282007,C719,C71.9 Unspecified extracapsular extraction of lens
 78191003,C738,C73.8 Other specified incision of capsule of lens
-231770000,C799,C79.9 Unspecified operations on vitreous body
 418121005,C515,C51.5 Placement of therapeutic contact lens on to cornea
 397538008,C812,C81.2 Laser photocoagulation of retina for detachment
-53696006,C819,C81.9 Unspecified photocoagulation of retina for detachment
 68366009,C546,C54.6 Removal of implant or explant from sclera
 59590004,C031,C03.1 Insertion of prosthetic replacement for orbit
-708689007,Y254,Y25.4 Removal of other suture from organ NOC
 40485001,C462,C46.2 Lamellar graft to cornea NEC
 6889000,C543,C54.3 Buckling of sclera and implant HFQ
 120127007,C868,C86.8 Other specified other operations on eye
 274336008,C511,C51.1 Biopsy of lesion of cornea
-118906003,C846,C84.6 Retinotomy NEC
 310662003,C828,C82.8 Other specified destruction of lesion of retina
-120113002,Y395,Y39.5 Tattooing of organ NOC
 388285000,C124,C12.4 Curettage of lesion of eyelid
-430833007,C458,C45.8 Other specified extirpation of lesion of cornea
 231735002,C618,C61.8 Other specified other operations on trabecular meshwork of eye
-709082007,C443,C44.3 Endothelial graft to cornea
-414539000,C754,C75.4 Insertion of prosthetic replacement for lens using suture fixation
 446548003,C713,C71.3 Aspiration of lens
 8920006,C841,C84.1 Epiretinal dissection
 1413003,C463,C46.3 Penetrating graft to cornea
@@ -1775,42 +1236,25 @@ snomed,opcs,opcs_term
 446507001,Y068,Y06.8 Other specified excision of lesion of organ NOC
 446490007,C718,C71.8 Other specified extracapsular extraction of lens
 44269004,C776,C77.6 Insertion of capsule tension ring
-5130002,C647,C64.7 Insertion of iris hooks
-359963001,C478,C47.8 Other specified closure of cornea
-89038007,C649,C64.9 Unspecified other operations on iris
 416100002,C661,C66.1 Excision of ciliary body
-231770000,C842,C84.2 Excision of lesion of retina NEC
 82819003,C868,C86.8 Other specified other operations on eye
-6307005,C464,C46.4 Insertion of prosthesis into cornea
 75732000,C796,C79.6 Internal tamponade of retina using liquid
 231744001,C711,C71.1 Simple linear extraction of lens
 22768003,Y258,Y25.8 Other specified suture of organ NOC
-69724002,C741,C74.1 Curettage of lens
 81924001,C889,C88.9 Unspecified destruction of subretinal lesion
 108147006,C918,C91.8 Other specified operations on anterior segment of eye
 25019004,C648,C64.8 Other specified other operations on iris
 424830006,Y084,Y08.4 Laser destruction of lesion of organ NOC
 63228006,Y055,Y05.5 Debridement of organ NOC
-118905004,C843,C84.3 Biopsy of lesion of retina
-20647004,C798,C79.8 Other specified operations on vitreous body
-67835007,C533,C53.3 Cauterisation of lesion of sclera
 397574004,C811,C81.1 Xenon photocoagulation of retina for detachment
 415839004,C442,C44.2 Laser in situ keratomileusis
 32788008,C529,C52.9 Unspecified excision of sclera
-118909005,C691,C69.1 Reformation of anterior chamber of eye
 397994004,C031,C03.1 Insertion of prosthetic replacement for orbit
-440149009,C903,C90.3 Subtenons anaesthetic
 64522003,Z194,Z19.4 Choroid
 866200001,Z941,Z94.1 Bilateral operation
-415503004,C754,C75.4 Insertion of prosthetic replacement for lens using suture fixation
-172423006,C473,C47.3 Removal of suture from cornea
 62236008,C499,C49.9 Unspecified incision of cornea
-118906003,C832,C83.2 Macular translocation three hundred and sixty degrees
-387746009,C401,C40.1 Mucosal graft to conjunctiva
 450698009,C839,C83.9 Unspecified translocation of retina
-118904000,C534,C53.4 Destruction of lesion of sclera NEC
 700373001,C808,C80.8 Other specified operations on retinal membrane
-231733009,C613,C61.3 Goniotomy
 47130006,C405,C40.5 Suture of conjunctiva
 75792002,Y011,Y01.1 Autoreplacement of organ NOC
 785831002,Z943,Z94.3 Left sided operation
@@ -1818,100 +1262,60 @@ snomed,opcs,opcs_term
 172386004,X657,X65.7 Delivery of radionuclide therapy NEC
 58388006,C405,C40.5 Suture of conjunctiva
 28242004,C468,C46.8 Other specified plastic operations on cornea
-118905004,C844,C84.4 Retinal vascular sheathotomy
-73200001,C665,C66.5 Destruction of ciliary body NEC
 231774009,C846,C84.6 Retinotomy NEC
-442235000,C469,C46.9 Unspecified plastic operations on cornea
 40485001,C391,C39.1 Excision of lesion of conjunctiva
-373353005,C867,C86.7 Injection of therapeutic substance around the eye
-410564006,Y393,Y39.3 Injection of inert substance into organ NOC
-118903006,C795,C79.5 Internal tamponade of retina using gas
-231721004,C605,C60.5 Insertion of tube into anterior chamber of eye to assist drainage of aqueous humour
-69724002,C719,C71.9 Unspecified extracapsular extraction of lens
 28242004,C462,C46.2 Lamellar graft to cornea NEC
 75792002,C798,C79.8 Other specified operations on vitreous body
-445138001,C808,C80.8 Other specified operations on retinal membrane
 446548003,C749,C74.9 Unspecified other extraction of lens
 13927007,C553,C55.3 Drainage of subretinal fluid through sclera
 172386004,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
-80703007,Y037,Y03.7 Removal of prosthesis from organ NOC
 231773003,C842,C84.2 Excision of lesion of retina NEC
 231559005,C861,C86.1 Biopsy of lesion of eye NEC
 446490007,C712,C71.2 Phacoemulsification of lens
 6486000,C578,C57.8 Other specified other operations on sclera
 70969005,C463,C46.3 Penetrating graft to cornea
 25316003,C454,C45.4 Cryotherapy to lesion of cornea
-439522009,Y181,Y18.1 Freeing of adhesions of organ NOC
-4143006,C693,C69.3 Injection into anterior chamber of eye
 61779007,C409,C40.9 Unspecified repair of conjunctiva
 47470009,C578,C57.8 Other specified other operations on sclera
-231733009,C612,C61.2 Trabeculotomy
 75170007,C742,C74.2 Discission of cataract
 231737005,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 386608003,C624,C62.4 Correction iridodialysis NEC
 446279000,C398,C39.8 Other specified extirpation of lesion of conjunctiva
-386611002,C753,C75.3 Removal of prosthetic replacement for lens
-118898007,C433,C43.3 Removal of foreign body from conjunctiva
-385468004,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 60656008,C461,C46.1 Refractive keratoplasty
 60177007,C795,C79.5 Internal tamponade of retina using gas
 14707009,Y059,Y05.9 Unspecified excision of organ NOC
-231333006,C434,C43.4 Subconjunctival injection
-26633008,C842,C84.2 Excision of lesion of retina NEC
 773335005,Y354,Y35.4 Introduction of radioactive substance into organ for brachytherapy NOC
 40485001,C465,C46.5 Deep lamellar graft to cornea
 373357006,Y067,Y06.7 Radiofrequency excision of lesion of organ NOC
 90854001,C651,C65.1 Needling of bleb
-9812004,Y392,Y39.2 Other injection of radiocontrast substance into organ NOC
-308694002,C713,C71.3 Aspiration of lens
-444600006,C645,C64.5 Removal of foreign body from iris
 424830006,C604,C60.4 Iridoplasty NEC
 37958004,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 447304001,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 424830006,Y082,Y08.2 Laser excision of lesion of organ NOC
 359851005,Y067,Y06.7 Radiofrequency excision of lesion of organ NOC
-13346001,C698,C69.8 Other specified other operations on anterior chamber of eye
 231759007,C821,C82.1 Cauterisation of lesion of retina
-118904000,C532,C53.2 Excision of lesion of sclera NEC
-308694002,C712,C71.2 Phacoemulsification of lens
-112963003,C713,C71.3 Aspiration of lens
-713161004,Y089,Y08.9 Unspecified laser therapy to organ NOC
 231744001,C712,C71.2 Phacoemulsification of lens
 172571009,C801,C80.1 Peel of epiretinal fibroglial membrane
-118905004,C842,C84.2 Excision of lesion of retina NEC
-84016007,C774,C77.4 Surgical removal of foreign body from lens
-785883009,C898,C89.8 Other specified operations on posterior segment of eye
 373357006,Y063,Y06.3 Enucleation of lesion of organ NOC
-387746009,C402,C40.2 Amniotic graft to conjunctiva
 112962008,C478,C47.8 Other specified closure of cornea
 360411008,C738,C73.8 Other specified incision of capsule of lens
 427402009,C792,C79.2 Vitrectomy using pars plana approach
-414470005,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 15915007,C888,C88.8 Other specified destruction of subretinal lesion
 8920006,C544,C54.4 Buckling of sclera and local or encircling explant HFQ
 413572007,C498,C49.8 Other specified incision of cornea
 231750006,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 42910002,C848,C84.8 Other specified other operations on retina
-67835007,C571,C57.1 Biopsy of lesion of sclera
 21491001,C678,C67.8 Other specified other operations on ciliary body
 439751005,C605,C60.5 Insertion of tube into anterior chamber of eye to assist drainage of aqueous humour
-414507007,C721,C72.1 Forceps extraction of lens
 4593001,C578,C57.8 Other specified other operations on sclera
 63506005,Z194,Z19.4 Choroid
-20647004,Y292,Y29.2 Manipulative removal of foreign body from organ NOC
 1137555003,C829,C82.9 Unspecified destruction of lesion of retina
-373353005,C865,C86.5 Fluorescein angiography of eye
 76135002,C403,C40.3 Sliding graft to conjunctiva
 13927007,C551,C55.1 Drainage of lesion of sclera
 397994004,C038,C03.8 Other specified insertion of prosthesis of eye
-444600006,C864,C86.4 Removal of foreign body from eye NEC
-414507007,C734,C73.4 Capsulotomy of lens NEC
 397574004,C812,C81.2 Laser photocoagulation of retina for detachment
 252789008,A845,A84.5 Electroretinography NEC
 397800002,C032,C03.2 Insertion of prosthetic replacement for eyeball
-387746009,C393,C39.3 Cryotherapy to lesion of conjunctiva
-4503005,Y298,Y29.8 Other specified removal of foreign body from organ NOC
-231780001,C793,C79.3 Injection of vitreous substitute into vitreous body NEC
 445944001,Y111,Y11.1 Cauterisation of organ NOC
 87021001,C795,C79.5 Internal tamponade of retina using gas
 65812008,C734,C73.4 Capsulotomy of lens NEC
@@ -1923,14 +1327,12 @@ snomed,opcs,opcs_term
 47130006,C404,C40.4 Prosthetic replacement of conjunctiva
 85785001,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 722185000,C443,C44.3 Endothelial graft to cornea
-425431007,C892,C89.2 Injection of steroid into posterior segment of eye
 446548003,C712,C71.2 Phacoemulsification of lens
 446635005,C391,C39.1 Excision of lesion of conjunctiva
 424830006,Y089,Y08.9 Unspecified laser therapy to organ NOC
 231775005,C829,C82.9 Unspecified destruction of lesion of retina
 204542000,C559,C55.9 Unspecified incision of sclera
 231729002,C648,C64.8 Other specified other operations on iris
-231346001,Y801,Y80.1 Inhalation anaesthetic using muscle relaxant
 398031005,C012,C01.2 Enucleation of eye
 4593001,C591,C59.1 Iridocyclectomy
 47130006,C408,C40.8 Other specified repair of conjunctiva
@@ -1944,11 +1346,7 @@ snomed,opcs,opcs_term
 763097008,C862,C86.2 Repair of globe
 8561003,C698,C69.8 Other specified other operations on anterior chamber of eye
 78110003,Z194,Z19.4 Choroid
-118904000,C539,C53.9 Unspecified extirpation of lesion of sclera
-386611002,C711,C71.1 Simple linear extraction of lens
-84149000,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 33481008,C743,C74.3 Mechanical lensectomy
-53696006,C849,C84.9 Unspecified other operations on retina
 172565003,C882,C88.2 Photodynamic therapy to subretinal lesion
 7798001,C401,C40.1 Mucosal graft to conjunctiva
 172384001,C393,C39.3 Cryotherapy to lesion of conjunctiva
@@ -1956,53 +1354,37 @@ snomed,opcs,opcs_term
 112960000,C401,C40.1 Mucosal graft to conjunctiva
 70107009,Y264,Y26.4 Removal of other repair material from organ NOC
 359851005,Y063,Y06.3 Enucleation of lesion of organ NOC
-37332006,C578,C57.8 Other specified other operations on sclera
-373353005,C863,C86.3 Suture of eye NEC
 22623003,C466,C46.6 Amniotic membrane graft to cornea
 231724007,C592,C59.2 Surgical iridectomy
 7663009,C862,C86.2 Repair of globe
 17606004,C529,C52.9 Unspecified excision of sclera
 172571009,C841,C84.1 Epiretinal dissection
 74220006,C796,C79.6 Internal tamponade of retina using liquid
-445138001,Y392,Y39.2 Other injection of radiocontrast substance into organ NOC
 33412005,C513,C51.3 Exploration of cornea
-118898007,C432,C43.2 Biopsy of lesion of conjunctiva
 108150009,C918,C91.8 Other specified operations on anterior segment of eye
-445024005,C775,C77.5 Magnetic extraction of foreign body from lens
-231770000,C843,C84.3 Biopsy of lesion of retina
-373353005,C861,C86.1 Biopsy of lesion of eye NEC
 53528007,C394,C39.4 Curettage of lesion of conjunctiva
 34524006,C553,C55.3 Drainage of subretinal fluid through sclera
 82819003,Y429,Y42.9 Unspecified manipulation of organ NOC
 65812008,C723,C72.3 Cryoextraction of lens
 1156643002,C812,C81.2 Laser photocoagulation of retina for detachment
 359851005,Y062,Y06.2 Deroofing of cyst of organ NOC
-83816004,C043,C04.3 Removal of prosthetic replacement for orbit
 57103007,C821,C82.1 Cauterisation of lesion of retina
 75227000,C728,C72.8 Other specified intracapsular extraction of lens
 70107009,C778,C77.8 Other specified other operations on lens
 8920006,C543,C54.3 Buckling of sclera and implant HFQ
 252803002,C518,C51.8 Other specified other operations on cornea
-445138001,Y391,Y39.1 Injection of radiocontrast substance into sinus track from organ NOC
 417587001,C875,C87.5 Scanning laser ophthalmoscopy evaluation of retina
-445024005,C645,C64.5 Removal of foreign body from iris
-90997007,C864,C86.4 Removal of foreign body from eye NEC
 36812006,C592,C59.2 Surgical iridectomy
 231728005,C648,C64.8 Other specified other operations on iris
 700417008,C391,C39.1 Excision of lesion of conjunctiva
 9754005,C408,C40.8 Other specified repair of conjunctiva
-118901008,C669,C66.9 Unspecified extirpation of ciliary body
-313999004,C712,C71.2 Phacoemulsification of lens
 37958004,C558,C55.8 Other specified incision of sclera
-410564006,Y388,Y38.8 Other specified injection of therapeutic substance into organ NOC
 10807008,C573,C57.3 Graft to sclera
 41681008,C821,C82.1 Cauterisation of lesion of retina
-54362002,Y292,Y29.2 Manipulative removal of foreign body from organ NOC
 34854007,C659,C65.9 Unspecified operations following glaucoma surgery
 172525002,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 360411008,C733,C73.3 Capsulotomy of posterior lens capsule
 427952005,C812,C81.2 Laser photocoagulation of retina for detachment
-387746009,C436,C43.6 Creation of hood of conjunctiva
 75227000,C723,C72.3 Cryoextraction of lens
 172532006,C739,C73.9 Unspecified incision of capsule of lens
 172399001,C432,C43.2 Biopsy of lesion of conjunctiva
@@ -2012,8 +1394,6 @@ snomed,opcs,opcs_term
 33397002,C821,C82.1 Cauterisation of lesion of retina
 37741003,Y069,Y06.9 Unspecified excision of lesion of organ NOC
 312965008,C442,C44.2 Laser in situ keratomileusis
-54885007,C742,C74.2 Discission of cataract
-118898007,C395,C39.5 Radiotherapy to lesion of conjunctiva
 30946002,C544,C54.4 Buckling of sclera and local or encircling explant HFQ
 35009002,C823,C82.3 External beam radiotherapy to lesion of retina
 6486000,Y133,Y13.3 Curettage of lesion of organ NOC
@@ -2026,9 +1406,7 @@ snomed,opcs,opcs_term
 75227000,C748,C74.8 Other specified other extraction of lens
 77184003,C438,C43.8 Other specified other operations on conjunctiva
 172410004,C457,C45.7 Debridement of lesion of cornea
-429713004,C905,C90.5 Retrobulbar anaesthetic
 450698009,C853,C85.3 Retinopexy using mechanical tacks
-120113002,Y392,Y39.2 Other injection of radiocontrast substance into organ NOC
 252779009,A845,A84.5 Electroretinography NEC
 47242009,C698,C69.8 Other specified other operations on anterior chamber of eye
 450698009,C842,C84.2 Excision of lesion of retina NEC
@@ -2037,9 +1415,7 @@ snomed,opcs,opcs_term
 415282007,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 62178009,Y131,Y13.1 Cauterisation of lesion of organ NOC
 15912005,C392,C39.2 Cauterisation of lesion of conjunctiva
-172498005,C645,C64.5 Removal of foreign body from iris
 231748003,C739,C73.9 Unspecified incision of capsule of lens
-50737005,Y298,Y29.8 Other specified removal of foreign body from organ NOC
 413452000,C451,C45.1 Superficial keratectomy
 231705009,C451,C45.1 Superficial keratectomy
 86948006,C822,C82.2 Cryotherapy to lesion of retina
@@ -2047,60 +1423,37 @@ snomed,opcs,opcs_term
 19731001,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 413955007,C521,C52.1 Deep sclerectomy with spacer
 53612009,C408,C40.8 Other specified repair of conjunctiva
-46426006,C723,C72.3 Cryoextraction of lens
-443891005,C224,C22.4 Injection into eyelid
-442235000,C468,C46.8 Other specified plastic operations on cornea
 24670001,C437,C43.7 Transplantation of conjunctiva
-118906003,C824,C82.4 Plaque radiotherapy to lesion of retina
 34854007,C658,C65.8 Other specified operations following glaucoma surgery
-416618000,C608,C60.8 Other specified filtering operations on iris
-428497007,C515,C51.5 Placement of therapeutic contact lens on to cornea
-118906003,C825,C82.5 Panretinal laser photocoagulation to lesion of retina
-83816004,C041,C04.1 Revision of prosthetic replacement for orbit
 413180006,C821,C82.1 Cauterisation of lesion of retina
-386611002,C748,C74.8 Other specified other extraction of lens
 63228006,C545,C54.5 Buckling of sclera NEC
 722184001,Y016,Y01.6 Alloreplacement of organ from cadaver NOC
 398031005,C032,C03.2 Insertion of prosthetic replacement for eyeball
 314117007,C601,C60.1 Trabeculectomy
 446490007,C719,C71.9 Unspecified extracapsular extraction of lens
-17348004,C892,C89.2 Injection of steroid into posterior segment of eye
 41480002,C661,C66.1 Excision of ciliary body
-427288008,C754,C75.4 Insertion of prosthetic replacement for lens using suture fixation
 172508004,C664,C66.4 Laser photocoagulation of ciliary body
 6438007,Y318,Y31.8 Other specified exploration of organ NOC
 447304001,C711,C71.1 Simple linear extraction of lens
-118908002,C919,C91.9 Unspecified operations on anterior segment of eye
 64522003,Y358,Y35.8 Other specified introduction of removable radioactive material into organ NOC
 108143005,C518,C51.8 Other specified other operations on cornea
 312713003,C819,C81.9 Unspecified photocoagulation of retina for detachment
-172421008,C472,C47.2 Adjustment to suture of cornea
 51811007,C191,C19.1 Drainage of lesion of eyelid
 172508004,C663,C66.3 Cryotherapy to ciliary body
 75792002,Y014,Y01.4 Alloreplacement of organ from cadaver heart beating NOC
-429390003,C901,C90.1 Topical anaesthetic
 31230008,C818,C81.8 Other specified photocoagulation of retina for detachment
-17348004,C899,C89.9 Unspecified operations on posterior segment of eye
-118898007,C401,C40.1 Mucosal graft to conjunctiva
 313275006,C498,C49.8 Other specified incision of cornea
 1186897008,Y763,Y76.3 Endoscopic approach to other body cavity
-88840005,C868,C86.8 Other specified other operations on eye
 63506005,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 172386004,C395,C39.5 Radiotherapy to lesion of conjunctiva
 81924001,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
 120125004,Y262,Y26.2 Plastic repair of organ NOC
 3605001,C663,C66.3 Cryotherapy to ciliary body
 49288009,C694,C69.4 Irrigation of anterior chamber of eye
-430833007,C454,C45.4 Cryotherapy to lesion of cornea
 63228006,C578,C57.8 Other specified other operations on sclera
-348748006,C468,C46.8 Other specified plastic operations on cornea
 70107009,Y261,Y26.1 Reconstruction of organ NOC
 416369006,C875,C87.5 Scanning laser ophthalmoscopy evaluation of retina
-9255007,Y292,Y29.2 Manipulative removal of foreign body from organ NOC
 4323007,C534,C53.4 Destruction of lesion of sclera NEC
-84149000,C647,C64.7 Insertion of iris hooks
-438601000,Y181,Y18.1 Freeing of adhesions of organ NOC
-54885007,C728,C72.8 Other specified intracapsular extraction of lens
 700070005,C873,C87.3 Tomography evaluation of retina
 418170009,Y088,Y08.8 Other specified laser therapy to organ NOC
 359851005,C518,C51.8 Other specified other operations on cornea
@@ -2111,17 +1464,9 @@ snomed,opcs,opcs_term
 22623003,C461,C46.1 Refractive keratoplasty
 231747008,Y086,Y08.6 Laser incision of organ NOC
 76824005,C409,C40.9 Unspecified repair of conjunctiva
-13767004,Y298,Y29.8 Other specified removal of foreign body from organ NOC
-440587008,C578,C57.8 Other specified other operations on sclera
-473369002,Y229,Y22.9 Unspecified drainage of organ NOC
 76135002,C401,C40.1 Mucosal graft to conjunctiva
-287588003,Y084,Y08.4 Laser destruction of lesion of organ NOC
 203644001,C551,C55.1 Drainage of lesion of sclera
-74410004,C434,C43.4 Subconjunctival injection
-73200001,C663,C66.3 Cryotherapy to ciliary body
-73200001,C669,C66.9 Unspecified extirpation of ciliary body
 447304001,C719,C71.9 Unspecified extracapsular extraction of lens
-410564006,Y392,Y39.2 Other injection of radiocontrast substance into organ NOC
 84551008,C545,C54.5 Buckling of sclera NEC
 360411008,C731,C73.1 Membranectomy of lens
 172415009,C466,C46.6 Amniotic membrane graft to cornea
@@ -2140,18 +1485,12 @@ snomed,opcs,opcs_term
 450698009,C545,C54.5 Buckling of sclera NEC
 722185000,Y014,Y01.4 Alloreplacement of organ from cadaver heart beating NOC
 4516005,C608,C60.8 Other specified filtering operations on iris
-53696006,C822,C82.2 Cryotherapy to lesion of retina
 700401002,C402,C40.2 Amniotic graft to conjunctiva
 427478009,C872,C87.2 Indocyanine angiography evaluation of retina
 60656008,C469,C46.9 Unspecified plastic operations on cornea
 74184007,Y086,Y08.6 Laser incision of organ NOC
-386611002,C718,C71.8 Other specified extracapsular extraction of lens
 38948000,C465,C46.5 Deep lamellar graft to cornea
-118906003,C842,C84.2 Excision of lesion of retina NEC
-78290008,C645,C64.5 Removal of foreign body from iris
-698939004,Y021,Y02.1 Implantation of prosthesis into organ NOC
 108148001,Y059,Y05.9 Unspecified excision of organ NOC
-387746009,C411,C41.1 Peritomy
 82382005,C795,C79.5 Internal tamponade of retina using gas
 112957007,C436,C43.6 Creation of hood of conjunctiva
 310662003,C823,C82.3 External beam radiotherapy to lesion of retina
@@ -2160,15 +1499,10 @@ snomed,opcs,opcs_term
 84072001,C438,C43.8 Other specified other operations on conjunctiva
 12868007,C918,C91.8 Other specified operations on anterior segment of eye
 413934005,C452,C45.2 Excision of lesion of cornea NEC
-386611002,C739,C73.9 Unspecified incision of capsule of lens
 445023004,C481,C48.1 Surgical removal of foreign body from cornea
 172508004,C665,C66.5 Destruction of ciliary body NEC
 85257004,Z198,Z19.8 Specified part of eye NEC
-69724002,C743,C74.3 Mechanical lensectomy
-387746009,C399,C39.9 Unspecified extirpation of lesion of conjunctiva
-387746009,C439,C43.9 Unspecified other operations on conjunctiva
 89978003,C721,C72.1 Forceps extraction of lens
-69360005,C718,C71.8 Other specified extracapsular extraction of lens
 78110003,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 108143005,Y052,Y05.2 Partial excision of organ NOC
 120127007,Y013,Y01.3 Xenoreplacement of organ NOC
@@ -2176,89 +1510,58 @@ snomed,opcs,opcs_term
 75792002,Y012,Y01.2 Alloreplacement of organ NOC
 25444001,C848,C84.8 Other specified other operations on retina
 43582002,C791,C79.1 Vitrectomy using anterior approach
-386611002,C738,C73.8 Other specified incision of capsule of lens
 75227000,C731,C73.1 Membranectomy of lens
 42910002,Y319,Y31.9 Unspecified exploration of organ NOC
-231770000,C791,C79.1 Vitrectomy using anterior approach
 312706003,Y299,Y29.9 Unspecified removal of foreign body from organ NOC
-231770000,C796,C79.6 Internal tamponade of retina using liquid
 45102007,Y263,Y26.3 Stapling of organ NOC
-67835007,C573,C57.3 Graft to sclera
-308695001,C721,C72.1 Forceps extraction of lens
 44317007,C889,C88.9 Unspecified destruction of subretinal lesion
-231770000,C841,C84.1 Epiretinal dissection
-118898007,C394,C39.4 Curettage of lesion of conjunctiva
 7798001,C402,C40.2 Amniotic graft to conjunctiva
-417488009,Y253,Y25.3 Removal of retained suture from organ NOC
 4581005,C604,C60.4 Iridoplasty NEC
 428435002,C851,C85.1 Retinopexy using cryotherapy
 38616001,C533,C53.3 Cauterisation of lesion of sclera
 78917001,C818,C81.8 Other specified photocoagulation of retina for detachment
-83816004,C048,C04.8 Other specified attention to prosthesis of eye
 172386004,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 373357006,Y066,Y06.6 Vacuum excision of lesion of organ NOC
 35009002,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
 708857001,C614,C61.4 Goniopuncture
-414507007,C728,C72.8 Other specified intracapsular extraction of lens
 231762005,C819,C81.9 Unspecified photocoagulation of retina for detachment
 450698009,C831,C83.1 Pigment epithelium translocation of retina
-308695001,C729,C72.9 Unspecified intracapsular extraction of lens
 47130006,C409,C40.9 Unspecified repair of conjunctiva
 722186004,C443,C44.3 Endothelial graft to cornea
 16511003,C451,C45.1 Superficial keratectomy
-359963001,C471,C47.1 Suture of cornea
 413452000,C444,C44.4 Photorefractive keratectomy
-385468004,C743,C74.3 Mechanical lensectomy
 415731005,C444,C44.4 Photorefractive keratectomy
 62178009,C643,C64.3 Destruction of lesion of iris
-359966009,C479,C47.9 Unspecified closure of cornea
 413651001,C461,C46.1 Refractive keratoplasty
 64522003,Y352,Y35.2 Introduction of iridium wire into organ NOC
-415089008,C712,C71.2 Phacoemulsification of lens
 75396001,C405,C40.5 Suture of conjunctiva
 62935003,C493,C49.3 Radial keratotomy
 75227000,C711,C71.1 Simple linear extraction of lens
 386607008,C624,C62.4 Correction iridodialysis NEC
 79107000,C545,C54.5 Buckling of sclera NEC
-120113002,Y393,Y39.3 Injection of inert substance into organ NOC
 231760002,C889,C88.9 Unspecified destruction of subretinal lesion
 19320007,Y138,Y13.8 Other specified other destruction of lesion of organ NOC
 85145001,C488,C48.8 Other specified removal of foreign body from cornea
-83816004,C065,C06.5 Exploration of orbit
-118910000,C892,C89.2 Injection of steroid into posterior segment of eye
-13346001,C691,C69.1 Reformation of anterior chamber of eye
 82643002,C405,C40.5 Suture of conjunctiva
 312713003,C811,C81.1 Xenon photocoagulation of retina for detachment
 414873001,C461,C46.1 Refractive keratoplasty
-81198005,C868,C86.8 Other specified other operations on eye
-386611002,C742,C74.2 Discission of cataract
-404628003,C729,C72.9 Unspecified intracapsular extraction of lens
 90164007,C648,C64.8 Other specified other operations on iris
 363255004,C692,C69.2 Paracentesis of anterior chamber of eye
-118898007,C398,C39.8 Other specified extirpation of lesion of conjunctiva
 85257004,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
-417493007,C711,C71.1 Simple linear extraction of lens
 231752003,C752,C75.2 Revision of prosthetic replacement for lens
-83816004,C012,C01.2 Enucleation of eye
-118901008,C661,C66.1 Excision of ciliary body
 42156009,C551,C55.1 Drainage of lesion of sclera
 76824005,C401,C40.1 Mucosal graft to conjunctiva
 120127007,Y011,Y01.1 Autoreplacement of organ NOC
-442235000,C442,C44.2 Laser in situ keratomileusis
 29137007,C545,C54.5 Buckling of sclera NEC
 64522003,X658,X65.8 Other specified radiotherapy delivery
 45031008,Y171,Y17.1 Electrocauterisation of lesion of organ NOC
 65812008,C731,C73.1 Membranectomy of lens
 418170009,C612,C61.2 Trabeculotomy
 120086003,C013,C01.3 Evisceration of eye
-53696006,C812,C81.2 Laser photocoagulation of retina for detachment
-404674004,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 231744001,C742,C74.2 Discission of cataract
 43111005,Y351,Y35.1 Introduction of radioactive caesium into organ NOC
-118900009,C649,C64.9 Unspecified other operations on iris
 82027008,C602,C60.2 Inclusion of iris
 44291006,C228,C22.8 Other specified other operations on eyelid
-417297006,C698,C69.8 Other specified other operations on anterior chamber of eye
 66359001,C776,C77.6 Insertion of capsule tension ring
 4323007,C531,C53.1 Punch resection of sclera
 22623003,C467,C46.7 Transplant of corneal limbal cells
@@ -2268,44 +1571,27 @@ snomed,opcs,opcs_term
 13927007,C592,C59.2 Surgical iridectomy
 252788000,A845,A84.5 Electroretinography NEC
 63506005,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
-713161004,Y085,Y08.5 Laser modification of organ NOC
-53696006,C828,C82.8 Other specified destruction of lesion of retina
 47242009,Y069,Y06.9 Unspecified excision of lesion of organ NOC
 47130006,C401,C40.1 Mucosal graft to conjunctiva
-231777002,C798,C79.8 Other specified operations on vitreous body
 54393001,C591,C59.1 Iridocyclectomy
 447219003,C822,C82.2 Cryotherapy to lesion of retina
 427326007,C812,C81.2 Laser photocoagulation of retina for detachment
-386611002,C732,C73.2 Capsulotomy of anterior lens capsule
 265297009,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
 410459005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 40485001,C466,C46.6 Amniotic membrane graft to cornea
-7268007,C793,C79.3 Injection of vitreous substitute into vitreous body NEC
 172460005,C559,C55.9 Unspecified incision of sclera
 172499002,C646,C64.6 Stretching of iris
-83816004,C031,C03.1 Insertion of prosthetic replacement for orbit
-69724002,C515,C51.5 Placement of therapeutic contact lens on to cornea
 75903006,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
 386608003,C629,C62.9 Unspecified incision of iris
 89978003,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-118903006,C794,C79.4 Injection into vitreous body NEC
 310662003,C889,C88.9 Unspecified destruction of subretinal lesion
 37002005,C822,C82.2 Cryotherapy to lesion of retina
-373415004,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 310662003,C824,C82.4 Plaque radiotherapy to lesion of retina
-6307005,C469,C46.9 Unspecified plastic operations on cornea
-67835007,C543,C54.3 Buckling of sclera and implant HFQ
 120125004,Y268,Y26.8 Other specified other repair of organ NOC
-444111004,C718,C71.8 Other specified extracapsular extraction of lens
 29747000,C013,C01.3 Evisceration of eye
-308695001,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 7898005,C888,C88.8 Other specified destruction of subretinal lesion
-54885007,C723,C72.3 Cryoextraction of lens
-49289001,C795,C79.5 Internal tamponade of retina using gas
 399867007,C826,C82.6 Laser photocoagulation to lesion of retina NEC
 231741009,C698,C69.8 Other specified other operations on anterior chamber of eye
-118906003,C821,C82.1 Cauterisation of lesion of retina
-118903006,C797,C79.7 Removal of internal tamponade agent from vitreous body
 75792002,Y013,Y01.3 Xenoreplacement of organ NOC
 446507001,Y069,Y06.9 Unspecified excision of lesion of organ NOC
 300015002,C842,C84.2 Excision of lesion of retina NEC
@@ -2317,21 +1603,16 @@ snomed,opcs,opcs_term
 35552007,C478,C47.8 Other specified closure of cornea
 880071007,C228,C22.8 Other specified other operations on eyelid
 65812008,C741,C74.1 Curettage of lens
-4503005,Y299,Y29.9 Unspecified removal of foreign body from organ NOC
 231773003,C803,C80.3 Delamination of epiretinal fibrovascular membrane
 172571009,C808,C80.8 Other specified operations on retinal membrane
 428560004,C854,C85.4 Retinopexy using tissue adhesive
 75396001,C401,C40.1 Mucosal graft to conjunctiva
-446508006,Y021,Y02.1 Implantation of prosthesis into organ NOC
 6486000,C534,C53.4 Destruction of lesion of sclera NEC
-308695001,C722,C72.2 Suction extraction of lens
 65812008,C728,C72.8 Other specified intracapsular extraction of lens
 21608006,C643,C64.3 Destruction of lesion of iris
-440587008,Y717,Y71.7 Third or greater revisional operation NOC
 23379002,Y308,Y30.8 Other specified incision of organ NOC
 68999001,Y111,Y11.1 Cauterisation of organ NOC
 53612009,C436,C43.6 Creation of hood of conjunctiva
-361191005,C712,C71.2 Phacoemulsification of lens
 231744001,C728,C72.8 Other specified intracapsular extraction of lens
 446548003,C741,C74.1 Curettage of lens
 64522003,Y354,Y35.4 Introduction of radioactive substance into organ for brachytherapy NOC
@@ -2339,30 +1620,20 @@ snomed,opcs,opcs_term
 3700004,C776,C77.6 Insertion of capsule tension ring
 6005008,Y018,Y01.8 Other specified replacement of organ NOC
 51683002,C493,C49.3 Radial keratotomy
-6307005,C465,C46.5 Deep lamellar graft to cornea
 6005008,Y014,Y01.4 Alloreplacement of organ from cadaver heart beating NOC
-312710000,C845,C84.5 Drainage of subretinal fluid through retina
 40464001,C468,C46.8 Other specified plastic operations on cornea
-20975004,C514,C51.4 Tattooing of cornea
-21965005,C546,C54.6 Removal of implant or explant from sclera
 75588007,C452,C45.2 Excision of lesion of cornea NEC
 700401002,C401,C40.1 Mucosal graft to conjunctiva
 108143005,Y055,Y05.5 Debridement of organ NOC
 39153002,C409,C40.9 Unspecified repair of conjunctiva
 88096002,C748,C74.8 Other specified other extraction of lens
-84016007,C775,C77.5 Magnetic extraction of foreign body from lens
 172517004,C691,C69.1 Reformation of anterior chamber of eye
 700373001,Y261,Y26.1 Reconstruction of organ NOC
 446590009,C754,C75.4 Insertion of prosthetic replacement for lens using suture fixation
 4593001,C599,C59.9 Unspecified excision of iris
-445138001,Y381,Y38.1 Continuous injection of therapeutic substance into organ NOC
-83816004,C062,C06.2 Drainage of orbit
 58519008,C543,C54.3 Buckling of sclera and implant HFQ
 172408001,X657,X65.7 Delivery of radionuclide therapy NEC
 44716001,C511,C51.1 Biopsy of lesion of cornea
-53696006,C839,C83.9 Unspecified translocation of retina
-231733009,C618,C61.8 Other specified other operations on trabecular meshwork of eye
-112963003,C647,C64.7 Insertion of iris hooks
 21123000,C578,C57.8 Other specified other operations on sclera
 172565003,C888,C88.8 Other specified destruction of subretinal lesion
 65812008,C722,C72.2 Suction extraction of lens
@@ -2376,36 +1647,26 @@ snomed,opcs,opcs_term
 45817009,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 43111005,Y352,Y35.2 Introduction of iridium wire into organ NOC
 386607008,C628,C62.8 Other specified incision of iris
-385468004,C723,C72.3 Cryoextraction of lens
 58076004,C444,C44.4 Photorefractive keratectomy
 165012008,U418,U41.8 Other specified provocation test
 50119002,C463,C46.3 Penetrating graft to cornea
 397521009,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
-112966006,C798,C79.8 Other specified operations on vitreous body
 43111005,C882,C88.2 Photodynamic therapy to subretinal lesion
-287236009,Y309,Y30.9 Unspecified incision of organ NOC
 38646003,C458,C45.8 Other specified extirpation of lesion of cornea
 112960000,Y261,Y26.1 Reconstruction of organ NOC
 359948004,Y111,Y11.1 Cauterisation of organ NOC
-69724002,C718,C71.8 Other specified extracapsular extraction of lens
-417297006,Y264,Y26.4 Removal of other repair material from organ NOC
 18137003,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-118901008,C678,C67.8 Other specified other operations on ciliary body
 418121005,C712,C71.2 Phacoemulsification of lens
 404629006,C732,C73.2 Capsulotomy of anterior lens capsule
 290015004,C403,C40.3 Sliding graft to conjunctiva
 172451002,C541,C54.1 Overlay scleroplasty
 64522003,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
-21748007,C514,C51.4 Tattooing of cornea
 11819005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 446938009,C571,C57.1 Biopsy of lesion of sclera
 414873001,Y082,Y08.2 Laser excision of lesion of organ NOC
 708857001,Y086,Y08.6 Laser incision of organ NOC
 172574001,Y033,Y03.3 Correction of displacement of prosthesis NOC
-79611007,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 45102007,Y265,Y26.5 Other attention to repair of organ NOC
-386611002,C749,C74.9 Unspecified other extraction of lens
-414507007,C738,C73.8 Other specified incision of capsule of lens
 7798001,C403,C40.3 Sliding graft to conjunctiva
 37002005,Y132,Y13.2 Cryotherapy to lesion of organ NOC
 231716002,C471,C47.1 Suture of cornea
@@ -2417,92 +1678,55 @@ snomed,opcs,opcs_term
 447429008,Y069,Y06.9 Unspecified excision of lesion of organ NOC
 446590009,C729,C72.9 Unspecified intracapsular extraction of lens
 359948004,C578,C57.8 Other specified other operations on sclera
-52150005,Y181,Y18.1 Freeing of adhesions of organ NOC
-118905004,C846,C84.6 Retinotomy NEC
 75903006,C888,C88.8 Other specified destruction of subretinal lesion
 62935003,C499,C49.9 Unspecified incision of cornea
-225184003,C433,C43.3 Removal of foreign body from conjunctiva
 3605001,C664,C66.4 Laser photocoagulation of ciliary body
 65812008,C738,C73.8 Other specified incision of capsule of lens
-53696006,C832,C83.2 Macular translocation three hundred and sixty degrees
 312706003,C798,C79.8 Other specified operations on vitreous body
 397110008,C452,C45.2 Excision of lesion of cornea NEC
 66542005,C748,C74.8 Other specified other extraction of lens
-430833007,C457,C45.7 Debridement of lesion of cornea
-442235000,C441,C44.1 Hydrogel prosthetic keratoplasty
 34854007,C651,C65.1 Needling of bleb
 231773003,C841,C84.1 Epiretinal dissection
-67835007,C578,C57.8 Other specified other operations on sclera
 172549004,C778,C77.8 Other specified other operations on lens
 231744001,C721,C72.1 Forceps extraction of lens
-444111004,C742,C74.2 Discission of cataract
 45102007,Y262,Y26.2 Plastic repair of organ NOC
 15915007,C889,C88.9 Unspecified destruction of subretinal lesion
 172407006,C453,C45.3 Cauterisation of lesion of cornea
 43111005,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 28242004,C443,C44.3 Endothelial graft to cornea
-73200001,C678,C67.8 Other specified other operations on ciliary body
 3605001,C662,C66.2 Cauterisation of ciliary body
-308694002,C711,C71.1 Simple linear extraction of lens
-83816004,C063,C06.3 Decompression of orbit
 63506005,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 388289006,C124,C12.4 Curettage of lesion of eyelid
-386611002,C723,C72.3 Cryoextraction of lens
 15366008,C661,C66.1 Excision of ciliary body
-118898007,C403,C40.3 Sliding graft to conjunctiva
-53696006,C838,C83.8 Other specified translocation of retina
 427478009,C866,C86.6 Examination of eye under anaesthetic
 446108002,C825,C82.5 Panretinal laser photocoagulation to lesion of retina
 65812008,C732,C73.2 Capsulotomy of anterior lens capsule
 172437002,C513,C51.3 Exploration of cornea
-440587008,Y713,Y71.3 Revisional operations NOC
 120127007,Y019,Y01.9 Unspecified replacement of organ NOC
 75227000,C734,C73.4 Capsulotomy of lens NEC
-231778007,C794,C79.4 Injection into vitreous body NEC
 773335005,Z193,Z19.3 Retina
-83816004,C051,C05.1 Reconstruction of cavity of orbit
-312710000,C553,C55.3 Drainage of subretinal fluid through sclera
 120127007,Y016,Y01.6 Alloreplacement of organ from cadaver NOC
-410564006,Y389,Y38.9 Unspecified injection of therapeutic substance into organ NOC
 78110003,Y363,Y36.3 Radioactive seed implantation NOC
-410564006,Y398,Y39.8 Other specified injection of other substance into organ NOC
-4503005,Y292,Y29.2 Manipulative removal of foreign body from organ NOC
-120113002,Y388,Y38.8 Other specified injection of therapeutic substance into organ NOC
 397539000,C812,C81.2 Laser photocoagulation of retina for detachment
 15915007,C812,C81.2 Laser photocoagulation of retina for detachment
 83202004,Y261,Y26.1 Reconstruction of organ NOC
 231744001,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-172426003,C488,C48.8 Other specified removal of foreign body from cornea
 26786002,C545,C54.5 Buckling of sclera NEC
 773335005,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
-444111004,C734,C73.4 Capsulotomy of lens NEC
-719179007,C391,C39.1 Excision of lesion of conjunctiva
 15915007,C826,C82.6 Laser photocoagulation to lesion of retina NEC
 8920006,C844,C84.4 Retinal vascular sheathotomy
-430833007,C451,C45.1 Superficial keratectomy
-118904000,C547,C54.7 Maintenance of implant or explant in sclera
 65839000,Y971,Y97.1 Radiology with pre and post contrast
 65839000,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
-118898007,C437,C43.7 Transplantation of conjunctiva
 231760002,C882,C88.2 Photodynamic therapy to subretinal lesion
 265297009,C882,C88.2 Photodynamic therapy to subretinal lesion
-385468004,C739,C73.9 Unspecified incision of capsule of lens
-426534009,C805,C80.5 Removal of subretinal vascular membrane
 43111005,Y364,Y36.4 Introduction of non-removable radioactive substance into organ for brachytherapy NOC
 72019009,C795,C79.5 Internal tamponade of retina using gas
-9812004,Y395,Y39.5 Tattooing of organ NOC
 72713004,C418,C41.8 Other specified incision of conjunctiva
-75787004,C919,C91.9 Unspecified operations on anterior segment of eye
 60656008,C462,C46.2 Lamellar graft to cornea NEC
-387746009,C435,C43.5 Exploration of conjunctiva
-387746009,C409,C40.9 Unspecified repair of conjunctiva
 44317007,C882,C88.2 Photodynamic therapy to subretinal lesion
-6307005,C461,C46.1 Refractive keratoplasty
-64340000,C848,C84.8 Other specified other operations on retina
 397521009,Z198,Z19.8 Specified part of eye NEC
 172415009,C462,C46.2 Lamellar graft to cornea NEC
 108143005,Y059,Y05.9 Unspecified excision of organ NOC
-231770000,C793,C79.3 Injection of vitreous substitute into vitreous body NEC
 425942005,C474,C47.4 Gluing of cornea
 15912005,C399,C39.9 Unspecified extirpation of lesion of conjunctiva
 82736000,C612,C61.2 Trabeculotomy
@@ -2513,104 +1737,62 @@ snomed,opcs,opcs_term
 193845004,C391,C39.1 Excision of lesion of conjunctiva
 65812008,C713,C71.3 Aspiration of lens
 63523001,C411,C41.1 Peritomy
-7268007,C796,C79.6 Internal tamponade of retina using liquid
-83816004,C029,C02.9 Unspecified extirpation of lesion of orbit
-118906003,C826,C82.6 Laser photocoagulation to lesion of retina NEC
-118904000,C546,C54.6 Removal of implant or explant from sclera
 359851005,Y064,Y06.4 Excision of scar tissue NOC
 14707009,Y052,Y05.2 Partial excision of organ NOC
 108150009,Y418,Y41.8 Other specified examination of organ NOC
 54513001,U418,U41.8 Other specified provocation test
 736531000,C479,C47.9 Unspecified closure of cornea
 446938009,C373,C37.3 Biopsy of lesion of muscle of eye
-69724002,C734,C73.4 Capsulotomy of lens NEC
-48671003,C796,C79.6 Internal tamponade of retina using liquid
-118904000,C544,C54.4 Buckling of sclera and local or encircling explant HFQ
 6438007,Y311,Y31.1 Exploration of sinus track from organ NOC
-118898007,C436,C43.6 Creation of hood of conjunctiva
 231762005,C818,C81.8 Other specified photocoagulation of retina for detachment
 172460005,C551,C55.1 Drainage of lesion of sclera
 60656008,C468,C46.8 Other specified plastic operations on cornea
-26633008,C841,C84.1 Epiretinal dissection
-6307005,C466,C46.6 Amniotic membrane graft to cornea
-386611002,C773,C77.3 Biopsy of lesion of lens
 172415009,C464,C46.4 Insertion of prosthesis into cornea
 252833009,C518,C51.8 Other specified other operations on cornea
-20647004,Y298,Y29.8 Other specified removal of foreign body from organ NOC
 70796002,C462,C46.2 Lamellar graft to cornea NEC
 75396001,C402,C40.2 Amniotic graft to conjunctiva
 29747000,C038,C03.8 Other specified insertion of prosthesis of eye
-404673005,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-118906003,C811,C81.1 Xenon photocoagulation of retina for detachment
 172408001,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 27695006,C398,C39.8 Other specified extirpation of lesion of conjunctiva
 34854007,C655,C65.5 Laser suture lysis following glaucoma surgery
-417493007,C712,C71.2 Phacoemulsification of lens
-231346001,Y803,Y80.3 Inhalation anaesthetic NEC
 13303004,C552,C55.2 Corneoscleral trephine
-415687006,C472,C47.2 Adjustment to suture of cornea
 120127007,Y018,Y01.8 Other specified replacement of organ NOC
 293820001,C465,C46.5 Deep lamellar graft to cornea
 19731001,U216,U21.6 Ultrasound scan NEC
-55931003,Y181,Y18.1 Freeing of adhesions of organ NOC
 416369006,C873,C87.3 Tomography evaluation of retina
 231754002,C798,C79.8 Other specified operations on vitreous body
 426580006,C797,C79.7 Removal of internal tamponade agent from vitreous body
-387746009,C392,C39.2 Cauterisation of lesion of conjunctiva
-231770000,C795,C79.5 Internal tamponade of retina using gas
 15912005,C394,C39.4 Curettage of lesion of conjunctiva
 252783009,A845,A84.5 Electroretinography NEC
 414873001,Y086,Y08.6 Laser incision of organ NOC
 75903006,C821,C82.1 Cauterisation of lesion of retina
-112966006,C795,C79.5 Internal tamponade of retina using gas
-118909005,C693,C69.3 Injection into anterior chamber of eye
 64522003,Y364,Y36.4 Introduction of non-removable radioactive substance into organ for brachytherapy NOC
-258359008,C518,C51.8 Other specified other operations on cornea
-118910000,C899,C89.9 Unspecified operations on posterior segment of eye
-410569001,C434,C43.4 Subconjunctival injection
 359577008,C614,C61.4 Goniopuncture
 447479006,C918,C91.8 Other specified operations on anterior segment of eye
 419404004,C465,C46.5 Deep lamellar graft to cornea
 51839008,C711,C71.1 Simple linear extraction of lens
 359851005,Y065,Y06.5 Gamma wave excision of lesion of organ NOC
 398874009,C818,C81.8 Other specified photocoagulation of retina for detachment
-308694002,C718,C71.8 Other specified extracapsular extraction of lens
 62935003,C492,C49.2 Trephine of cornea
-442235000,C461,C46.1 Refractive keratoplasty
 89176003,C543,C54.3 Buckling of sclera and implant HFQ
 439490005,Y022,Y02.2 Insertion of prosthesis into organ NOC
-53020005,Y021,Y02.1 Implantation of prosthesis into organ NOC
-81198005,C615,C61.5 Viscogonioplasty
-118904000,C549,C54.9 Unspecified buckling operations for attachment of retina
 85257004,Z194,Z19.4 Choroid
 2914003,C553,C55.3 Drainage of subretinal fluid through sclera
-385468004,C712,C71.2 Phacoemulsification of lens
 397560006,C518,C51.8 Other specified other operations on cornea
 25302008,C644,C64.4 Biopsy of lesion of iris
 172386004,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 8920006,C811,C81.1 Xenon photocoagulation of retina for detachment
 6438007,Y319,Y31.9 Unspecified exploration of organ NOC
-444111004,C713,C71.3 Aspiration of lens
 112970003,Y138,Y13.8 Other specified other destruction of lesion of organ NOC
 8920006,C546,C54.6 Removal of implant or explant from sclera
 397574004,C821,C82.1 Cauterisation of lesion of retina
-83816004,C042,C04.2 Revision of prosthetic replacement for eyeball
 427326007,C852,C85.2 Retinopexy using diathermy
-231746004,C738,C73.8 Other specified incision of capsule of lens
 20466006,C391,C39.1 Excision of lesion of conjunctiva
-430833007,C453,C45.3 Cauterisation of lesion of cornea
 22623003,C442,C44.2 Laser in situ keratomileusis
-73200001,C662,C66.2 Cauterisation of ciliary body
-231770000,C845,C84.5 Drainage of subretinal fluid through retina
 447304001,C713,C71.3 Aspiration of lens
-118906003,C829,C82.9 Unspecified destruction of lesion of retina
 312706003,Y298,Y29.8 Other specified removal of foreign body from organ NOC
-9812004,Y399,Y39.9 Unspecified injection of other substance into organ NOC
-118903006,C791,C79.1 Vitrectomy using anterior approach
-118904000,C545,C54.5 Buckling of sclera NEC
 879785009,C648,C64.8 Other specified other operations on iris
 445944001,C798,C79.8 Other specified operations on vitreous body
-416227005,C608,C60.8 Other specified filtering operations on iris
 85257004,X658,X65.8 Other specified radiotherapy delivery
 28242004,C463,C46.3 Penetrating graft to cornea
 418170009,Y083,Y08.3 Laser destruction of organ NOC
@@ -2618,32 +1800,17 @@ snomed,opcs,opcs_term
 4593001,C598,C59.8 Other specified excision of iris
 397800002,C012,C01.2 Enucleation of eye
 61194000,C821,C82.1 Cauterisation of lesion of retina
-312709005,Y088,Y08.8 Other specified laser therapy to organ NOC
 413452000,Y085,Y08.5 Laser modification of organ NOC
 22623003,C443,C44.3 Endothelial graft to cornea
-386611002,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-833324006,Y084,Y08.4 Laser destruction of lesion of organ NOC
-426565000,C842,C84.2 Excision of lesion of retina NEC
-445138001,Y399,Y39.9 Unspecified injection of other substance into organ NOC
 78191003,C731,C73.1 Membranectomy of lens
-44958007,Y181,Y18.1 Freeing of adhesions of organ NOC
-414507007,C722,C72.2 Suction extraction of lens
 4877004,C718,C71.8 Other specified extracapsular extraction of lens
 231737005,Z198,Z19.8 Specified part of eye NEC
-118906003,C823,C82.3 External beam radiotherapy to lesion of retina
 8255002,Y259,Y25.9 Unspecified suture of organ NOC
 231744001,C601,C60.1 Trabeculectomy
-67835007,C551,C55.1 Drainage of lesion of sclera
-414507007,C743,C74.3 Mechanical lensectomy
 59943006,C228,C22.8 Other specified other operations on eyelid
-118904000,C559,C55.9 Unspecified incision of sclera
 82027008,C605,C60.5 Insertion of tube into anterior chamber of eye to assist drainage of aqueous humour
-53696006,C821,C82.1 Cauterisation of lesion of retina
 33095001,C452,C45.2 Excision of lesion of cornea NEC
-118901008,C671,C67.1 Separation of ciliary body
 231744001,C749,C74.9 Unspecified other extraction of lens
-385468004,C748,C74.8 Other specified other extraction of lens
-118903006,C798,C79.8 Other specified operations on vitreous body
 8920006,C849,C84.9 Unspecified other operations on retina
 231762005,C811,C81.1 Xenon photocoagulation of retina for detachment
 76824005,C408,C40.8 Other specified repair of conjunctiva
@@ -2651,14 +1818,11 @@ snomed,opcs,opcs_term
 450698009,C828,C82.8 Other specified destruction of lesion of retina
 314233004,C464,C46.4 Insertion of prosthesis into cornea
 231750006,C647,C64.7 Insertion of iris hooks
-231720003,C605,C60.5 Insertion of tube into anterior chamber of eye to assist drainage of aqueous humour
 425816006,C866,C86.6 Examination of eye under anaesthetic
 446565007,C792,C79.2 Vitrectomy using pars plana approach
-416227005,Y037,Y03.7 Removal of prosthesis from organ NOC
 172415009,C443,C44.3 Endothelial graft to cornea
 404638008,C604,C60.4 Iridoplasty NEC
 446635005,C532,C53.2 Excision of lesion of sclera NEC
-75814005,C748,C74.8 Other specified other extraction of lens
 120127007,Y012,Y01.2 Alloreplacement of organ NOC
 31944008,C453,C45.3 Cauterisation of lesion of cornea
 203644001,C558,C55.8 Other specified incision of sclera
@@ -2670,15 +1834,11 @@ snomed,opcs,opcs_term
 427326007,C853,C85.3 Retinopexy using mechanical tacks
 287242008,C898,C89.8 Other specified operations on posterior segment of eye
 3664004,C572,C57.2 Repair of sclera
-442257007,C466,C46.6 Amniotic membrane graft to cornea
 76824005,C403,C40.3 Sliding graft to conjunctiva
-385468004,C711,C71.1 Simple linear extraction of lens
 231704008,C451,C45.1 Superficial keratectomy
 40997008,C528,C52.8 Other specified excision of sclera
 300016001,C842,C84.2 Excision of lesion of retina NEC
-386611002,C752,C75.2 Revision of prosthetic replacement for lens
 360411008,Y086,Y08.6 Laser incision of organ NOC
-112966006,C794,C79.4 Injection into vitreous body NEC
 45102007,Y268,Y26.8 Other specified other repair of organ NOC
 172497000,C644,C64.4 Biopsy of lesion of iris
 75734004,Y291,Y29.1 Surgical removal of foreign body from organ NOC
@@ -2687,41 +1847,24 @@ snomed,opcs,opcs_term
 42101009,C463,C46.3 Penetrating graft to cornea
 85785001,Y086,Y08.6 Laser incision of organ NOC
 113113000,Y971,Y97.1 Radiology with pre and post contrast
-386611002,C712,C71.2 Phacoemulsification of lens
 34854007,C654,C65.4 Removal of releasable suture following glaucoma surgery
-118906003,C841,C84.1 Epiretinal dissection
-312708002,C553,C55.3 Drainage of subretinal fluid through sclera
-444111004,C722,C72.2 Suction extraction of lens
-49289001,C796,C79.6 Internal tamponade of retina using liquid
 450698009,C541,C54.1 Overlay scleroplasty
-80703007,C868,C86.8 Other specified other operations on eye
 81177005,C848,C84.8 Other specified other operations on retina
 9754005,C405,C40.5 Suture of conjunctiva
 310662003,C888,C88.8 Other specified destruction of subretinal lesion
-67835007,C544,C54.4 Buckling of sclera and local or encircling explant HFQ
-118901008,C668,C66.8 Other specified extirpation of ciliary body
 450698009,C855,C85.5 Retinopexy NEC
-359966009,C471,C47.1 Suture of cornea
 310662003,C882,C88.2 Photodynamic therapy to subretinal lesion
 64854001,C647,C64.7 Insertion of iris hooks
 3249005,C608,C60.8 Other specified filtering operations on iris
 22127001,C743,C74.3 Mechanical lensectomy
-387746009,C404,C40.4 Prosthetic replacement of conjunctiva
-83816004,C028,C02.8 Other specified extirpation of lesion of orbit
 41515001,C821,C82.1 Cauterisation of lesion of retina
 312705004,Y292,Y29.2 Manipulative removal of foreign body from organ NOC
-416606009,C608,C60.8 Other specified filtering operations on iris
 410459005,U216,U21.6 Ultrasound scan NEC
 231775005,C828,C82.8 Other specified destruction of lesion of retina
 65812008,C733,C73.3 Capsulotomy of posterior lens capsule
-418430006,C712,C71.2 Phacoemulsification of lens
-9812004,C778,C77.8 Other specified other operations on lens
 80632003,C796,C79.6 Internal tamponade of retina using liquid
-429713004,C901,C90.1 Topical anaesthetic
 41515001,C888,C88.8 Other specified destruction of subretinal lesion
 172525002,C647,C64.7 Insertion of iris hooks
-371394007,C546,C54.6 Removal of implant or explant from sclera
-444111004,C739,C73.9 Unspecified incision of capsule of lens
 172508004,C661,C66.1 Excision of ciliary body
 785831002,C468,C46.8 Other specified plastic operations on cornea
 231703002,C418,C41.8 Other specified incision of conjunctiva
@@ -2729,43 +1872,25 @@ snomed,opcs,opcs_term
 172391003,C403,C40.3 Sliding graft to conjunctiva
 38948000,C462,C46.2 Lamellar graft to cornea NEC
 265297009,C888,C88.8 Other specified destruction of subretinal lesion
-18752000,C698,C69.8 Other specified other operations on anterior chamber of eye
-442235000,C464,C46.4 Insertion of prosthesis into cornea
 49181006,C694,C69.4 Irrigation of anterior chamber of eye
-26633008,C845,C84.5 Drainage of subretinal fluid through retina
 446548003,C728,C72.8 Other specified intracapsular extraction of lens
 172542008,C515,C51.5 Placement of therapeutic contact lens on to cornea
-445024005,C482,C48.2 Magnetic extraction of foreign body from cornea
 10006000,C811,C81.1 Xenon photocoagulation of retina for detachment
-231745000,C728,C72.8 Other specified intracapsular extraction of lens
 359851005,Y066,Y06.6 Vacuum excision of lesion of organ NOC
-19875009,Y221,Y22.1 Aspiration of haematoma of organ NOC
-415089008,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-426534009,C808,C80.8 Other specified operations on retinal membrane
-69724002,C738,C73.8 Other specified incision of capsule of lens
-385468004,C741,C74.1 Curettage of lens
 108143005,Y051,Y05.1 Total excision of organ NOC
 21123000,C648,C64.8 Other specified other operations on iris
-54362002,Y298,Y29.8 Other specified removal of foreign body from organ NOC
-9812004,Y393,Y39.3 Injection of inert substance into organ NOC
 29664009,C552,C55.2 Corneoscleral trephine
 29911008,C643,C64.3 Destruction of lesion of iris
 42161006,C498,C49.8 Other specified incision of cornea
 312705004,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 425816006,C865,C86.5 Fluorescein angiography of eye
-118904000,C553,C55.3 Drainage of subretinal fluid through sclera
 359851005,Y068,Y06.8 Other specified excision of lesion of organ NOC
 418170009,Y086,Y08.6 Laser incision of organ NOC
 421266004,C443,C44.3 Endothelial graft to cornea
 414536007,C461,C46.1 Refractive keratoplasty
 231744001,C748,C74.8 Other specified other extraction of lens
-118910000,C891,C89.1 Insertion of sustained release device into posterior segment of eye
 34524006,C559,C55.9 Unspecified incision of sclera
-442235000,C466,C46.6 Amniotic membrane graft to cornea
-4503005,C558,C55.8 Other specified incision of sclera
 3605001,C668,C66.8 Other specified extirpation of ciliary body
-313999004,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-69724002,C729,C72.9 Unspecified intracapsular extraction of lens
 310441008,C544,C54.4 Buckling of sclera and local or encircling explant HFQ
 274336008,C773,C77.3 Biopsy of lesion of lens
 46718002,Y171,Y17.1 Electrocauterisation of lesion of organ NOC
@@ -2775,45 +1900,27 @@ snomed,opcs,opcs_term
 1137555003,C828,C82.8 Other specified destruction of lesion of retina
 36812006,C598,C59.8 Other specified excision of iris
 427478009,C879,C87.9 Unspecified evaluation of retina
-385468004,C713,C71.3 Aspiration of lens
-64340000,Y292,Y29.2 Manipulative removal of foreign body from organ NOC
-118906003,C848,C84.8 Other specified other operations on retina
-442235000,C443,C44.3 Endothelial graft to cornea
 231762005,C826,C82.6 Laser photocoagulation to lesion of retina NEC
-13346001,C693,C69.3 Injection into anterior chamber of eye
 3605001,C661,C66.1 Excision of ciliary body
 415170005,C718,C71.8 Other specified extracapsular extraction of lens
 398874009,C821,C82.1 Cauterisation of lesion of retina
-259718008,Y058,Y05.8 Other specified excision of organ NOC
 7898005,C882,C88.2 Photodynamic therapy to subretinal lesion
-118903006,C792,C79.2 Vitrectomy using pars plana approach
 60177007,C796,C79.6 Internal tamponade of retina using liquid
 231737005,X659,X65.9 Unspecified radiotherapy delivery
-118904000,C571,C57.1 Biopsy of lesion of sclera
 363115007,Y328,Y32.8 Other specified re-exploration of organ NOC
-82036007,C893,C89.3 Injection of therapeutic substance into posterior segment of eye NEC
-54885007,C711,C71.1 Simple linear extraction of lens
-410564006,C868,C86.8 Other specified other operations on eye
 86948006,C823,C82.3 External beam radiotherapy to lesion of retina
 8891002,C791,C79.1 Vitrectomy using anterior approach
-118904000,C578,C57.8 Other specified other operations on sclera
 172555009,C796,C79.6 Internal tamponade of retina using liquid
-308695001,C723,C72.3 Cryoextraction of lens
 81924001,C882,C88.2 Photodynamic therapy to subretinal lesion
 3499006,Y228,Y22.8 Other specified drainage of organ NOC
 41681008,Y138,Y13.8 Other specified other destruction of lesion of organ NOC
 231773003,C809,C80.9 Unspecified operations on retinal membrane
 420071006,C442,C44.2 Laser in situ keratomileusis
-385468004,C719,C71.9 Unspecified extracapsular extraction of lens
 450698009,C546,C54.6 Removal of implant or explant from sclera
 63726006,C792,C79.2 Vitrectomy using pars plana approach
-54305003,C772,C77.2 Couching of lens
-387746009,C434,C43.4 Subconjunctival injection
 3499006,Y222,Y22.2 Aspiration of other lesion of organ NOC
 373358001,C863,C86.3 Suture of eye NEC
-73200001,C671,C67.1 Separation of ciliary body
 77950003,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
-112963003,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 426580006,C794,C79.4 Injection into vitreous body NEC
 88752005,C598,C59.8 Other specified excision of iris
 22768003,Y255,Y25.5 Other attention to suture of organ NOC
@@ -2822,32 +1929,22 @@ snomed,opcs,opcs_term
 172460005,C552,C55.2 Corneoscleral trephine
 312707007,Y299,Y29.9 Unspecified removal of foreign body from organ NOC
 414583009,C468,C46.8 Other specified plastic operations on cornea
-64340000,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 75227000,C738,C73.8 Other specified incision of capsule of lens
 231760002,C888,C88.8 Other specified destruction of subretinal lesion
 866200001,Y971,Y97.1 Radiology with pre and post contrast
 428822001,C882,C88.2 Photodynamic therapy to subretinal lesion
-429057009,C824,C82.4 Plaque radiotherapy to lesion of retina
 8920006,C812,C81.2 Laser photocoagulation of retina for detachment
-444111004,C748,C74.8 Other specified other extraction of lens
-387746009,C433,C43.3 Removal of foreign body from conjunctiva
 259222004,C518,C51.8 Other specified other operations on cornea
 422103004,C732,C73.2 Capsulotomy of anterior lens capsule
 88096002,C771,C77.1 Capsulectomy
 75227000,C739,C73.9 Unspecified incision of capsule of lens
-312708002,C845,C84.5 Drainage of subretinal fluid through retina
 425806003,C833,C83.3 Limited macular translocation
 295001,C678,C67.8 Other specified other operations on ciliary body
-120113002,Y381,Y38.1 Continuous injection of therapeutic substance into organ NOC
 231726009,C592,C59.2 Surgical iridectomy
 310662003,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
-442235000,C463,C46.3 Penetrating graft to cornea
-259718008,C518,C51.8 Other specified other operations on cornea
 75396001,Y261,Y26.1 Reconstruction of organ NOC
 45102007,C868,C86.8 Other specified other operations on eye
-17348004,C891,C89.1 Insertion of sustained release device into posterior segment of eye
 39195006,C468,C46.8 Other specified plastic operations on cornea
-118908002,C911,C91.1 Optical coherence tomography of anterior segment of eye
 881009,C671,C67.1 Separation of ciliary body
 88096002,C749,C74.9 Unspecified other extraction of lens
 14707009,Y058,Y05.8 Other specified excision of organ NOC
@@ -2859,16 +1956,13 @@ snomed,opcs,opcs_term
 12868007,Y713,Y71.3 Revisional operations NOC
 59669002,C558,C55.8 Other specified incision of sclera
 450698009,C821,C82.1 Cauterisation of lesion of retina
-53696006,C826,C82.6 Laser photocoagulation to lesion of retina NEC
 447304001,C754,C75.4 Insertion of prosthetic replacement for lens using suture fixation
 70107009,Y262,Y26.2 Plastic repair of organ NOC
 447304001,C718,C71.8 Other specified extracapsular extraction of lens
-359966009,C478,C47.8 Other specified closure of cornea
 4877004,C592,C59.2 Surgical iridectomy
 81924001,C821,C82.1 Cauterisation of lesion of retina
 76135002,C408,C40.8 Other specified repair of conjunctiva
 412733003,C664,C66.4 Laser photocoagulation of ciliary body
-442235000,C444,C44.4 Photorefractive keratectomy
 415092007,C444,C44.4 Photorefractive keratectomy
 62178009,C648,C64.8 Other specified other operations on iris
 22768003,Y252,Y25.2 Resuture of organ NOC
@@ -2877,14 +1971,10 @@ snomed,opcs,opcs_term
 26786002,C541,C54.1 Overlay scleroplasty
 63228006,Y058,Y05.8 Other specified excision of organ NOC
 425797007,C888,C88.8 Other specified destruction of subretinal lesion
-417488009,Y254,Y25.4 Removal of other suture from organ NOC
 40395007,C692,C69.2 Paracentesis of anterior chamber of eye
 36783002,C692,C69.2 Paracentesis of anterior chamber of eye
-430833007,C452,C45.2 Excision of lesion of cornea NEC
-386611002,C758,C75.8 Other specified prosthesis of lens
 172529008,Y086,Y08.6 Laser incision of organ NOC
 21123000,Y052,Y05.2 Partial excision of organ NOC
-417385008,Y255,Y25.5 Other attention to suture of organ NOC
 120086003,C019,C01.9 Unspecified excision of eye
 83202004,Y269,Y26.9 Unspecified other repair of organ NOC
 19208002,C742,C74.2 Discission of cataract
@@ -2892,54 +1982,32 @@ snomed,opcs,opcs_term
 46697004,C191,C19.1 Drainage of lesion of eyelid
 231545003,C052,C05.2 Plastic repair of cavity of orbit
 120114008,C478,C47.8 Other specified closure of cornea
-385468004,C749,C74.9 Unspecified other extraction of lens
 446635005,C521,C52.1 Deep sclerectomy with spacer
-312973004,C606,C60.6 Viscocanulostomy
 83694000,C462,C46.2 Lamellar graft to cornea NEC
 312705004,Y299,Y29.9 Unspecified removal of foreign body from organ NOC
-713161004,Y088,Y08.8 Other specified laser therapy to organ NOC
 47487006,C642,C64.2 Excision of lesion of iris
-385468004,C734,C73.4 Capsulotomy of lens NEC
-43908008,C848,C84.8 Other specified other operations on retina
-385468004,C722,C72.2 Suction extraction of lens
 80000004,C518,C51.8 Other specified other operations on cornea
 416100002,C668,C66.8 Other specified extirpation of ciliary body
 64522003,Y353,Y35.3 Introduction of radium into organ NOC
 265295001,C647,C64.7 Insertion of iris hooks
 40485001,C443,C44.3 Endothelial graft to cornea
-445138001,Y394,Y39.4 Lipofilling injection into organ NOC
-88234006,C515,C51.5 Placement of therapeutic contact lens on to cornea
 172408001,C455,C45.5 Radiotherapy to lesion of cornea
-118905004,C841,C84.1 Epiretinal dissection
-118906003,C839,C83.9 Unspecified translocation of retina
 47242009,Y063,Y06.3 Enucleation of lesion of organ NOC
 399867007,C825,C82.5 Panretinal laser photocoagulation to lesion of retina
-438601000,Y085,Y08.5 Laser modification of organ NOC
-9255007,C698,C69.8 Other specified other operations on anterior chamber of eye
 450698009,Y269,Y26.9 Unspecified other repair of organ NOC
-5671007,C678,C67.8 Other specified other operations on ciliary body
 64854001,C776,C77.6 Insertion of capsule tension ring
 722186004,Y015,Y01.5 Alloreplacement of organ from cadaver heart non-beating NOC
 75227000,C721,C72.1 Forceps extraction of lens
-833312004,C794,C79.4 Injection into vitreous body NEC
-231770000,C798,C79.8 Other specified operations on vitreous body
-347747004,C439,C43.9 Unspecified other operations on conjunctiva
-112966006,C792,C79.2 Vitrectomy using pars plana approach
 446490007,C711,C71.1 Simple linear extraction of lens
 172586003,C821,C82.1 Cauterisation of lesion of retina
 34524006,C558,C55.8 Other specified incision of sclera
-386611002,C759,C75.9 Unspecified prosthesis of lens
 359577008,C613,C61.3 Goniotomy
 35009002,C824,C82.4 Plaque radiotherapy to lesion of retina
 30113009,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 33412005,C514,C51.4 Tattooing of cornea
 65812008,C718,C71.8 Other specified extracapsular extraction of lens
-315602003,Y254,Y25.4 Removal of other suture from organ NOC
 75227000,C722,C72.2 Suction extraction of lens
-417493007,C718,C71.8 Other specified extracapsular extraction of lens
-44958007,C648,C64.8 Other specified other operations on iris
 91552000,Y717,Y71.7 Third or greater revisional operation NOC
-414507007,C719,C71.9 Unspecified extracapsular extraction of lens
 64522003,Y363,Y36.3 Radioactive seed implantation NOC
 18405007,C592,C59.2 Surgical iridectomy
 83211004,C778,C77.8 Other specified other operations on lens
@@ -2948,43 +2016,28 @@ snomed,opcs,opcs_term
 65812008,C748,C74.8 Other specified other extraction of lens
 39029006,Z179,Z17.9 Muscle of eye NEC
 446590009,C721,C72.1 Forceps extraction of lens
-473369002,C848,C84.8 Other specified other operations on retina
 45102007,Y261,Y26.1 Reconstruction of organ NOC
 37709009,Y111,Y11.1 Cauterisation of organ NOC
-52150005,C868,C86.8 Other specified other operations on eye
 446099001,Y229,Y22.9 Unspecified drainage of organ NOC
 120117001,C918,C91.8 Other specified operations on anterior segment of eye
 296867007,C559,C55.9 Unspecified incision of sclera
 265292003,C613,C61.3 Goniotomy
-66134002,C482,C48.2 Magnetic extraction of foreign body from cornea
-118898007,C419,C41.9 Unspecified incision of conjunctiva
 415745004,C498,C49.8 Other specified incision of cornea
-713161004,C578,C57.8 Other specified other operations on sclera
 120125004,Y263,Y26.3 Stapling of organ NOC
-58689006,C775,C77.5 Magnetic extraction of foreign body from lens
 83202004,C678,C67.8 Other specified other operations on ciliary body
-782707007,C578,C57.8 Other specified other operations on sclera
-71306000,Y181,Y18.1 Freeing of adhesions of organ NOC
 47242009,Y065,Y06.5 Gamma wave excision of lesion of organ NOC
 112960000,C402,C40.2 Amniotic graft to conjunctiva
-231733009,C619,C61.9 Unspecified other operations on trabecular meshwork of eye
-108152001,Y309,Y30.9 Unspecified incision of organ NOC
 54085006,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 13303004,C553,C55.3 Drainage of subretinal fluid through sclera
 37182005,C574,C57.4 Suture of sclera
 410479002,C843,C84.3 Biopsy of lesion of retina
-9812004,Y394,Y39.4 Lipofilling injection into organ NOC
-172462002,C553,C55.3 Drainage of subretinal fluid through sclera
 65812008,C742,C74.2 Discission of cataract
 17868003,C742,C74.2 Discission of cataract
 231717006,C558,C55.8 Other specified incision of sclera
 172524003,C647,C64.7 Insertion of iris hooks
-416133007,C652,C65.2 Injection of bleb
 397800002,C039,C03.9 Unspecified insertion of prosthesis of eye
 62935003,C491,C49.1 Section of cornea
 4323007,C539,C53.9 Unspecified extirpation of lesion of sclera
-54362002,C918,C91.8 Other specified operations on anterior segment of eye
-83816004,C059,C05.9 Unspecified plastic repair of orbit
 172523009,C729,C72.9 Unspecified intracapsular extraction of lens
 866200001,Y973,Y97.3 Radiology with post contrast
 293820001,C463,C46.3 Penetrating graft to cornea

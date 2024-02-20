@@ -8,133 +8,110 @@
 312,92.30,"Stereotactic radiosurgery, not otherwise specified",92.30
 313,92.32,Multi-source photon radiosurgery,92.32
 315,92.39,"Stereotactic radiosurgery, not elsewhere classified",92.39
-743,46.86,Endoscopic insertion of colonic stent(s),46.86
-744,46.87,Other insertion of colonic stent(s),46.87
-802,48.65,Duhamel resection of rectum,48.65
-1131,48.23,Rigid proctosigmoidoscopy,48.23
-1223,96.38,Removal of impacted feces,96.38
-1246,17.36,Laparoscopic sigmoidectomy,17.36
-1319,49.91,Incision of anal septum,49.91
-1468,92.4,Intra-operative radiation procedures,92.4
-1469,92.41,Intra-operative electron radiation therapy,92.41
-2234,48.82,Excision of perirectal tissue,48.82
-3771,48.72,Closure of proctostomy,48.72
-3843,49.03,Excision of perianal skin tags,49.03
-4076,96.23,Dilation of anal sphincter,96.23
-4159,48.74,Rectorectostomy,48.74
-4292,49.52,Posterior anal sphincterotomy,49.52
-4381,48.73,Closure of other rectal fistula,48.73
-4496,49.72,Anal cerclage,49.72
-4701,48.31,Radical electrocoagulation of rectal lesion or tissue,48.31
-4702,48.32,Other electrocoagulation of rectal lesion or tissue,48.32
-4977,48.92,Anorectal myectomy,48.92
-5056,49.79,Other repair of anal sphincter,49.79
-5154,49.4,Procedures on hemorrhoids,49.4
-5155,49.49,Other procedures on hemorrhoids,49.49
-5657,49,Operations on anus,49
-5658,49.0,Incision or excision of perianal tissue,49.0
-5659,49.1,Incision or excision of anal fistula,49.1
-5660,49.2,Diagnostic procedures on anus and perianal tissue,49.2
-5661,49.3,Local excision or destruction of other lesion or tissue of anus,49.3
-5662,49.31,Endoscopic excision or destruction of lesion or tissue of anus,49.31
-5663,49.39,Other local excision or destruction of lesion or tissue of anus,49.39
-5664,49.9,Other operations on anus,49.9
-5665,49.99,Other operations on anus,49.99
-5754,49.46,Excision of hemorrhoids,49.46
-5790,49.93,Other incision of anus,49.93
-5821,70.72,Repair of colovaginal fistula,70.72
-5908,45.8,Total intra-abdominal colectomy,45.8
-5909,45.81,Laparoscopic total intra-abdominal colectomy,45.81
-5910,45.82,Open total intra-abdominal colectomy,45.82
-5911,45.83,Other and unspecified total intra-abdominal colectomy,45.83
-6271,96.19,Rectal packing,96.19
-6319,45.74,Open and other resection of transverse colon,45.74
-6657,48.36,[Endoscopic] polypectomy of rectum,48.36
-6714,48.24,Closed [endoscopic] biopsy of rectum,48.24
-6814,48.41,Soave submucosal resection of rectum,48.41
-6886,48.7,Repair of rectum,48.7
-6889,48.79,Other repair of rectum,48.79
-6931,96.37,Proctoclysis,96.37
-7082,46.91,Myotomy of sigmoid colon,46.91
-7144,49.44,Destruction of hemorrhoids by cryotherapy,49.44
-7219,49.51,Left lateral anal sphincterotomy,49.51
-7562,17.32,Laparoscopic cecectomy,17.32
-7563,45.72,Open and other cecectomy,45.72
-7618,17.34,Laparoscopic resection of transverse colon,17.34
-8012,48.34,Destruction of rectal lesion or tissue by cryosurgery,48.34
-9126,48.0,Proctotomy,48.0
-9181,42.55,Intrathoracic esophageal anastomosis with interposition of colon,42.55
-9225,45.73,Open and other right hemicolectomy,45.73
-9363,75.62,Repair of current obstetric laceration of rectum and sphincter ani,75.62
-9664,00.10,Implantation of chemotherapeutic agent,00.10
-9665,99.28,Injection or infusion of biological response modifier [BRM] as an antineoplastic agent,99.28
-9702,49.23,Biopsy of anus,49.23
-9932,99.25,Injection or infusion of cancer chemotherapeutic substance,99.25
-10002,46.11,Temporary colostomy,46.11
-10273,49.43,Cauterization of hemorrhoids,49.43
-10490,70.52,Repair of rectocele,70.52
-10491,70.55,Repair of rectocele with graft or prosthesis,70.55
-10508,46.1,Colostomy,46.1
-10509,46.10,"Colostomy, not otherwise specified",46.10
-10640,46.13,Permanent colostomy,46.13
-10675,89.34,Digital examination of rectum,89.34
-11661,96.26,Manual reduction of rectal prolapse,96.26
-11887,45.24,Flexible sigmoidoscopy,45.24
-12179,92.31,Single source photon radiosurgery,92.31
-12375,49.71,Suture of laceration of anus,49.71
-12396,48.71,Suture of laceration of rectum,48.71
-12480,49.94,Reduction of anal prolapse,49.94
-12521,49.76,Removal of artificial anal sphincter,49.76
-12588,48.64,Posterior resection of rectum,48.64
-12596,48.63,Other anterior resection of rectum,48.63
-12629,92.25,Teleradiotherapy using electrons,92.25
-12716,49.7,Repair of anus,49.7
-12717,49.73,Closure of anal fistula,49.73
-12718,49.74,Gracilis muscle transplant for anal incontinence,49.74
-12719,49.75,Implantation or revision of artificial anal sphincter,49.75
-12850,48.91,Incision of rectal stricture,48.91
-12912,48.1,Proctostomy,48.1
-13091,17.33,Laparoscopic right hemicolectomy,17.33
-13121,45.92,Anastomosis of small intestine to rectal stump,45.92
-13144,49.41,Reduction of hemorrhoids,49.41
-13230,92.22,Orthovoltage radiation,92.22
-13246,42.56,Other intrathoracic esophagocolostomy,42.56
-13317,48.25,Open biopsy of rectum,48.25
-13417,96.22,Dilation of rectum,96.22
-13601,46.14,Delayed opening of colostomy,46.14
-13699,14.27,Destruction of chorioretinal lesion by implantation of radiation source,14.27
-13716,70.73,Repair of rectovaginal fistula,70.73
-14366,49.95,Control of (postoperative) hemorrhage of anus,49.95
-14873,46.92,Myotomy of other parts of colon,46.92
-14887,45.23,Colonoscopy,45.23
-15065,48.3,Local excision or destruction of lesion or tissue of rectum,48.3
-15066,48.8,Incision or excision of perirectal tissue or lesion,48.8
-15337,49.92,Insertion of subcutaneous electrical anal stimulator,49.92
-15405,92.21,Superficial radiation,92.21
-15601,46.76,Closure of fistula of large intestine,46.76
-15626,49.11,Anal fistulotomy,49.11
-15636,96.09,Insertion of rectal tube,96.09
-15759,48.61,Transsacral rectosigmoidectomy,48.61
-15770,48.33,Destruction of rectal lesion or tissue by laser,48.33
-15828,45.75,Open and other left hemicolectomy,45.75
-16051,99.88,Therapeutic photopheresis,99.88
-16069,49.42,Injection of hemorrhoids,49.42
-16085,49.45,Ligation of hemorrhoids,49.45
-16123,45.76,Open and other sigmoidectomy,45.76
-16178,14.26,Destruction of chorioretinal lesion by radiation therapy,14.26
-16213,48.4,Pull-through resection of rectum,48.4
-16214,48.40,"Pull-through resection of rectum, not otherwise specified",48.40
-16215,48.42,Laparoscopic pull-through resection of rectum,48.42
-16216,48.43,Open pull-through resection of rectum,48.43
-16217,48.49,Other pull-through resection of rectum,48.49
-16228,49.12,Anal fistulectomy,49.12
-16338,48.35,Local excision of rectal lesion or tissue,48.35
-16339,48.6,Other resection of rectum,48.6
-16340,48.69,Other resection of rectum,48.69
-16459,99.93,Rectal massage (for levator spasm),99.93
-16556,48.62,Anterior resection of rectum with synchronous colostomy,48.62
-16573,49.5,Division of anal sphincter,49.5
-16574,49.59,Other anal sphincterotomy,49.59
-16645,49.47,Evacuation of thrombosed hemorrhoids,49.47
-16704,42.65,Antesternal esophageal anastomosis with interposition of colon,42.65
-16705,42.66,Other antesternal esophagocolostomy,42.66
+820,48.23,Rigid proctosigmoidoscopy,48.23
+917,17.36,Laparoscopic sigmoidectomy,17.36
+990,49.91,Incision of anal septum,49.91
+1139,92.4,Intra-operative radiation procedures,92.4
+1140,92.41,Intra-operative electron radiation therapy,92.41
+1905,48.82,Excision of perirectal tissue,48.82
+3310,48.72,Closure of proctostomy,48.72
+3382,49.03,Excision of perianal skin tags,49.03
+3615,96.23,Dilation of anal sphincter,96.23
+3679,48.74,Rectorectostomy,48.74
+3779,49.52,Posterior anal sphincterotomy,49.52
+3855,48.73,Closure of other rectal fistula,48.73
+3958,49.72,Anal cerclage,49.72
+4163,48.31,Radical electrocoagulation of rectal lesion or tissue,48.31
+4164,48.32,Other electrocoagulation of rectal lesion or tissue,48.32
+4431,48.92,Anorectal myectomy,48.92
+4510,49.79,Other repair of anal sphincter,49.79
+4919,49.46,Excision of hemorrhoids,49.46
+4955,49.93,Other incision of anus,49.93
+4986,70.72,Repair of colovaginal fistula,70.72
+5073,45.8,Total intra-abdominal colectomy,45.8
+5074,45.81,Laparoscopic total intra-abdominal colectomy,45.81
+5075,45.82,Open total intra-abdominal colectomy,45.82
+5076,45.83,Other and unspecified total intra-abdominal colectomy,45.83
+5400,45.74,Open and other resection of transverse colon,45.74
+5738,48.36,[Endoscopic] polypectomy of rectum,48.36
+5795,48.24,Closed [endoscopic] biopsy of rectum,48.24
+5884,48.41,Soave submucosal resection of rectum,48.41
+5939,48.7,Repair of rectum,48.7
+5942,48.79,Other repair of rectum,48.79
+5984,96.37,Proctoclysis,96.37
+6118,46.91,Myotomy of sigmoid colon,46.91
+6180,49.44,Destruction of hemorrhoids by cryotherapy,49.44
+6255,49.51,Left lateral anal sphincterotomy,49.51
+6542,17.32,Laparoscopic cecectomy,17.32
+6543,45.72,Open and other cecectomy,45.72
+6590,17.34,Laparoscopic resection of transverse colon,17.34
+6957,48.34,Destruction of rectal lesion or tissue by cryosurgery,48.34
+8040,48.0,Proctotomy,48.0
+8095,42.55,Intrathoracic esophageal anastomosis with interposition of colon,42.55
+8139,45.73,Open and other right hemicolectomy,45.73
+8277,75.62,Repair of current obstetric laceration of rectum and sphincter ani,75.62
+8578,00.10,Implantation of chemotherapeutic agent,00.10
+8579,99.28,Injection or infusion of biological response modifier [BRM] as an antineoplastic agent,99.28
+8616,49.23,Biopsy of anus,49.23
+8798,99.25,Injection or infusion of cancer chemotherapeutic substance,99.25
+8855,46.11,Temporary colostomy,46.11
+9074,49.43,Cauterization of hemorrhoids,49.43
+9121,70.52,Repair of rectocele,70.52
+9122,70.55,Repair of rectocele with graft or prosthesis,70.55
+9139,46.1,Colostomy,46.1
+9140,46.10,"Colostomy, not otherwise specified",46.10
+9271,46.13,Permanent colostomy,46.13
+9306,89.34,Digital examination of rectum,89.34
+10189,96.26,Manual reduction of rectal prolapse,96.26
+10415,45.24,Flexible sigmoidoscopy,45.24
+10707,92.31,Single source photon radiosurgery,92.31
+10903,49.71,Suture of laceration of anus,49.71
+10924,48.71,Suture of laceration of rectum,48.71
+10985,49.94,Reduction of anal prolapse,49.94
+11052,48.64,Posterior resection of rectum,48.64
+11060,48.63,Other anterior resection of rectum,48.63
+11093,92.25,Teleradiotherapy using electrons,92.25
+11147,49.7,Repair of anus,49.7
+11148,49.73,Closure of anal fistula,49.73
+11149,49.74,Gracilis muscle transplant for anal incontinence,49.74
+11150,49.75,Implantation or revision of artificial anal sphincter,49.75
+11238,48.91,Incision of rectal stricture,48.91
+11431,17.33,Laparoscopic right hemicolectomy,17.33
+11461,45.92,Anastomosis of small intestine to rectal stump,45.92
+11484,49.41,Reduction of hemorrhoids,49.41
+11570,92.22,Orthovoltage radiation,92.22
+11586,42.56,Other intrathoracic esophagocolostomy,42.56
+11657,48.25,Open biopsy of rectum,48.25
+11757,96.22,Dilation of rectum,96.22
+11923,46.14,Delayed opening of colostomy,46.14
+12011,14.27,Destruction of chorioretinal lesion by implantation of radiation source,14.27
+12028,70.73,Repair of rectovaginal fistula,70.73
+12656,49.95,Control of (postoperative) hemorrhage of anus,49.95
+13119,46.92,Myotomy of other parts of colon,46.92
+13133,45.23,Colonoscopy,45.23
+13552,92.21,Superficial radiation,92.21
+13739,46.76,Closure of fistula of large intestine,46.76
+13764,49.11,Anal fistulotomy,49.11
+13869,48.61,Transsacral rectosigmoidectomy,48.61
+13880,48.33,Destruction of rectal lesion or tissue by laser,48.33
+13938,45.75,Open and other left hemicolectomy,45.75
+14049,99.88,Therapeutic photopheresis,99.88
+14067,49.42,Injection of hemorrhoids,49.42
+14094,45.76,Open and other sigmoidectomy,45.76
+14149,14.26,Destruction of chorioretinal lesion by radiation therapy,14.26
+14175,48.4,Pull-through resection of rectum,48.4
+14176,48.40,"Pull-through resection of rectum, not otherwise specified",48.40
+14177,48.42,Laparoscopic pull-through resection of rectum,48.42
+14178,48.43,Open pull-through resection of rectum,48.43
+14179,48.49,Other pull-through resection of rectum,48.49
+14190,49.12,Anal fistulectomy,49.12
+14300,48.35,Local excision of rectal lesion or tissue,48.35
+14301,48.6,Other resection of rectum,48.6
+14302,48.69,Other resection of rectum,48.69
+14421,99.93,Rectal massage (for levator spasm),99.93
+14518,48.62,Anterior resection of rectum with synchronous colostomy,48.62
+14535,49.5,Division of anal sphincter,49.5
+14536,49.59,Other anal sphincterotomy,49.59
+14596,49.47,Evacuation of thrombosed hemorrhoids,49.47
+14655,42.65,Antesternal esophageal anastomosis with interposition of colon,42.65
+14656,42.66,Other antesternal esophagocolostomy,42.66

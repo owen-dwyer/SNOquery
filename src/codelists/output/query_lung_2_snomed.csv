@@ -44,7 +44,6 @@ conceptId,idAndFsnTerm
 448791000,448791000 | Bronchoscopic cryotherapy of neoplasm of lung (procedure) |
 448538005,448538005 | Harvesting of lobe of lung from donor (procedure) |
 448523009,448523009 | Endoscopic ultrasonography of lung (procedure) |
-448134000,448134000 | Continuous positive airway pressure to nonventilated lung (regime/therapy) |
 447958003,447958003 | Creation of anastomosis from right subclavian artery to right pulmonary artery (procedure) |
 447950005,447950005 | Creation of anastomosis from ascending aorta to left pulmonary artery (procedure) |
 447879002,447879002 | Creation of anastomosis from ascending aorta to right pulmonary artery (procedure) |
@@ -64,9 +63,6 @@ conceptId,idAndFsnTerm
 441677009,441677009 | Imaging of lung (procedure) |
 441624004,441624004 | Single photon emission computed tomography of ventilation of lung (procedure) |
 440466000,440466000 | Single photon emission computed tomography of lung (procedure) |
-439817002,439817002 | Thoracoscopy with total pulmonary decortication and intrapleural pneumonolysis (procedure) |
-439433005,439433005 | Lysis of adhesions of lung (procedure) |
-439309000,439309000 | Thoracoscopy with partial pulmonary decortication (procedure) |
 432652008,432652008 | Biopsy of lung using ultrasound guidance (procedure) |
 432231006,432231006 | Fine needle aspiration biopsy of lung (procedure) |
 431721002,431721002 | Biopsy of lung using fluoroscopic guidance (procedure) |
@@ -76,28 +72,22 @@ conceptId,idAndFsnTerm
 429332008,429332008 | Transplantation of single lobe of lung (procedure) |
 427800005,427800005 | Removal of foreign body of lung by incision (procedure) |
 426987001,426987001 | Percutaneous radiofrequency ablation of lesion of lung (procedure) |
-425603008,425603008 | Open operation on both pulmonary arteries (procedure) |
 397397002,397397002 | Bronchoscopy and bronchoalveolar lavage (procedure) |
 387748005,387748005 | Cauterization of lung lesion (procedure) |
 387747000,387747000 | Cauterization of lung (procedure) |
-387714009,387714009 | Operation on lung (procedure) |
 359623004,359623004 | Total lobectomy of lung (procedure) |
 359618004,359618004 | Segmental lobectomy (procedure) |
 359615001,359615001 | Partial lobectomy of lung (procedure) |
 337877003,337877003 | Thoracotomy for excision of emphysematous bleb of lung (procedure) |
 336863008,336863008 | Excision of cyst of lung (procedure) |
-335850008,335850008 | Cavernostomy of lung (procedure) |
-334835009,334835009 | Pneumonostomy with open drainage (procedure) |
 310394000,310394000 | Stapling of lung laceration (procedure) |
 310393006,310393006 | Suture of lung laceration (procedure) |
 303931008,303931008 | Lung X-ray (procedure) |
 303272002,303272002 | Jatene procedure (procedure) |
-300017005,300017005 | Drainage of lung abscess (procedure) |
 287465001,287465001 | Percutaneous needle biopsy lung (procedure) |
 287310004,287310004 | Lung tumor excision (procedure) |
 287309009,287309009 | Lung cyst removal (procedure) |
 287298008,287298008 | Lung plastic operation (procedure) |
-274434007,274434007 | Therapeutic aspiration of lung (procedure) |
 274319000,274319000 | Needle biopsy of lung (procedure) |
 266701008,266701008 | Lung collapse prevention (procedure) |
 261566003,261566003 | Tangential pulmonary artery resection (procedure) |
@@ -119,7 +109,6 @@ conceptId,idAndFsnTerm
 241293008,241293008 | Radionuclide study of lung (procedure) |
 241112009,241112009 | Lung soft tissue X-ray (procedure) |
 241053004,241053004 | Radiographic measurement of lung volume (procedure) |
-233227005,233227005 | Modified Blalock-Taussig shunt (procedure) |
 233146002,233146002 | Construction of conduit - right pulmonary artery to left pulmonary artery (procedure) |
 233145003,233145003 | Construction of conduit - pulmonary trunk to left pulmonary artery (procedure) |
 233144004,233144004 | Construction of conduit - pulmonary trunk to right pulmonary artery (procedure) |
@@ -136,7 +125,6 @@ conceptId,idAndFsnTerm
 232657004,232657004 | Single lung transplant (procedure) |
 232656008,232656008 | Intercostal puncture of lung bulla (procedure) |
 232655007,232655007 | Aspiration of lung lesion (procedure) |
-232654006,232654006 | Drainage of lung lesion (procedure) |
 232653000,232653000 | Repair of lung laceration (procedure) |
 232652005,232652005 | Cavernostomizing of bulla of lung (procedure) |
 232651003,232651003 | Excision of bulla of lung (procedure) |
@@ -160,17 +148,12 @@ conceptId,idAndFsnTerm
 232633004,232633004 | Single wedge excision of lung (procedure) |
 232632009,232632009 | Wedge excision of lung (procedure) |
 232631002,232631002 | Enucleation of lung lesion (procedure) |
-232629006,232629006 | Procedure for lung lesion (procedure) |
 232628003,232628003 | Open biopsy of lung (procedure) |
-177784006,177784006 | Decortication of lung (procedure) |
-175266007,175266007 | Transluminal operations on pulmonary artery (procedure) |
 175238004,175238004 | Creation of shunt from left subclavian artery to left pulmonary artery using interposition tube prosthesis (procedure) |
 175237009,175237009 | Creation of shunt from right subclavian artery to right pulmonary artery using interposition tube prosthesis (procedure) |
-175236000,175236000 | Creation of shunt from subclavian artery to pulmonary artery using interposition tube prosthesis (procedure) |
 175224006,175224006 | Creation of shunt from ascending aorta to left pulmonary artery using interposition tube prosthesis (procedure) |
 175223000,175223000 | Creation of shunt from ascending aorta to right pulmonary artery using interposition tube prosthesis (procedure) |
 174802006,174802006 | Allotransplant of heart and lung (procedure) |
-173193002,173193002 | Drainage of lung (procedure) |
 173191000,173191000 | Aspiration biopsy of lesion of lung (procedure) |
 173190004,173190004 | Needle biopsy of lesion of lung (procedure) |
 173185002,173185002 | Deflation of bulla of lung (procedure) |
@@ -192,9 +175,7 @@ conceptId,idAndFsnTerm
 119756006,119756006 | Lung destructive procedure (procedure) |
 119755005,119755005 | Lung reconstruction (procedure) |
 119753003,119753003 | Lung closure (procedure) |
-119749000,119749000 | Lung injection (procedure) |
 119746007,119746007 | Lung excision (procedure) |
-118794001,118794001 | Procedure on lung (procedure) |
 116165008,116165008 | Bronchial sleeve resection with pulmonary resection (procedure) |
 116030005,116030005 | Wedge biopsy of lung (procedure) |
 91596000,91596000 | Complete excision of lung with mediastinal dissection (procedure) |
@@ -228,8 +209,6 @@ conceptId,idAndFsnTerm
 50788008,50788008 | Pulmonary ventilation-perfusion study by radioactive xenon (procedure) |
 49795001,49795001 | Total pneumonectomy (procedure) |
 49528005,49528005 | Local destruction of lesion of lung (procedure) |
-49404006,49404006 | Surgical collapse of lung by destruction of phrenic nerve (procedure) |
-47806007,47806007 | Bronchoscopy with drainage of lung abscess (procedure) |
 46412002,46412002 | Apicectomy lung (procedure) |
 45558009,45558009 | Incision of lung (procedure) |
 43831007,43831007 | Percutaneous core needle biopsy of lung (procedure) |
@@ -240,7 +219,6 @@ conceptId,idAndFsnTerm
 33639009,33639009 | Segmental lobectomy with concomitant decortication (procedure) |
 32477003,32477003 | Heart-lung transplant with recipient cardiectomy-pneumonectomy (procedure) |
 31962004,"31962004 | Pulmonary perfusion imaging, particulate (procedure) |"
-26411001,26411001 | Decortication of lung and parietal pleurectomy (procedure) |
 25321000,25321000 | Thoracoscopic pneumonectomy (procedure) |
 22089003,22089003 | Pulmonary ventilation-perfusion study by radioactive oxygen (procedure) |
 20142006,20142006 | Excision of accessory or ectopic lung tissue (procedure) |

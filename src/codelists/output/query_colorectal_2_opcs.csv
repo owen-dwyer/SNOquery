@@ -15,7 +15,6 @@ snomed,opcs,opcs_term
 47479005,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
 307655001,H135,H13.5 Bypass of colon by anastomosis of colon to rectum NEC
 450481004,G036,G03.6 Partial oesophagectomy and interposition of colon NEC
-426617006,H243,H24.3 Endoscopic insertion of tubal prosthesis into lower bowel using fibreoptic sigmoidoscope
 228676000,Y918,Y91.8 Other specified external beam radiotherapy
 52667004,H108,H10.8 Other specified excision of sigmoid colon
 12827003,H411,H41.1 Rectosigmoidectomy and peranal anastomosis
@@ -38,11 +37,9 @@ snomed,opcs,opcs_term
 241168000,U215,U21.5 Contrast fluoroscopy NEC
 276190007,H062,H06.2 Extended right hemicolectomy and anastomosis of ileum to colon
 447979003,Z291,Z29.1 Rectum
-47970003,Y395,Y39.5 Tattooing of organ NOC
 241164003,U174,U17.4 Barium enema
 87602008,H152,H15.2 End colostomy
 12149006,Y823,Y82.3 Application of local anaesthetic NEC
-91219007,H504,H50.4 Reanastomosis of rectum to anal canal for correction of congenital atresia of rectum
 31652009,X728,X72.8 Other specified delivery of chemotherapy for neoplasm
 13327002,H092,H09.2 Left hemicolectomy and end to end anastomosis of colon to colon
 428829005,X657,X65.7 Delivery of radionuclide therapy NEC
@@ -64,7 +61,6 @@ snomed,opcs,opcs_term
 445954002,Y973,Y97.3 Radiology with post contrast
 235153008,H288,H28.8 Other specified diagnostic endoscopic examination of sigmoid colon using rigid sigmoidoscope
 428624002,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
-84391005,H303,H30.3 Passage of flatus tube to reduce volvulus of sigmoid colon
 16442821000119108,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 307244005,H241,H24.1 Endoscopic dilation of lower bowel using fibreoptic sigmoidoscope
 241337005,Z291,Z29.1 Rectum
@@ -154,7 +150,6 @@ snomed,opcs,opcs_term
 446223002,Y754,Y75.4 Hand assisted minimal access approach to abdominal cavity
 265407000,H262,H26.2 Endoscopic cauterisation of lesion of sigmoid colon using rigid sigmoidoscope
 37828009,H159,H15.9 Unspecified other exteriorisation of colon
-49440008,H157,H15.7 Percutaneous endoscopic sigmoid colostomy
 228666003,Y919,Y91.9 Unspecified external beam radiotherapy
 449194009,H231,H23.1 Endoscopic snare resection of lesion of lower bowel using fibreoptic sigmoidoscope
 169295005,Y916,Y91.6 Intraoperative electron beam radiotherapy
@@ -168,8 +163,6 @@ snomed,opcs,opcs_term
 235386002,M378,M37.8 Other specified other repair of bladder
 35753000,P133,P13.3 Female perineoplasty
 46295004,H332,H33.2 Proctectomy and anastomosis of colon to anus
-47970003,H568,H56.8 Other specified other operations on anus
-265401004,H161,H16.1 Drainage of colon
 414301000119107,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 60362005,Y255,Y25.5 Other attention to suture of organ NOC
 87279008,H261,H26.1 Endoscopic snare resection of lesion of sigmoid colon using rigid sigmoidoscope
@@ -179,19 +172,15 @@ snomed,opcs,opcs_term
 30402002,H354,H35.4 Fixation of rectum using fascia lata
 301699000,H201,H20.1 Fibreoptic endoscopic snare resection of lesion of colon
 5304008,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
-47970003,H469,H46.9 Unspecified other operations on rectum
-84391005,H309,H30.9 Unspecified other operations on colon
 41330009,H096,H09.6 Left hemicolectomy and end to side anastomosis
 89339008,H298,H29.8 Other specified subtotal excision of colon
 169291001,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
-307585001,H149,H14.9 Unspecified exteriorisation of caecum
 32044008,H113,H11.3 Colectomy and anastomosis NEC
 276190007,G734,G73.4 Resection of ileocolic anastomosis
 299681007,H151,H15.1 Loop colostomy
 307241002,H241,H24.1 Endoscopic dilation of lower bowel using fibreoptic sigmoidoscope
 31652009,X722,X72.2 Delivery of complex parenteral chemotherapy for neoplasm at first attendance
 32044008,H072,H07.2 Right hemicolectomy and side to side anastomosis of ileum to transverse colon
-49440008,H154,H15.4 Closure of colostomy
 235320006,H168,H16.8 Other specified incision of colon
 78299009,H412,H41.2 Peranal excision of lesion of rectum
 13327002,H119,H11.9 Unspecified other excision of colon
@@ -209,7 +198,6 @@ snomed,opcs,opcs_term
 44441009,H251,H25.1 Diagnostic endoscopic examination of lower bowel and biopsy of lesion of lower bowel using fibreoptic sigmoidoscope
 112873000,Y073,Y07.3 Obliteration of sinus track from organ NOC
 22094003,Y309,Y30.9 Unspecified incision of organ NOC
-84391005,H304,H30.4 Intubation of colon NEC
 276190007,H115,H11.5 Colectomy and exteriorisation of bowel NEC
 73996007,H104,H10.4 Sigmoid colectomy and ileostomy HFQ
 241674004,H237,H23.7 Endoscopic mucosal resection of lesion of lower bowel using fibreoptic sigmoidoscope
@@ -227,18 +215,14 @@ snomed,opcs,opcs_term
 235150006,H229,H22.9 Unspecified diagnostic endoscopic examination of colon
 14690009,H135,H13.5 Bypass of colon by anastomosis of colon to rectum NEC
 287806006,H558,H55.8 Other specified other operations on perianal region
-713154003,H235,H23.5 Endoscopic submucosal resection of lesion of lower bowel using fibreoptic sigmoidoscope
 49924002,H155,H15.5 Dilation of colostomy
 112875007,H415,H41.5 Peranal resection of rectum using staples
 431470004,H143,H14.3 Closure of caecostomy
 87677003,H336,H33.6 Anterior resection of rectum and exteriorisation of bowel
-712489002,X398,X39.8 Other specified other route of administration of therapeutic substance
 231737005,X658,X65.8 Other specified radiotherapy delivery
 59896001,Y403,Y40.3 Balloon dilation of organ NOC
 708695008,Y539,Y53.9 Unspecified approach to organ under image control
 82900007,H293,H29.3 Subtotal excision of colon and creation of colonic pouch and anastomosis of colon to rectum
-174165008,H194,H19.4 Open removal of foreign body from colon
-719908001,H625,H62.5 Irrigation of bowel NEC
 2234009,H194,H19.4 Open removal of foreign body from colon
 49924002,H154,H15.4 Closure of colostomy
 90527009,H334,H33.4 Anterior resection of rectum and anastomosis NEC
@@ -253,14 +237,12 @@ snomed,opcs,opcs_term
 87776000,X298,X29.8 Other specified continuous Infusion of therapeutic substance
 85257004,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 431669007,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
-307668009,H418,H41.8 Other specified other operations on rectum through anus
 33759004,Y254,Y25.4 Removal of other suture from organ NOC
 15457008,H628,H62.8 Other specified other operations on bowel
 78110003,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 307507006,G638,G63.8 Other specified other open operations on jejunum
 174209005,Z291,Z29.1 Rectum
 448156002,H402,H40.2 Trans-sphincteric excision of lesion of rectum
-80945002,M418,M41.8 Other specified other open operations on bladder
 858579005,H478,H47.8 Other specified excision of anus
 608806004,Q082,Q08.2 Vaginal hysterectomy and excision of periuterine tissue NEC
 44441009,H242,H24.2 Endoscopic coagulation of blood vessel of lower bowel using fibreoptic sigmoidoscope
@@ -288,11 +270,9 @@ snomed,opcs,opcs_term
 84456001,H468,H46.8 Other specified other operations on rectum
 40809003,M229,M22.9 Unspecified repair of ureter
 35965008,H308,H30.8 Other specified other operations on colon
-74971002,H628,H62.8 Other specified other operations on bowel
 782836001,H355,H35.5 Anterior fixation of rectum using prosthetic material
 720379009,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
 241336001,Y939,Y93.9 Unspecified gallium-67 imaging
-174297001,H443,H44.3 Manual evacuation of impacted faeces from rectum
 60523002,H143,H14.3 Closure of caecostomy
 87677003,H334,H33.4 Anterior resection of rectum and anastomosis NEC
 87677003,H338,H33.8 Other specified excision of rectum
@@ -351,7 +331,6 @@ snomed,opcs,opcs_term
 87279008,H205,H20.5 Fibreoptic endoscopic submucosal resection of lesion of colon
 398740003,H157,H15.7 Percutaneous endoscopic sigmoid colostomy
 26925005,H085,H08.5 Transverse colectomy and exteriorisation of bowel NEC
-49440008,H155,H15.5 Dilation of colostomy
 174349004,H573,H57.3 Removal of artificial anal sphincter NEC
 359587007,H074,H07.4 Right hemicolectomy and ileostomy HFQ
 307583008,H071,H07.1 Right hemicolectomy and end to end anastomosis of ileum to colon
@@ -363,21 +342,16 @@ snomed,opcs,opcs_term
 449290006,Y917,Y91.7 Electron beam radiotherapy NEC
 711421003,U215,U21.5 Contrast fluoroscopy NEC
 32044008,H064,H06.4 Extended right hemicolectomy and ileostomy HFQ
-47970003,Y388,Y38.8 Other specified injection of therapeutic substance into organ NOC
 448156002,H333,H33.3 Anterior resection of rectum and anastomosis of colon to rectum using staples
 303401008,H042,H04.2 Panproctocolectomy and anastomosis of ileum to anus and creation of pouch HFQ
 398740003,H159,H15.9 Unspecified other exteriorisation of colon
 4114003,X729,X72.9 Unspecified delivery of chemotherapy for neoplasm
 5722009,H134,H13.4 Bypass of colon by anastomosis of transverse colon to rectum
-304585008,G725,G72.5 Anastomosis of ileum to anus and creation of pouch HFQ
 418714002,U175,U17.5 Computed tomography of colon
 1337002,H155,H15.5 Dilation of colostomy
 62069000,H151,H15.1 Loop colostomy
-49440008,Y712,Y71.2 Secondary operations NOC
 443870002,Y753,Y75.3 Robotic minimal access approach to abdominal cavity
-302051002,H272,H27.2 Endoscopic removal of foreign body from sigmoid colon using rigid sigmoidoscope
 398801000,H157,H15.7 Percutaneous endoscopic sigmoid colostomy
-91219007,H502,H50.2 Anterior repair of anal sphincter
 231596001,X659,X65.9 Unspecified radiotherapy delivery
 29205000,H425,H42.5 Excision of mucosal prolapse of rectum NEC
 182975000,X373,X37.3 Intramuscular chemotherapy
@@ -385,7 +359,6 @@ snomed,opcs,opcs_term
 711307001,Y531,Y53.1 Approach to organ under radiological control
 228672003,Y916,Y91.6 Intraoperative electron beam radiotherapy
 5722009,Y711,Y71.1 Subsequent stage of staged operations NOC
-426617006,H214,H21.4 Fibreoptic endoscopic insertion of expanding metal stent into colon
 30402002,H352,H35.2 Posterior fixation of rectum using prosthetic material
 44642007,H291,H29.1 Subtotal excision of colon and rectum and creation of colonic pouch and anastomosis of colon to anus
 428416002,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
@@ -429,7 +402,6 @@ snomed,opcs,opcs_term
 33356009,Y916,Y91.6 Intraoperative electron beam radiotherapy
 84952009,H093,H09.3 Left hemicolectomy and anastomosis NEC
 307642002,H133,H13.3 Bypass of colon by anastomosis of transverse colon to sigmoid colon
-713000002,Z291,Z29.1 Rectum
 276190007,G698,G69.8 Other specified excision of ileum
 11331000224100,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 169009002,Z291,Z29.1 Rectum
@@ -446,7 +418,6 @@ snomed,opcs,opcs_term
 169301006,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 82619000,H099,H09.9 Unspecified excision of left hemicolon
 429579007,O163,O16.3 Axilla NEC
-473276009,Y259,Y25.9 Unspecified suture of organ NOC
 235378002,H358,H35.8 Other specified fixation of rectum for prolapse
 307332009,G025,G02.5 Total oesophagectomy and interposition of colon NEC
 315324009,H092,H09.2 Left hemicolectomy and end to end anastomosis of colon to colon
@@ -455,7 +426,6 @@ snomed,opcs,opcs_term
 235378002,H355,H35.5 Anterior fixation of rectum using prosthetic material
 428624002,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 43111005,Y354,Y35.4 Introduction of radioactive substance into organ for brachytherapy NOC
-47970003,H569,H56.9 Unspecified other operations on anus
 9215005,H163,H16.3 Colotomy
 20460000,Y072,Y07.2 Clipping of organ NOC
 447912004,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
@@ -469,7 +439,6 @@ snomed,opcs,opcs_term
 448385000,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 13327002,H104,H10.4 Sigmoid colectomy and ileostomy HFQ
 169315008,X691,X69.1 Delivery of a fraction of hemi-body radiation
-26599001,H408,H40.8 Other specified operations on rectum through anal sphincter
 9280007,H464,H46.4 Intubation of rectum NEC
 35129004,G055,G05.5 Bypass of oesophagus by interposition of microvascularly attached colon
 449106004,H267,H26.7 Endoscopic resection of lesion of sigmoid colon using rigid sigmoidoscope NEC
@@ -493,12 +462,10 @@ snomed,opcs,opcs_term
 310803009,H138,H13.8 Other specified bypass of colon
 78110003,Y352,Y35.2 Introduction of iridium wire into organ NOC
 231568007,X651,X65.1 Delivery of a fraction of total body irradiation
-398235007,H141,H14.1 Tube caecostomy
 70446004,T138,T13.8 Other specified introduction of substance into pleural cavity
 12666009,J196,J19.6 Closure of anastomosis of gall bladder
 447166008,H069,H06.9 Unspecified extended excision of right hemicolon
 608807008,Q089,Q08.9 Unspecified vaginal excision of uterus
-426744009,Z286,Z28.6 Sigmoid colon
 47479005,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 228662001,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 174148004,H176,H17.6 Open relief of obstruction of colon NEC
@@ -522,7 +489,6 @@ snomed,opcs,opcs_term
 43111005,C888,C88.8 Other specified destruction of subretinal lesion
 473237008,A107,A10.7 Stereotactic radiosurgery on tissue of brain
 447704003,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
-38737004,H628,H62.8 Other specified other operations on bowel
 447982008,H336,H33.6 Anterior resection of rectum and exteriorisation of bowel
 235153008,H267,H26.7 Endoscopic resection of lesion of sigmoid colon using rigid sigmoidoscope NEC
 443998000,H251,H25.1 Diagnostic endoscopic examination of lower bowel and biopsy of lesion of lower bowel using fibreoptic sigmoidoscope
@@ -574,7 +540,6 @@ snomed,opcs,opcs_term
 400988008,H333,H33.3 Anterior resection of rectum and anastomosis of colon to rectum using staples
 429774000,X651,X65.1 Delivery of a fraction of total body irradiation
 75894009,H426,H42.6 Perineal repair of prolapse of rectum NEC
-47970003,Y394,Y39.4 Lipofilling injection into organ NOC
 47479005,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 50774009,H078,H07.8 Other specified other excision of right hemicolon
 24221008,H153,H15.3 Refashioning of colostomy
@@ -586,7 +551,6 @@ snomed,opcs,opcs_term
 169396008,X728,X72.8 Other specified delivery of chemotherapy for neoplasm
 14403007,G722,G72.2 Anastomosis of ileum to transverse colon
 169009002,U215,U21.5 Contrast fluoroscopy NEC
-398235007,H143,H14.3 Closure of caecostomy
 31130001,H293,H29.3 Subtotal excision of colon and creation of colonic pouch and anastomosis of colon to rectum
 265426008,H413,H41.3 Peranal destruction of lesion of rectum
 45220009,H332,H33.2 Proctectomy and anastomosis of colon to anus
@@ -621,8 +585,6 @@ snomed,opcs,opcs_term
 2234009,H199,H19.9 Unspecified other open operations on colon
 897713009,X385,X38.5 Subcutaneous immunotherapy
 46044009,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
-47970003,H564,H56.4 Excision of anal fissure
-473276009,Y252,Y25.2 Resuture of organ NOC
 387861003,H425,H42.5 Excision of mucosal prolapse of rectum NEC
 78110003,Y358,Y35.8 Other specified introduction of removable radioactive material into organ NOC
 307642002,H135,H13.5 Bypass of colon by anastomosis of colon to rectum NEC
@@ -667,12 +629,9 @@ snomed,opcs,opcs_term
 447912004,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 62069000,H158,H15.8 Other specified other exteriorisation of colon
 169396008,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
-426617006,H242,H24.2 Endoscopic coagulation of blood vessel of lower bowel using fibreoptic sigmoidoscope
-473276009,H468,H46.8 Other specified other operations on rectum
 235343002,H209,H20.9 Unspecified endoscopic extirpation of lesion of colon
 440033009,H101,H10.1 Sigmoid colectomy and end to end anastomosis of ileum to rectum
 11331000224100,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
-398235007,H142,H14.2 Refashioning of caecostomy
 359946000,Z291,Z29.1 Rectum
 771556003,U215,U21.5 Contrast fluoroscopy NEC
 169302004,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
@@ -694,16 +653,13 @@ snomed,opcs,opcs_term
 41200003,H429,H42.9 Unspecified perineal operations for prolapse of rectum
 174208002,Z291,Z29.1 Rectum
 450827009,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
-8305008,H441,H44.1 Manual removal of foreign body from rectum
 73996007,H109,H10.9 Unspecified excision of sigmoid colon
 444783004,H281,H28.1 Diagnostic endoscopic examination of sigmoid colon and biopsy of lesion of sigmoid colon using rigid sigmoidoscope
 85257004,Y134,Y13.4 Radiofrequency controlled thermal destruction of lesion of organ NOC
 44441009,H241,H24.1 Endoscopic dilation of lower bowel using fibreoptic sigmoidoscope
 5722009,Y715,Y71.5 Failed percutaneous transluminal approach converted to open
 37828009,Y253,Y25.3 Removal of retained suture from organ NOC
-609108006,H272,H27.2 Endoscopic removal of foreign body from sigmoid colon using rigid sigmoidoscope
 448592009,H266,H26.6 Endoscopic submucosal resection of lesion of sigmoid colon using rigid sigmoidoscope
-47897009,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 307655001,H091,H09.1 Left hemicolectomy and end to end anastomosis of colon to rectum
 897713009,X353,X35.3 Intravenous immunotherapy
 440032004,H351,H35.1 Anterior fixation of rectum
@@ -725,7 +681,6 @@ snomed,opcs,opcs_term
 307583008,H068,H06.8 Other specified extended excision of right hemicolon
 271490000,H188,H18.8 Other specified open endoscopic operations on colon
 228666003,X692,X69.2 Delivery of a fraction of total skin radiotherapy
-307585001,Y535,Y53.5 Approach to organ under image intensifier
 589631000119102,X657,X65.7 Delivery of radionuclide therapy NEC
 80347004,X691,X69.1 Delivery of a fraction of hemi-body radiation
 312407006,H404,H40.4 Trans-sphincteric anastomosis of colon to anus
@@ -743,7 +698,6 @@ snomed,opcs,opcs_term
 44642007,H153,H15.3 Refashioning of colostomy
 722472009,X721,X72.1 Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance
 65960005,Y079,Y07.9 Unspecified obliteration of cavity of organ NOC
-275010000,H161,H16.1 Drainage of colon
 46044009,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 738551006,H074,H07.4 Right hemicolectomy and ileostomy HFQ
 23121008,H262,H26.2 Endoscopic cauterisation of lesion of sigmoid colon using rigid sigmoidoscope
@@ -753,10 +707,8 @@ snomed,opcs,opcs_term
 112873000,Z445,Z44.5 Introitus of vagina
 5722009,Y718,Y71.8 Other specified late operations NOC
 447704003,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
-174225000,H302,H30.2 Intubation of colon for pressure manometry
 169309008,X651,X65.1 Delivery of a fraction of total body irradiation
 174101001,H102,H10.2 Sigmoid colectomy and anastomosis of colon to rectum
-47970003,Y393,Y39.3 Injection of inert substance into organ NOC
 287808007,H342,H34.2 Open cauterisation of lesion of rectum
 169295005,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 241168000,Y971,Y97.1 Radiology with pre and post contrast
@@ -810,10 +762,8 @@ snomed,opcs,opcs_term
 82900007,H292,H29.2 Subtotal excision of colon and rectum and creation of colonic pouch NEC
 21795006,Z298,Z29.8 Specified part of bowel NEC
 112875007,H418,H41.8 Other specified other operations on rectum through anus
-47970003,Y399,Y39.9 Unspecified injection of other substance into organ NOC
 608806004,Q089,Q08.9 Unspecified vaginal excision of uterus
 87279008,H266,H26.6 Endoscopic submucosal resection of lesion of sigmoid colon using rigid sigmoidoscope
-302051002,H213,H21.3 Fibreoptic endoscopic removal of foreign body from colon
 90788004,Z291,Z29.1 Rectum
 78110003,Y351,Y35.1 Introduction of radioactive caesium into organ NOC
 31652009,X729,X72.9 Unspecified delivery of chemotherapy for neoplasm
@@ -846,7 +796,6 @@ snomed,opcs,opcs_term
 8180007,H228,H22.8 Other specified diagnostic endoscopic examination of colon
 275014009,H418,H41.8 Other specified other operations on rectum through anus
 235342007,H236,H23.6 Endoscopic resection of lesion of lower bowel using fibreoptic sigmoidoscope NEC
-473276009,Y251,Y25.1 Suture of laceration of organ NOC
 241674004,H258,H25.8 Other specified diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope
 174172009,H202,H20.2 Fibreoptic endoscopic cauterisation of lesion of colon
 169298007,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
@@ -854,7 +803,6 @@ snomed,opcs,opcs_term
 37828009,Y258,Y25.8 Other specified suture of organ NOC
 169307005,X691,X69.1 Delivery of a fraction of hemi-body radiation
 174116003,H122,H12.2 Excision of lesion of colon NEC
-307585001,Y532,Y53.2 Approach to organ under ultrasonic control
 65952009,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 441783000,Y919,Y91.9 Unspecified external beam radiotherapy
 174148004,H171,H17.1 Open reduction of intussusception of colon
@@ -899,7 +847,6 @@ snomed,opcs,opcs_term
 241166001,Y973,Y97.3 Radiology with post contrast
 172286002,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 274031008,H343,H34.3 Open cryotherapy to lesion of rectum
-26599001,H468,H46.8 Other specified other operations on rectum
 276190007,G699,G69.9 Unspecified excision of ileum
 307584002,Z282,Z28.2 Caecum
 231544004,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
@@ -914,7 +861,6 @@ snomed,opcs,opcs_term
 225097004,H625,H62.5 Irrigation of bowel NEC
 449265009,Y973,Y97.3 Radiology with post contrast
 46044009,Y918,Y91.8 Other specified external beam radiotherapy
-398235007,H148,H14.8 Other specified exteriorisation of caecum
 85257004,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 228662001,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 785706005,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
@@ -945,7 +891,6 @@ snomed,opcs,opcs_term
 37828009,G788,G78.8 Other specified other open operations on ileum
 1186912002,H152,H15.2 End colostomy
 25196007,Y709,Y70.9 Unspecified early operations NOC
-45925007,H625,H62.5 Irrigation of bowel NEC
 59896001,Y402,Y40.2 Stretching of organ NOC
 448461009,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 307509009,G788,G78.8 Other specified other open operations on ileum
@@ -987,7 +932,6 @@ snomed,opcs,opcs_term
 228663006,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 235344008,H231,H23.1 Endoscopic snare resection of lesion of lower bowel using fibreoptic sigmoidoscope
 307666008,H299,H29.9 Unspecified subtotal excision of colon
-64215005,H338,H33.8 Other specified excision of rectum
 448156002,H412,H41.2 Peranal excision of lesion of rectum
 36679009,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 43111005,C823,C82.3 External beam radiotherapy to lesion of retina
@@ -998,7 +942,6 @@ snomed,opcs,opcs_term
 13327002,H106,H10.6 Sigmoid colectomy and end to side anastomosis
 113117004,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 312406002,H338,H33.8 Other specified excision of rectum
-182606003,H468,H46.8 Other specified other operations on rectum
 174116003,H121,H12.1 Excision of diverticulum of colon
 426699005,Z286,Z28.6 Sigmoid colon
 13327002,H118,H11.8 Other specified other excision of colon
@@ -1009,7 +952,6 @@ snomed,opcs,opcs_term
 235344008,H206,H20.6 Fibreoptic endoscopic resection of lesion of colon NEC
 75157003,Z291,Z29.1 Rectum
 84952009,H078,H07.8 Other specified other excision of right hemicolon
-21245006,H141,H14.1 Tube caecostomy
 275012008,H412,H41.2 Peranal excision of lesion of rectum
 113117004,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 241166001,U174,U17.4 Barium enema
@@ -1022,12 +964,10 @@ snomed,opcs,opcs_term
 169318005,X691,X69.1 Delivery of a fraction of hemi-body radiation
 39646005,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 235341000,H349,H34.9 Unspecified open extirpation of lesion of rectum
-118839001,H308,H30.8 Other specified other operations on colon
 45220009,H334,H33.4 Anterior resection of rectum and anastomosis NEC
 241674004,H248,H24.8 Other specified other therapeutic endoscopic operations on lower bowel using fibreoptic sigmoidoscope
 447166008,Y754,Y75.4 Hand assisted minimal access approach to abdominal cavity
 70446004,T131,T13.1 Insufflation of talc into pleural cavity NEC
-373819004,H243,H24.3 Endoscopic insertion of tubal prosthesis into lower bowel using fibreoptic sigmoidoscope
 228666003,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 307666008,H052,H05.2 Total colectomy and ileostomy and creation of rectal fistula HFQ
 276190007,H059,H05.9 Unspecified total excision of colon
@@ -1047,18 +987,14 @@ snomed,opcs,opcs_term
 446504008,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 171809001,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 446504008,X691,X69.1 Delivery of a fraction of hemi-body radiation
-79613005,H303,H30.3 Passage of flatus tube to reduce volvulus of sigmoid colon
-307585001,H143,H14.3 Closure of caecostomy
 26390003,H052,H05.2 Total colectomy and ileostomy and creation of rectal fistula HFQ
 230912001,Y134,Y13.4 Radiofrequency controlled thermal destruction of lesion of organ NOC
 86789002,H332,H33.2 Proctectomy and anastomosis of colon to anus
 431669007,Z287,Z28.7 Colon NEC
 169295005,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 307655001,H115,H11.5 Colectomy and exteriorisation of bowel NEC
-174269007,H402,H40.2 Trans-sphincteric excision of lesion of rectum
 870250004,X721,X72.1 Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance
 90527009,Y751,Y75.1 Laparoscopically assisted approach to abdominal cavity
-397204004,H149,H14.9 Unspecified exteriorisation of caecum
 384091000119108,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 81214004,Y082,Y08.2 Laser excision of lesion of organ NOC
 182975000,X352,X35.2 Intravenous chemotherapy
@@ -1070,7 +1006,6 @@ snomed,opcs,opcs_term
 75312003,H293,H29.3 Subtotal excision of colon and creation of colonic pouch and anastomosis of colon to rectum
 66740000,H192,H19.2 Fixation of colon
 307659007,H051,H05.1 Total colectomy and anastomosis of ileum to rectum
-235400006,Y441,Y44.1 Evacuation of contents of organ NOC
 87279008,H206,H20.6 Fibreoptic endoscopic resection of lesion of colon NEC
 287784004,H041,H04.1 Panproctocolectomy and ileostomy
 44441009,H234,H23.4 Endoscopic destruction of lesion of lower bowel using fibreoptic sigmoidoscope NEC
@@ -1084,7 +1019,6 @@ snomed,opcs,opcs_term
 174240003,H332,H33.2 Proctectomy and anastomosis of colon to anus
 174081000,H072,H07.2 Right hemicolectomy and side to side anastomosis of ileum to transverse colon
 450827009,X723,X72.3 Delivery of simple parenteral chemotherapy for neoplasm at first attendance
-174269007,H404,H40.4 Trans-sphincteric anastomosis of colon to anus
 307638000,H116,H11.6 Colectomy and end to side anastomosis NEC
 228666003,X651,X65.1 Delivery of a fraction of total body irradiation
 26619008,O301,O30.1 Hepatic flexure
@@ -1095,7 +1029,6 @@ snomed,opcs,opcs_term
 12827003,H338,H33.8 Other specified excision of rectum
 48630009,H412,H41.2 Peranal excision of lesion of rectum
 174349004,H578,H57.8 Other specified other operations on the anal sphincter to control continence
-397204004,H142,H14.2 Refashioning of caecostomy
 81214004,Y081,Y08.1 Laser excision of organ NOC
 174349004,H571,H57.1 Placement of artificial anal sphincter NEC
 287784004,H042,H04.2 Panproctocolectomy and anastomosis of ileum to anus and creation of pouch HFQ
@@ -1111,7 +1044,6 @@ snomed,opcs,opcs_term
 448360009,Y171,Y17.1 Electrocauterisation of lesion of organ NOC
 241674004,H239,H23.9 Unspecified endoscopic extirpation of lesion of lower bowel using fibreoptic sigmoidoscope
 116237003,H412,H41.2 Peranal excision of lesion of rectum
-47970003,H463,H46.3 Intubation of rectum for pressure manometry
 276190007,H114,H11.4 Colectomy and ileostomy NEC
 44642007,H155,H15.5 Dilation of colostomy
 13327002,H084,H08.4 Transverse colectomy and ileostomy HFQ
@@ -1164,7 +1096,6 @@ snomed,opcs,opcs_term
 169304003,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 228674002,X691,X69.1 Delivery of a fraction of hemi-body radiation
 608807008,Q082,Q08.2 Vaginal hysterectomy and excision of periuterine tissue NEC
-49440008,H159,H15.9 Unspecified other exteriorisation of colon
 230913006,Y134,Y13.4 Radiofrequency controlled thermal destruction of lesion of organ NOC
 231585009,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 367336001,X384,X38.4 Subcutaneous chemotherapy
@@ -1184,7 +1115,6 @@ snomed,opcs,opcs_term
 446222007,H093,H09.3 Left hemicolectomy and anastomosis NEC
 235364003,H332,H33.2 Proctectomy and anastomosis of colon to anus
 33356009,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
-49440008,H153,H15.3 Refashioning of colostomy
 81214004,Y084,Y08.4 Laser destruction of lesion of organ NOC
 12827003,H334,H33.4 Anterior resection of rectum and anastomosis NEC
 708642005,H354,H35.4 Fixation of rectum using fascia lata
@@ -1197,7 +1127,6 @@ snomed,opcs,opcs_term
 722491009,X722,X72.2 Delivery of complex parenteral chemotherapy for neoplasm at first attendance
 235409007,G715,G71.5 Bypass of ileum by anastomosis of ileum to colon NEC
 22094003,Y308,Y30.8 Other specified incision of organ NOC
-397204004,H143,H14.3 Closure of caecostomy
 41200003,H426,H42.6 Perineal repair of prolapse of rectum NEC
 13327002,H093,H09.3 Left hemicolectomy and anastomosis NEC
 43111005,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
@@ -1260,7 +1189,6 @@ snomed,opcs,opcs_term
 169307005,Y916,Y91.6 Intraoperative electron beam radiotherapy
 414301000119107,Z291,Z29.1 Rectum
 41330009,H094,H09.4 Left hemicolectomy and ileostomy HFQ
-174269007,H408,H40.8 Other specified operations on rectum through anal sphincter
 77738002,X729,X72.9 Unspecified delivery of chemotherapy for neoplasm
 428624002,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 241337005,Y938,Y93.8 Other specified gallium-67 imaging
@@ -1268,7 +1196,6 @@ snomed,opcs,opcs_term
 17671008,H154,H15.4 Closure of colostomy
 84952009,H061,H06.1 Extended right hemicolectomy and end to end anastomosis
 1156505006,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
-174296005,H441,H44.1 Manual removal of foreign body from rectum
 68671008,Y122,Y12.2 Injection of other destructive substance into lesion of organ NOC
 235151005,H228,H22.8 Other specified diagnostic endoscopic examination of colon
 307667004,H293,H29.3 Subtotal excision of colon and creation of colonic pouch and anastomosis of colon to rectum
@@ -1299,7 +1226,6 @@ snomed,opcs,opcs_term
 89339008,H157,H15.7 Percutaneous endoscopic sigmoid colostomy
 265407000,H265,H26.5 Endoscopic destruction of lesion of sigmoid colon using rigid sigmoidoscope NEC
 870385001,X691,X69.1 Delivery of a fraction of hemi-body radiation
-373822002,H243,H24.3 Endoscopic insertion of tubal prosthesis into lower bowel using fibreoptic sigmoidoscope
 231596001,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 23968004,H118,H11.8 Other specified other excision of colon
 169293003,X691,X69.1 Delivery of a fraction of hemi-body radiation
@@ -1325,13 +1251,11 @@ snomed,opcs,opcs_term
 304586009,Y713,Y71.3 Revisional operations NOC
 307638000,H139,H13.9 Unspecified bypass of colon
 62807001,H198,H19.8 Other specified other open operations on colon
-47970003,H462,H46.2 Hydrostatic reduction of intussusception of rectum
 870385001,X651,X65.1 Delivery of a fraction of total body irradiation
 444783004,H258,H25.8 Other specified diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope
 443665007,H401,H40.1 Trans-sphincteric excision of mucosa of rectum
 387606008,H152,H15.2 End colostomy
 228671005,X691,X69.1 Delivery of a fraction of hemi-body radiation
-307585001,H142,H14.2 Refashioning of caecostomy
 54164009,H411,H41.1 Rectosigmoidectomy and peranal anastomosis
 89339008,H152,H15.2 End colostomy
 446228006,H093,H09.3 Left hemicolectomy and anastomosis NEC
@@ -1379,14 +1303,12 @@ snomed,opcs,opcs_term
 1153549003,Y514,Y51.4 Approach to organ through colostomy
 445863004,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 235320006,T832,T83.2 Division of muscle
-49440008,Y715,Y71.5 Failed percutaneous transluminal approach converted to open
 384091000119108,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 235409007,H112,H11.2 Colectomy and side to side anastomosis of ileum to colon NEC
 169298007,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 235341000,H343,H34.3 Open cryotherapy to lesion of rectum
 89522007,H111,H11.1 Colectomy and end to end anastomosis of colon to colon NEC
 449106004,H235,H23.5 Endoscopic submucosal resection of lesion of lower bowel using fibreoptic sigmoidoscope
-426744009,H274,H27.4 Endoscopic insertion of expanding metal stent into sigmoid colon using rigid sigmoidoscope
 307642002,H138,H13.8 Other specified bypass of colon
 241674004,H236,H23.6 Endoscopic resection of lesion of lower bowel using fibreoptic sigmoidoscope NEC
 54164009,H335,H33.5 Rectosigmoidectomy and closure of rectal stump and exteriorisation of bowel
@@ -1411,7 +1333,6 @@ snomed,opcs,opcs_term
 890093004,X722,X72.2 Delivery of complex parenteral chemotherapy for neoplasm at first attendance
 447166008,H065,H06.5 Extended right hemicolectomy and end to side anastomosis
 43196001,G785,G78.5 Exclusion of segment of ileum
-82874003,H308,H30.8 Other specified other operations on colon
 45220009,H336,H33.6 Anterior resection of rectum and exteriorisation of bowel
 870249004,X729,X72.9 Unspecified delivery of chemotherapy for neoplasm
 449290006,X651,X65.1 Delivery of a fraction of total body irradiation
@@ -1433,7 +1354,6 @@ snomed,opcs,opcs_term
 70446004,T139,T13.9 Unspecified introduction of substance into pleural cavity
 440033009,H359,H35.9 Unspecified fixation of rectum for prolapse
 858579005,H043,H04.3 Panproctocolectomy and anastomosis of ileum to anus NEC
-84391005,H302,H30.2 Intubation of colon for pressure manometry
 168836005,U174,U17.4 Barium enema
 711307001,H221,H22.1 Diagnostic fibreoptic endoscopic examination of colon and biopsy of lesion of colon
 23121008,H232,H23.2 Endoscopic cauterisation of lesion of lower bowel using fibreoptic sigmoidoscope
@@ -1478,7 +1398,6 @@ snomed,opcs,opcs_term
 231568007,X658,X65.8 Other specified radiotherapy delivery
 73509004,H153,H15.3 Refashioning of colostomy
 307586000,H085,H08.5 Transverse colectomy and exteriorisation of bowel NEC
-118842007,H628,H62.8 Other specified other operations on bowel
 13004001,H273,H27.3 Endoscopic insertion of tubal prosthesis into sigmoid colon using rigid sigmoidoscope
 73761001,H229,H22.9 Unspecified diagnostic endoscopic examination of colon
 44378008,H062,H06.2 Extended right hemicolectomy and anastomosis of ileum to colon
@@ -1538,14 +1457,12 @@ snomed,opcs,opcs_term
 169301006,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 395096001,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 50774009,H062,H06.2 Extended right hemicolectomy and anastomosis of ileum to colon
-287785003,H272,H27.2 Endoscopic removal of foreign body from sigmoid colon using rigid sigmoidoscope
 307583008,H063,H06.3 Extended right hemicolectomy and anastomosis NEC
 445954002,Y971,Y97.1 Radiology with pre and post contrast
 307642002,H115,H11.5 Colectomy and exteriorisation of bowel NEC
 307584002,H193,H19.3 Enterorrhaphy of colon
 428923005,X651,X65.1 Delivery of a fraction of total body irradiation
 22733003,X728,X72.8 Other specified delivery of chemotherapy for neoplasm
-426617006,H248,H24.8 Other specified other therapeutic endoscopic operations on lower bowel using fibreoptic sigmoidoscope
 21423008,H258,H25.8 Other specified diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope
 241337005,Y939,Y93.9 Unspecified gallium-67 imaging
 450827009,X728,X72.8 Other specified delivery of chemotherapy for neoplasm
@@ -1581,7 +1498,6 @@ snomed,opcs,opcs_term
 276190007,H111,H11.1 Colectomy and end to end anastomosis of colon to colon NEC
 443909001,H298,H29.8 Other specified subtotal excision of colon
 33759004,Y258,Y25.8 Other specified suture of organ NOC
-47970003,Y381,Y38.1 Continuous injection of therapeutic substance into organ NOC
 608806004,P233,P23.3 Posterior colporrhaphy NEC
 787108001,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 265402006,H203,H20.3 Fibreoptic endoscopic laser destruction of lesion of colon
@@ -1597,9 +1513,7 @@ snomed,opcs,opcs_term
 715914001,H198,H19.8 Other specified other open operations on colon
 35753000,P134,P13.4 Closure of fistula of female perineum
 414301000119107,Z287,Z28.7 Colon NEC
-450871008,H158,H15.8 Other specified other exteriorisation of colon
 169304003,Y918,Y91.8 Other specified external beam radiotherapy
-398235007,H144,H14.4 Appendicocaecostomy
 24221008,H159,H15.9 Unspecified other exteriorisation of colon
 446362009,H212,H21.2 Fibreoptic endoscopic coagulation of blood vessel of colon
 78110003,C848,C84.8 Other specified other operations on retina
@@ -1631,7 +1545,6 @@ snomed,opcs,opcs_term
 78110003,Y134,Y13.4 Radiofrequency controlled thermal destruction of lesion of organ NOC
 773129000,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 84952009,H074,H07.4 Right hemicolectomy and ileostomy HFQ
-307585001,Y531,Y53.1 Approach to organ under radiological control
 241166001,Z298,Z29.8 Specified part of bowel NEC
 169301006,Y917,Y91.7 Electron beam radiotherapy NEC
 235325001,H098,H09.8 Other specified excision of left hemicolon
@@ -1652,7 +1565,6 @@ snomed,opcs,opcs_term
 890093004,X731,X73.1 Delivery of exclusively oral chemotherapy for neoplasm
 84126002,P071,P07.1 Plastic repair of vulva
 444688002,H352,H35.2 Posterior fixation of rectum using prosthetic material
-304585008,H042,H04.2 Panproctocolectomy and anastomosis of ileum to anus and creation of pouch HFQ
 23968004,H115,H11.5 Colectomy and exteriorisation of bowel NEC
 9215005,H161,H16.1 Drainage of colon
 16442821000119108,U215,U21.5 Contrast fluoroscopy NEC
@@ -1719,8 +1631,6 @@ snomed,opcs,opcs_term
 21795006,Y219,Y21.9 Unspecified cytology of organ NOC
 82900007,H156,H15.6 Reduction of prolapse of colostomy
 314606007,X692,X69.2 Delivery of a fraction of total skin radiotherapy
-80945002,Z291,Z29.1 Rectum
-74738008,H148,H14.8 Other specified exteriorisation of caecum
 236205009,Z287,Z28.7 Colon NEC
 169304003,Y919,Y91.9 Unspecified external beam radiotherapy
 53003006,H118,H11.8 Other specified other excision of colon
@@ -1750,7 +1660,6 @@ snomed,opcs,opcs_term
 428412000,X659,X65.9 Unspecified radiotherapy delivery
 450353006,H418,H41.8 Other specified other operations on rectum through anus
 228671005,X692,X69.2 Delivery of a fraction of total skin radiotherapy
-49440008,H156,H15.6 Reduction of prolapse of colostomy
 169291001,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 449290006,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
 395075008,X658,X65.8 Other specified radiotherapy delivery
@@ -1783,11 +1692,9 @@ snomed,opcs,opcs_term
 235153008,H265,H26.5 Endoscopic destruction of lesion of sigmoid colon using rigid sigmoidoscope NEC
 10492003,X657,X65.7 Delivery of radionuclide therapy NEC
 418714002,Y973,Y97.3 Radiology with post contrast
-426744009,Z291,Z29.1 Rectum
 40809003,Y072,Y07.2 Clipping of organ NOC
 48222002,Y759,Y75.9 Unspecified minimal access to abdominal cavity
 275011001,H355,H35.5 Anterior fixation of rectum using prosthetic material
-287785003,H441,H44.1 Manual removal of foreign body from rectum
 72811008,Z286,Z28.6 Sigmoid colon
 25073005,H156,H15.6 Reduction of prolapse of colostomy
 228672003,Y917,Y91.7 Electron beam radiotherapy NEC
@@ -1823,7 +1730,6 @@ snomed,opcs,opcs_term
 429774000,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 76164006,H191,H19.1 Open biopsy of lesion of colon
 708631001,H333,H33.3 Anterior resection of rectum and anastomosis of colon to rectum using staples
-473276009,Y258,Y25.8 Other specified suture of organ NOC
 287784004,H049,H04.9 Unspecified total excision of colon and rectum
 74023000,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 75894009,H428,H42.8 Other specified perineal operations for prolapse of rectum
@@ -1847,7 +1753,6 @@ snomed,opcs,opcs_term
 450827009,X722,X72.2 Delivery of complex parenteral chemotherapy for neoplasm at first attendance
 38104006,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 449106004,H231,H23.1 Endoscopic snare resection of lesion of lower bowel using fibreoptic sigmoidoscope
-373820005,H243,H24.3 Endoscopic insertion of tubal prosthesis into lower bowel using fibreoptic sigmoidoscope
 62867004,X657,X65.7 Delivery of radionuclide therapy NEC
 228664000,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
 235341000,H342,H34.2 Open cauterisation of lesion of rectum
@@ -1856,7 +1761,6 @@ snomed,opcs,opcs_term
 265402006,H204,H20.4 Fibreoptic endoscopic destruction of lesion of colon NEC
 445954002,U175,U17.5 Computed tomography of colon
 307638000,H092,H09.2 Left hemicolectomy and end to end anastomosis of colon to colon
-174226004,H303,H30.3 Passage of flatus tube to reduce volvulus of sigmoid colon
 307658004,H151,H15.1 Loop colostomy
 870623000,P253,P25.3 Repair of rectovaginal fistula
 870385001,X658,X65.8 Other specified radiotherapy delivery
@@ -1864,7 +1768,6 @@ snomed,opcs,opcs_term
 36192008,H291,H29.1 Subtotal excision of colon and rectum and creation of colonic pouch and anastomosis of colon to anus
 449106004,Z291,Z29.1 Rectum
 26925005,H082,H08.2 Transverse colectomy and anastomosis of ileum to colon
-49440008,Y711,Y71.1 Subsequent stage of staged operations NOC
 48630009,H413,H41.3 Peranal destruction of lesion of rectum
 169301006,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 133870002,G788,G78.8 Other specified other open operations on ileum
@@ -1891,7 +1794,6 @@ snomed,opcs,opcs_term
 431944009,Y973,Y97.3 Radiology with post contrast
 171809001,A613,A61.3 Radiotherapy to lesion of peripheral nerve
 60362005,Y252,Y25.2 Resuture of organ NOC
-84391005,H308,H30.8 Other specified other operations on colon
 446011004,H228,H22.8 Other specified diagnostic endoscopic examination of colon
 307242009,H211,H21.1 Fibreoptic endoscopic dilation of colon
 169297002,X692,X69.2 Delivery of a fraction of total skin radiotherapy
@@ -1911,7 +1813,6 @@ snomed,opcs,opcs_term
 169291001,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
 782836001,Y283,Y28.3 Insertion of composite mesh into organ NOC
 47479005,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
-49440008,Y714,Y71.4 Failed minimal access approach converted to open
 708642005,H351,H35.1 Anterior fixation of rectum
 33195004,Y916,Y91.6 Intraoperative electron beam radiotherapy
 174121000,H132,H13.2 Bypass of colon by anastomosis of caecum to sigmoid colon
@@ -1926,7 +1827,6 @@ snomed,opcs,opcs_term
 782204001,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 431669007,U215,U21.5 Contrast fluoroscopy NEC
 426332009,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
-426744009,H214,H21.4 Fibreoptic endoscopic insertion of expanding metal stent into colon
 89642006,H336,H33.6 Anterior resection of rectum and exteriorisation of bowel
 169396008,X738,X73.8 Other specified delivery of oral chemotherapy for neoplasm
 70243005,H091,H09.1 Left hemicolectomy and end to end anastomosis of colon to rectum
@@ -1963,7 +1863,6 @@ snomed,opcs,opcs_term
 63506005,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 31652009,X721,X72.1 Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance
 716872004,X729,X72.9 Unspecified delivery of chemotherapy for neoplasm
-49440008,H151,H15.1 Loop colostomy
 235357000,Y518,Y51.8 Other specified approach to organ through artificial opening into gastrointestinal tract
 32044008,H118,H11.8 Other specified other excision of colon
 231585009,X659,X65.9 Unspecified radiotherapy delivery
@@ -1998,7 +1897,6 @@ snomed,opcs,opcs_term
 241629006,U211,U21.1 Magnetic resonance imaging NEC
 77738002,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
 24622007,Y053,Y05.3 Excision of sinus track from organ NOC
-398235007,H149,H14.9 Unspecified exteriorisation of caecum
 446414002,H259,H25.9 Unspecified diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope
 447912004,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 113117004,Y917,Y91.7 Electron beam radiotherapy NEC
@@ -2013,7 +1911,6 @@ snomed,opcs,opcs_term
 11331000224100,Y919,Y91.9 Unspecified external beam radiotherapy
 172286002,X651,X65.1 Delivery of a fraction of total body irradiation
 171809001,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
-174305001,H463,H46.3 Intubation of rectum for pressure manometry
 398740003,H144,H14.4 Appendicocaecostomy
 73921006,H361,H36.1 Abdominal repair of levator ani muscles
 428624002,X657,X65.7 Delivery of radionuclide therapy NEC
@@ -2041,13 +1938,11 @@ snomed,opcs,opcs_term
 287784004,H402,H40.2 Trans-sphincteric excision of lesion of rectum
 228673008,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 80294005,H041,H04.1 Panproctocolectomy and ileostomy
-426617006,H249,H24.9 Unspecified other therapeutic endoscopic operations on lower bowel using fibreoptic sigmoidoscope
 446228006,H096,H09.6 Left hemicolectomy and end to side anastomosis
 447912004,Y916,Y91.6 Intraoperative electron beam radiotherapy
 174121000,H135,H13.5 Bypass of colon by anastomosis of colon to rectum NEC
 1186912002,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 26619008,Z282,Z28.2 Caecum
-609108006,H441,H44.1 Manual removal of foreign body from rectum
 17671008,Y751,Y75.1 Laparoscopically assisted approach to abdominal cavity
 441783000,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 31130001,H291,H29.1 Subtotal excision of colon and rectum and creation of colonic pouch and anastomosis of colon to anus
@@ -2058,7 +1953,6 @@ snomed,opcs,opcs_term
 428412000,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 89441008,G613,G61.3 Bypass of jejunum by anastomosis of jejunum to colon
 228676000,X691,X69.1 Delivery of a fraction of hemi-body radiation
-307585001,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 82900007,H151,H15.1 Loop colostomy
 448385000,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 169304003,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
@@ -2070,7 +1964,6 @@ snomed,opcs,opcs_term
 235357000,H305,H30.5 Irrigation of colon
 32044008,H115,H11.5 Colectomy and exteriorisation of bowel NEC
 287815004,H153,H15.3 Refashioning of colostomy
-47897009,Y298,Y29.8 Other specified removal of foreign body from organ NOC
 711299007,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 441799006,Y917,Y91.7 Electron beam radiotherapy NEC
 429579007,X657,X65.7 Delivery of radionuclide therapy NEC
@@ -2079,7 +1972,6 @@ snomed,opcs,opcs_term
 32044008,H074,H07.4 Right hemicolectomy and ileostomy HFQ
 75157003,H234,H23.4 Endoscopic destruction of lesion of lower bowel using fibreoptic sigmoidoscope NEC
 450827009,X721,X72.1 Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance
-182606003,Y323,Y32.3 Re-exploration of organ and packing of organ NOC
 4388000,J722,J72.2 Embolisation of spleen
 77959002,H156,H15.6 Reduction of prolapse of colostomy
 265411006,H336,H33.6 Anterior resection of rectum and exteriorisation of bowel
@@ -2090,19 +1982,15 @@ snomed,opcs,opcs_term
 782837005,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 35753000,Y073,Y07.3 Obliteration of sinus track from organ NOC
 228675001,X692,X69.2 Delivery of a fraction of total skin radiotherapy
-47970003,H563,H56.3 Incision of septum of anus
 37828009,H151,H15.1 Loop colostomy
 711299007,X657,X65.7 Delivery of radionuclide therapy NEC
 82900007,H298,H29.8 Other specified subtotal excision of colon
 13327002,H078,H07.8 Other specified other excision of right hemicolon
 17671008,H156,H15.6 Reduction of prolapse of colostomy
-47897009,Y292,Y29.2 Manipulative removal of foreign body from organ NOC
 20119004,M192,M19.2 Creation of urinary diversion to intestine NEC
 429579007,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
-47970003,H461,H46.1 Radiological reduction of intussusception of rectum using barium enema
 32956007,Y016,Y01.6 Alloreplacement of organ from cadaver NOC
 38216008,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
-49440008,Y717,Y71.7 Third or greater revisional operation NOC
 174148004,H174,H17.4 Open reduction of volvulus of colon NEC
 112875007,H413,H41.3 Peranal destruction of lesion of rectum
 32044008,H116,H11.6 Colectomy and end to side anastomosis NEC
@@ -2130,7 +2018,6 @@ snomed,opcs,opcs_term
 168836005,Y973,Y97.3 Radiology with post contrast
 26619008,G788,G78.8 Other specified other open operations on ileum
 425666002,Y973,Y97.3 Radiology with post contrast
-118839001,H309,H30.9 Unspecified other operations on colon
 276190007,H086,H08.6 Transverse colectomy and end to side anastomosis
 387861003,H401,H40.1 Trans-sphincteric excision of mucosa of rectum
 169297002,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
@@ -2147,7 +2034,6 @@ snomed,opcs,opcs_term
 64522003,Z194,Z19.4 Choroid
 241336001,Y948,Y94.8 Other specified radiopharmaceutical imaging
 446745002,H281,H28.1 Diagnostic endoscopic examination of sigmoid colon and biopsy of lesion of sigmoid colon using rigid sigmoidoscope
-307585001,H148,H14.8 Other specified exteriorisation of caecum
 307638000,H118,H11.8 Other specified other excision of colon
 115960007,Y917,Y91.7 Electron beam radiotherapy NEC
 446362009,H202,H20.2 Fibreoptic endoscopic cauterisation of lesion of colon
@@ -2172,7 +2058,6 @@ snomed,opcs,opcs_term
 456004,H294,H29.4 Subtotal excision of colon and creation of colonic pouch NEC
 46295004,H336,H33.6 Anterior resection of rectum and exteriorisation of bowel
 307657009,H152,H15.2 End colostomy
-49440008,Y716,Y71.6 Second revisional operation NOC
 13004001,H274,H27.4 Endoscopic insertion of expanding metal stent into sigmoid colon using rigid sigmoidoscope
 41330009,H098,H09.8 Other specified excision of left hemicolon
 45643008,X651,X65.1 Delivery of a fraction of total body irradiation
@@ -2191,7 +2076,6 @@ snomed,opcs,opcs_term
 28177007,Z291,Z29.1 Rectum
 14771009,Y171,Y17.1 Electrocauterisation of lesion of organ NOC
 446223002,H062,H06.2 Extended right hemicolectomy and anastomosis of ileum to colon
-373821009,H273,H27.3 Endoscopic insertion of tubal prosthesis into sigmoid colon using rigid sigmoidoscope
 24420007,H259,H25.9 Unspecified diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope
 448156002,Y524,Y52.4 Peranal transrectal approach to organ
 169295005,Y918,Y91.8 Other specified external beam radiotherapy
@@ -2201,18 +2085,14 @@ snomed,opcs,opcs_term
 228663006,X651,X65.1 Delivery of a fraction of total body irradiation
 44642007,H292,H29.2 Subtotal excision of colon and rectum and creation of colonic pouch NEC
 29205000,H423,H42.3 Insertion of supralevator sling
-49440008,Y713,Y71.3 Revisional operations NOC
-47970003,Y392,Y39.2 Other injection of radiocontrast substance into organ NOC
 174179000,H211,H21.1 Fibreoptic endoscopic dilation of colon
 59896001,Y408,Y40.8 Other specified dilation of organ NOC
-47970003,H468,H46.8 Other specified other operations on rectum
 17473003,H162,H16.2 Caecotomy
 16442821000119108,Y973,Y97.3 Radiology with post contrast
 72915000,H623,H62.3 Dilation of bowel NEC
 386829005,H151,H15.1 Loop colostomy
 231737005,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 228666003,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
-26599001,H418,H41.8 Other specified other operations on rectum through anus
 21423008,H288,H28.8 Other specified diagnostic endoscopic examination of sigmoid colon using rigid sigmoidoscope
 54686006,H412,H41.2 Peranal excision of lesion of rectum
 81214004,H411,H41.1 Rectosigmoidectomy and peranal anastomosis
@@ -2231,7 +2111,6 @@ snomed,opcs,opcs_term
 87602008,H156,H15.6 Reduction of prolapse of colostomy
 448461009,Y919,Y91.9 Unspecified external beam radiotherapy
 32956007,Y014,Y01.4 Alloreplacement of organ from cadaver heart beating NOC
-47897009,Y299,Y29.9 Unspecified removal of foreign body from organ NOC
 22656002,Y078,Y07.8 Other specified obliteration of cavity of organ NOC
 51408001,Y171,Y17.1 Electrocauterisation of lesion of organ NOC
 84952009,H108,H10.8 Other specified excision of sigmoid colon
@@ -2242,7 +2121,6 @@ snomed,opcs,opcs_term
 428416002,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 32044008,H104,H10.4 Sigmoid colectomy and ileostomy HFQ
 112873000,H199,H19.9 Unspecified other open operations on colon
-47970003,Y391,Y39.1 Injection of radiocontrast substance into sinus track from organ NOC
 12149006,Y822,Y82.2 Injection of local anaesthetic NEC
 303584001,H332,H33.2 Proctectomy and anastomosis of colon to anus
 39646005,O441,O44.1 Proton radiotherapy
@@ -2251,13 +2129,11 @@ snomed,opcs,opcs_term
 230911008,L348,L34.8 Other specified other open operations on cerebral artery
 789779005,H248,H24.8 Other specified other therapeutic endoscopic operations on lower bowel using fibreoptic sigmoidoscope
 42904002,H628,H62.8 Other specified other operations on bowel
-609108006,Z291,Z29.1 Rectum
 174125009,H133,H13.3 Bypass of colon by anastomosis of transverse colon to sigmoid colon
 169303009,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 62807001,H192,H19.2 Fixation of colon
 444165004,H113,H11.3 Colectomy and anastomosis NEC
 287807002,H234,H23.4 Endoscopic destruction of lesion of lower bowel using fibreoptic sigmoidoscope NEC
-118842007,H629,H62.9 Unspecified other operations on bowel
 445884009,H121,H12.1 Excision of diverticulum of colon
 307655001,H119,H11.9 Unspecified other excision of colon
 169304003,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
@@ -2296,7 +2172,6 @@ snomed,opcs,opcs_term
 32044008,H102,H10.2 Sigmoid colectomy and anastomosis of colon to rectum
 448143009,H333,H33.3 Anterior resection of rectum and anastomosis of colon to rectum using staples
 174150007,H172,H17.2 Open reduction of volvulus of caecum
-47970003,Y389,Y38.9 Unspecified injection of therapeutic substance into organ NOC
 276190007,H089,H08.9 Unspecified excision of transverse colon
 444688002,H353,H35.3 Posterior fixation of rectum NEC
 443870002,Y751,Y75.1 Laparoscopically assisted approach to abdominal cavity
@@ -2328,10 +2203,8 @@ snomed,opcs,opcs_term
 13327002,H094,H09.4 Left hemicolectomy and ileostomy HFQ
 428829005,X651,X65.1 Delivery of a fraction of total body irradiation
 265402006,H202,H20.2 Fibreoptic endoscopic cauterisation of lesion of colon
-49440008,H158,H15.8 Other specified other exteriorisation of colon
 1390003,Y755,Y75.5 Laparoscopic ultrasonic approach to abdominal cavity
 20460000,G369,G36.9 Unspecified other repair of stomach
-174216006,H272,H27.2 Endoscopic removal of foreign body from sigmoid colon using rigid sigmoidoscope
 228663006,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 428624002,X651,X65.1 Delivery of a fraction of total body irradiation
 448811007,H248,H24.8 Other specified other therapeutic endoscopic operations on lower bowel using fibreoptic sigmoidoscope
@@ -2404,8 +2277,6 @@ snomed,opcs,opcs_term
 276190007,H101,H10.1 Sigmoid colectomy and end to end anastomosis of ileum to rectum
 428831001,Z436,Z43.6 Male perineum
 174215005,Z291,Z29.1 Rectum
-397204004,H144,H14.4 Appendicocaecostomy
-307585001,H144,H14.4 Appendicocaecostomy
 21795006,Z292,Z29.2 Anus
 276190007,H083,H08.3 Transverse colectomy and anastomosis NEC
 13004001,H266,H26.6 Endoscopic submucosal resection of lesion of sigmoid colon using rigid sigmoidoscope
@@ -2426,7 +2297,6 @@ snomed,opcs,opcs_term
 33759004,Y251,Y25.1 Suture of laceration of organ NOC
 174210000,H264,H26.4 Endoscopic cryotherapy to lesion of sigmoid colon using rigid sigmoidoscope
 448474003,H333,H33.3 Anterior resection of rectum and anastomosis of colon to rectum using staples
-373819004,H273,H27.3 Endoscopic insertion of tubal prosthesis into sigmoid colon using rigid sigmoidoscope
 711421003,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 113117004,Y918,Y91.8 Other specified external beam radiotherapy
 13327002,H068,H06.8 Other specified extended excision of right hemicolon
@@ -2446,7 +2316,6 @@ snomed,opcs,opcs_term
 13004001,H262,H26.2 Endoscopic cauterisation of lesion of sigmoid colon using rigid sigmoidoscope
 307332009,G036,G03.6 Partial oesophagectomy and interposition of colon NEC
 235344008,H205,H20.5 Fibreoptic endoscopic submucosal resection of lesion of colon
-91219007,H509,H50.9 Unspecified repair of anus
 450462007,H292,H29.2 Subtotal excision of colon and rectum and creation of colonic pouch NEC
 4388000,Y072,Y07.2 Clipping of organ NOC
 432274009,Y402,Y40.2 Stretching of organ NOC
@@ -2457,8 +2326,6 @@ snomed,opcs,opcs_term
 425851003,H235,H23.5 Endoscopic submucosal resection of lesion of lower bowel using fibreoptic sigmoidoscope
 235153008,H269,H26.9 Unspecified endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope
 73921006,H359,H35.9 Unspecified fixation of rectum for prolapse
-426617006,H244,H24.4 Endoscopic insertion of expanding metal stent into lower bowel using fibreoptic sigmoidoscope
-307585001,H141,H14.1 Tube caecostomy
 173576006,G035,G03.5 Partial oesophagectomy and interposition of microvascularly attached colon
 13327002,H071,H07.1 Right hemicolectomy and end to end anastomosis of ileum to colon
 708695008,Y538,Y53.8 Other specified approach to organ under image control
@@ -2466,7 +2333,6 @@ snomed,opcs,opcs_term
 169292008,X691,X69.1 Delivery of a fraction of hemi-body radiation
 31126004,Y132,Y13.2 Cryotherapy to lesion of organ NOC
 84952009,H112,H11.2 Colectomy and side to side anastomosis of ileum to colon NEC
-47970003,H561,H56.1 Biopsy of lesion of anus
 307665007,H154,H15.4 Closure of colostomy
 54164009,H336,H33.6 Anterior resection of rectum and exteriorisation of bowel
 44642007,H299,H29.9 Unspecified subtotal excision of colon
@@ -2481,7 +2347,6 @@ snomed,opcs,opcs_term
 90527009,H333,H33.3 Anterior resection of rectum and anastomosis of colon to rectum using staples
 418210005,Z287,Z28.7 Colon NEC
 168847003,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
-1339004,H443,H44.3 Manual evacuation of impacted faeces from rectum
 24221008,H158,H15.8 Other specified other exteriorisation of colon
 5722009,H139,H13.9 Unspecified bypass of colon
 89339008,H154,H15.4 Closure of colostomy
@@ -2490,14 +2355,12 @@ snomed,opcs,opcs_term
 12666009,J198,J19.8 Other specified connection of gall bladder
 712992007,H333,H33.3 Anterior resection of rectum and anastomosis of colon to rectum using staples
 449290006,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
-426617006,Z287,Z28.7 Colon NEC
 307658004,H159,H15.9 Unspecified other exteriorisation of colon
 77959002,H151,H15.1 Loop colostomy
 235386002,Y073,Y07.3 Obliteration of sinus track from organ NOC
 32044008,H078,H07.8 Other specified other excision of right hemicolon
 10361000132103,H232,H23.2 Endoscopic cauterisation of lesion of lower bowel using fibreoptic sigmoidoscope
 448156002,H334,H33.4 Anterior resection of rectum and anastomosis NEC
-307585001,Y533,Y53.3 Approach to organ under computed tomography scan control
 449265009,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 9215005,H168,H16.8 Other specified incision of colon
 64522003,Y358,Y35.8 Other specified introduction of removable radioactive material into organ NOC
@@ -2513,7 +2376,6 @@ snomed,opcs,opcs_term
 44441009,H233,H23.3 Endoscopic laser destruction of lesion of lower bowel using fibreoptic sigmoidoscope
 428416002,X657,X65.7 Delivery of radionuclide therapy NEC
 169303009,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
-397204004,H148,H14.8 Other specified exteriorisation of caecum
 63506005,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 1390003,H105,H10.5 Sigmoid colectomy and exteriorisation of bowel NEC
 45220009,H338,H33.8 Other specified excision of rectum
@@ -2541,7 +2403,6 @@ snomed,opcs,opcs_term
 228662001,X651,X65.1 Delivery of a fraction of total body irradiation
 87677003,H337,H33.7 Perineal resection of rectum HFQ
 315322008,H082,H08.2 Transverse colectomy and anastomosis of ileum to colon
-91219007,H503,H50.3 Cutback of covered anus
 50774009,H079,H07.9 Unspecified other excision of right hemicolon
 710293001,H221,H22.1 Diagnostic fibreoptic endoscopic examination of colon and biopsy of lesion of colon
 303401008,H294,H29.4 Subtotal excision of colon and creation of colonic pouch NEC
@@ -2553,7 +2414,6 @@ snomed,opcs,opcs_term
 42904002,Y268,Y26.8 Other specified other repair of organ NOC
 29391003,T484,T48.4 Introduction of substance into peritoneal cavity NEC
 169291001,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
-426617006,Z282,Z28.2 Caecum
 9280007,H463,H46.3 Intubation of rectum for pressure manometry
 174071004,H063,H06.3 Extended right hemicolectomy and anastomosis NEC
 169291001,Y919,Y91.9 Unspecified external beam radiotherapy
@@ -2571,7 +2431,6 @@ snomed,opcs,opcs_term
 235364003,H337,H33.7 Perineal resection of rectum HFQ
 50774009,H065,H06.5 Extended right hemicolectomy and end to side anastomosis
 169396008,X739,X73.9 Unspecified delivery of oral chemotherapy for neoplasm
-47970003,H562,H56.2 Lateral sphincterotomy of anus
 53003006,H113,H11.3 Colectomy and anastomosis NEC
 77738002,X728,X72.8 Other specified delivery of chemotherapy for neoplasm
 6221005,H192,H19.2 Fixation of colon
@@ -2608,7 +2467,6 @@ snomed,opcs,opcs_term
 228663006,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 449194009,H267,H26.7 Endoscopic resection of lesion of sigmoid colon using rigid sigmoidoscope NEC
 785707001,Z159,Z15.9 Breast NEC
-174217002,Z291,Z29.1 Rectum
 314604005,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 240959006,U174,U17.4 Barium enema
 174249002,H343,H34.3 Open cryotherapy to lesion of rectum
@@ -2630,9 +2488,7 @@ snomed,opcs,opcs_term
 359946000,R322,R32.2 Repair of obstetric laceration of perineum and sphincter of anus
 447704003,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
 85257004,Z198,Z19.8 Specified part of eye NEC
-84391005,H305,H30.5 Irrigation of colon
 81214004,Y086,Y08.6 Laser incision of organ NOC
-426617006,H241,H24.1 Endoscopic dilation of lower bowel using fibreoptic sigmoidoscope
 174162006,H191,H19.1 Open biopsy of lesion of colon
 711421003,Y971,Y97.1 Radiology with pre and post contrast
 78110003,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
@@ -2643,8 +2499,6 @@ snomed,opcs,opcs_term
 301700004,H261,H26.1 Endoscopic snare resection of lesion of sigmoid colon using rigid sigmoidoscope
 287784004,H333,H33.3 Anterior resection of rectum and anastomosis of colon to rectum using staples
 39646005,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
-174217002,H273,H27.3 Endoscopic insertion of tubal prosthesis into sigmoid colon using rigid sigmoidoscope
-174181003,H213,H21.3 Fibreoptic endoscopic removal of foreign body from colon
 54686006,H281,H28.1 Diagnostic endoscopic examination of sigmoid colon and biopsy of lesion of sigmoid colon using rigid sigmoidoscope
 235150006,H228,H22.8 Other specified diagnostic endoscopic examination of colon
 5722009,Y712,Y71.2 Secondary operations NOC
@@ -2740,14 +2594,10 @@ snomed,opcs,opcs_term
 174210000,Z291,Z29.1 Rectum
 235344008,H207,H20.7 Fibreoptic endoscopic mucosal resection of lesion of colon
 169303009,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
-307585001,Y538,Y53.8 Other specified approach to organ under image control
 287784004,H331,H33.1 Abdominoperineal excision of rectum and end colostomy
 44378008,H102,H10.2 Sigmoid colectomy and anastomosis of colon to rectum
-91219007,H508,H50.8 Other specified repair of anus
-787802002,H464,H46.4 Intubation of rectum NEC
 12149006,X384,X38.4 Subcutaneous chemotherapy
 11331000224100,O441,O44.1 Proton radiotherapy
-46070005,H153,H15.3 Refashioning of colostomy
 228667007,X691,X69.1 Delivery of a fraction of hemi-body radiation
 60362005,H192,H19.2 Fixation of colon
 81214004,Y083,Y08.3 Laser destruction of organ NOC
@@ -2771,13 +2621,11 @@ snomed,opcs,opcs_term
 84952009,H104,H10.4 Sigmoid colectomy and ileostomy HFQ
 307666008,H292,H29.2 Subtotal excision of colon and rectum and creation of colonic pouch NEC
 51408001,H413,H41.3 Peranal destruction of lesion of rectum
-373821009,H243,H24.3 Endoscopic insertion of tubal prosthesis into lower bowel using fibreoptic sigmoidoscope
 113117004,X691,X69.1 Delivery of a fraction of hemi-body radiation
 45643008,X691,X69.1 Delivery of a fraction of hemi-body radiation
 241674004,H241,H24.1 Endoscopic dilation of lower bowel using fibreoptic sigmoidoscope
 87602008,H154,H15.4 Closure of colostomy
 169301006,X691,X69.1 Delivery of a fraction of hemi-body radiation
-307585001,Y534,Y53.4 Approach to organ under fluoroscopic control
 431462009,Y971,Y97.1 Radiology with pre and post contrast
 169310003,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 21795006,Z294,Z29.4 Colorectal
@@ -2828,7 +2676,6 @@ snomed,opcs,opcs_term
 89339008,H155,H15.5 Dilation of colostomy
 6221005,H198,H19.8 Other specified other open operations on colon
 450462007,H291,H29.1 Subtotal excision of colon and rectum and creation of colonic pouch and anastomosis of colon to anus
-713154003,Z291,Z29.1 Rectum
 708695008,H402,H40.2 Trans-sphincteric excision of lesion of rectum
 359860002,H191,H19.1 Open biopsy of lesion of colon
 13327002,H103,H10.3 Sigmoid colectomy and anastomosis NEC
@@ -2844,12 +2691,9 @@ snomed,opcs,opcs_term
 36192008,H298,H29.8 Other specified subtotal excision of colon
 73509004,H294,H29.4 Subtotal excision of colon and creation of colonic pouch NEC
 169304003,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
-313280002,H443,H44.3 Manual evacuation of impacted faeces from rectum
-235400006,H158,H15.8 Other specified other exteriorisation of colon
 782838000,H355,H35.5 Anterior fixation of rectum using prosthetic material
 1337002,H144,H14.4 Appendicocaecostomy
 8180007,H213,H21.3 Fibreoptic endoscopic removal of foreign body from colon
-38737004,Z291,Z29.1 Rectum
 169292008,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 446414002,H251,H25.1 Diagnostic endoscopic examination of lower bowel and biopsy of lesion of lower bowel using fibreoptic sigmoidoscope
 307583008,H069,H06.9 Unspecified extended excision of right hemicolon
@@ -2858,7 +2702,6 @@ snomed,opcs,opcs_term
 429774000,X659,X65.9 Unspecified radiotherapy delivery
 26390003,H059,H05.9 Unspecified total excision of colon
 46044009,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
-49440008,Y719,Y71.9 Unspecified late operations NOC
 395096001,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 228660009,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 69926006,M372,M37.2 Repair of vesicocolic fistula
@@ -2877,7 +2720,6 @@ snomed,opcs,opcs_term
 169318005,X651,X65.1 Delivery of a fraction of total body irradiation
 708695008,H412,H41.2 Peranal excision of lesion of rectum
 44642007,H293,H29.3 Subtotal excision of colon and creation of colonic pouch and anastomosis of colon to rectum
-84391005,H624,H62.4 Intubation of bowel NEC
 172408001,X657,X65.7 Delivery of radionuclide therapy NEC
 307638000,H114,H11.4 Colectomy and ileostomy NEC
 13004001,H265,H26.5 Endoscopic destruction of lesion of sigmoid colon using rigid sigmoidoscope NEC
@@ -2920,7 +2762,6 @@ snomed,opcs,opcs_term
 236205009,Z285,Z28.5 Descending colon
 171809001,X651,X65.1 Delivery of a fraction of total body irradiation
 241166001,Y971,Y97.1 Radiology with pre and post contrast
-91219007,H501,H50.1 Posterior repair of anal sphincter
 307642002,H112,H11.2 Colectomy and side to side anastomosis of ileum to colon NEC
 16448009,H468,H46.8 Other specified other operations on rectum
 32044008,H063,H06.3 Extended right hemicolectomy and anastomosis NEC
@@ -2952,7 +2793,6 @@ snomed,opcs,opcs_term
 265402006,H205,H20.5 Fibreoptic endoscopic submucosal resection of lesion of colon
 32044008,H062,H06.2 Extended right hemicolectomy and anastomosis of ileum to colon
 314604005,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
-174269007,H403,H40.3 Trans-sphincteric destruction of lesion of rectum
 169296006,X691,X69.1 Delivery of a fraction of hemi-body radiation
 897713009,X374,X37.4 Intramuscular immunotherapy
 307638000,H095,H09.5 Left hemicolectomy and exteriorisation of bowel NEC
@@ -2962,7 +2802,6 @@ snomed,opcs,opcs_term
 367336001,X373,X37.3 Intramuscular chemotherapy
 174059005,H299,H29.9 Unspecified subtotal excision of colon
 26390003,H051,H05.1 Total colectomy and anastomosis of ileum to rectum
-49440008,Y718,Y71.8 Other specified late operations NOC
 398740003,H115,H11.5 Colectomy and exteriorisation of bowel NEC
 43196001,G786,G78.6 Open intubation of ileum
 236783000,G713,G71.3 Bypass of ileum by anastomosis of ileum to caecum
@@ -3000,7 +2839,6 @@ snomed,opcs,opcs_term
 359571009,H075,H07.5 Right hemicolectomy and end to side anastomosis
 398765001,H301,H30.1 Radiological reduction of intussusception of colon using barium enema
 50774009,H072,H07.2 Right hemicolectomy and side to side anastomosis of ileum to transverse colon
-80945002,Y162,Y16.2 Anastomosis of organ NOC
 265415002,H348,H34.8 Other specified open extirpation of lesion of rectum
 235342007,H232,H23.2 Endoscopic cauterisation of lesion of lower bowel using fibreoptic sigmoidoscope
 25196007,Y701,Y70.1 Emergency operations NOC
@@ -3079,7 +2917,6 @@ snomed,opcs,opcs_term
 314606007,X691,X69.1 Delivery of a fraction of hemi-body radiation
 400988008,H334,H33.4 Anterior resection of rectum and anastomosis NEC
 276190007,H073,H07.3 Right hemicolectomy and anastomosis NEC
-47970003,H464,H46.4 Intubation of rectum NEC
 428829005,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 73536002,H168,H16.8 Other specified incision of colon
 48630009,H411,H41.1 Rectosigmoidectomy and peranal anastomosis
@@ -3101,7 +2938,6 @@ snomed,opcs,opcs_term
 82619000,H092,H09.2 Left hemicolectomy and end to end anastomosis of colon to colon
 169317000,X651,X65.1 Delivery of a fraction of total body irradiation
 708695008,Y536,Y53.6 Approach to organ under video control
-47970003,Y398,Y39.8 Other specified injection of other substance into organ NOC
 447977001,Z291,Z29.1 Rectum
 276190007,H069,H06.9 Unspecified extended excision of right hemicolon
 89339008,H159,H15.9 Unspecified other exteriorisation of colon
@@ -3183,7 +3019,6 @@ snomed,opcs,opcs_term
 386828002,H151,H15.1 Loop colostomy
 361173000,H468,H46.8 Other specified other operations on rectum
 47479005,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
-4891005,H468,H46.8 Other specified other operations on rectum
 29391003,T468,T46.8 Other specified other drainage of peritoneal cavity
 73872003,H448,H44.8 Other specified manipulation of rectum
 307645000,H085,H08.5 Transverse colectomy and exteriorisation of bowel NEC
@@ -3211,7 +3046,6 @@ snomed,opcs,opcs_term
 84126002,Y073,Y07.3 Obliteration of sinus track from organ NOC
 62807001,Y311,Y31.1 Exploration of sinus track from organ NOC
 23968004,H111,H11.1 Colectomy and end to end anastomosis of colon to colon NEC
-74971002,H629,H62.9 Unspecified other operations on bowel
 13327002,H062,H06.2 Extended right hemicolectomy and anastomosis of ileum to colon
 174303008,H461,H46.1 Radiological reduction of intussusception of rectum using barium enema
 276190007,G691,G69.1 Ileectomy and anastomosis of stomach to ileum
@@ -3221,7 +3055,6 @@ snomed,opcs,opcs_term
 231737005,Z198,Z19.8 Specified part of eye NEC
 112873000,Y074,Y07.4 Obliteration of diverticulum of organ NOC
 235342007,Z291,Z29.1 Rectum
-174269007,H401,H40.1 Trans-sphincteric excision of mucosa of rectum
 73996007,H102,H10.2 Sigmoid colectomy and anastomosis of colon to rectum
 265415002,H349,H34.9 Unspecified open extirpation of lesion of rectum
 13327002,H101,H10.1 Sigmoid colectomy and end to end anastomosis of ileum to rectum
@@ -3275,7 +3108,6 @@ snomed,opcs,opcs_term
 89339008,H291,H29.1 Subtotal excision of colon and rectum and creation of colonic pouch and anastomosis of colon to anus
 60362005,Y251,Y25.1 Suture of laceration of organ NOC
 72811008,H154,H15.4 Closure of colostomy
-74971002,Z291,Z29.1 Rectum
 44441009,H243,H24.3 Endoscopic insertion of tubal prosthesis into lower bowel using fibreoptic sigmoidoscope
 789779005,Z286,Z28.6 Sigmoid colon
 37828009,Y251,Y25.1 Suture of laceration of organ NOC
@@ -3308,8 +3140,6 @@ snomed,opcs,opcs_term
 228664000,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 48630009,H415,H41.5 Peranal resection of rectum using staples
 287784004,H332,H33.2 Proctectomy and anastomosis of colon to anus
-174269007,H409,H40.9 Unspecified operations on rectum through anal sphincter
-373819004,Z291,Z29.1 Rectum
 32044008,H086,H08.6 Transverse colectomy and end to side anastomosis
 265411006,H333,H33.3 Anterior resection of rectum and anastomosis of colon to rectum using staples
 14690009,H193,H19.3 Enterorrhaphy of colon
@@ -3320,7 +3150,6 @@ snomed,opcs,opcs_term
 235343002,H208,H20.8 Other specified endoscopic extirpation of lesion of colon
 73509004,H154,H15.4 Closure of colostomy
 428416002,X651,X65.1 Delivery of a fraction of total body irradiation
-307585001,Y539,Y53.9 Unspecified approach to organ under image control
 315328007,H334,H33.4 Anterior resection of rectum and anastomosis NEC
 441799006,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
 307638000,H138,H13.8 Other specified bypass of colon
@@ -3366,7 +3195,6 @@ snomed,opcs,opcs_term
 29205000,H424,H42.4 Removal of encircling suture from around perianal sphincter
 69926006,M375,M37.5 Repair of fistula of bladder NEC
 5304008,X691,X69.1 Delivery of a fraction of hemi-body radiation
-713000002,H235,H23.5 Endoscopic submucosal resection of lesion of lower bowel using fibreoptic sigmoidoscope
 84952009,H109,H10.9 Unspecified excision of sigmoid colon
 46295004,H335,H33.5 Rectosigmoidectomy and closure of rectal stump and exteriorisation of bowel
 787874000,H058,H05.8 Other specified total excision of colon
@@ -3392,7 +3220,6 @@ snomed,opcs,opcs_term
 59896001,H468,H46.8 Other specified other operations on rectum
 169307005,X651,X65.1 Delivery of a fraction of total body irradiation
 315321001,H071,H07.1 Right hemicolectomy and end to end anastomosis of ileum to colon
-49440008,H152,H15.2 End colostomy
 428624002,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 40809003,M221,M22.1 Suture of ureter
 445232009,X658,X65.8 Other specified radiotherapy delivery
@@ -3406,13 +3233,11 @@ snomed,opcs,opcs_term
 37828009,G785,G78.5 Exclusion of segment of ileum
 870385001,X659,X65.9 Unspecified radiotherapy delivery
 307638000,H135,H13.5 Bypass of colon by anastomosis of colon to rectum NEC
-397204004,H141,H14.1 Tube caecostomy
 441783000,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 9280007,H461,H46.1 Radiological reduction of intussusception of rectum using barium enema
 307586000,H083,H08.3 Transverse colectomy and anastomosis NEC
 9280007,Y265,Y26.5 Other attention to repair of organ NOC
 274031008,H348,H34.8 Other specified open extirpation of lesion of rectum
-373820005,Z291,Z29.1 Rectum
 231737005,X659,X65.9 Unspecified radiotherapy delivery
 32044008,H069,H06.9 Unspecified extended excision of right hemicolon
 6872008,X721,X72.1 Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance
@@ -3481,7 +3306,6 @@ snomed,opcs,opcs_term
 44378008,H103,H10.3 Sigmoid colectomy and anastomosis NEC
 274352006,H402,H40.2 Trans-sphincteric excision of lesion of rectum
 13327002,H079,H07.9 Unspecified other excision of right hemicolon
-307585001,Y536,Y53.6 Approach to organ under video control
 714029009,Y891,Y89.1 High dose rate brachytherapy treatment
 43075005,H292,H29.2 Subtotal excision of colon and rectum and creation of colonic pouch NEC
 722482005,X702,X70.2 Procurement of drugs for chemotherapy for neoplasm for regimens in Band 2
@@ -3491,9 +3315,7 @@ snomed,opcs,opcs_term
 82619000,H095,H09.5 Left hemicolectomy and exteriorisation of bowel NEC
 1337002,H154,H15.4 Closure of colostomy
 265761001,X373,X37.3 Intramuscular chemotherapy
-373820005,H273,H27.3 Endoscopic insertion of tubal prosthesis into sigmoid colon using rigid sigmoidoscope
 67113002,M372,M37.2 Repair of vesicocolic fistula
-174216006,Z291,Z29.1 Rectum
 174121000,H138,H13.8 Other specified bypass of colon
 446228006,H099,H09.9 Unspecified excision of left hemicolon
 43196001,Y301,Y30.1 Incision of lesion of organ NOC
@@ -3507,12 +3329,9 @@ snomed,opcs,opcs_term
 446223002,H061,H06.1 Extended right hemicolectomy and end to end anastomosis
 40809003,M228,M22.8 Other specified repair of ureter
 235378002,Y281,Y28.1 Insertion of synthetic mesh into organ NOC
-174290004,H424,H42.4 Removal of encircling suture from around perianal sphincter
 38104006,Y918,Y91.8 Other specified external beam radiotherapy
 431669007,Y971,Y97.1 Radiology with pre and post contrast
-235318008,H148,H14.8 Other specified exteriorisation of caecum
 276190007,H112,H11.2 Colectomy and side to side anastomosis of ileum to colon NEC
-47897009,H468,H46.8 Other specified other operations on rectum
 22733003,X729,X72.9 Unspecified delivery of chemotherapy for neoplasm
 300976007,X658,X65.8 Other specified radiotherapy delivery
 449194009,H236,H23.6 Endoscopic resection of lesion of lower bowel using fibreoptic sigmoidoscope NEC
@@ -3582,7 +3401,6 @@ snomed,opcs,opcs_term
 473237008,Y916,Y91.6 Intraoperative electron beam radiotherapy
 448156002,H331,H33.1 Abdominoperineal excision of rectum and end colostomy
 235153008,H264,H26.4 Endoscopic cryotherapy to lesion of sigmoid colon using rigid sigmoidoscope
-712489002,Y842,Y84.2 Sedation NEC
 84952009,H096,H09.6 Left hemicolectomy and end to side anastomosis
 719919003,H271,H27.1 Endoscopic dilation of sigmoid colon using rigid sigmoidoscope
 50774009,Y755,Y75.5 Laparoscopic ultrasonic approach to abdominal cavity
@@ -3602,7 +3420,6 @@ snomed,opcs,opcs_term
 172408001,X659,X65.9 Unspecified radiotherapy delivery
 276190007,G692,G69.2 Ileectomy and anastomosis of duodenum to ileum
 23968004,H114,H11.4 Colectomy and ileostomy NEC
-426744009,H244,H24.4 Endoscopic insertion of expanding metal stent into lower bowel using fibreoptic sigmoidoscope
 24420007,H251,H25.1 Diagnostic endoscopic examination of lower bowel and biopsy of lesion of lower bowel using fibreoptic sigmoidoscope
 712746000,Y916,Y91.6 Intraoperative electron beam radiotherapy
 44642007,H151,H15.1 Loop colostomy
@@ -3614,7 +3431,6 @@ snomed,opcs,opcs_term
 445232009,X655,X65.5 Oral delivery of radiotherapy for thyroid ablation
 37828009,Y259,Y25.9 Unspecified suture of organ NOC
 75312003,G742,G74.2 Creation of temporary ileostomy
-84391005,H301,H30.1 Radiological reduction of intussusception of colon using barium enema
 235344008,H233,H23.3 Endoscopic laser destruction of lesion of lower bowel using fibreoptic sigmoidoscope
 45220009,H331,H33.1 Abdominoperineal excision of rectum and end colostomy
 449290006,X692,X69.2 Delivery of a fraction of total skin radiotherapy
@@ -3632,7 +3448,6 @@ snomed,opcs,opcs_term
 315321001,H072,H07.2 Right hemicolectomy and side to side anastomosis of ileum to transverse colon
 359863000,H191,H19.1 Open biopsy of lesion of colon
 40809003,Y071,Y07.1 Ligation of organ NOC
-373822002,H273,H27.3 Endoscopic insertion of tubal prosthesis into sigmoid colon using rigid sigmoidoscope
 38216008,X723,X72.3 Delivery of simple parenteral chemotherapy for neoplasm at first attendance
 81092009,H331,H33.1 Abdominoperineal excision of rectum and end colostomy
 89339008,H299,H29.9 Unspecified subtotal excision of colon
@@ -3641,7 +3456,6 @@ snomed,opcs,opcs_term
 47705001,Y308,Y30.8 Other specified incision of organ NOC
 387606008,H331,H33.1 Abdominoperineal excision of rectum and end colostomy
 228675001,X691,X69.1 Delivery of a fraction of hemi-body radiation
-82874003,H309,H30.9 Unspecified other operations on colon
 395096001,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 9280007,H415,H41.5 Peranal resection of rectum using staples
 22094003,H461,H46.1 Radiological reduction of intussusception of rectum using barium enema

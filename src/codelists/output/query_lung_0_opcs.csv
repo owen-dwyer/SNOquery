@@ -6,7 +6,6 @@ snomed,opcs,opcs_term
 233140008,L065,L06.5 Creation of anastomosis to pulmonary artery from aorta NEC
 233226001,L071,L07.1 Creation of shunt to right pulmonary artery from right subclavian artery using interposition tube prosthesis
 444034006,Z942,Z94.2 Right sided operation
-175266007,L131,L13.1 Percutaneous transluminal embolectomy of pulmonary artery
 429620002,K063,K06.3 Left ventricle to aorta tunnel with right ventricle to pulmonary artery valved conduit
 232646009,E441,E44.1 Excision of carina
 432652008,E495,"E49.5 Diagnostic fibreoptic endoscopic examination of lower respiratory tract with biopsy, lavage and brush cytology of lesion of lower respiratory tract"
@@ -20,7 +19,6 @@ snomed,opcs,opcs_term
 175236000,L071,L07.1 Creation of shunt to right pulmonary artery from right subclavian artery using interposition tube prosthesis
 287465001,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 1119345001,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
-387714009,E539,E53.9 Unspecified transplantation of lung
 233137008,K178,K17.8 Other specified repair of univentricular heart
 450608000,E502,E50.2 Endoscopic laser destruction of lesion of lower respiratory tract using rigid bronchoscope
 241293008,Y938,Y93.8 Other specified gallium-67 imaging
@@ -32,12 +30,9 @@ snomed,opcs,opcs_term
 57113004,Y931,Y93.1 Gallium-67 imaging scan
 175221003,L051,L05.1 Creation of shunt to main pulmonary artery from ascending aorta using interposition tube prosthesis
 53168001,Y078,Y07.8 Other specified obliteration of cavity of organ NOC
-233207009,L136,L13.6 Percutaneous transluminal insertion of stent into pulmonary artery
 241226006,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 287306002,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
 432652008,Y532,Y53.2 Approach to organ under ultrasonic control
-387714009,E551,E55.1 Open decortication of lesion of lung
-175268008,Y539,Y53.9 Unspecified approach to organ under image control
 431430006,Y931,Y93.1 Gallium-67 imaging scan
 287465001,E591,E59.1 Needle biopsy of lesion of lung
 18455004,E472,E47.2 Closure of fistula of bronchus
@@ -48,7 +43,6 @@ snomed,opcs,opcs_term
 169021003,Y973,Y97.3 Radiology with post contrast
 232622002,E479,E47.9 Unspecified other open operations on bronchus
 233214006,L138,L13.8 Other specified transluminal operations on pulmonary artery
-119749000,Y391,Y39.1 Injection of radiocontrast substance into sinus track from organ NOC
 53168001,T092,T09.2 Open biopsy of lesion of pleura
 4539004,E462,E46.2 Excision of cyst of bronchus
 448287006,Z245,Z24.5 Bronchus
@@ -71,10 +65,7 @@ snomed,opcs,opcs_term
 397396006,E522,E52.2 Aspiration of bronchus NEC
 708884000,E552,E55.2 Open excision of lesion of lung
 241616006,Y971,Y97.1 Radiology with pre and post contrast
-287571005,E522,E52.2 Aspiration of bronchus NEC
 716755000,Y533,Y53.3 Approach to organ under computed tomography scan control
-233217004,L131,L13.1 Percutaneous transluminal embolectomy of pulmonary artery
-175266007,L134,L13.4 Percutaneous transluminal cutting balloon angioplasty of pulmonary artery
 169057008,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 49528005,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
 20142006,E546,E54.6 Reduction of lung volume
@@ -90,19 +81,14 @@ snomed,opcs,opcs_term
 232660006,Z941,Z94.1 Bilateral operation
 66088009,Y939,Y93.9 Unspecified gallium-67 imaging
 169003001,Y973,Y97.3 Radiology with post contrast
-233207009,L041,L04.1 Pulmonary thromboendarterectomy
-233207009,L126,L12.6 Pulmonary artery ligation
 88039007,K012,K01.2 Revision of transplantation of heart and lung
 169021003,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 90249002,E598,E59.8 Other specified other operations on lung
-177784006,T071,T07.1 Decortication of pleura
 233073003,K049,K04.9 Unspecified repair of tetralogy of Fallot
 233224003,L062,L06.2 Creation of anastomosis to main pulmonary artery from ascending aorta NEC
 232632009,E548,E54.8 Other specified excision of lung
 450608000,E482,E48.2 Fibreoptic endoscopic laser destruction of lesion of lower respiratory tract
 82651004,Y258,Y25.8 Other specified suture of organ NOC
-232705007,E522,E52.2 Aspiration of bronchus NEC
-427503001,L136,L13.6 Percutaneous transluminal insertion of stent into pulmonary artery
 443266003,Y939,Y93.9 Unspecified gallium-67 imaging
 441624004,Y941,Y94.1 Dopamine transporter scan
 287306002,E495,"E49.5 Diagnostic fibreoptic endoscopic examination of lower respiratory tract with biopsy, lavage and brush cytology of lesion of lower respiratory tract"
@@ -116,7 +102,6 @@ snomed,opcs,opcs_term
 531000087106,Y971,Y97.1 Radiology with pre and post contrast
 66258007,Y744,Y74.4 Thoracoscopic video-assisted approach to thoracic cavity
 429609002,E546,E54.6 Reduction of lung volume
-233207009,L104,L10.4 Repair of pulmonary arterial sling
 56970000,L054,L05.4 Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and aorta
 169115000,Z246,Z24.6 Lung
 287296007,E528,E52.8 Other specified other operations on bronchus
@@ -138,9 +123,7 @@ snomed,opcs,opcs_term
 29474003,K096,K09.6 Revision of repair of defect of atrioventricular septum
 233114002,L691,L69.1 Major systemic to pulmonary collateral artery occlusion
 233213000,L103,L10.3 Repair of anomalous pulmonary artery NEC
-173113003,E504,E50.4 Endoscopic aspiration of lower respiratory tract using rigid bronchoscope
 444811001,Y533,Y53.3 Approach to organ under computed tomography scan control
-232688000,E546,E54.6 Reduction of lung volume
 119744005,Y421,Y42.1 External manipulation of organ NOC
 119730004,E468,E46.8 Other specified partial extirpation of bronchus
 233071001,K183,K18.3 Creation of valved conduit between right ventricle of heart and pulmonary artery
@@ -149,7 +132,6 @@ snomed,opcs,opcs_term
 19106006,E472,E47.2 Closure of fistula of bronchus
 443266003,Y938,Y93.8 Other specified gallium-67 imaging
 711415002,E548,E54.8 Other specified excision of lung
-233218009,L131,L13.1 Percutaneous transluminal embolectomy of pulmonary artery
 33639009,E543,E54.3 Lobectomy of lung
 736974006,E543,E54.3 Lobectomy of lung
 301083005,Y532,Y53.2 Approach to organ under ultrasonic control
@@ -158,15 +140,11 @@ snomed,opcs,opcs_term
 11519002,G078,G07.8 Other specified repair of oesophagus
 449210005,Y132,Y13.2 Cryotherapy to lesion of organ NOC
 91160008,U217,U21.7 Plain x-ray NEC
-387714009,E552,E55.2 Open excision of lesion of lung
 739141006,E542,E54.2 Bilobectomy of lung
 241304008,Y931,Y93.1 Gallium-67 imaging scan
 261566003,L128,L12.8 Other specified other open operations on pulmonary artery
 175221003,L059,L05.9 Unspecified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
 67244001,Y413,Y41.3 Endoscopic ultrasound examination of organ NOC
-119735009,Y395,Y39.5 Tattooing of organ NOC
-47806007,Y229,Y22.9 Unspecified drainage of organ NOC
-439309000,E551,E55.1 Open decortication of lesion of lung
 6521000087102,Y534,Y53.4 Approach to organ under fluoroscopic control
 29474003,K092,K09.2 Repair of defect of atrioventricular septum using prosthetic patch NEC
 241297009,U152,U15.2 Lung ventilation scanning NEC
@@ -179,7 +157,6 @@ snomed,opcs,opcs_term
 398194002,E473,E47.3 Repair of bronchus NEC
 11519002,G074,G07.4 Repair of rupture of oesophagus
 29474003,K044,K04.4 Revision of repair of tetralogy of Fallot
-233207009,L092,L09.2 Removal of anastomosis between pulmonary artery and vena cava
 232633004,E548,E54.8 Other specified excision of lung
 443145004,Y942,Y94.2 Octreotide imaging
 287306002,E498,E49.8 Other specified diagnostic fibreoptic endoscopic examination of lower respiratory tract
@@ -199,18 +176,15 @@ snomed,opcs,opcs_term
 48616004,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 770700009,Y145,Y14.5 Insertion of stent graft into organ NOC
 443237001,Y943,Y94.3 Metaiodobenzylguanidine imaging
-119735009,Y389,Y38.9 Unspecified injection of therapeutic substance into organ NOC
 241226006,Y538,Y53.8 Other specified approach to organ under image control
 448766000,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 43831007,Y538,Y53.8 Other specified approach to organ under image control
 169142004,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 431430006,Y948,Y94.8 Other specified radiopharmaceutical imaging
 49795001,E541,E54.1 Total pneumonectomy
-233207009,L108,L10.8 Other specified repair of pulmonary artery
 54057009,E493,E49.3 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and brush cytology of lesion of lower respiratory tract
 726425007,E543,E54.3 Lobectomy of lung
 175267003,Y534,Y53.4 Approach to organ under fluoroscopic control
-233207009,L139,L13.9 Unspecified transluminal operations on pulmonary artery
 58074001,E473,E47.3 Repair of bronchus NEC
 718289006,L134,L13.4 Percutaneous transluminal cutting balloon angioplasty of pulmonary artery
 788820009,Z246,Z24.6 Lung
@@ -220,7 +194,6 @@ snomed,opcs,opcs_term
 441959001,L078,L07.8 Other specified creation of shunt to pulmonary artery from subclavian artery using interposition tube prosthesis
 287465001,Y538,Y53.8 Other specified approach to organ under image control
 6531000087100,Z942,Z94.2 Right sided operation
-119749000,Y381,Y38.1 Continuous injection of therapeutic substance into organ NOC
 425948009,Y533,Y53.3 Approach to organ under computed tomography scan control
 11519002,G073,G07.3 Correction of congenital atresia of oesophagus
 53168001,S601,S60.1 Dermabrasion of skin of head or neck
@@ -228,7 +201,6 @@ snomed,opcs,opcs_term
 241227002,Y539,Y53.9 Unspecified approach to organ under image control
 169142004,U158,U15.8 Other specified diagnostic imaging of respiratory system
 418786005,Z401,Z40.1 Pulmonary artery
-233207009,L068,L06.8 Other specified other connection to pulmonary artery from aorta
 3001009,E473,E47.3 Repair of bronchus NEC
 233226001,L073,L07.3 Closure of prosthetic shunt to pulmonary artery from subclavian artery
 431434002,L711,L71.1 Percutaneous transluminal angioplasty of artery
@@ -243,13 +215,11 @@ snomed,opcs,opcs_term
 233213000,L101,L10.1 Repair of pulmonary artery using prosthesis
 301083005,L125,L12.5 Open embolisation of pulmonary artery
 119746007,E548,E54.8 Other specified excision of lung
-736748006,E546,E54.6 Reduction of lung volume
 21831008,Y413,Y41.3 Endoscopic ultrasound examination of organ NOC
 241298004,U152,U15.2 Lung ventilation scanning NEC
 243685008,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
 116165008,E546,E54.6 Reduction of lung volume
 175223000,L052,L05.2 Creation of shunt to right pulmonary artery from ascending aorta using interposition tube prosthesis
-715563006,Y763,Y76.3 Endoscopic approach to other body cavity
 116165008,E545,E54.5 Partial lobectomy of lung NEC
 61000087103,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 66258007,Y741,Y74.1 Thoracoscopically assisted approach to thoracic cavity
@@ -264,7 +234,6 @@ snomed,opcs,opcs_term
 241112009,U217,U21.7 Plain x-ray NEC
 448766000,O161,O16.1 Pelvis NEC
 287296007,Y409,Y40.9 Unspecified dilation of organ NOC
-715563006,Y022,Y02.2 Insertion of prosthesis into organ NOC
 713162006,Y991,Y99.1 Cadaveric donor
 119755005,E571,E57.1 Repair of lung
 233072008,K044,K04.4 Revision of repair of tetralogy of Fallot
@@ -278,7 +247,6 @@ snomed,opcs,opcs_term
 337877003,Y493,Y49.3 Thoracotomy approach NEC
 58074001,Y279,Y27.9 Unspecified graft to organ NOC
 711415002,E542,E54.2 Bilobectomy of lung
-233207009,L091,L09.1 Creation of anastomosis to pulmonary artery from vena cava
 49795001,E441,E44.1 Excision of carina
 448287006,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
 441624004,U214,U21.4 Single photon emission computed tomography NEC
@@ -288,12 +256,10 @@ snomed,opcs,opcs_term
 443237001,Y948,Y94.8 Other specified radiopharmaceutical imaging
 432652008,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
 448020002,L058,L05.8 Other specified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
-233207009,L102,L10.2 Repair of pulmonary artery using patch
 233073003,K041,K04.1 Repair of tetralogy of Fallot using valved right ventricular outflow conduit
 739141006,Z942,Z94.2 Right sided operation
 433030005,L128,L12.8 Other specified other open operations on pulmonary artery
 173098009,E464,E46.4 Open destruction of lesion of bronchus
-387714009,E574,E57.4 Incision of lung NEC
 51000087101,U215,U21.5 Contrast fluoroscopy NEC
 531000087106,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 433857008,L136,L13.6 Percutaneous transluminal insertion of stent into pulmonary artery
@@ -306,7 +272,6 @@ snomed,opcs,opcs_term
 233226001,L079,L07.9 Unspecified creation of shunt to pulmonary artery from subclavian artery using interposition tube prosthesis
 735016006,Z942,Z94.2 Right sided operation
 119746007,E552,E55.2 Open excision of lesion of lung
-175260001,L122,L12.2 Adjustment of band to pulmonary artery
 173176002,E551,E55.1 Open decortication of lesion of lung
 241053004,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 261490004,E442,E44.2 Reconstruction of carina
@@ -314,18 +279,15 @@ snomed,opcs,opcs_term
 84200003,Y538,Y53.8 Other specified approach to organ under image control
 169057008,Y971,Y97.1 Radiology with pre and post contrast
 169003001,U215,U21.5 Contrast fluoroscopy NEC
-426900002,L041,L04.1 Pulmonary thromboendarterectomy
 718288003,Y534,Y53.4 Approach to organ under fluoroscopic control
 58074001,Y275,Y27.5 Vein graft NOC
 84041000,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 427800005,Y291,Y29.1 Surgical removal of foreign body from organ NOC
-119749000,Y388,Y38.8 Other specified injection of therapeutic substance into organ NOC
 431430006,Y943,Y94.3 Metaiodobenzylguanidine imaging
 426436008,L104,L10.4 Repair of pulmonary arterial sling
 233097007,K188,K18.8 Other specified creation of valved cardiac conduit
 397397002,E506,E50.6 Endoscopic irrigation of lower respiratory tract using rigid bronchoscope
 449210005,Z245,Z24.5 Bronchus
-119735009,E529,E52.9 Unspecified other operations on bronchus
 25321000,E441,E44.1 Excision of carina
 444188003,E548,E54.8 Other specified excision of lung
 169003001,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
@@ -342,14 +304,12 @@ snomed,opcs,opcs_term
 53168001,E472,E47.2 Closure of fistula of bronchus
 175236000,L072,L07.2 Creation of shunt to left pulmonary artery from left subclavian artery using interposition tube prosthesis
 49528005,E553,E55.3 Open cauterisation of lesion of lung
-33501008,E528,E52.8 Other specified other operations on bronchus
 233136004,K173,K17.3 Aortopulmonary reconstruction with systemic to pulmonary arterial shunt
 431430006,Y941,Y94.1 Dopamine transporter scan
 43831007,Y531,Y53.1 Approach to organ under radiological control
 119746007,E546,E54.6 Reduction of lung volume
 439939004,Z245,Z24.5 Bronchus
 233137008,K176,K17.6 Takedown of total cavopulmonary connection
-387714009,E543,E54.3 Lobectomy of lung
 703519007,K193,K19.3 Creation of conduit between right ventricle of heart and pulmonary artery NEC
 531000087106,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 241540006,Z246,Z24.6 Lung
@@ -363,13 +323,10 @@ snomed,opcs,opcs_term
 66088009,Y938,Y93.8 Other specified gallium-67 imaging
 765041007,Y531,Y53.1 Approach to organ under radiological control
 58074001,Y274,Y27.4 Attention to graft of organ NOC
-387714009,E594,E59.4 Drainage of lung
 870380006,Y971,Y97.1 Radiology with pre and post contrast
 233137008,K179,K17.9 Unspecified repair of univentricular heart
 447878005,L064,L06.4 Creation of anastomosis to left pulmonary artery from descending aorta NEC
 443145004,Y948,Y94.8 Other specified radiopharmaceutical imaging
-76480009,L131,L13.1 Percutaneous transluminal embolectomy of pulmonary artery
-277997000,L138,L13.8 Other specified transluminal operations on pulmonary artery
 431430006,Y939,Y93.9 Unspecified gallium-67 imaging
 301083005,Y534,Y53.4 Approach to organ under fluoroscopic control
 310407000,Y263,Y26.3 Stapling of organ NOC
@@ -390,13 +347,11 @@ snomed,opcs,opcs_term
 119755005,Y268,Y26.8 Other specified other repair of organ NOC
 448287006,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
 169142004,Y938,Y93.8 Other specified gallium-67 imaging
-387714009,E571,E57.1 Repair of lung
 11519002,G079,G07.9 Unspecified repair of oesophagus
 232650002,E572,E57.2 Ligation of bulla of lung
 119746007,E542,E54.2 Bilobectomy of lung
 718683004,L134,L13.4 Percutaneous transluminal cutting balloon angioplasty of pulmonary artery
 233097007,K044,K04.4 Revision of repair of tetralogy of Fallot
-233207009,L129,L12.9 Unspecified other open operations on pulmonary artery
 58079006,E528,E52.8 Other specified other operations on bronchus
 431489004,Y534,Y53.4 Approach to organ under fluoroscopic control
 119730004,E463,E46.3 Excision of lesion of bronchus NEC
@@ -414,7 +369,6 @@ snomed,opcs,opcs_term
 173098009,E469,E46.9 Unspecified partial extirpation of bronchus
 429932001,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
 444811001,E595,E59.5 Percutaneous radiofrequency ablation of lesion of lung
-47806007,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
 241227002,Y536,Y53.6 Approach to organ under video control
 241112009,Z246,Z24.6 Lung
 232647000,E541,E54.1 Total pneumonectomy
@@ -434,13 +388,10 @@ snomed,opcs,opcs_term
 10558003,T092,T09.2 Open biopsy of lesion of pleura
 241540006,Z941,Z94.1 Bilateral operation
 870380006,Y973,Y97.3 Radiology with post contrast
-119735009,Y392,Y39.2 Other injection of radiocontrast substance into organ NOC
 427800005,E578,E57.8 Other specified other open operations on lung
-300017005,E598,E59.8 Other specified other operations on lung
 447878005,L068,L06.8 Other specified other connection to pulmonary artery from aorta
 173121009,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
 40902008,E473,E47.3 Repair of bronchus NEC
-736748006,Y362,Y36.2 Introduction of therapeutic implant into organ NOC
 232622002,E471,E47.1 Open biopsy of lesion of bronchus NEC
 433240003,Y534,Y53.4 Approach to organ under fluoroscopic control
 241293008,U158,U15.8 Other specified diagnostic imaging of respiratory system
@@ -455,22 +406,17 @@ snomed,opcs,opcs_term
 90249002,E599,E59.9 Unspecified other operations on lung
 449550007,L054,L05.4 Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and aorta
 169115000,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
-439433005,E598,E59.8 Other specified other operations on lung
 448766000,Z926,Z92.6 Abdomen NEC
 233072008,K043,K04.3 Repair of tetralogy of Fallot using transannular patch
-387714009,E558,E55.8 Other specified open extirpation of lesion of lung
 56970000,L051,L05.1 Creation of shunt to main pulmonary artery from ascending aorta using interposition tube prosthesis
 173176002,E554,E55.4 Open destruction of lesion of lung NEC
-300017005,Y222,Y22.2 Aspiration of other lesion of organ NOC
 241303002,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 116165008,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
-49404006,A605,A60.5 Injection of destructive substance into peripheral nerve
 447879002,L052,L05.2 Creation of shunt to right pulmonary artery from ascending aorta using interposition tube prosthesis
 56970000,L058,L05.8 Other specified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
 447879002,L063,L06.3 Creation of anastomosis to right pulmonary artery from ascending aorta NEC
 233073003,K193,K19.3 Creation of conduit between right ventricle of heart and pulmonary artery NEC
 52340003,L133,L13.3 Arteriography of pulmonary artery
-387714009,E579,E57.9 Unspecified other open operations on lung
 53168001,Y074,Y07.4 Obliteration of diverticulum of organ NOC
 449550007,L059,L05.9 Unspecified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
 20142006,E548,E54.8 Other specified excision of lung
@@ -484,27 +430,22 @@ snomed,opcs,opcs_term
 82651004,Y251,Y25.1 Suture of laceration of organ NOC
 698009006,Y763,Y76.3 Endoscopic approach to other body cavity
 287309009,E552,E55.2 Open excision of lesion of lung
-119735009,Y391,Y39.1 Injection of radiocontrast substance into sinus track from organ NOC
 29785002,Y222,Y22.2 Aspiration of other lesion of organ NOC
 21831008,Y419,Y41.9 Unspecified examination of organ NOC
 59325001,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
 708812005,Y538,Y53.8 Other specified approach to organ under image control
 433256008,L134,L13.4 Percutaneous transluminal cutting balloon angioplasty of pulmonary artery
 241227002,Y531,Y53.1 Approach to organ under radiological control
-233217004,L124,L12.4 Open embolectomy of pulmonary artery
 25321000,E541,E54.1 Total pneumonectomy
 79653008,E502,E50.2 Endoscopic laser destruction of lesion of lower respiratory tract using rigid bronchoscope
 310394000,Y263,Y26.3 Stapling of organ NOC
-233207009,L051,L05.1 Creation of shunt to main pulmonary artery from ascending aorta using interposition tube prosthesis
 425979008,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 232657004,E532,E53.2 Single lung transplant
 232660006,E538,E53.8 Other specified transplantation of lung
 51000087101,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 62843007,Y421,Y42.1 External manipulation of organ NOC
-232591009,Z245,Z24.5 Bronchus
 233224003,L064,L06.4 Creation of anastomosis to left pulmonary artery from descending aorta NEC
 433030005,Y534,Y53.4 Approach to organ under fluoroscopic control
-233207009,L081,L08.1 Creation of anastomosis to right pulmonary artery from right subclavian artery NEC
 6611000179105,Z245,Z24.5 Bronchus
 241303002,Y939,Y93.9 Unspecified gallium-67 imaging
 788820009,E483,E48.3 Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC
@@ -515,7 +456,6 @@ snomed,opcs,opcs_term
 173098009,E463,E46.3 Excision of lesion of bronchus NEC
 16334008,L073,L07.3 Closure of prosthetic shunt to pulmonary artery from subclavian artery
 233072008,K041,K04.1 Repair of tetralogy of Fallot using valved right ventricular outflow conduit
-233207009,L121,L12.1 Application of band to pulmonary artery
 233136004,K172,K17.2 Total cavopulmonary connection with lateral atrial tunnel
 431721002,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
 425948009,L135,L13.5 Percutaneous transluminal balloon angioplasty of pulmonary artery NEC
@@ -525,20 +465,15 @@ snomed,opcs,opcs_term
 726428009,E543,E54.3 Lobectomy of lung
 88039007,E532,E53.2 Single lung transplant
 431721002,E495,"E49.5 Diagnostic fibreoptic endoscopic examination of lower respiratory tract with biopsy, lavage and brush cytology of lesion of lower respiratory tract"
-233207009,L054,L05.4 Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and aorta
 233072008,K049,K04.9 Unspecified repair of tetralogy of Fallot
-233207009,L067,L06.7 Takedown of anastomosis to pulmonary artery from aorta
 274318008,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
 54854003,K193,K19.3 Creation of conduit between right ventricle of heart and pulmonary artery NEC
 75935006,Y744,Y74.4 Thoracoscopic video-assisted approach to thoracic cavity
-119749000,E598,E59.8 Other specified other operations on lung
 241541005,Y973,Y97.3 Radiology with post contrast
 53168001,Y073,Y07.3 Obliteration of sinus track from organ NOC
 425979008,Y534,Y53.4 Approach to organ under fluoroscopic control
 441677009,U158,U15.8 Other specified diagnostic imaging of respiratory system
-387714009,E546,E54.6 Reduction of lung volume
 432074001,L138,L13.8 Other specified transluminal operations on pulmonary artery
-233207009,L134,L13.4 Percutaneous transluminal cutting balloon angioplasty of pulmonary artery
 119746007,E545,E54.5 Partial lobectomy of lung NEC
 241540006,Y971,Y97.1 Radiology with pre and post contrast
 87387006,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
@@ -549,23 +484,19 @@ snomed,opcs,opcs_term
 116165008,E548,E54.8 Other specified excision of lung
 447786004,L062,L06.2 Creation of anastomosis to main pulmonary artery from ascending aorta NEC
 54057009,E485,E48.5 Fibreoptic endoscopic removal of foreign body from lower respiratory tract
-387714009,E545,E54.5 Partial lobectomy of lung NEC
 232658009,E531,E53.1 Double lung transplant
 8382008,L088,L08.8 Other specified other connection to pulmonary artery from subclavian artery
 90249002,E594,E59.4 Drainage of lung
 310412004,Y071,Y07.1 Ligation of organ NOC
 61000087103,Z245,Z24.5 Bronchus
-119735009,Y398,Y39.8 Other specified injection of other substance into organ NOC
 119755005,Y263,Y26.3 Stapling of organ NOC
 241541005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 241111002,Y971,Y97.1 Radiology with pre and post contrast
 241616006,Z246,Z24.6 Lung
 232657004,K011,K01.1 Allotransplantation of heart and lung
 233211003,Y162,Y16.2 Anastomosis of organ NOC
-175268008,Y533,Y53.3 Approach to organ under computed tomography scan control
 726428009,Z942,Z94.2 Right sided operation
 233022006,K046,K04.6 Repair of Fallot-type pulmonary atresia with aortopulmonary collaterals
-65677008,L128,L12.8 Other specified other open operations on pulmonary artery
 449550007,L064,L06.4 Creation of anastomosis to left pulmonary artery from descending aorta NEC
 450608000,E503,E50.3 Endoscopic destruction of lesion of lower respiratory tract using rigid bronchoscope NEC
 35295005,Y538,Y53.8 Other specified approach to organ under image control
@@ -574,19 +505,16 @@ snomed,opcs,opcs_term
 233224003,L063,L06.3 Creation of anastomosis to right pulmonary artery from ascending aorta NEC
 765041007,Y536,Y53.6 Approach to organ under video control
 175267003,Y531,Y53.1 Approach to organ under radiological control
-450347006,Z245,Z24.5 Bronchus
 233224003,L068,L06.8 Other specified other connection to pulmonary artery from aorta
 51230002,T094,T09.4 Chemical open pleurodesis
 241227002,Y532,Y53.2 Approach to organ under ultrasonic control
 90249002,E592,E59.2 Aspiration biopsy of lesion of lung
 66088009,Y943,Y94.3 Metaiodobenzylguanidine imaging
 439939004,Y413,Y41.3 Endoscopic ultrasound examination of organ NOC
-233207009,L086,L08.6 Percutaneous transluminal balloon dilation of anastomosis between pulmonary artery and subclavian artery
 232653000,E571,E57.1 Repair of lung
 397396006,E489,E48.9 Unspecified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 21731000087107,Y534,Y53.4 Approach to organ under fluoroscopic control
 241295001,U151,U15.1 Lung perfusion scanning NEC
-232591009,E498,E49.8 Other specified diagnostic fibreoptic endoscopic examination of lower respiratory tract
 449550007,L065,L06.5 Creation of anastomosis to pulmonary artery from aorta NEC
 6521000087102,Z943,Z94.3 Left sided operation
 397396006,E505,E50.5 Endoscopic removal of foreign body from lower respiratory tract using rigid bronchoscope
@@ -596,9 +524,7 @@ snomed,opcs,opcs_term
 441624004,Y931,Y93.1 Gallium-67 imaging scan
 1156264009,Y533,Y53.3 Approach to organ under computed tomography scan control
 54057009,E519,E51.9 Unspecified diagnostic endoscopic examination of lower respiratory tract using rigid bronchoscope
-233207009,L088,L08.8 Other specified other connection to pulmonary artery from subclavian artery
 119746007,E544,E54.4 Excision of segment of lung
-233536005,L138,L13.8 Other specified transluminal operations on pulmonary artery
 169003001,Z246,Z24.6 Lung
 447950005,L053,L05.3 Creation of shunt to left pulmonary artery from ascending aorta using interposition tube prosthesis
 449550007,L069,L06.9 Unspecified other connection to pulmonary artery from aorta
@@ -607,14 +533,12 @@ snomed,opcs,opcs_term
 233134001,K558,K55.8 Other specified other open operations on heart
 442278005,L091,L09.1 Creation of anastomosis to pulmonary artery from vena cava
 708813000,Y538,Y53.8 Other specified approach to organ under image control
-175261002,L123,L12.3 Removal of band from pulmonary artery
 233226001,L089,L08.9 Unspecified other connection to pulmonary artery from subclavian artery
 54057009,E505,E50.5 Endoscopic removal of foreign body from lower respiratory tract using rigid bronchoscope
 870380006,U364,U36.4 Ultrasound elastography
 169142004,Y948,Y94.8 Other specified radiopharmaceutical imaging
 8382008,L074,L07.4 Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and subclavian artery
 449550007,L063,L06.3 Creation of anastomosis to right pulmonary artery from ascending aorta NEC
-387714009,E541,E54.1 Total pneumonectomy
 119000,Y742,Y74.2 Thoracoscopic approach to thoracic cavity NEC
 233022006,K045,K04.5 Repair of tetralogy of Fallot with absent pulmonary valve
 443266003,U214,U21.4 Single photon emission computed tomography NEC
@@ -622,11 +546,9 @@ snomed,opcs,opcs_term
 301083005,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 8382008,L083,L08.3 Creation of anastomosis to pulmonary artery from subclavian artery NEC
 43831007,E595,E59.5 Percutaneous radiofrequency ablation of lesion of lung
-71308004,L124,L12.4 Open embolectomy of pulmonary artery
 232641004,E543,E54.3 Lobectomy of lung
 173098009,E468,E46.8 Other specified partial extirpation of bronchus
 310393006,E571,E57.1 Repair of lung
-233537001,L138,L13.8 Other specified transluminal operations on pulmonary artery
 425948009,L134,L13.4 Percutaneous transluminal cutting balloon angioplasty of pulmonary artery
 431721002,E593,E59.3 Biopsy of lesion of lung NEC
 397396006,E485,E48.5 Fibreoptic endoscopic removal of foreign body from lower respiratory tract
@@ -637,28 +559,23 @@ snomed,opcs,opcs_term
 233074009,Z941,Z94.1 Bilateral operation
 233072008,K045,K04.5 Repair of tetralogy of Fallot with absent pulmonary valve
 175250005,L092,L09.2 Removal of anastomosis between pulmonary artery and vena cava
-119749000,Y399,Y39.9 Unspecified injection of other substance into organ NOC
 449550007,L051,L05.1 Creation of shunt to main pulmonary artery from ascending aorta using interposition tube prosthesis
 61339001,E528,E52.8 Other specified other operations on bronchus
 54057009,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 443145004,Y938,Y93.8 Other specified gallium-67 imaging
 387748005,E553,E55.3 Open cauterisation of lesion of lung
-233207009,L132,L13.2 Percutaneous transluminal embolisation of pulmonary artery
 448766000,Z401,Z40.1 Pulmonary artery
 1137699004,T874,T87.4 Excision or biopsy of mediastinal lymph node
 90249002,E591,E59.1 Needle biopsy of lesion of lung
 67244001,E574,E57.4 Incision of lung NEC
 232659001,K011,K01.1 Allotransplantation of heart and lung
 173102001,E464,E46.4 Open destruction of lesion of bronchus
-240947007,L128,L12.8 Other specified other open operations on pulmonary artery
 441959001,L084,L08.4 Revision of anastomosis to pulmonary artery from subclavian artery
 241053004,Z246,Z24.6 Lung
 35295005,Y536,Y53.6 Approach to organ under video control
 443145004,Y941,Y94.1 Dopamine transporter scan
-119735009,Y399,Y39.9 Unspecified injection of other substance into organ NOC
 232646009,Y712,Y71.2 Secondary operations NOC
 81070005,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
-175266007,L135,L13.5 Percutaneous transluminal balloon angioplasty of pulmonary artery NEC
 241304008,Z246,Z24.6 Lung
 232636007,Z942,Z94.2 Right sided operation
 175238004,L072,L07.2 Creation of shunt to left pulmonary artery from left subclavian artery using interposition tube prosthesis
@@ -675,11 +592,9 @@ snomed,opcs,opcs_term
 233224003,L052,L05.2 Creation of shunt to right pulmonary artery from ascending aorta using interposition tube prosthesis
 175237009,L071,L07.1 Creation of shunt to right pulmonary artery from right subclavian artery using interposition tube prosthesis
 739139005,E542,E54.2 Bilobectomy of lung
-387714009,E533,E53.3 Single lobe lung transplant
 1137699004,E632,E63.2 Endobronchial ultrasound examination of mediastinum
 449550007,L066,L06.6 Revision of anastomosis to pulmonary artery from aorta
 232622002,E462,E46.2 Excision of cyst of bronchus
-262199005,E478,E47.8 Other specified other open operations on bronchus
 54057009,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
 829831000000100,Y374,Y37.4 Insertion of marker into organ NOC
 431721002,Y534,Y53.4 Approach to organ under fluoroscopic control
@@ -687,7 +602,6 @@ snomed,opcs,opcs_term
 13662000,L086,L08.6 Percutaneous transluminal balloon dilation of anastomosis between pulmonary artery and subclavian artery
 241540006,U212,U21.2 Computed tomography NEC
 433240003,L661,L66.1 Percutaneous transluminal arterial thrombolysis and reconstruction
-274434007,E504,E50.4 Endoscopic aspiration of lower respiratory tract using rigid bronchoscope
 431489004,L133,L13.3 Arteriography of pulmonary artery
 531000087106,Z941,Z94.1 Bilateral operation
 233073003,K043,K04.3 Repair of tetralogy of Fallot using transannular patch
@@ -697,20 +611,14 @@ snomed,opcs,opcs_term
 397396006,E486,E48.6 Fibreoptic endoscopic irrigation of lower respiratory tract
 233097007,K042,K04.2 Repair of tetralogy of Fallot using right ventricular outflow conduit NEC
 233208004,L128,L12.8 Other specified other open operations on pulmonary artery
-76480009,L124,L12.4 Open embolectomy of pulmonary artery
 175267003,Y533,Y53.3 Approach to organ under computed tomography scan control
 711415002,E545,E54.5 Partial lobectomy of lung NEC
 243685008,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
 51230002,Y074,Y07.4 Obliteration of diverticulum of organ NOC
-233207009,L048,L04.8 Other specified open operations on pulmonary arterial tree
-47806007,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 241226006,Y534,Y53.4 Approach to organ under fluoroscopic control
 233208004,L122,L12.2 Adjustment of band to pulmonary artery
-232688000,Z245,Z24.5 Bronchus
 241293008,Y941,Y94.1 Dopamine transporter scan
-4670000,E528,E52.8 Other specified other operations on bronchus
 718683004,L135,L13.5 Percutaneous transluminal balloon angioplasty of pulmonary artery NEC
-232654006,E594,E59.4 Drainage of lung
 1119344002,Z245,Z24.5 Bronchus
 703519007,K195,K19.5 Creation of conduit between left ventricle of heart and aorta NEC
 870380006,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
@@ -729,7 +637,6 @@ snomed,opcs,opcs_term
 51000087101,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 175236000,L073,L07.3 Closure of prosthetic shunt to pulmonary artery from subclavian artery
 443237001,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
-233207009,L058,L05.8 Other specified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
 765042000,Y533,Y53.3 Approach to organ under computed tomography scan control
 708813000,Y535,Y53.5 Approach to organ under image intensifier
 448766000,Y973,Y97.3 Radiology with post contrast
@@ -742,11 +649,9 @@ snomed,opcs,opcs_term
 232649002,E573,E57.3 Deflation of bulla of lung
 397398007,E486,E48.6 Fibreoptic endoscopic irrigation of lower respiratory tract
 241227002,Y534,Y53.4 Approach to organ under fluoroscopic control
-439817002,T148,T14.8 Other specified other operations on pleura
 21831008,E478,E47.8 Other specified other open operations on bronchus
 442203000,Y939,Y93.9 Unspecified gallium-67 imaging
 8382008,L072,L07.2 Creation of shunt to left pulmonary artery from left subclavian artery using interposition tube prosthesis
-387714009,E595,E59.5 Percutaneous radiofrequency ablation of lesion of lung
 232646009,E541,E54.1 Total pneumonectomy
 432652008,E591,E59.1 Needle biopsy of lesion of lung
 21731000087107,Z941,Z94.1 Bilateral operation
@@ -759,8 +664,6 @@ snomed,opcs,opcs_term
 442203000,Y941,Y94.1 Dopamine transporter scan
 74878007,E442,E44.2 Reconstruction of carina
 233224003,L065,L06.5 Creation of anastomosis to pulmonary artery from aorta NEC
-450347006,E484,E48.4 Fibreoptic endoscopic aspiration of lower respiratory tract
-335850008,E594,E59.4 Drainage of lung
 443396005,E594,E59.4 Drainage of lung
 75935006,E542,E54.2 Bilobectomy of lung
 448523009,Z246,Z24.6 Lung
@@ -770,7 +673,6 @@ snomed,opcs,opcs_term
 13662000,L082,L08.2 Creation of anastomosis to left pulmonary artery from left subclavian artery NEC
 24599003,L722,L72.2 Monitoring of arterial pressure
 233146002,L098,L09.8 Other specified other connection to pulmonary artery
-175268008,Y536,Y53.6 Approach to organ under video control
 443396005,Y533,Y53.3 Approach to organ under computed tomography scan control
 8382008,L071,L07.1 Creation of shunt to right pulmonary artery from right subclavian artery using interposition tube prosthesis
 51230002,T099,T09.9 Unspecified other open operations on pleura
@@ -788,7 +690,6 @@ snomed,opcs,opcs_term
 442877005,Y532,Y53.2 Approach to organ under ultrasonic control
 711415002,E543,E54.3 Lobectomy of lung
 33639009,T071,T07.1 Decortication of pleura
-233207009,L075,L07.5 Percutaneous transluminal occlusion of interposition tube prosthesis between pulmonary artery and subclavian artery
 425979008,Y531,Y53.1 Approach to organ under radiological control
 301083005,Y533,Y53.3 Approach to organ under computed tomography scan control
 232659001,K012,K01.2 Revision of transplantation of heart and lung
@@ -797,27 +698,20 @@ snomed,opcs,opcs_term
 397396006,E509,E50.9 Unspecified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
 447878005,L052,L05.2 Creation of shunt to right pulmonary artery from ascending aorta using interposition tube prosthesis
 440466000,Z246,Z24.6 Lung
-232688000,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 232640003,E543,E54.3 Lobectomy of lung
 301083005,Y539,Y53.9 Unspecified approach to organ under image control
-233207009,L135,L13.5 Percutaneous transluminal balloon angioplasty of pulmonary artery NEC
 726425007,Z942,Z94.2 Right sided operation
-427193001,L073,L07.3 Closure of prosthetic shunt to pulmonary artery from subclavian artery
 67244001,Y411,Y41.1 Examination of organ under anaesthetic NOC
-119749000,E594,E59.4 Drainage of lung
 440466000,Y942,Y94.2 Octreotide imaging
-233207009,L073,L07.3 Closure of prosthetic shunt to pulmonary artery from subclavian artery
 53168001,S602,S60.2 Dermabrasion of skin NEC
 233073003,K045,K04.5 Repair of tetralogy of Fallot with absent pulmonary valve
 169057008,Y973,Y97.3 Radiology with post contrast
 173176002,E552,E55.2 Open excision of lesion of lung
 397396006,E504,E50.4 Endoscopic aspiration of lower respiratory tract using rigid bronchoscope
 112813007,L013,L01.3 Repair of anomalous pulmonary artery origin from ascending aorta
-49404006,Z128,Z12.8 Specified nerve NEC
 119730004,E464,E46.4 Open destruction of lesion of bronchus
 232638008,Z943,Z94.3 Left sided operation
 359618004,E544,E54.4 Excision of segment of lung
-450347006,E504,E50.4 Endoscopic aspiration of lower respiratory tract using rigid bronchoscope
 277437006,Y248,Y24.8 Other specified microvascular repair of organ NOC
 175236000,L075,L07.5 Percutaneous transluminal occlusion of interposition tube prosthesis between pulmonary artery and subclavian artery
 770700009,Y149,Y14.9 Unspecified placement of stent in organ NOC
@@ -827,22 +721,17 @@ snomed,opcs,opcs_term
 67244001,E571,E57.1 Repair of lung
 233213000,L104,L10.4 Repair of pulmonary arterial sling
 241542003,Z246,Z24.6 Lung
-49404006,A601,A60.1 Enucleation of peripheral nerve
-233207009,L078,L07.8 Other specified creation of shunt to pulmonary artery from subclavian artery using interposition tube prosthesis
 735015005,Z943,Z94.3 Left sided operation
 10558003,T099,T09.9 Unspecified other open operations on pleura
 429932001,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
-233207009,L061,L06.1 Creation of aortopulmonary window
 310478006,L102,L10.2 Repair of pulmonary artery using patch
 718289006,L135,L13.5 Percutaneous transluminal balloon angioplasty of pulmonary artery NEC
 233228000,L091,L09.1 Creation of anastomosis to pulmonary artery from vena cava
 173154006,E483,E48.3 Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC
-715563006,E546,E54.6 Reduction of lung volume
 301083005,Y535,Y53.5 Approach to organ under image intensifier
 56897006,Y493,Y49.3 Thoracotomy approach NEC
 429332008,E533,E53.3 Single lobe lung transplant
 82651004,Y259,Y25.9 Unspecified suture of organ NOC
-233207009,L065,L06.5 Creation of anastomosis to pulmonary artery from aorta NEC
 54057009,E494,E49.4 Diagnostic fibreoptic endoscopic examination of lower respiratory tract with lavage and brush cytology of lesion of lower respiratory tract
 54057009,E502,E50.2 Endoscopic laser destruction of lesion of lower respiratory tract using rigid bronchoscope
 233071001,K045,K04.5 Repair of tetralogy of Fallot with absent pulmonary valve
@@ -851,7 +740,6 @@ snomed,opcs,opcs_term
 169142004,Y931,Y93.1 Gallium-67 imaging scan
 716755000,E598,E59.8 Other specified other operations on lung
 241227002,L133,L13.3 Arteriography of pulmonary artery
-233207009,L133,L13.3 Arteriography of pulmonary artery
 84041000,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
 233208004,L125,L12.5 Open embolisation of pulmonary artery
 173098009,E462,E46.2 Excision of cyst of bronchus
@@ -870,15 +758,12 @@ snomed,opcs,opcs_term
 429122009,L136,L13.6 Percutaneous transluminal insertion of stent into pulmonary artery
 429575001,K062,K06.2 Left ventricle to aorta tunnel with right ventricle to pulmonary trunk direct anastomosis
 173176002,E559,E55.9 Unspecified open extirpation of lesion of lung
-387714009,E531,E53.1 Double lung transplant
 233224003,L066,L06.6 Revision of anastomosis to pulmonary artery from aorta
 441624004,Y939,Y93.9 Unspecified gallium-67 imaging
 173111001,E502,E50.2 Endoscopic laser destruction of lesion of lower respiratory tract using rigid bronchoscope
 54057009,E487,E48.7 Fibreoptic endoscopic photodynamic therapy of lesion of lower respiratory tract
 173191000,E592,E59.2 Aspiration biopsy of lesion of lung
 397396006,Z243,Z24.3 Trachea
-232688000,E528,E52.8 Other specified other operations on bronchus
-387714009,E593,E59.3 Biopsy of lesion of lung NEC
 425948009,Y535,Y53.5 Approach to organ under image intensifier
 433857008,Y534,Y53.4 Approach to organ under fluoroscopic control
 443266003,Y948,Y94.8 Other specified radiopharmaceutical imaging
@@ -892,7 +777,6 @@ snomed,opcs,opcs_term
 29785002,E471,E47.1 Open biopsy of lesion of bronchus NEC
 233097007,K049,K04.9 Unspecified repair of tetralogy of Fallot
 441624004,Y943,Y94.3 Metaiodobenzylguanidine imaging
-233207009,L087,L08.7 Percutaneous transluminal occlusion of anastomosis between pulmonary artery and subclavian artery
 708813000,Y539,Y53.9 Unspecified approach to organ under image control
 440466000,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 444188003,Y744,Y74.4 Thoracoscopic video-assisted approach to thoracic cavity
@@ -900,18 +784,15 @@ snomed,opcs,opcs_term
 447878005,L061,L06.1 Creation of aortopulmonary window
 53168001,S606,S60.6 Electrolysis of hair
 425979008,Y535,Y53.5 Approach to organ under image intensifier
-736748006,Y763,Y76.3 Endoscopic approach to other body cavity
 708812005,Y535,Y53.5 Approach to organ under image intensifier
 233210002,Y259,Y25.9 Unspecified suture of organ NOC
 736671000,Y534,Y53.4 Approach to organ under fluoroscopic control
-175268008,Y534,Y53.4 Approach to organ under fluoroscopic control
 1119344002,Z943,Z94.3 Left sided operation
 233226001,L082,L08.2 Creation of anastomosis to left pulmonary artery from left subclavian artery NEC
 443386001,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 241303002,Y938,Y93.8 Other specified gallium-67 imaging
 241304008,Y941,Y94.1 Dopamine transporter scan
 232624001,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
-175266007,L133,L13.3 Arteriography of pulmonary artery
 20142006,E544,E54.4 Excision of segment of lung
 233134001,L062,L06.2 Creation of anastomosis to main pulmonary artery from ascending aorta NEC
 770700009,Y142,Y14.2 Insertion of expanding metal stent into organ NOC
@@ -926,19 +807,16 @@ snomed,opcs,opcs_term
 61000087103,Y973,Y97.3 Radiology with post contrast
 20142006,E549,E54.9 Unspecified excision of lung
 233073003,Z943,Z94.3 Left sided operation
-233207009,L053,L05.3 Creation of shunt to left pulmonary artery from ascending aorta using interposition tube prosthesis
 450873006,E598,E59.8 Other specified other operations on lung
 59325001,Z245,Z24.5 Bronchus
 233116000,L121,L12.1 Application of band to pulmonary artery
 432231006,Y204,Y20.4 Fine needle aspiration NOC
 87101000,E463,E46.3 Excision of lesion of bronchus NEC
 449113004,Z391,Z39.1 Superior vena cava
-233207009,L063,L06.3 Creation of anastomosis to right pulmonary artery from ascending aorta NEC
 432652008,E593,E59.3 Biopsy of lesion of lung NEC
 169021003,Z246,Z24.6 Lung
 233022006,K044,K04.4 Revision of repair of tetralogy of Fallot
 1119344002,U217,U21.7 Plain x-ray NEC
-49404006,A602,A60.2 Avulsion of peripheral nerve
 8382008,L078,L07.8 Other specified creation of shunt to pulmonary artery from subclavian artery using interposition tube prosthesis
 78603008,E593,E59.3 Biopsy of lesion of lung NEC
 116165008,E542,E54.2 Bilobectomy of lung
@@ -956,17 +834,12 @@ snomed,opcs,opcs_term
 169142004,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 233022006,K042,K04.2 Repair of tetralogy of Fallot using right ventricular outflow conduit NEC
 84200003,Y536,Y53.6 Approach to organ under video control
-233538006,L128,L12.8 Other specified other open operations on pulmonary artery
 233226001,L083,L08.3 Creation of anastomosis to pulmonary artery from subclavian artery NEC
 20142006,E543,E54.3 Lobectomy of lung
-233207009,L082,L08.2 Creation of anastomosis to left pulmonary artery from left subclavian artery NEC
-119735009,Y381,Y38.1 Continuous injection of therapeutic substance into organ NOC
-233207009,L101,L10.1 Repair of pulmonary artery using prosthesis
 119730004,E469,E46.9 Unspecified partial extirpation of bronchus
 233224003,L058,L05.8 Other specified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
 241304008,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 4539004,E441,E44.1 Excision of carina
-439433005,Y181,Y18.1 Freeing of adhesions of organ NOC
 54057009,E499,E49.9 Unspecified diagnostic fibreoptic endoscopic examination of lower respiratory tract
 241111002,U217,U21.7 Plain x-ray NEC
 119738006,Y261,Y26.1 Reconstruction of organ NOC
@@ -981,19 +854,14 @@ snomed,opcs,opcs_term
 241226006,Y539,Y53.9 Unspecified approach to organ under image control
 287306002,E518,E51.8 Other specified diagnostic endoscopic examination of lower respiratory tract using rigid bronchoscope
 443386001,Y938,Y93.8 Other specified gallium-67 imaging
-49404006,A609,A60.9 Unspecified destruction of peripheral nerve
-175266007,L138,L13.8 Other specified transluminal operations on pulmonary artery
 359615001,E545,E54.5 Partial lobectomy of lung NEC
-387714009,E599,E59.9 Unspecified other operations on lung
 443386001,Y948,Y94.8 Other specified radiopharmaceutical imaging
 44162000,T858,T85.8 Other specified block dissection of lymph nodes
 287309009,Y498,Y49.8 Other specified approach through thoracic cavity
 829831000000100,Y533,Y53.3 Approach to organ under computed tomography scan control
 61000087103,U215,U21.5 Contrast fluoroscopy NEC
 448287006,E463,E46.3 Excision of lesion of bronchus NEC
-387714009,E598,E59.8 Other specified other operations on lung
 51230002,E615,E61.5 Exploration of mediastinum NEC
-240947007,L138,L13.8 Other specified transluminal operations on pulmonary artery
 57113004,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 233210002,L108,L10.8 Other specified repair of pulmonary artery
 53168001,S603,S60.3 Tattooing of skin
@@ -1007,9 +875,7 @@ snomed,opcs,opcs_term
 173098009,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
 233208004,L124,L12.4 Open embolectomy of pulmonary artery
 312316009,K378,K37.8 Other specified removal of obstruction from structure adjacent to valve of heart
-233538006,L138,L13.8 Other specified transluminal operations on pulmonary artery
 56897006,Y291,Y29.1 Surgical removal of foreign body from organ NOC
-233207009,L069,L06.9 Unspecified other connection to pulmonary artery from aorta
 66258007,E593,E59.3 Biopsy of lesion of lung NEC
 16559081000119104,Y533,Y53.3 Approach to organ under computed tomography scan control
 233208004,L121,L12.1 Application of band to pulmonary artery
@@ -1031,7 +897,6 @@ snomed,opcs,opcs_term
 447878005,L054,L05.4 Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and aorta
 442203000,Z246,Z24.6 Lung
 431596004,Y534,Y53.4 Approach to organ under fluoroscopic control
-119749000,Y393,Y39.3 Injection of inert substance into organ NOC
 90249002,E595,E59.5 Percutaneous radiofrequency ablation of lesion of lung
 425437006,L126,L12.6 Pulmonary artery ligation
 66088009,Y942,Y94.2 Octreotide imaging
@@ -1040,29 +905,24 @@ snomed,opcs,opcs_term
 440466000,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 16334008,L067,L06.7 Takedown of anastomosis to pulmonary artery from aorta
 397396006,E487,E48.7 Fibreoptic endoscopic photodynamic therapy of lesion of lower respiratory tract
-65677008,L138,L13.8 Other specified transluminal operations on pulmonary artery
 450608000,Z246,Z24.6 Lung
-233207009,L125,L12.5 Open embolisation of pulmonary artery
 232658009,K019,K01.9 Unspecified transplantation of heart and lung
 432652008,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
 233224003,L069,L06.9 Unspecified other connection to pulmonary artery from aorta
 175267003,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 169003001,Y971,Y97.1 Radiology with pre and post contrast
 232628003,E593,E59.3 Biopsy of lesion of lung NEC
-232591009,Z246,Z24.6 Lung
 48616004,Z245,Z24.5 Bronchus
 51230002,E613,E61.3 Open drainage of mediastinum
 58079006,E478,E47.8 Other specified other open operations on bronchus
 35295005,Y531,Y53.1 Approach to organ under radiological control
 20142006,E542,E54.2 Bilobectomy of lung
 448287006,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
-233207009,L128,L12.8 Other specified other open operations on pulmonary artery
 67244001,Y412,Y41.2 Endoscopic ultrasound staging examination of organ NOC
 51230002,Y073,Y07.3 Obliteration of sinus track from organ NOC
 53168001,S608,S60.8 Other specified other operations on skin
 8382008,L087,L08.7 Percutaneous transluminal occlusion of anastomosis between pulmonary artery and subclavian artery
 387747000,Y131,Y13.1 Cauterisation of lesion of organ NOC
-609248009,E505,E50.5 Endoscopic removal of foreign body from lower respiratory tract using rigid bronchoscope
 6611000179105,Y211,Y21.1 Brush cytology of organ NOC
 25321000,Y741,Y74.1 Thoracoscopically assisted approach to thoracic cavity
 88039007,K018,K01.8 Other specified transplantation of heart and lung
@@ -1074,14 +934,11 @@ snomed,opcs,opcs_term
 173176002,E553,E55.3 Open cauterisation of lesion of lung
 241303002,U158,U15.8 Other specified diagnostic imaging of respiratory system
 233114002,L695,L69.5 Percutaneous transluminal insertion of stent into major systemic to pulmonary collateral artery
-119749000,Y389,Y38.9 Unspecified injection of therapeutic substance into organ NOC
 711415002,E541,E54.1 Total pneumonectomy
 241541005,U212,U21.2 Computed tomography NEC
 173179009,E553,E55.3 Open cauterisation of lesion of lung
 397395005,E521,E52.1 Irrigation of bronchus NEC
-119749000,Y394,Y39.4 Lipofilling injection into organ NOC
 11519002,G071,G07.1 Closure of tracheo-oesophageal fistula
-175262009,L124,L12.4 Open embolectomy of pulmonary artery
 233097007,K043,K04.3 Repair of tetralogy of Fallot using transannular patch
 397396006,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
 16549591000119109,E593,E59.3 Biopsy of lesion of lung NEC
@@ -1097,7 +954,6 @@ snomed,opcs,opcs_term
 232645008,T079,T07.9 Unspecified open excision of pleura
 241541005,Z246,Z24.6 Lung
 726427004,Z943,Z94.3 Left sided operation
-58205009,Z245,Z24.5 Bronchus
 88039007,E531,E53.1 Double lung transplant
 66088009,Y948,Y94.8 Other specified radiopharmaceutical imaging
 53168001,S607,S60.7 Epilation NEC
@@ -1109,7 +965,6 @@ snomed,opcs,opcs_term
 287465001,Y531,Y53.1 Approach to organ under radiological control
 241304008,U158,U15.8 Other specified diagnostic imaging of respiratory system
 233127003,K183,K18.3 Creation of valved conduit between right ventricle of heart and pulmonary artery
-387714009,E538,E53.8 Other specified transplantation of lung
 173176002,E558,E55.8 Other specified open extirpation of lesion of lung
 53168001,S609,S60.9 Unspecified other operations on skin
 233137008,K177,K17.7 Conversion of atrial pulmonary anastomosis to total pulmonary connection
@@ -1129,14 +984,12 @@ snomed,opcs,opcs_term
 3654008,E544,E54.4 Excision of segment of lung
 32477003,K019,K01.9 Unspecified transplantation of heart and lung
 19095002,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
-82936005,L138,L13.8 Other specified transluminal operations on pulmonary artery
 765042000,Y534,Y53.4 Approach to organ under fluoroscopic control
 708813000,Y531,Y53.1 Approach to organ under radiological control
 233097007,K041,K04.1 Repair of tetralogy of Fallot using valved right ventricular outflow conduit
 418786005,Y971,Y97.1 Radiology with pre and post contrast
 67244001,Y418,Y41.8 Other specified examination of organ NOC
 10558003,E472,E47.2 Closure of fistula of bronchus
-26411001,T071,T07.1 Decortication of pleura
 58074001,Y271,Y27.1 Autograft to organ NOC
 57113004,Y941,Y94.1 Dopamine transporter scan
 232651003,E552,E55.2 Open excision of lesion of lung
@@ -1151,7 +1004,6 @@ snomed,opcs,opcs_term
 175267003,Y539,Y53.9 Unspecified approach to organ under image control
 34564005,L052,L05.2 Creation of shunt to right pulmonary artery from ascending aorta using interposition tube prosthesis
 443266003,Y942,Y94.2 Octreotide imaging
-274434007,E484,E48.4 Fibreoptic endoscopic aspiration of lower respiratory tract
 233114002,L693,L69.3 Percutaneous transluminal embolisation of major systemic to pulmonary collateral artery
 49528005,E483,E48.3 Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC
 443386001,Y943,Y94.3 Metaiodobenzylguanidine imaging
@@ -1166,9 +1018,7 @@ snomed,opcs,opcs_term
 11519002,E472,E47.2 Closure of fistula of bronchus
 447878005,L063,L06.3 Creation of anastomosis to right pulmonary artery from ascending aorta NEC
 51230002,T092,T09.2 Open biopsy of lesion of pleura
-233207009,L124,L12.4 Open embolectomy of pulmonary artery
 241112009,Y971,Y97.1 Radiology with pre and post contrast
-387714009,E544,E54.4 Excision of segment of lung
 232658009,K018,K01.8 Other specified transplantation of heart and lung
 233227005,L075,L07.5 Percutaneous transluminal occlusion of interposition tube prosthesis between pulmonary artery and subclavian artery
 175253007,L102,L10.2 Repair of pulmonary artery using patch
@@ -1201,7 +1051,6 @@ snomed,opcs,opcs_term
 232648005,E441,E44.1 Excision of carina
 287306002,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
 119000,Y744,Y74.4 Thoracoscopic video-assisted approach to thoracic cavity
-233536005,L128,L12.8 Other specified other open operations on pulmonary artery
 449113004,L091,L09.1 Creation of anastomosis to pulmonary artery from vena cava
 1119344002,Y971,Y97.1 Radiology with pre and post contrast
 433030005,L138,L13.8 Other specified transluminal operations on pulmonary artery
@@ -1210,28 +1059,21 @@ snomed,opcs,opcs_term
 72109001,E473,E47.3 Repair of bronchus NEC
 448766000,U212,U21.2 Computed tomography NEC
 726427004,E543,E54.3 Lobectomy of lung
-277997000,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 287306002,E493,E49.3 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and brush cytology of lesion of lower respiratory tract
 51230002,Y072,Y07.2 Clipping of organ NOC
 233227005,L079,L07.9 Unspecified creation of shunt to pulmonary artery from subclavian artery using interposition tube prosthesis
 432302005,Y534,Y53.4 Approach to organ under fluoroscopic control
 233022006,K192,K19.2 Creation of conduit between right atrium and pulmonary artery NEC
-233207009,L071,L07.1 Creation of shunt to right pulmonary artery from right subclavian artery using interposition tube prosthesis
 443237001,Y938,Y93.8 Other specified gallium-67 imaging
 448287006,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
 770700009,Y143,Y14.3 Insertion of metal stent into organ NOC
-71308004,L131,L13.1 Percutaneous transluminal embolectomy of pulmonary artery
 1156264009,Y204,Y20.4 Fine needle aspiration NOC
 16332841000119106,U354,U35.4 Computed tomography of pulmonary arteries
-58205009,E505,E50.5 Endoscopic removal of foreign body from lower respiratory tract using rigid bronchoscope
-119749000,E599,E59.9 Unspecified other operations on lung
 233136004,K175,K17.5 Biventricular repair of hypoplastic left heart syndrome
 233238005,L128,L12.8 Other specified other open operations on pulmonary artery
-387714009,E572,E57.2 Ligation of bulla of lung
 66258007,E591,E59.1 Needle biopsy of lesion of lung
 59325001,Y204,Y20.4 Fine needle aspiration NOC
 232645008,T072,T07.2 Open excision of lesion of pleura
-387714009,E573,E57.3 Deflation of bulla of lung
 233145003,L098,L09.8 Other specified other connection to pulmonary artery
 77648009,Y498,Y49.8 Other specified approach through thoracic cavity
 241111002,Z245,Z24.5 Bronchus
@@ -1239,7 +1081,6 @@ snomed,opcs,opcs_term
 312849006,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
 233208004,L126,L12.6 Pulmonary artery ligation
 241293008,Y931,Y93.1 Gallium-67 imaging scan
-119749000,E592,E59.2 Aspiration biopsy of lesion of lung
 735016006,E541,E54.1 Total pneumonectomy
 232657004,K019,K01.9 Unspecified transplantation of heart and lung
 78603008,E591,E59.1 Needle biopsy of lesion of lung
@@ -1249,19 +1090,16 @@ snomed,opcs,opcs_term
 61192001,L014,L01.4 Closure of aortopulmonary window
 450348001,E593,E59.3 Biopsy of lesion of lung NEC
 447958003,L081,L08.1 Creation of anastomosis to right pulmonary artery from right subclavian artery NEC
-387714009,E559,E55.9 Unspecified open extirpation of lesion of lung
 438769009,L692,L69.2 Pulmonary unifocalisation
 233071001,K043,K04.3 Repair of tetralogy of Fallot using transannular patch
 56897006,E578,E57.8 Other specified other open operations on lung
 169142004,Y942,Y94.2 Octreotide imaging
 447751001,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
-609248009,Z245,Z24.5 Bronchus
 447751001,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
 175253007,L103,L10.3 Repair of anomalous pulmonary artery NEC
 53168001,Y071,Y07.1 Ligation of organ NOC
 233209007,L128,L12.8 Other specified other open operations on pulmonary artery
 48616004,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
-119749000,Y398,Y39.8 Other specified injection of other substance into organ NOC
 51000087101,Z943,Z94.3 Left sided operation
 447975009,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
 241053004,Y971,Y97.1 Radiology with pre and post contrast
@@ -1282,8 +1120,6 @@ snomed,opcs,opcs_term
 119755005,E574,E57.4 Incision of lung NEC
 241293008,Y942,Y94.2 Octreotide imaging
 119000,Y741,Y74.1 Thoracoscopically assisted approach to thoracic cavity
-233207009,L109,L10.9 Unspecified repair of pulmonary artery
-439817002,Y742,Y74.2 Thoracoscopic approach to thoracic cavity NEC
 173171007,E545,E54.5 Partial lobectomy of lung NEC
 448020002,L053,L05.3 Creation of shunt to left pulmonary artery from ascending aorta using interposition tube prosthesis
 716755000,Y123,Y12.3 Electrochemotherapy to lesion of organ NOC
@@ -1306,8 +1142,6 @@ snomed,opcs,opcs_term
 233073003,K046,K04.6 Repair of Fallot-type pulmonary atresia with aortopulmonary collaterals
 53168001,S605,S60.5 Diagnostic dermatoscopy of skin
 233213000,L108,L10.8 Other specified repair of pulmonary artery
-49404006,A606,A60.6 Selective denervation of peripheral nerve
-334835009,E594,E59.4 Drainage of lung
 91596000,E541,E54.1 Total pneumonectomy
 301083005,Y538,Y53.8 Other specified approach to organ under image control
 397840008,E473,E47.3 Repair of bronchus NEC
@@ -1318,15 +1152,9 @@ snomed,opcs,opcs_term
 21831008,Y411,Y41.1 Examination of organ under anaesthetic NOC
 232622002,E472,E47.2 Closure of fistula of bronchus
 438769009,Y731,Y73.1 Cardiopulmonary bypass
-233207009,L138,L13.8 Other specified transluminal operations on pulmonary artery
 870380006,Z246,Z24.6 Lung
-387714009,E553,E55.3 Open cauterisation of lesion of lung
-58205009,E485,E48.5 Fibreoptic endoscopic removal of foreign body from lower respiratory tract
 43831007,E591,E59.1 Needle biopsy of lesion of lung
-387714009,E542,E54.2 Bilobectomy of lung
 1119345001,Y971,Y97.1 Radiology with pre and post contrast
-233537001,L128,L12.8 Other specified other open operations on pulmonary artery
-233207009,L064,L06.4 Creation of anastomosis to left pulmonary artery from descending aorta NEC
 10558003,T095,T09.5 Open pleurodesis NEC
 232656008,E573,E57.3 Deflation of bulla of lung
 449210005,E503,E50.3 Endoscopic destruction of lesion of lower respiratory tract using rigid bronchoscope NEC
@@ -1334,9 +1162,7 @@ snomed,opcs,opcs_term
 33639009,E544,E54.4 Excision of segment of lung
 57113004,Y938,Y93.8 Other specified gallium-67 imaging
 233074009,K046,K04.6 Repair of Fallot-type pulmonary atresia with aortopulmonary collaterals
-173155007,E484,E48.4 Fibreoptic endoscopic aspiration of lower respiratory tract
 443989003,Z391,Z39.1 Superior vena cava
-260712001,E478,E47.8 Other specified other open operations on bronchus
 447751001,Y069,Y06.9 Unspecified excision of lesion of organ NOC
 431430006,Z246,Z24.6 Lung
 233071001,K044,K04.4 Revision of repair of tetralogy of Fallot
@@ -1345,14 +1171,12 @@ snomed,opcs,opcs_term
 43831007,E598,E59.8 Other specified other operations on lung
 169057008,U217,U21.7 Plain x-ray NEC
 232635006,Z942,Z94.2 Right sided operation
-240947007,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 443237001,U363,U36.3 Single photon emission computed tomography with computed tomography NEC
 233073003,K048,K04.8 Other specified repair of tetralogy of Fallot
 232657004,K018,K01.8 Other specified transplantation of heart and lung
 243685008,Z245,Z24.5 Bronchus
 241227002,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 450348001,E591,E59.1 Needle biopsy of lesion of lung
-175268008,Y535,Y53.5 Approach to organ under image intensifier
 29474003,K095,K09.5 Primary repair of defect of atrioventricular septum NEC
 233226001,L086,L08.6 Percutaneous transluminal balloon dilation of anastomosis between pulmonary artery and subclavian artery
 43831007,E594,E59.4 Drainage of lung
@@ -1362,12 +1186,10 @@ snomed,opcs,opcs_term
 54057009,E489,E48.9 Unspecified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 442203000,Y938,Y93.8 Other specified gallium-67 imaging
 232641004,E441,E44.1 Excision of carina
-233207009,L089,L08.9 Unspecified other connection to pulmonary artery from subclavian artery
 75935006,Y742,Y74.2 Thoracoscopic approach to thoracic cavity NEC
 233114002,L694,L69.4 Percutaneous transluminal balloon angioplasty of major systemic to pulmonary collateral artery
 441959001,L082,L08.2 Creation of anastomosis to left pulmonary artery from left subclavian artery NEC
 57113004,Y949,Y94.9 Unspecified radiopharmaceutical imaging
-450347006,E522,E52.2 Aspiration of bronchus NEC
 175249005,L091,L09.1 Creation of anastomosis to pulmonary artery from vena cava
 287305003,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 274319000,E591,E59.1 Needle biopsy of lesion of lung
@@ -1385,13 +1207,10 @@ snomed,opcs,opcs_term
 233074009,K049,K04.9 Unspecified repair of tetralogy of Fallot
 233224003,L067,L06.7 Takedown of anastomosis to pulmonary artery from aorta
 233231004,L091,L09.1 Creation of anastomosis to pulmonary artery from vena cava
-173193002,E594,E59.4 Drainage of lung
 232625000,E473,E47.3 Repair of bronchus NEC
-119735009,E521,E52.1 Irrigation of bronchus NEC
 448791000,Y132,Y13.2 Cryotherapy to lesion of organ NOC
 232635006,E544,E54.4 Excision of segment of lung
 16559081000119104,E598,E59.8 Other specified other operations on lung
-175268008,Y538,Y53.8 Other specified approach to organ under image control
 29785002,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
 61339001,Y208,Y20.8 Other specified biopsy of organ NOC
 91160008,Z245,Z24.5 Bronchus
@@ -1412,10 +1231,8 @@ snomed,opcs,opcs_term
 1119345001,Y973,Y97.3 Radiology with post contrast
 16559081000119104,Y132,Y13.2 Cryotherapy to lesion of organ NOC
 43831007,Y539,Y53.9 Unspecified approach to organ under image control
-49404006,A603,A60.3 Transection of peripheral nerve
 51000087101,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 233136004,K178,K17.8 Other specified repair of univentricular heart
-175266007,L136,L13.6 Percutaneous transluminal insertion of stent into pulmonary artery
 441959001,L083,L08.3 Creation of anastomosis to pulmonary artery from subclavian artery NEC
 233137008,K175,K17.5 Biventricular repair of hypoplastic left heart syndrome
 442203000,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
@@ -1443,7 +1260,6 @@ snomed,opcs,opcs_term
 43831007,E592,E59.2 Aspiration biopsy of lesion of lung
 765042000,Y531,Y53.1 Approach to organ under radiological control
 233071001,K046,K04.6 Repair of Fallot-type pulmonary atresia with aortopulmonary collaterals
-387714009,E578,E57.8 Other specified other open operations on lung
 119744005,Y428,Y42.8 Other specified manipulation of organ NOC
 85041007,K183,K18.3 Creation of valved conduit between right ventricle of heart and pulmonary artery
 721044005,Y973,Y97.3 Radiology with post contrast
@@ -1452,15 +1268,11 @@ snomed,opcs,opcs_term
 54057009,E482,E48.2 Fibreoptic endoscopic laser destruction of lesion of lower respiratory tract
 173171007,E543,E54.3 Lobectomy of lung
 359618004,E543,E54.3 Lobectomy of lung
-119749000,E593,E59.3 Biopsy of lesion of lung NEC
 765041007,Y539,Y53.9 Unspecified approach to organ under image control
-233207009,L059,L05.9 Unspecified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
 241302007,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 447878005,L062,L06.2 Creation of anastomosis to main pulmonary artery from ascending aorta NEC
 432302005,L132,L13.2 Percutaneous transluminal embolisation of pulmonary artery
 425948009,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
-233207009,L122,L12.2 Adjustment of band to pulmonary artery
-82936005,L128,L12.8 Other specified other open operations on pulmonary artery
 233022006,K048,K04.8 Other specified repair of tetralogy of Fallot
 241542003,Y973,Y97.3 Radiology with post contrast
 1119344002,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
@@ -1471,15 +1283,12 @@ snomed,opcs,opcs_term
 15015009,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
 726426008,Z943,Z94.3 Left sided operation
 233074009,K041,K04.1 Repair of tetralogy of Fallot using valved right ventricular outflow conduit
-232688000,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
 431434002,Y534,Y53.4 Approach to organ under fluoroscopic control
-175266007,L132,L13.2 Percutaneous transluminal embolisation of pulmonary artery
 77648009,E552,E55.2 Open excision of lesion of lung
 233074009,K048,K04.8 Other specified repair of tetralogy of Fallot
 397396006,E484,E48.4 Fibreoptic endoscopic aspiration of lower respiratory tract
 43831007,E599,E59.9 Unspecified other operations on lung
 54057009,E498,E49.8 Other specified diagnostic fibreoptic endoscopic examination of lower respiratory tract
-175268008,L131,L13.1 Percutaneous transluminal embolectomy of pulmonary artery
 16332841000119106,Y973,Y97.3 Radiology with post contrast
 241303002,Y948,Y94.8 Other specified radiopharmaceutical imaging
 277437006,E478,E47.8 Other specified other open operations on bronchus
@@ -1493,7 +1302,6 @@ snomed,opcs,opcs_term
 241298004,Y948,Y94.8 Other specified radiopharmaceutical imaging
 447878005,L065,L06.5 Creation of anastomosis to pulmonary artery from aorta NEC
 233072008,K048,K04.8 Other specified repair of tetralogy of Fallot
-119749000,E595,E59.5 Percutaneous radiofrequency ablation of lesion of lung
 119736005,E473,E47.3 Repair of bronchus NEC
 241293008,Y948,Y94.8 Other specified radiopharmaceutical imaging
 88039007,E533,E53.3 Single lobe lung transplant
@@ -1501,9 +1309,7 @@ snomed,opcs,opcs_term
 7375006,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
 431434002,Z401,Z40.1 Pulmonary artery
 397398007,E506,E50.6 Endoscopic irrigation of lower respiratory tract using rigid bronchoscope
-233207009,L066,L06.6 Revision of anastomosis to pulmonary artery from aorta
 51230002,Y071,Y07.1 Ligation of organ NOC
-232591009,Z243,Z24.3 Trachea
 359618004,E545,E54.5 Partial lobectomy of lung NEC
 232644007,E541,E54.1 Total pneumonectomy
 54057009,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
@@ -1516,7 +1322,6 @@ snomed,opcs,opcs_term
 418549007,Y534,Y53.4 Approach to organ under fluoroscopic control
 232634005,E548,E54.8 Other specified excision of lung
 449549007,L091,L09.1 Creation of anastomosis to pulmonary artery from vena cava
-233207009,L079,L07.9 Unspecified creation of shunt to pulmonary artery from subclavian artery using interposition tube prosthesis
 241299007,U152,U15.2 Lung ventilation scanning NEC
 232627008,E472,E47.2 Closure of fistula of bronchus
 736671000,E546,E54.6 Reduction of lung volume
@@ -1528,7 +1333,6 @@ snomed,opcs,opcs_term
 443386001,Y941,Y94.1 Dopamine transporter scan
 119755005,Y262,Y26.2 Plastic repair of organ NOC
 45558009,E574,E57.4 Incision of lung NEC
-387714009,E548,E54.8 Other specified excision of lung
 287465001,Y539,Y53.9 Unspecified approach to organ under image control
 51000087101,Y973,Y97.3 Radiology with post contrast
 233196001,L011,L01.1 Correction of persistent truncus arteriosus
@@ -1536,17 +1340,14 @@ snomed,opcs,opcs_term
 54057009,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
 449550007,L058,L05.8 Other specified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
 56970000,L059,L05.9 Unspecified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
-233217004,L138,L13.8 Other specified transluminal operations on pulmonary artery
 418786005,Y973,Y97.3 Radiology with post contrast
 54057009,E503,E50.3 Endoscopic destruction of lesion of lower respiratory tract using rigid bronchoscope NEC
 232658009,K011,K01.1 Allotransplantation of heart and lung
 450608000,E483,E48.3 Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC
-609248009,E485,E48.5 Fibreoptic endoscopic removal of foreign body from lower respiratory tract
 62511003,E533,E53.3 Single lobe lung transplant
 310394000,E571,E57.1 Repair of lung
 84200003,Y532,Y53.2 Approach to organ under ultrasonic control
 241227002,Y533,Y53.3 Approach to organ under computed tomography scan control
-397947007,E522,E52.2 Aspiration of bronchus NEC
 274318008,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
 387747000,Y111,Y11.1 Cauterisation of organ NOC
 233224003,L054,L05.4 Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and aorta
@@ -1569,7 +1370,6 @@ snomed,opcs,opcs_term
 241111002,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 241304008,Y943,Y94.3 Metaiodobenzylguanidine imaging
 84200003,Y534,Y53.4 Approach to organ under fluoroscopic control
-233215007,L136,L13.6 Percutaneous transluminal insertion of stent into pulmonary artery
 397396006,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
 770700009,Y144,Y14.4 Insertion of plastic stent into organ NOC
 770700009,Y534,Y53.4 Approach to organ under fluoroscopic control
@@ -1587,7 +1387,6 @@ snomed,opcs,opcs_term
 447878005,L066,L06.6 Revision of anastomosis to pulmonary artery from aorta
 84041000,Y408,Y40.8 Other specified dilation of organ NOC
 431721002,E591,E59.1 Needle biopsy of lesion of lung
-387714009,E592,E59.2 Aspiration biopsy of lesion of lung
 442203000,Y948,Y94.8 Other specified radiopharmaceutical imaging
 78603008,Y744,Y74.4 Thoracoscopic video-assisted approach to thoracic cavity
 43831007,Y535,Y53.5 Approach to organ under image intensifier
@@ -1599,8 +1398,6 @@ snomed,opcs,opcs_term
 119755005,Y264,Y26.4 Removal of other repair material from organ NOC
 443145004,Z246,Z24.6 Lung
 425979008,Y533,Y53.3 Approach to organ under computed tomography scan control
-233207009,L049,L04.9 Unspecified open operations on pulmonary arterial tree
-119735009,E522,E52.2 Aspiration of bronchus NEC
 397396006,E506,E50.6 Endoscopic irrigation of lower respiratory tract using rigid bronchoscope
 13662000,L089,L08.9 Unspecified other connection to pulmonary artery from subclavian artery
 119755005,Y261,Y26.1 Reconstruction of organ NOC
@@ -1637,10 +1434,8 @@ snomed,opcs,opcs_term
 310832007,E472,E47.2 Closure of fistula of bronchus
 448020002,L054,L05.4 Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and aorta
 48616004,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
-119735009,Y394,Y39.4 Lipofilling injection into organ NOC
 443266003,Y931,Y93.1 Gallium-67 imaging scan
 442278005,Z391,Z39.1 Superior vena cava
-448134000,E856,E85.6 Continuous positive airway pressure
 241302007,U152,U15.2 Lung ventilation scanning NEC
 765041007,Y538,Y53.8 Other specified approach to organ under image control
 116165008,E543,E54.3 Lobectomy of lung
@@ -1653,7 +1448,6 @@ snomed,opcs,opcs_term
 770700009,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 169115000,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 429932001,E591,E59.1 Needle biopsy of lesion of lung
-175268008,Y531,Y53.1 Approach to organ under radiological control
 54057009,E518,E51.8 Other specified diagnostic endoscopic examination of lower respiratory tract using rigid bronchoscope
 87101000,E462,E46.2 Excision of cyst of bronchus
 432231006,E591,E59.1 Needle biopsy of lesion of lung
@@ -1663,19 +1457,16 @@ snomed,opcs,opcs_term
 397396006,E482,E48.2 Fibreoptic endoscopic laser destruction of lesion of lower respiratory tract
 54057009,E486,E48.6 Fibreoptic endoscopic irrigation of lower respiratory tract
 765041007,Z943,Z94.3 Left sided operation
-387714009,E591,E59.1 Needle biopsy of lesion of lung
 241293008,Y943,Y94.3 Metaiodobenzylguanidine imaging
 79653008,E483,E48.3 Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC
 29474003,K093,K09.3 Repair of defect of atrioventricular septum using tissue graft
 440466000,Y938,Y93.8 Other specified gallium-67 imaging
 440466000,Y941,Y94.1 Dopamine transporter scan
-439817002,E551,E55.1 Open decortication of lesion of lung
 13662000,L083,L08.3 Creation of anastomosis to pulmonary artery from subclavian artery NEC
 233072008,K193,K19.3 Creation of conduit between right ventricle of heart and pulmonary artery NEC
 233224003,L053,L05.3 Creation of shunt to left pulmonary artery from ascending aorta using interposition tube prosthesis
 43831007,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 169115000,Y973,Y97.3 Radiology with post contrast
-233207009,L131,L13.1 Percutaneous transluminal embolectomy of pulmonary artery
 241304008,Y942,Y94.2 Octreotide imaging
 62511003,E539,E53.9 Unspecified transplantation of lung
 397396006,E502,E50.2 Endoscopic laser destruction of lesion of lower respiratory tract using rigid bronchoscope
@@ -1696,7 +1487,6 @@ snomed,opcs,opcs_term
 10558003,T098,T09.8 Other specified other open operations on pleura
 119755005,E573,E57.3 Deflation of bulla of lung
 387747000,E598,E59.8 Other specified other operations on lung
-49404006,A608,A60.8 Other specified destruction of peripheral nerve
 51230002,T091,T09.1 Open destruction of lesion of pleura
 232622002,E468,E46.8 Other specified partial extirpation of bronchus
 447878005,L051,L05.1 Creation of shunt to main pulmonary artery from ascending aorta using interposition tube prosthesis
@@ -1704,8 +1494,6 @@ snomed,opcs,opcs_term
 736671000,Y763,Y76.3 Endoscopic approach to other body cavity
 78603008,E592,E59.2 Aspiration biopsy of lesion of lung
 287306002,E494,E49.4 Diagnostic fibreoptic endoscopic examination of lower respiratory tract with lavage and brush cytology of lesion of lower respiratory tract
-119749000,Y395,Y39.5 Tattooing of organ NOC
-233207009,L098,L09.8 Other specified other connection to pulmonary artery
 443386001,Z246,Z24.6 Lung
 62511003,E538,E53.8 Other specified transplantation of lung
 8382008,L075,L07.5 Percutaneous transluminal occlusion of interposition tube prosthesis between pulmonary artery and subclavian artery
@@ -1713,20 +1501,16 @@ snomed,opcs,opcs_term
 67160005,E543,E54.3 Lobectomy of lung
 441624004,Y938,Y93.8 Other specified gallium-67 imaging
 8382008,L084,L08.4 Revision of anastomosis to pulmonary artery from subclavian artery
-233207009,L072,L07.2 Creation of shunt to left pulmonary artery from left subclavian artery using interposition tube prosthesis
 442203000,Y942,Y94.2 Octreotide imaging
-233207009,L074,L07.4 Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and subclavian artery
 21831008,E479,E47.9 Unspecified other open operations on bronchus
 1119344002,Y973,Y97.3 Radiology with post contrast
 782762003,E521,E52.1 Irrigation of bronchus NEC
 51230002,Y078,Y07.8 Other specified obliteration of cavity of organ NOC
 233141007,L032,L03.2 Percutaneous transluminal stent implantation into arterial duct
-387714009,E554,E55.4 Open destruction of lesion of lung NEC
 233226001,L081,L08.1 Creation of anastomosis to right pulmonary artery from right subclavian artery NEC
 66258007,E592,E59.2 Aspiration biopsy of lesion of lung
 261487005,E442,E44.2 Reconstruction of carina
 53168001,T091,T09.1 Open destruction of lesion of pleura
-49404006,A604,A60.4 Radiofrequency controlled thermal destruction of peripheral nerve
 447878005,L053,L05.3 Creation of shunt to left pulmonary artery from ascending aorta using interposition tube prosthesis
 431721002,E592,E59.2 Aspiration biopsy of lesion of lung
 425979008,Y539,Y53.9 Unspecified approach to organ under image control
@@ -1744,31 +1528,24 @@ snomed,opcs,opcs_term
 173190004,E591,E59.1 Needle biopsy of lesion of lung
 174802006,K011,K01.1 Allotransplantation of heart and lung
 443266003,Y943,Y94.3 Metaiodobenzylguanidine imaging
-119735009,E528,E52.8 Other specified other operations on bronchus
 718289006,Y534,Y53.4 Approach to organ under fluoroscopic control
-233207009,L084,L08.4 Revision of anastomosis to pulmonary artery from subclavian artery
 425948009,Y539,Y53.9 Unspecified approach to organ under image control
 447788003,L082,L08.2 Creation of anastomosis to left pulmonary artery from left subclavian artery NEC
 29785002,Z245,Z24.5 Bronchus
 449550007,L061,L06.1 Creation of aortopulmonary window
 287305003,E528,E52.8 Other specified other operations on bronchus
-233207009,L062,L06.2 Creation of anastomosis to main pulmonary artery from ascending aorta NEC
 67160005,E545,E54.5 Partial lobectomy of lung NEC
 67244001,Y419,Y41.9 Unspecified examination of organ NOC
 439939004,E499,E49.9 Unspecified diagnostic fibreoptic endoscopic examination of lower respiratory tract
 441624004,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
-119735009,Y388,Y38.8 Other specified injection of therapeutic substance into organ NOC
-233207009,L052,L05.2 Creation of shunt to right pulmonary artery from ascending aorta using interposition tube prosthesis
 54854003,K183,K18.3 Creation of valved conduit between right ventricle of heart and pulmonary artery
 49528005,E503,E50.3 Endoscopic destruction of lesion of lower respiratory tract using rigid bronchoscope NEC
 51230002,E611,E61.1 Open excision of lesion of mediastinum
 35295005,Y204,Y20.4 Fine needle aspiration NOC
-175268008,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 713162006,X453,X45.3 Donation of lobe of lung
 43831007,Y533,Y53.3 Approach to organ under computed tomography scan control
 33639009,E545,E54.5 Partial lobectomy of lung NEC
 448287006,Y069,Y06.9 Unspecified excision of lesion of organ NOC
-233207009,L083,L08.3 Creation of anastomosis to pulmonary artery from subclavian artery NEC
 173177006,E551,E55.1 Open decortication of lesion of lung
 175263004,L125,L12.5 Open embolisation of pulmonary artery
 232634005,Y052,Y05.2 Partial excision of organ NOC
@@ -1787,7 +1564,6 @@ snomed,opcs,opcs_term
 49528005,E482,E48.2 Fibreoptic endoscopic laser destruction of lesion of lower respiratory tract
 1137699004,Y204,Y20.4 Fine needle aspiration NOC
 56970000,L053,L05.3 Creation of shunt to left pulmonary artery from ascending aorta using interposition tube prosthesis
-119749000,E591,E59.1 Needle biopsy of lesion of lung
 53168001,T095,T09.5 Open pleurodesis NEC
 233127003,K193,K19.3 Creation of conduit between right ventricle of heart and pulmonary artery NEC
 119755005,Y265,Y26.5 Other attention to repair of organ NOC
@@ -1797,22 +1573,16 @@ snomed,opcs,opcs_term
 1119345001,Z942,Z94.2 Right sided operation
 68800008,K193,K19.3 Creation of conduit between right ventricle of heart and pulmonary artery NEC
 443386001,Y942,Y94.2 Octreotide imaging
-175268008,Y532,Y53.2 Approach to organ under ultrasonic control
 241227002,Y538,Y53.8 Other specified approach to organ under image control
 233074009,K043,K04.3 Repair of tetralogy of Fallot using transannular patch
-439309000,Y742,Y74.2 Thoracoscopic approach to thoracic cavity NEC
 441959001,L071,L07.1 Creation of shunt to right pulmonary artery from right subclavian artery using interposition tube prosthesis
 441959001,L074,L07.4 Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and subclavian artery
-387714009,E549,E54.9 Unspecified excision of lung
 425948009,Y532,Y53.2 Approach to organ under ultrasonic control
 232631002,Y063,Y06.3 Enucleation of lesion of organ NOC
-232591009,Z244,Z24.4 Carina
 119736005,E472,E47.2 Closure of fistula of bronchus
 429932001,Y533,Y53.3 Approach to organ under computed tomography scan control
 698009006,E546,E54.6 Reduction of lung volume
-233207009,L099,L09.9 Unspecified other connection to pulmonary artery
 241542003,Y971,Y97.1 Radiology with pre and post contrast
-119749000,Y392,Y39.2 Other injection of radiocontrast substance into organ NOC
 62511003,E531,E53.1 Double lung transplant
 82651004,Y255,Y25.5 Other attention to suture of organ NOC
 119730004,E478,E47.8 Other specified other open operations on bronchus
@@ -1832,25 +1602,19 @@ snomed,opcs,opcs_term
 29785002,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
 49528005,E558,E55.8 Other specified open extirpation of lesion of lung
 233137008,K171,K17.1 Total cavopulmonary connection with extracardiac inferior caval vein to pulmonary artery conduit
-119735009,Y393,Y39.3 Injection of inert substance into organ NOC
 51230002,T093,T09.3 Mechanical open pleurodesis
 443237001,Z246,Z24.6 Lung
-232591009,E518,E51.8 Other specified diagnostic endoscopic examination of lower respiratory tract using rigid bronchoscope
 708812005,Y531,Y53.1 Approach to organ under radiological control
 711415002,E549,E54.9 Unspecified excision of lung
 6481000087102,E593,E59.3 Biopsy of lesion of lung NEC
 241226006,Y533,Y53.3 Approach to organ under computed tomography scan control
 119755005,Y269,Y26.9 Unspecified other repair of organ NOC
 21831008,Y418,Y41.8 Other specified examination of organ NOC
-175266007,L139,L13.9 Unspecified transluminal operations on pulmonary artery
-233207009,L123,L12.3 Removal of band from pulmonary artery
 86642005,L064,L06.4 Creation of anastomosis to left pulmonary artery from descending aorta NEC
 169142004,Y939,Y93.9 Unspecified gallium-67 imaging
 35295005,Y533,Y53.3 Approach to organ under computed tomography scan control
 397954001,E506,E50.6 Endoscopic irrigation of lower respiratory tract using rigid bronchoscope
-233207009,L103,L10.3 Repair of anomalous pulmonary artery NEC
 54057009,E506,E50.6 Endoscopic irrigation of lower respiratory tract using rigid bronchoscope
-387714009,E532,E53.2 Single lung transplant
 432067006,Y534,Y53.4 Approach to organ under fluoroscopic control
 43831007,Y532,Y53.2 Approach to organ under ultrasonic control
 53168001,T093,T09.3 Mechanical open pleurodesis

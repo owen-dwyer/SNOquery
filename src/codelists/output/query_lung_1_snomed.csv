@@ -11,7 +11,6 @@ conceptId,idAndFsnTerm
 765041007,765041007 | Angiography of left pulmonary artery (procedure) |
 764864002,764864002 | Radionuclide imaging of lung ventilation using technetium (99m-Tc) technegas (procedure) |
 736974006,736974006 | Excision of middle lobe of right lung (procedure) |
-736748006,736748006 | Bronchoscopic insertion of endobronchial valve (procedure) |
 735016006,735016006 | Complete excision of right lung (procedure) |
 735015005,735015005 | Complete excision of left lung (procedure) |
 726428009,726428009 | Lobectomy of upper lobe of right lung (procedure) |
@@ -30,7 +29,6 @@ conceptId,idAndFsnTerm
 448538005,448538005 | Harvesting of lobe of lung from donor (procedure) |
 448523009,448523009 | Endoscopic ultrasonography of lung (procedure) |
 448287006,448287006 | Excision of polyp of bronchus (procedure) |
-448134000,448134000 | Continuous positive airway pressure to nonventilated lung (regime/therapy) |
 447975009,447975009 | Sleeve resection of bronchus and anastomosis (procedure) |
 447751001,447751001 | Endoscopic excision of polyp of bronchus (procedure) |
 443396005,443396005 | Pneumonostomy with open drainage of abscess of lung using computed tomography guidance (procedure) |
@@ -144,8 +142,6 @@ conceptId,idAndFsnTerm
 232624001,232624001 | Open excision of bronchial lesion (procedure) |
 232623007,232623007 | Open biopsy of bronchial lesion (procedure) |
 232622002,232622002 | Open procedure to bronchus (procedure) |
-232591009,232591009 | Bronchoscopy with lobar gas sampling (procedure) |
-177784006,177784006 | Decortication of lung (procedure) |
 175267003,175267003 | Percutaneous transluminal embolization of pulmonary artery (procedure) |
 175263004,175263004 | Open embolization of pulmonary artery (procedure) |
 175254001,175254001 | Repair of pulmonary artery using prosthesis (procedure) |
@@ -204,16 +200,13 @@ conceptId,idAndFsnTerm
 62843007,62843007 | Manipulation of lung (procedure) |
 61339001,61339001 | Catheterization with bronchial brush biopsy (procedure) |
 59325001,59325001 | Fine needle biopsy of bronchus (procedure) |
-58205009,58205009 | Removal of intraluminal foreign body from bronchus by bronchoscopy (procedure) |
 58074001,58074001 | Bronchoplasty with graft repair (procedure) |
 57113004,57113004 | Pulmonary ventilation study (procedure) |
 56909003,56909003 | Puncture and aspiration of bronchus (procedure) |
 55498000,55498000 | Endotracheal bronchography (procedure) |
 49795001,49795001 | Total pneumonectomy (procedure) |
 49528005,49528005 | Local destruction of lesion of lung (procedure) |
-49404006,49404006 | Surgical collapse of lung by destruction of phrenic nerve (procedure) |
 49045006,49045006 | Incision of bronchus (procedure) |
-47806007,47806007 | Bronchoscopy with drainage of lung abscess (procedure) |
 46412002,46412002 | Apicectomy lung (procedure) |
 45558009,45558009 | Incision of lung (procedure) |
 43831007,43831007 | Percutaneous core needle biopsy of lung (procedure) |

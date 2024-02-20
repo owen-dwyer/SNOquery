@@ -3,13 +3,9 @@ snomed,opcs,opcs_term
 231748003,C738,C73.8 Other specified incision of capsule of lens
 446862000,C722,C72.2 Suction extraction of lens
 9137006,C742,C74.2 Discission of cataract
-386611002,C741,C74.1 Curettage of lens
 231747008,C731,C73.1 Membranectomy of lens
-89153001,C713,C71.3 Aspiration of lens
 9137006,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-414507007,C733,C73.3 Capsulotomy of posterior lens capsule
 18137003,C713,C71.3 Aspiration of lens
-404628003,C728,C72.8 Other specified intracapsular extraction of lens
 35717002,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 336651000,C743,C74.3 Mechanical lensectomy
 50538003,C647,C64.7 Insertion of iris hooks
@@ -17,475 +13,241 @@ snomed,opcs,opcs_term
 172538005,C647,C64.7 Insertion of iris hooks
 75170007,C743,C74.3 Mechanical lensectomy
 172524003,C721,C72.1 Forceps extraction of lens
-446548003,C732,C73.2 Capsulotomy of anterior lens capsule
 64835001,C592,C59.2 Surgical iridectomy
-414507007,C739,C73.9 Unspecified incision of capsule of lens
 360411008,C774,C77.4 Surgical removal of foreign body from lens
 46562009,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 401306006,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 446490007,C754,C75.4 Insertion of prosthetic replacement for lens using suture fixation
-386611002,C728,C72.8 Other specified intracapsular extraction of lens
-414507007,C776,C77.6 Insertion of capsule tension ring
 35717002,C742,C74.2 Discission of cataract
-231744001,C713,C71.3 Aspiration of lens
-54885007,C748,C74.8 Other specified other extraction of lens
 172529008,C732,C73.2 Capsulotomy of anterior lens capsule
 172525002,C723,C72.3 Cryoextraction of lens
 172532006,C732,C73.2 Capsulotomy of anterior lens capsule
 66359001,C728,C72.8 Other specified intracapsular extraction of lens
 265295001,C776,C77.6 Insertion of capsule tension ring
 89978003,C592,C59.2 Surgical iridectomy
-424945000,C712,C71.2 Phacoemulsification of lens
 172523009,C728,C72.8 Other specified intracapsular extraction of lens
-404628003,C721,C72.1 Forceps extraction of lens
 401306006,C647,C64.7 Insertion of iris hooks
 85785001,C731,C73.1 Membranectomy of lens
 172532006,C733,C73.3 Capsulotomy of posterior lens capsule
-65812008,C719,C71.9 Unspecified extracapsular extraction of lens
 75227000,C718,C71.8 Other specified extracapsular extraction of lens
 446490007,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-65812008,C711,C71.1 Simple linear extraction of lens
 172532006,C738,C73.8 Other specified incision of capsule of lens
 231747008,C733,C73.3 Capsulotomy of posterior lens capsule
 231747008,C732,C73.2 Capsulotomy of anterior lens capsule
 265295001,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-65812008,C721,C72.1 Forceps extraction of lens
-446548003,C734,C73.4 Capsulotomy of lens NEC
-424945000,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-82155009,C713,C71.3 Aspiration of lens
-54885007,C732,C73.2 Capsulotomy of anterior lens capsule
 172538005,C743,C74.3 Mechanical lensectomy
 172525002,C776,C77.6 Insertion of capsule tension ring
-385468004,C732,C73.2 Capsulotomy of anterior lens capsule
 75227000,C741,C74.1 Curettage of lens
 89978003,C722,C72.2 Suction extraction of lens
 78191003,C775,C77.5 Magnetic extraction of foreign body from lens
 89978003,C729,C72.9 Unspecified intracapsular extraction of lens
 120122001,Y261,Y26.1 Reconstruction of organ NOC
-414507007,C748,C74.8 Other specified other extraction of lens
 67991000,C711,C71.1 Simple linear extraction of lens
 74184007,C732,C73.2 Capsulotomy of anterior lens capsule
-54885007,C721,C72.1 Forceps extraction of lens
 446490007,C713,C71.3 Aspiration of lens
 19740002,C713,C71.3 Aspiration of lens
 63356004,C771,C77.1 Capsulectomy
 85785001,C738,C73.8 Other specified incision of capsule of lens
-54885007,C743,C74.3 Mechanical lensectomy
 85785001,C739,C73.9 Unspecified incision of capsule of lens
-84149000,C776,C77.6 Insertion of capsule tension ring
-385468004,C738,C73.8 Other specified incision of capsule of lens
 231751005,C752,C75.2 Revision of prosthetic replacement for lens
 404627008,C733,C73.3 Capsulotomy of posterior lens capsule
 231747008,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 446590009,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-446548003,C711,C71.1 Simple linear extraction of lens
 46562009,C742,C74.2 Discission of cataract
-386611002,C754,C75.4 Insertion of prosthetic replacement for lens using suture fixation
 78191003,C732,C73.2 Capsulotomy of anterior lens capsule
-446548003,C729,C72.9 Unspecified intracapsular extraction of lens
-420526005,C712,C71.2 Phacoemulsification of lens
 19740002,C718,C71.8 Other specified extracapsular extraction of lens
 64835001,C771,C77.1 Capsulectomy
-231744001,C743,C74.3 Mechanical lensectomy
 446862000,C728,C72.8 Other specified intracapsular extraction of lens
-79611007,C741,C74.1 Curettage of lens
 67991000,C776,C77.6 Insertion of capsule tension ring
 44269004,C647,C64.7 Insertion of iris hooks
-386611002,C734,C73.4 Capsulotomy of lens NEC
 231747008,C738,C73.8 Other specified incision of capsule of lens
 13793006,C713,C71.3 Aspiration of lens
 64854001,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-84149000,C712,C71.2 Phacoemulsification of lens
 231748003,C731,C73.1 Membranectomy of lens
-231744001,C722,C72.2 Suction extraction of lens
 74184007,C738,C73.8 Other specified incision of capsule of lens
 309556000,C733,C73.3 Capsulotomy of posterior lens capsule
-414507007,C742,C74.2 Discission of cataract
-108152001,C778,C77.8 Other specified other operations on lens
 335636001,C712,C71.2 Phacoemulsification of lens
 309556000,Y084,Y08.4 Laser destruction of lesion of organ NOC
-386611002,C722,C72.2 Suction extraction of lens
-79611007,C647,C64.7 Insertion of iris hooks
-112963003,C776,C77.6 Insertion of capsule tension ring
-386611002,C729,C72.9 Unspecified intracapsular extraction of lens
-386611002,C776,C77.6 Insertion of capsule tension ring
-172548007,C774,C77.4 Surgical removal of foreign body from lens
 172538005,C776,C77.6 Insertion of capsule tension ring
-54885007,C734,C73.4 Capsulotomy of lens NEC
 446862000,C754,C75.4 Insertion of prosthetic replacement for lens using suture fixation
 231748003,C734,C73.4 Capsulotomy of lens NEC
-404628003,C723,C72.3 Cryoextraction of lens
 78191003,C739,C73.9 Unspecified incision of capsule of lens
 172524003,C776,C77.6 Insertion of capsule tension ring
-65812008,C592,C59.2 Surgical iridectomy
-308695001,C728,C72.8 Other specified intracapsular extraction of lens
 85785001,C733,C73.3 Capsulotomy of posterior lens capsule
-231744001,C741,C74.1 Curettage of lens
-386611002,C774,C77.4 Surgical removal of foreign body from lens
 231748003,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 66359001,C647,C64.7 Insertion of iris hooks
 63356004,C731,C73.1 Membranectomy of lens
 44269004,C741,C74.1 Curettage of lens
 75227000,C743,C74.3 Mechanical lensectomy
-414507007,C731,C73.1 Membranectomy of lens
-54885007,C713,C71.3 Aspiration of lens
 13793006,C712,C71.2 Phacoemulsification of lens
 360411008,C732,C73.2 Capsulotomy of anterior lens capsule
 120121008,C778,C77.8 Other specified other operations on lens
 19740002,C719,C71.9 Unspecified extracapsular extraction of lens
 4877004,C719,C71.9 Unspecified extracapsular extraction of lens
 75227000,C732,C73.2 Capsulotomy of anterior lens capsule
-54885007,C733,C73.3 Capsulotomy of posterior lens capsule
-385468004,C731,C73.1 Membranectomy of lens
 265295001,C711,C71.1 Simple linear extraction of lens
-5130002,C742,C74.2 Discission of cataract
-386611002,C771,C77.1 Capsulectomy
-54211003,C774,C77.4 Surgical removal of foreign body from lens
 75227000,C749,C74.9 Unspecified other extraction of lens
-446508006,C776,C77.6 Insertion of capsule tension ring
-231744001,C719,C71.9 Unspecified extracapsular extraction of lens
 172532006,C731,C73.1 Membranectomy of lens
 74184007,C739,C73.9 Unspecified incision of capsule of lens
-88282000,C713,C71.3 Aspiration of lens
 44269004,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 404629006,Y048,Y04.8 Other specified replantation of organ NOC
 50538003,C776,C77.6 Insertion of capsule tension ring
 18137003,C647,C64.7 Insertion of iris hooks
-54885007,C722,C72.2 Suction extraction of lens
 3700004,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-385468004,C718,C71.8 Other specified extracapsular extraction of lens
 64854001,C713,C71.3 Aspiration of lens
-404628003,C722,C72.2 Suction extraction of lens
 172530003,C733,C73.3 Capsulotomy of posterior lens capsule
-446548003,C733,C73.3 Capsulotomy of posterior lens capsule
 40163002,C771,C77.1 Capsulectomy
 446862000,C723,C72.3 Cryoextraction of lens
-414507007,C732,C73.2 Capsulotomy of anterior lens capsule
-446548003,C748,C74.8 Other specified other extraction of lens
 89978003,C728,C72.8 Other specified intracapsular extraction of lens
 3700004,C722,C72.2 Suction extraction of lens
 18476009,C722,C72.2 Suction extraction of lens
-31705006,C713,C71.3 Aspiration of lens
-414507007,C741,C74.1 Curettage of lens
-54885007,C729,C72.9 Unspecified intracapsular extraction of lens
-85622008,C723,C72.3 Cryoextraction of lens
 75227000,C719,C71.9 Unspecified extracapsular extraction of lens
 70107009,Y269,Y26.9 Unspecified other repair of organ NOC
-9812004,Y398,Y39.8 Other specified injection of other substance into organ NOC
 89978003,C723,C72.3 Cryoextraction of lens
-418430006,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-5130002,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 231748003,C732,C73.2 Capsulotomy of anterior lens capsule
-74490003,C743,C74.3 Mechanical lensectomy
-446508006,C648,C64.8 Other specified other operations on iris
 446590009,C723,C72.3 Cryoextraction of lens
 75227000,C742,C74.2 Discission of cataract
 19740002,C711,C71.1 Simple linear extraction of lens
-67760003,C713,C71.3 Aspiration of lens
-54885007,C719,C71.9 Unspecified extracapsular extraction of lens
-446548003,C742,C74.2 Discission of cataract
 35717002,C647,C64.7 Insertion of iris hooks
 18476009,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 75227000,C713,C71.3 Aspiration of lens
-88234006,C753,C75.3 Removal of prosthetic replacement for lens
 172542008,C752,C75.2 Revision of prosthetic replacement for lens
-414507007,C712,C71.2 Phacoemulsification of lens
 120122001,C778,C77.8 Other specified other operations on lens
 4877004,C712,C71.2 Phacoemulsification of lens
 231749006,C738,C73.8 Other specified incision of capsule of lens
 172532006,Y086,Y08.6 Laser incision of organ NOC
-231744001,C729,C72.9 Unspecified intracapsular extraction of lens
 404626004,C732,C73.2 Capsulotomy of anterior lens capsule
 50538003,C742,C74.2 Discission of cataract
 66359001,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-54885007,C731,C73.1 Membranectomy of lens
 172530003,Y086,Y08.6 Laser incision of organ NOC
-9812004,Y391,Y39.1 Injection of radiocontrast substance into sinus track from organ NOC
 18476009,C592,C59.2 Surgical iridectomy
 18137003,C776,C77.6 Insertion of capsule tension ring
-419767009,C712,C71.2 Phacoemulsification of lens
-385468004,C733,C73.3 Capsulotomy of posterior lens capsule
-414507007,C729,C72.9 Unspecified intracapsular extraction of lens
-112964009,C713,C71.3 Aspiration of lens
 231748003,C733,C73.3 Capsulotomy of posterior lens capsule
 18476009,C728,C72.8 Other specified intracapsular extraction of lens
-419767009,C515,C51.5 Placement of therapeutic contact lens on to cornea
-386611002,C721,C72.1 Forceps extraction of lens
-54885007,C718,C71.8 Other specified extracapsular extraction of lens
 46309001,C742,C74.2 Discission of cataract
 231750006,C776,C77.6 Insertion of capsule tension ring
-10178000,C719,C71.9 Unspecified extracapsular extraction of lens
-414507007,C723,C72.3 Cryoextraction of lens
-54885007,C712,C71.2 Phacoemulsification of lens
 418121005,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 9137006,C776,C77.6 Insertion of capsule tension ring
-446548003,C612,C61.2 Trabeculotomy
 75227000,C729,C72.9 Unspecified intracapsular extraction of lens
 446590009,C728,C72.8 Other specified intracapsular extraction of lens
 18476009,C729,C72.9 Unspecified intracapsular extraction of lens
 172523009,C723,C72.3 Cryoextraction of lens
-386611002,C743,C74.3 Mechanical lensectomy
 172538005,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-446548003,C738,C73.8 Other specified incision of capsule of lens
 88096002,C742,C74.2 Discission of cataract
-385468004,C721,C72.1 Forceps extraction of lens
-414507007,C718,C71.8 Other specified extracapsular extraction of lens
-231744001,C718,C71.8 Other specified extracapsular extraction of lens
-65812008,C729,C72.9 Unspecified intracapsular extraction of lens
-386611002,C772,C77.2 Couching of lens
-386611002,C779,C77.9 Unspecified other operations on lens
 172547002,C773,C77.3 Biopsy of lesion of lens
 231747008,C734,C73.4 Capsulotomy of lens NEC
 312714009,C752,C75.2 Revision of prosthetic replacement for lens
 172532006,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 74184007,C731,C73.1 Membranectomy of lens
 360405005,C774,C77.4 Surgical removal of foreign body from lens
-373418002,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 360411008,C734,C73.4 Capsulotomy of lens NEC
 88096002,C741,C74.1 Curettage of lens
 85785001,C734,C73.4 Capsulotomy of lens NEC
 3700004,C647,C64.7 Insertion of iris hooks
-385468004,C729,C72.9 Unspecified intracapsular extraction of lens
 172523009,C721,C72.1 Forceps extraction of lens
 360411008,C739,C73.9 Unspecified incision of capsule of lens
 75170007,C748,C74.8 Other specified other extraction of lens
 231748003,Y086,Y08.6 Laser incision of organ NOC
 78191003,C734,C73.4 Capsulotomy of lens NEC
 410702009,C743,C74.3 Mechanical lensectomy
-385468004,C728,C72.8 Other specified intracapsular extraction of lens
 13793006,C719,C71.9 Unspecified extracapsular extraction of lens
-385468004,C742,C74.2 Discission of cataract
-414507007,C711,C71.1 Simple linear extraction of lens
-308694002,C719,C71.9 Unspecified extracapsular extraction of lens
-386611002,C775,C77.5 Magnetic extraction of foreign body from lens
 172529008,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 401306006,C776,C77.6 Insertion of capsule tension ring
-5130002,C776,C77.6 Insertion of capsule tension ring
 4877004,C711,C71.1 Simple linear extraction of lens
-420260004,C712,C71.2 Phacoemulsification of lens
 4877004,C713,C71.3 Aspiration of lens
-446548003,C722,C72.2 Suction extraction of lens
-417493007,C719,C71.9 Unspecified extracapsular extraction of lens
 19740002,C712,C71.2 Phacoemulsification of lens
 12163000,C711,C71.1 Simple linear extraction of lens
 75227000,C712,C71.2 Phacoemulsification of lens
-54885007,C749,C74.9 Unspecified other extraction of lens
-386611002,C733,C73.3 Capsulotomy of posterior lens capsule
-446548003,C743,C74.3 Mechanical lensectomy
 172532006,C734,C73.4 Capsulotomy of lens NEC
-446548003,C731,C73.1 Membranectomy of lens
 79259004,C711,C71.1 Simple linear extraction of lens
-386611002,C719,C71.9 Unspecified extracapsular extraction of lens
-446548003,C719,C71.9 Unspecified extracapsular extraction of lens
 18476009,C721,C72.1 Forceps extraction of lens
 401306006,C712,C71.2 Phacoemulsification of lens
-417493007,C713,C71.3 Aspiration of lens
 78191003,C733,C73.3 Capsulotomy of posterior lens capsule
-446548003,C721,C72.1 Forceps extraction of lens
-414507007,C749,C74.9 Unspecified other extraction of lens
 88096002,C743,C74.3 Mechanical lensectomy
 39243005,C743,C74.3 Mechanical lensectomy
-386611002,C731,C73.1 Membranectomy of lens
 75170007,C741,C74.1 Curettage of lens
 70107009,Y263,Y26.3 Stapling of organ NOC
-386611002,C778,C77.8 Other specified other operations on lens
-308694002,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-446548003,C718,C71.8 Other specified extracapsular extraction of lens
 66226002,C733,C73.3 Capsulotomy of posterior lens capsule
 83868006,C771,C77.1 Capsulectomy
 172530003,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 9137006,C647,C64.7 Insertion of iris hooks
 67991000,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-79611007,C776,C77.6 Insertion of capsule tension ring
-419767009,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 30104007,C738,C73.8 Other specified incision of capsule of lens
-65812008,C712,C71.2 Phacoemulsification of lens
-414507007,C713,C71.3 Aspiration of lens
 67991000,C647,C64.7 Insertion of iris hooks
-54885007,C738,C73.8 Other specified incision of capsule of lens
-386611002,C713,C71.3 Aspiration of lens
-65812008,C743,C74.3 Mechanical lensectomy
-418430006,C515,C51.5 Placement of therapeutic contact lens on to cornea
 18476009,C723,C72.3 Cryoextraction of lens
-54885007,C739,C73.9 Unspecified incision of capsule of lens
 74184007,C734,C73.4 Capsulotomy of lens NEC
 35717002,C776,C77.6 Insertion of capsule tension ring
 231747008,C739,C73.9 Unspecified incision of capsule of lens
-65812008,C739,C73.9 Unspecified incision of capsule of lens
-54885007,C741,C74.1 Curettage of lens
-446548003,C739,C73.9 Unspecified incision of capsule of lens
 75170007,C749,C74.9 Unspecified other extraction of lens
 446862000,C729,C72.9 Unspecified intracapsular extraction of lens
-231744001,C723,C72.3 Cryoextraction of lens
 78191003,C738,C73.8 Other specified incision of capsule of lens
 418121005,C515,C51.5 Placement of therapeutic contact lens on to cornea
-446548003,C713,C71.3 Aspiration of lens
 446490007,C718,C71.8 Other specified extracapsular extraction of lens
 44269004,C776,C77.6 Insertion of capsule tension ring
-5130002,C647,C64.7 Insertion of iris hooks
-231744001,C711,C71.1 Simple linear extraction of lens
-446548003,C749,C74.9 Unspecified other extraction of lens
 446490007,C712,C71.2 Phacoemulsification of lens
 75170007,C742,C74.2 Discission of cataract
-386611002,C753,C75.3 Removal of prosthetic replacement for lens
-385468004,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-9812004,Y392,Y39.2 Other injection of radiocontrast substance into organ NOC
-308694002,C713,C71.3 Aspiration of lens
 447304001,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-308694002,C712,C71.2 Phacoemulsification of lens
-112963003,C713,C71.3 Aspiration of lens
-231744001,C712,C71.2 Phacoemulsification of lens
-84016007,C774,C77.4 Surgical removal of foreign body from lens
 360411008,C738,C73.8 Other specified incision of capsule of lens
 231750006,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-414507007,C721,C72.1 Forceps extraction of lens
-414507007,C734,C73.4 Capsulotomy of lens NEC
-65812008,C734,C73.4 Capsulotomy of lens NEC
 13793006,C711,C71.1 Simple linear extraction of lens
 85785001,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-446548003,C712,C71.2 Phacoemulsification of lens
-386611002,C711,C71.1 Simple linear extraction of lens
-84149000,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 33481008,C743,C74.3 Mechanical lensectomy
 70107009,Y264,Y26.4 Removal of other repair material from organ NOC
-65812008,C723,C72.3 Cryoextraction of lens
 75227000,C728,C72.8 Other specified intracapsular extraction of lens
 70107009,C778,C77.8 Other specified other operations on lens
-313999004,C712,C71.2 Phacoemulsification of lens
 172525002,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 360411008,C733,C73.3 Capsulotomy of posterior lens capsule
 75227000,C723,C72.3 Cryoextraction of lens
 172532006,C739,C73.9 Unspecified incision of capsule of lens
 83868006,C592,C59.2 Surgical iridectomy
 447304001,C712,C71.2 Phacoemulsification of lens
-54885007,C742,C74.2 Discission of cataract
 70107009,Y265,Y26.5 Other attention to repair of organ NOC
 75227000,C748,C74.8 Other specified other extraction of lens
 231748003,C739,C73.9 Unspecified incision of capsule of lens
-46426006,C723,C72.3 Cryoextraction of lens
-386611002,C748,C74.8 Other specified other extraction of lens
 446490007,C719,C71.9 Unspecified extracapsular extraction of lens
-427288008,C754,C75.4 Insertion of prosthetic replacement for lens using suture fixation
 447304001,C711,C71.1 Simple linear extraction of lens
 70107009,Y261,Y26.1 Reconstruction of organ NOC
-84149000,C647,C64.7 Insertion of iris hooks
-54885007,C728,C72.8 Other specified intracapsular extraction of lens
 231747008,Y086,Y08.6 Laser incision of organ NOC
 447304001,C719,C71.9 Unspecified extracapsular extraction of lens
 360411008,C731,C73.1 Membranectomy of lens
 74184007,Y086,Y08.6 Laser incision of organ NOC
-386611002,C718,C71.8 Other specified extracapsular extraction of lens
 74184007,C733,C73.3 Capsulotomy of posterior lens capsule
-386611002,C739,C73.9 Unspecified incision of capsule of lens
 89978003,C721,C72.1 Forceps extraction of lens
-69360005,C718,C71.8 Other specified extracapsular extraction of lens
-386611002,C738,C73.8 Other specified incision of capsule of lens
 75227000,C731,C73.1 Membranectomy of lens
-308695001,C721,C72.1 Forceps extraction of lens
-414507007,C728,C72.8 Other specified intracapsular extraction of lens
-308695001,C729,C72.9 Unspecified intracapsular extraction of lens
-385468004,C743,C74.3 Mechanical lensectomy
-415089008,C712,C71.2 Phacoemulsification of lens
 75227000,C711,C71.1 Simple linear extraction of lens
-386611002,C742,C74.2 Discission of cataract
-404628003,C729,C72.9 Unspecified intracapsular extraction of lens
-417493007,C711,C71.1 Simple linear extraction of lens
 231752003,C752,C75.2 Revision of prosthetic replacement for lens
-65812008,C731,C73.1 Membranectomy of lens
-231744001,C742,C74.2 Discission of cataract
 66359001,C776,C77.6 Insertion of capsule tension ring
 19740002,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-65812008,C749,C74.9 Unspecified other extraction of lens
-386611002,C732,C73.2 Capsulotomy of anterior lens capsule
 89978003,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-308695001,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-54885007,C723,C72.3 Cryoextraction of lens
-65812008,C741,C74.1 Curettage of lens
-446508006,Y021,Y02.1 Implantation of prosthesis into organ NOC
-308695001,C722,C72.2 Suction extraction of lens
-65812008,C728,C72.8 Other specified intracapsular extraction of lens
-361191005,C712,C71.2 Phacoemulsification of lens
-231744001,C728,C72.8 Other specified intracapsular extraction of lens
-446548003,C741,C74.1 Curettage of lens
-446548003,C723,C72.3 Cryoextraction of lens
 3700004,C776,C77.6 Insertion of capsule tension ring
 88096002,C748,C74.8 Other specified other extraction of lens
-84016007,C775,C77.5 Magnetic extraction of foreign body from lens
 446590009,C754,C75.4 Insertion of prosthetic replacement for lens using suture fixation
-112963003,C647,C64.7 Insertion of iris hooks
-65812008,C722,C72.2 Suction extraction of lens
 446590009,C722,C72.2 Suction extraction of lens
-385468004,C723,C72.3 Cryoextraction of lens
 18137003,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 418121005,C712,C71.2 Phacoemulsification of lens
 404629006,C732,C73.2 Capsulotomy of anterior lens capsule
-79611007,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-386611002,C749,C74.9 Unspecified other extraction of lens
-414507007,C738,C73.8 Other specified incision of capsule of lens
 172523009,C722,C72.2 Suction extraction of lens
 172524003,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 446590009,C729,C72.9 Unspecified intracapsular extraction of lens
-65812008,C738,C73.8 Other specified incision of capsule of lens
 66542005,C748,C74.8 Other specified other extraction of lens
 172549004,C778,C77.8 Other specified other operations on lens
-231744001,C721,C72.1 Forceps extraction of lens
-308694002,C711,C71.1 Simple linear extraction of lens
-386611002,C723,C72.3 Cryoextraction of lens
-65812008,C732,C73.2 Capsulotomy of anterior lens capsule
 75227000,C734,C73.4 Capsulotomy of lens NEC
-231744001,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-385468004,C739,C73.9 Unspecified incision of capsule of lens
-9812004,Y395,Y39.5 Tattooing of organ NOC
-65812008,C713,C71.3 Aspiration of lens
-386611002,C773,C77.3 Biopsy of lesion of lens
-417493007,C712,C71.2 Phacoemulsification of lens
 51839008,C711,C71.1 Simple linear extraction of lens
-308694002,C718,C71.8 Other specified extracapsular extraction of lens
-385468004,C712,C71.2 Phacoemulsification of lens
-231746004,C738,C73.8 Other specified incision of capsule of lens
 447304001,C713,C71.3 Aspiration of lens
-9812004,Y399,Y39.9 Unspecified injection of other substance into organ NOC
-386611002,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 78191003,C731,C73.1 Membranectomy of lens
-414507007,C722,C72.2 Suction extraction of lens
 4877004,C718,C71.8 Other specified extracapsular extraction of lens
-231744001,C601,C60.1 Trabeculectomy
-414507007,C743,C74.3 Mechanical lensectomy
-231744001,C749,C74.9 Unspecified other extraction of lens
-385468004,C748,C74.8 Other specified other extraction of lens
 446862000,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 231750006,C647,C64.7 Insertion of iris hooks
-75814005,C748,C74.8 Other specified other extraction of lens
-446548003,C601,C60.1 Trabeculectomy
-385468004,C711,C71.1 Simple linear extraction of lens
-386611002,C752,C75.2 Revision of prosthetic replacement for lens
 360411008,Y086,Y08.6 Laser incision of organ NOC
 74184007,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 70107009,Y268,Y26.8 Other specified other repair of organ NOC
 85785001,Y086,Y08.6 Laser incision of organ NOC
-386611002,C712,C71.2 Phacoemulsification of lens
 64854001,C647,C64.7 Insertion of iris hooks
 22127001,C743,C74.3 Mechanical lensectomy
-65812008,C733,C73.3 Capsulotomy of posterior lens capsule
-418430006,C712,C71.2 Phacoemulsification of lens
-9812004,C778,C77.8 Other specified other operations on lens
 172525002,C647,C64.7 Insertion of iris hooks
-446548003,C728,C72.8 Other specified intracapsular extraction of lens
 172542008,C515,C51.5 Placement of therapeutic contact lens on to cornea
-231745000,C728,C72.8 Other specified intracapsular extraction of lens
-415089008,C751,C75.1 Insertion of prosthetic replacement for lens NEC
-385468004,C741,C74.1 Curettage of lens
-9812004,Y393,Y39.3 Injection of inert substance into organ NOC
-231744001,C748,C74.8 Other specified other extraction of lens
-313999004,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 75227000,C733,C73.3 Capsulotomy of posterior lens capsule
 446862000,C721,C72.1 Forceps extraction of lens
-385468004,C713,C71.3 Aspiration of lens
-54885007,C711,C71.1 Simple linear extraction of lens
-308695001,C723,C72.3 Cryoextraction of lens
-385468004,C719,C71.9 Unspecified extracapsular extraction of lens
-54305003,C772,C77.2 Couching of lens
-112963003,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 50538003,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 75227000,C738,C73.8 Other specified incision of capsule of lens
 422103004,C732,C73.2 Capsulotomy of anterior lens capsule
@@ -497,28 +259,14 @@ snomed,opcs,opcs_term
 70107009,Y262,Y26.2 Plastic repair of organ NOC
 447304001,C718,C71.8 Other specified extracapsular extraction of lens
 4877004,C592,C59.2 Surgical iridectomy
-386611002,C758,C75.8 Other specified prosthesis of lens
 172529008,Y086,Y08.6 Laser incision of organ NOC
 19208002,C742,C74.2 Discission of cataract
-385468004,C749,C74.9 Unspecified other extraction of lens
-385468004,C734,C73.4 Capsulotomy of lens NEC
-385468004,C722,C72.2 Suction extraction of lens
 265295001,C647,C64.7 Insertion of iris hooks
-88234006,C515,C51.5 Placement of therapeutic contact lens on to cornea
 64854001,C776,C77.6 Insertion of capsule tension ring
 75227000,C721,C72.1 Forceps extraction of lens
 446490007,C711,C71.1 Simple linear extraction of lens
-386611002,C759,C75.9 Unspecified prosthesis of lens
-65812008,C718,C71.8 Other specified extracapsular extraction of lens
 75227000,C722,C72.2 Suction extraction of lens
-417493007,C718,C71.8 Other specified extracapsular extraction of lens
-414507007,C719,C71.9 Unspecified extracapsular extraction of lens
 13793006,C718,C71.8 Other specified extracapsular extraction of lens
-65812008,C748,C74.8 Other specified other extraction of lens
 446590009,C721,C72.1 Forceps extraction of lens
-58689006,C775,C77.5 Magnetic extraction of foreign body from lens
-108152001,Y309,Y30.9 Unspecified incision of organ NOC
-9812004,Y394,Y39.4 Lipofilling injection into organ NOC
-65812008,C742,C74.2 Discission of cataract
 172524003,C647,C64.7 Insertion of iris hooks
 172523009,C729,C72.9 Unspecified intracapsular extraction of lens

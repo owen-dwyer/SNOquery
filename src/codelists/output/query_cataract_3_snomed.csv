@@ -2,7 +2,6 @@ conceptId,idAndFsnTerm
 447304001,447304001 | One stage extracapsular extraction of lens and insertion of prosthetic intraocular lens (procedure) |
 446862000,446862000 | One stage intracapsular extraction of lens with insertion of prosthetic intraocular lens (procedure) |
 446590009,446590009 | One stage intracapsular extraction of lens by inferior temporal route and insertion of prosthetic intraocular lens (procedure) |
-446548003,446548003 | Extraction of cataract and trabeculectomy (procedure) |
 446490007,446490007 | One stage extracapsular extraction of lens and insertion of prosthetic intraocular lens by inferior temporal route (procedure) |
 422103004,422103004 | Can opener anterior capsulotomy (procedure) |
 418121005,418121005 | Bimanual phacoemulsification of lens with intraocular lens implantation (procedure) |
@@ -23,7 +22,6 @@ conceptId,idAndFsnTerm
 231749006,231749006 | Capsulorrhexis of lens capsule (procedure) |
 231748003,231748003 | Laser capsulotomy of lens capsule (procedure) |
 231747008,231747008 | Surgical capsulotomy of lens capsule (procedure) |
-231744001,"231744001 | Cataract extraction, insertion of intraocular lens and trabeculectomy (procedure) |"
 172547002,172547002 | Biopsy of lesion of lens (procedure) |
 172542008,172542008 | Revision of intraocular lens (procedure) |
 172538005,172538005 | Mechanical lensectomy (procedure) |
@@ -44,7 +42,6 @@ conceptId,idAndFsnTerm
 67991000,67991000 | Extracapsular extraction of lens by linear extraction technique (procedure) |
 66542005,66542005 | Zonulolysis with lens extraction (procedure) |
 66359001,66359001 | Intracapsular extraction of lens by inferior temporal route (procedure) |
-65812008,65812008 | Removal of secondary membranous cataract with iridectomy (procedure) |
 63356004,63356004 | Capsulectomy of lens (procedure) |
 51839008,51839008 | Extraction of primary membranous cataract by needling (procedure) |
 50538003,"50538003 | Discission of membranous cataract, primary (procedure) |"

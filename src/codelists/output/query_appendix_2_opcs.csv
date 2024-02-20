@@ -1,56 +1,38 @@
 snomed,opcs,opcs_term
 49586007,H144,H14.4 Appendicocaecostomy
-235314005,H012,H01.2 Emergency excision of abnormal appendix NEC
-8613002,H033,H03.3 Exteriorisation of appendix
 32578005,Y205,Y20.5 Percutaneous biopsy NOC
 32578005,Y203,Y20.3 Biopsy of lesion of organ NOC
-8613002,H018,H01.8 Other specified emergency excision of appendix
 710197007,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 32578005,H031,H03.1 Drainage of abscess of appendix
-8613002,H022,H02.2 Planned delayed appendicectomy NEC
 6025007,H029,H02.9 Unspecified other excision of appendix
-51113007,H032,H03.2 Drainage of appendix NEC
-51113007,Y181,Y18.1 Freeing of adhesions of organ NOC
 708876004,H024,H02.4 Incidental appendicectomy
-118837004,H021,H02.1 Interval appendicectomy
 174041007,H018,H01.8 Other specified emergency excision of appendix
 174036004,H012,H01.2 Emergency excision of abnormal appendix NEC
 710197007,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 32578005,Y208,Y20.8 Other specified biopsy of organ NOC
-118837004,H018,H01.8 Other specified emergency excision of appendix
-235314005,H013,H01.3 Emergency excision of normal appendix
 42332004,H033,H03.3 Exteriorisation of appendix
 1299000,H024,H02.4 Incidental appendicectomy
-51113007,H038,H03.8 Other specified other operations on appendix
 1299000,H023,H02.3 Prophylactic appendicectomy NEC
 708876004,H022,H02.2 Planned delayed appendicectomy NEC
 32578005,Y209,Y20.9 Unspecified biopsy of organ NOC
 443935000,H012,H01.2 Emergency excision of abnormal appendix NEC
-174052001,H031,H03.1 Drainage of abscess of appendix
 443037006,H031,H03.1 Drainage of abscess of appendix
-235314005,H028,H02.8 Other specified other excision of appendix
 32578005,Y207,Y20.7 Vacuum biopsy of lesion of organ NOC
 708876004,H018,H01.8 Other specified emergency excision of appendix
 710197007,Z281,Z28.1 Appendix
 17041004,H031,H03.1 Drainage of abscess of appendix
-118837004,H039,H03.9 Unspecified other operations on appendix
 32578005,H039,H03.9 Unspecified other operations on appendix
 6025007,H021,H02.1 Interval appendicectomy
 6025007,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
-235314005,H019,H01.9 Unspecified emergency excision of appendix
 1299000,Y051,Y05.1 Total excision of organ NOC
 710197007,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 6025007,Y755,Y75.5 Laparoscopic ultrasonic approach to abdominal cavity
 710197007,Y973,Y97.3 Radiology with post contrast
 32578005,H038,H03.8 Other specified other operations on appendix
 174041007,H013,H01.3 Emergency excision of normal appendix
-307582003,H032,H03.2 Drainage of appendix NEC
 32578005,H032,H03.2 Drainage of appendix NEC
 1299000,H028,H02.8 Other specified other excision of appendix
 708876004,H021,H02.1 Interval appendicectomy
-448481005,H038,H03.8 Other specified other operations on appendix
-51113007,H033,H03.3 Exteriorisation of appendix
-118837004,H019,H01.9 Unspecified emergency excision of appendix
 80146002,H022,H02.2 Planned delayed appendicectomy NEC
 32578005,Y201,Y20.1 Stereotactic biopsy of lesion of organ NOC
 174041007,Y751,Y75.1 Laparoscopically assisted approach to abdominal cavity
@@ -60,14 +42,10 @@ snomed,opcs,opcs_term
 32578005,H033,H03.3 Exteriorisation of appendix
 6025007,H018,H01.8 Other specified emergency excision of appendix
 6025007,Y751,Y75.1 Laparoscopically assisted approach to abdominal cavity
-118837004,H031,H03.1 Drainage of abscess of appendix
 708876004,H028,H02.8 Other specified other excision of appendix
 80146002,H018,H01.8 Other specified emergency excision of appendix
-8613002,H032,H03.2 Drainage of appendix NEC
 174041007,H019,H01.9 Unspecified emergency excision of appendix
-51113007,Y189,Y18.9 Unspecified release of organ NOC
 17041004,Y309,Y30.9 Unspecified incision of organ NOC
-51113007,H031,H03.1 Drainage of abscess of appendix
 17041004,H032,H03.2 Drainage of appendix NEC
 13893002,Y073,Y07.3 Obliteration of sinus track from organ NOC
 80146002,H029,H02.9 Unspecified other excision of appendix
@@ -75,64 +53,44 @@ snomed,opcs,opcs_term
 1299000,Y053,Y05.3 Excision of sinus track from organ NOC
 235313004,H023,H02.3 Prophylactic appendicectomy NEC
 708876004,H012,H01.2 Emergency excision of abnormal appendix NEC
-8613002,H021,H02.1 Interval appendicectomy
 37402004,H031,H03.1 Drainage of abscess of appendix
-235315006,H032,H03.2 Drainage of appendix NEC
-235314005,H018,H01.8 Other specified emergency excision of appendix
 174041007,H011,H01.1 Emergency excision of abnormal appendix and drainage HFQ
 6025007,H011,H01.1 Emergency excision of abnormal appendix and drainage HFQ
 708876004,H011,H01.1 Emergency excision of abnormal appendix and drainage HFQ
 443935000,H011,H01.1 Emergency excision of abnormal appendix and drainage HFQ
 17041004,H038,H03.8 Other specified other operations on appendix
-118837004,H024,H02.4 Incidental appendicectomy
 174041007,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 174045003,H021,H02.1 Interval appendicectomy
 174036004,H011,H01.1 Emergency excision of abnormal appendix and drainage HFQ
-8613002,H012,H01.2 Emergency excision of abnormal appendix NEC
 6025007,H012,H01.2 Emergency excision of abnormal appendix NEC
-8613002,H024,H02.4 Incidental appendicectomy
 307581005,Y751,Y75.1 Laparoscopically assisted approach to abdominal cavity
 307581005,Y755,Y75.5 Laparoscopic ultrasonic approach to abdominal cavity
 235313004,H022,H02.2 Planned delayed appendicectomy NEC
-8613002,H028,H02.8 Other specified other excision of appendix
 174036004,H018,H01.8 Other specified emergency excision of appendix
-118837004,H028,H02.8 Other specified other excision of appendix
-51113007,Y188,Y18.8 Other specified release of organ NOC
 174036004,H019,H01.9 Unspecified emergency excision of appendix
-307582003,H031,H03.1 Drainage of abscess of appendix
 1299000,Y052,Y05.2 Partial excision of organ NOC
 235316007,H625,H62.5 Irrigation of bowel NEC
 32578005,Y204,Y20.4 Fine needle aspiration NOC
 235313004,H021,H02.1 Interval appendicectomy
 6025007,H023,H02.3 Prophylactic appendicectomy NEC
-118837004,H013,H01.3 Emergency excision of normal appendix
 174041007,Y755,Y75.5 Laparoscopic ultrasonic approach to abdominal cavity
 1299000,Y058,Y05.8 Other specified excision of organ NOC
-8613002,H029,H02.9 Unspecified other excision of appendix
-118837004,H011,H01.1 Emergency excision of abnormal appendix and drainage HFQ
 708876004,Y753,Y75.3 Robotic minimal access approach to abdominal cavity
 174041007,H012,H01.2 Emergency excision of abnormal appendix NEC
 80146002,H011,H01.1 Emergency excision of abnormal appendix and drainage HFQ
-118837004,H023,H02.3 Prophylactic appendicectomy NEC
 1299000,H021,H02.1 Interval appendicectomy
 80146002,H024,H02.4 Incidental appendicectomy
 174039006,H013,H01.3 Emergency excision of normal appendix
 443037006,Y533,Y53.3 Approach to organ under computed tomography scan control
 80146002,H013,H01.3 Emergency excision of normal appendix
 1299000,Y054,Y05.4 Ex vivo resection of organ NOC
-118837004,H038,H03.8 Other specified other operations on appendix
 13893002,H038,H03.8 Other specified other operations on appendix
-448481005,Y037,Y03.7 Removal of prosthesis from organ NOC
 6025007,H013,H01.3 Emergency excision of normal appendix
 6025007,H019,H01.9 Unspecified emergency excision of appendix
-8613002,H013,H01.3 Emergency excision of normal appendix
 82730006,H024,H02.4 Incidental appendicectomy
 235316007,Y515,Y51.5 Approach to organ through appendicostomy
 708876004,H023,H02.3 Prophylactic appendicectomy NEC
 6025007,H022,H02.2 Planned delayed appendicectomy NEC
-8613002,H031,H03.1 Drainage of abscess of appendix
-118837004,H033,H03.3 Exteriorisation of appendix
-8613002,H039,H03.9 Unspecified other operations on appendix
 235313004,H029,H02.9 Unspecified other excision of appendix
 80146002,H019,H01.9 Unspecified emergency excision of appendix
 174036004,H013,H01.3 Emergency excision of normal appendix
@@ -140,26 +98,16 @@ snomed,opcs,opcs_term
 1299000,Y059,Y05.9 Unspecified excision of organ NOC
 80146002,H023,H02.3 Prophylactic appendicectomy NEC
 1299000,H029,H02.9 Unspecified other excision of appendix
-118837004,H029,H02.9 Unspecified other excision of appendix
-8613002,H023,H02.3 Prophylactic appendicectomy NEC
 49438003,H011,H01.1 Emergency excision of abnormal appendix and drainage HFQ
 710197007,Y971,Y97.1 Radiology with pre and post contrast
 80146002,H028,H02.8 Other specified other excision of appendix
 711169008,M491,M49.1 Closure of cystostomy
-8613002,H019,H01.9 Unspecified emergency excision of appendix
-118837004,H022,H02.2 Planned delayed appendicectomy NEC
 1299000,Y055,Y05.5 Debridement of organ NOC
 80146002,H021,H02.1 Interval appendicectomy
 708876004,H019,H01.9 Unspecified emergency excision of appendix
 32578005,Y202,Y20.2 Stereotactic biopsy of organ NOC
 235313004,H024,H02.4 Incidental appendicectomy
 1299000,H022,H02.2 Planned delayed appendicectomy NEC
-118837004,H012,H01.2 Emergency excision of abnormal appendix NEC
-8613002,H038,H03.8 Other specified other operations on appendix
-235314005,H011,H01.1 Emergency excision of abnormal appendix and drainage HFQ
-8613002,H011,H01.1 Emergency excision of abnormal appendix and drainage HFQ
-51113007,H039,H03.9 Unspecified other operations on appendix
-118837004,H032,H03.2 Drainage of appendix NEC
 307581005,H021,H02.1 Interval appendicectomy
 6025007,H024,H02.4 Incidental appendicectomy
 708876004,H029,H02.9 Unspecified other excision of appendix

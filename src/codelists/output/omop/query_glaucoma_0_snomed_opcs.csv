@@ -1,0 +1,2740 @@
+,concept_code_y,concept_name_y,opcs
+55,C81.1,Xenon photocoagulation of retina for detachment,C811
+681,H35.8,Other specified fixation of rectum for prolapse,H358
+682,H35.9,Unspecified fixation of rectum for prolapse,H359
+683,H35,Fixation of rectum for prolapse,H35
+684,H36,Other abdominal operations for prolapse of rectum,H36
+698,T16.3,Closure of fistula of diaphragm,T163
+729,K41.3,Autograft replacement of three coronary arteries NEC,K413
+828,F42.4,Photography of mouth,F424
+894,F45.5,Destruction of lesion of salivary gland,F455
+1018,U20.2,Transoesophageal echocardiography,U202
+1299,E17.1,Excision of nasal sinus NEC,E171
+1729,M02.5,Nephrectomy NEC,M025
+1815,M34.3,Cystectomy NEC,M343
+1870,C57.3,Graft to sclera,C573
+1988,A47.8,Other specified other destruction of spinal cord,A478
+1989,A47.9,Unspecified other destruction of spinal cord,A479
+1990,A47,Other destruction of spinal cord,A47
+2182,D01.8,Other specified excision of external ear,D018
+2183,D01.9,Unspecified excision of external ear,D019
+2184,D01,Excision of external ear,D01
+2283,V27.1,Primary decompression of spinal cord and fusion of joint of spine NEC,V271
+2284,V27.2,Primary decompression of spinal cord NEC,V272
+2285,V27.3,Revisional decompression of spinal cord NEC,V273
+2286,V27.8,Other specified decompression operations on unspecified spine,V278
+2287,V27.9,Unspecified decompression operations on unspecified spine,V279
+2292,V27,Decompression operations on unspecified spine,V27
+2436,J19.4,Anastomosis of gall bladder to intestine NEC,J194
+2507,K49.8,Other specified transluminal balloon angioplasty of coronary artery,K498
+2508,K49.9,Unspecified transluminal balloon angioplasty of coronary artery,K499
+2510,K49,Transluminal balloon angioplasty of coronary artery,K49
+2546,F44.2,Partial excision of parotid gland,F442
+2897,K13.4,Percutaneous transluminal repair of defect of interatrial septum NEC,K134
+2899,K10,Repair of defect of interatrial septum,K10
+2924,K32.2,Closed aortic valvotomy,K322
+3157,F44.5,Excision of sublingual gland,F445
+3167,J19.2,Anastomosis of gall bladder to duodenum,J192
+3239,M35.8,Other specified partial excision of bladder,M358
+3240,M35.9,Unspecified partial excision of bladder,M359
+3241,M35,Partial excision of bladder,M35
+3412,Q09.5,Metroplasty,Q095
+3505,C18.4,Correction of ptosis of eyelid using superior rectus muscle technique,C184
+3601,D01.1,Total excision of external ear,D011
+3684,G23.8,Other specified repair of diaphragmatic hernia,G238
+3685,G23.9,Unspecified repair of diaphragmatic hernia,G239
+3686,G23,Repair of diaphragmatic hernia,G23
+3806,F11.4,Vestibuloplasty of mouth,F114
+3983,Q10.3,Dilation of cervix uteri and curettage of uterus NEC,Q103
+3984,Q10.8,Other specified curettage of uterus,Q108
+3985,Q10.9,Unspecified curettage of uterus,Q109
+3986,Q11.8,Other specified other evacuation of contents of uterus,Q118
+3987,Q11.9,Unspecified other evacuation of contents of uterus,Q119
+3988,Q11,Other evacuation of contents of uterus,Q11
+4225,R18.8,Other specified other caesarean delivery,R188
+4226,R18.9,Unspecified other caesarean delivery,R189
+4227,R18,Other caesarean delivery,R18
+4703,T11.1,Diagnostic endoscopic examination of pleura and biopsy of lesion of pleura,T111
+4783,Q23.1,Unilateral salpingoophorectomy NEC,Q231
+4784,Q23.2,Salpingoophorectomy of remaining solitary fallopian tube and ovary,Q232
+4785,Q24.1,Salpingoophorectomy NEC,Q241
+4901,Q07.8,Other specified abdominal excision of uterus,Q078
+4902,Q07.9,Unspecified abdominal excision of uterus,Q079
+4903,Q07,Abdominal excision of uterus,Q07
+4950,Q07.4,Total abdominal hysterectomy NEC,Q074
+5067,Q43.1,Excision of wedge of ovary,Q431
+5294,J56.3,Pancreaticoduodenectomy NEC,J563
+5563,Q30.8,Other specified other repair of fallopian tube,Q308
+5564,Q30.9,Unspecified other repair of fallopian tube,Q309
+5720,E44.1,Excision of carina,E441
+5893,J04.8,Other specified repair of liver,J048
+5894,J04.9,Unspecified repair of liver,J049
+5896,J04,Repair of liver,J04
+5930,K45,Connection of thoracic artery to coronary artery,K45
+6012,E01.8,Other specified excision of nose,E018
+6013,E01.9,Unspecified excision of nose,E019
+6014,E01,Excision of nose,E01
+6223,E31.8,Other specified reconstruction of larynx,E318
+6224,E31.9,Unspecified reconstruction of larynx,E319
+6225,E31,Reconstruction of larynx,E31
+6245,J69.3,Excision of accessory spleen,J693
+6552,E40.1,Reconstruction of trachea and anastomosis HFQ,E401
+6553,E40.3,Reconstruction of trachea NEC,E403
+6791,E54.8,Other specified excision of lung,E548
+6792,E54.9,Unspecified excision of lung,E549
+6794,E54,Excision of lung,E54
+7404,F04.8,Other specified other reconstruction of lip,F048
+7405,F04.9,Unspecified other reconstruction of lip,F049
+7406,F04,Other reconstruction of lip,F04
+7467,F40.8,Other specified other repair of other part of mouth,F408
+7468,F40.9,Unspecified other repair of other part of mouth,F409
+7469,F40,Other repair of other part of mouth,F40
+8258,E20.1,Total adenoidectomy,E201
+8357,F36.1,Destruction of tonsil,F361
+8570,Q01.8,Other specified excision of cervix uteri,Q018
+8571,Q01.9,Unspecified excision of cervix uteri,Q019
+8572,Q01,Excision of cervix uteri,Q01
+8731,R30.1,Repositioning of inverted delivered uterus,R301
+8809,Q23.3,Unilateral salpingectomy NEC,Q233
+8810,Q23.4,Salpingectomy of remaining solitary fallopian tube NEC,Q234
+8811,Q24.2,Salpingectomy NEC,Q242
+8848,Q39.8,Other specified diagnostic endoscopic examination of fallopian tube,Q398
+8849,Q39.9,Unspecified diagnostic endoscopic examination of fallopian tube,Q399
+8850,Q39,Diagnostic endoscopic examination of fallopian tube,Q39
+8948,Q30.1,Reconstruction of fallopian tube,Q301
+9140,C01.8,Other specified excision of eye,C018
+9141,C01.9,Unspecified excision of eye,C019
+9143,C01,Excision of eye,C01
+9307,C47.8,Other specified closure of cornea,C478
+9308,C47.9,Unspecified closure of cornea,C479
+9309,C47,Closure of cornea,C47
+9464,D03.2,Reconstruction of external ear NEC,D032
+10005,K11.3,Repair of defect of interventricular septum using tissue graft NEC,K113
+10215,C17.1,Suture of eyelid,C171
+10329,D28.1,Biopsy of lesion of ear NEC,D281
+10362,J19.8,Other specified connection of gall bladder,J198
+10363,J19.9,Unspecified connection of gall bladder,J199
+10364,J19,Connection of gall bladder,J19
+10453,J54.4,Transplantation of islet of Langerhans,J544
+10899,K32.3,Closed tricuspid valvotomy,K323
+10993,F55.2,Dilation of submandibular duct,F552
+11225,F44.1,Total excision of parotid gland,F441
+11459,E03.6,Septoplasty of nose NEC,E036
+11504,A10.1,Leucotomy NEC,A101
+11524,C34.7,Tenotomy of combinations of muscles of eye,C347
+11549,C71.8,Other specified extracapsular extraction of lens,C718
+11550,C71.9,Unspecified extracapsular extraction of lens,C719
+11551,C71,Extracapsular extraction of lens,C71
+11735,G02.8,Other specified total excision of oesophagus,G028
+11736,G02.9,Unspecified total excision of oesophagus,G029
+11737,G02,Total excision of oesophagus,G02
+11807,K48.3,Open angioplasty of coronary artery,K483
+11829,A01.1,Hemispherectomy,A011
+11973,M43.3,Endoscopic overdistension of bladder NEC,M433
+12116,G72.2,Anastomosis of ileum to transverse colon,G722
+12355,Q45.8,Other specified repair of ovary,Q458
+12356,Q45.9,Unspecified repair of ovary,Q459
+12357,Q45,Repair of ovary,Q45
+12584,U30.1,Tilt table testing,U301
+12705,M37.4,Closure of exstrophy,M374
+12762,M05.3,Nephropexy,M053
+12794,U54.2,Delivery of rehabilitation for respiratory disorders,U542
+12957,C66.1,Excision of ciliary body,C661
+13149,C39.8,Other specified extirpation of lesion of conjunctiva,C398
+13150,C39.9,Unspecified extirpation of lesion of conjunctiva,C399
+13151,C39,Extirpation of lesion of conjunctiva,C39
+13285,Q36,Other endoscopic occlusion of fallopian tube,Q36
+13367,E25.2,Diagnostic endoscopic examination of pharynx and biopsy of lesion of pharynx NEC,E252
+14774,H33.5,Rectosigmoidectomy and closure of rectal stump and exteriorisation of bowel,H335
+15306,U17.3,Barium swallow,U173
+15352,U17.4,Barium enema,U174
+15353,Y90.5,Barium enema NEC,Y905
+15562,F48.4,Sialography,F484
+16385,U12.4,Ultrasound of bladder,U124
+16420,C05.1,Reconstruction of cavity of orbit,C051
+16647,A01.8,Other specified major excision of tissue of brain,A018
+16648,A01.9,Unspecified major excision of tissue of brain,A019
+16649,A01,Major excision of tissue of brain,A01
+16657,A01.2,Total lobectomy of brain,A012
+16667,A02.1,Excision of lesion of tissue of frontal lobe of brain,A021
+16677,A02.2,Excision of lesion of tissue of temporal lobe of brain,A022
+16687,A02.3,Excision of lesion of tissue of parietal lobe of brain,A023
+16697,A02.4,Excision of lesion of tissue of occipital lobe of brain,A024
+16707,A02.5,Excision of lesion of tissue of cerebellum,A025
+16727,A03.8,Other specified stereotactic ablation of tissue of brain,A038
+16728,A03.9,Unspecified stereotactic ablation of tissue of brain,A039
+16729,A03,Stereotactic ablation of tissue of brain,A03
+16746,A03.1,Stereotactic leucotomy,A031
+16757,A03.2,Stereotactic ablation of tissue of thalamus,A032
+16767,A03.3,Stereotactic ablation of tissue of globus pallidus,A033
+16776,A03.4,Stereotactic ablation of tissue of brain stem,A034
+16797,A04.8,Other specified open biopsy of lesion of tissue of brain,A048
+16798,A04.9,Unspecified open biopsy of lesion of tissue of brain,A049
+16810,A04.1,Open biopsy of lesion of tissue of frontal lobe of brain,A041
+16821,A04.2,Open biopsy of lesion of tissue of temporal lobe of brain,A042
+16832,A04.3,Open biopsy of lesion of tissue of parietal lobe of brain,A043
+16843,A04.4,Open biopsy of lesion of tissue of occipital lobe of brain,A044
+16854,A04.5,Open biopsy of lesion of tissue of cerebellum,A045
+16865,A04.6,Open biopsy of lesion of tissue of brain stem,A046
+16914,A12.8,Other specified creation of connection from ventricle of brain,A128
+16915,A12.9,Unspecified creation of connection from ventricle of brain,A129
+16916,A12,Creation of connection from ventricle of brain,A12
+16926,A12.5,Creation of subcutaneous cerebrospinal fluid reservoir,A125
+16938,A17.1,Endoscopic extirpation of lesion of ventricle of brain,A171
+16962,A20.2,Ventriculography of brain,A202
+16972,A25.1,Intracranial transection of optic nerve (ii),A251
+16983,A26.1,Intracranial destruction of optic nerve (ii),A261
+16994,A26.2,Intracranial destruction of oculomotor nerve (iii),A262
+17024,A26.4,Intracranial destruction of facial nerve (vii),A264
+17034,A26.7,Intracranial destruction of vagus nerve (x),A267
+17063,A29.1,Excision of lesion of optic nerve (ii),A291
+17076,A30.1,Repair of optic nerve (ii),A301
+17088,A31.1,Intracranial stereotactic neurolysis of optic nerve (ii),A311
+17100,A32.1,Decompression of optic nerve (ii),A321
+17110,A34.1,Exploration of optic nerve (ii),A341
+17137,A38.8,Other specified extirpation of lesion of meninges of brain,A388
+17138,A38.9,Unspecified extirpation of lesion of meninges of brain,A389
+17139,A43.8,Other specified other extirpation of lesion of meninges of brain,A438
+17140,A43.9,Unspecified other extirpation of lesion of meninges of brain,A439
+17141,A38,Extirpation of lesion of meninges of brain,A38
+17156,A38.1,Extirpation of lesion of meninges of cortex of brain,A381
+17166,A38.2,Extirpation of lesion of meninges of sphenoidal ridge of cranium,A382
+17175,A38.3,Extirpation of lesion of meninges of subfrontal region of brain,A383
+17184,A38.4,Extirpation of lesion of meninges of parasagittal region of brain,A384
+17194,A38.5,Extirpation of lesion of falx cerebri,A385
+17203,A38.6,Extirpation of lesion of tentorium cerebelli,A386
+17216,A39.1,Repair of meningoencephalocele,A391
+17226,A39.2,Repair of dura of anterior fossa of cranium,A392
+17234,A39.3,Repair of dura of middle fossa of cranium,A393
+17242,A39.4,Repair of dura of posterior fossa of cranium,A394
+17250,A39.5,Repair of dura of vault of cranium,A395
+17280,A42.1,Creation of anastomosis of dura,A421
+17298,A44.8,Other specified partial extirpation of spinal cord,A448
+17299,A44.9,Unspecified partial extirpation of spinal cord,A449
+17300,A44,Partial extirpation of spinal cord,A44
+17309,A44.1,Chordectomy of spinal cord,A441
+17322,A45.4,Open biopsy of lesion of spinal cord,A454
+17335,A49.1,Freeing of spinal tether NEC,A491
+17348,A51.1,Extirpation of lesion of meninges of spinal cord,A511
+17359,A53.1,Cerebrospinal syringostomy,A531
+17375,A53.3,Creation of syringoperitoneal shunt,A533
+17386,A53.4,Creation of lumboperitoneal shunt,A534
+17397,A55.3,Spinal manometry,A553
+17407,A47.2,Radiofrequency controlled thermal destruction of spinothalamic tract,A472
+17426,C46.1,Refractive keratoplasty,C461
+17435,B01.1,Transethmoidal hypophysectomy,B011
+17444,B01.3,Trans-septal hypophysectomy,B013
+17460,B01.4,Transcranial hypophysectomy,B014
+17477,B01.2,Trans-sphenoidal hypophysectomy,B012
+17490,B02.1,Cryotherapy to pituitary gland,B021
+17506,B04.1,Excision of lesion of pituitary gland,B041
+17515,B04.2,Biopsy of lesion of pituitary gland,B042
+17527,B04.3,Decompression of pituitary gland,B043
+17538,B04.4,Exploration of pituitary gland,B044
+17559,B06.1,Excision of pineal gland,B061
+17593,B18.1,Trans-sternal thymectomy,B181
+17604,B18.2,Transcervical thymectomy,B182
+17614,B20.1,Biopsy of lesion of thymus gland,B201
+17627,B20.2,Exploration of thymus gland,B202
+17639,B22.1,Bilateral adrenalectomy and transposition of adrenal tissue,B221
+17649,B23.1,Excision of lesion of aberrant adrenal tissue,B231
+17662,B23.2,Exploration of aberrant adrenal tissue,B232
+17687,B25.2,Biopsy of lesion of adrenal gland NEC,B252
+17697,B25.3,Embolisation of adrenal gland,B253
+17747,C01.2,Enucleation of eye,C012
+17784,C02.2,Destruction of lesion of orbit,C022
+17785,C02.8,Other specified extirpation of lesion of orbit,C028
+17786,C02.9,Unspecified extirpation of lesion of orbit,C029
+17816,C04.1,Revision of prosthetic replacement for orbit,C041
+17826,C04.2,Revision of prosthetic replacement for eyeball,C042
+17966,C06.1,Biopsy of lesion of orbit,C061
+17975,C08.1,Transposition of ligament of orbit,C081
+18008,C10.2,Hair bearing flap to eyebrow,C102
+18017,C10.5,Incision of lesion of eyebrow,C105
+18030,C11.1,Excision of lesion of canthus,C111
+18045,C11.2,Destruction of lesion of canthus,C112
+18115,C12.8,Other specified extirpation of lesion of eyelid,C128
+18116,C12.9,Unspecified extirpation of lesion of eyelid,C129
+18117,C12,Extirpation of lesion of eyelid,C12
+18138,C12.1,Excision of lesion of eyelid NEC,C121
+18150,C12.2,Cauterisation of lesion of eyelid,C122
+18162,C12.3,Cryotherapy to lesion of eyelid,C123
+18174,C12.4,Curettage of lesion of eyelid,C124
+18235,C14.2,Graft of skin to eyelid,C142
+18292,C15.8,Other specified correction of deformity of eyelid,C158
+18293,C15.9,Unspecified correction of deformity of eyelid,C159
+18294,C15,Correction of deformity of eyelid,C15
+18307,C15.3,Correction of trichiasis,C153
+18316,C16.2,Lateral tarsorrhaphy,C162
+18325,C16.3,Medial tarsorrhaphy,C163
+18335,C16.5,Revision of tarsorrhaphy,C165
+18354,C18.2,Correction of ptosis of eyelid using frontalis muscle technique,C182
+18365,C18.6,Correction of ptosis of eyelid using aponeurosis technique,C186
+18399,C19.8,Other specified incision of eyelid,C198
+18400,C19.9,Unspecified incision of eyelid,C199
+18401,C19,Incision of eyelid,C19
+18420,C20.8,Other specified protective suture of eyelid,C208
+18421,C20.9,Unspecified protective suture of eyelid,C209
+18422,C20,Protective suture of eyelid,C20
+18431,C20.1,Complete protective suture of eyelid,C201
+18440,C20.2,Central protective suture of eyelid,C202
+18449,C20.3,Lateral protective suture of eyelid,C203
+18458,C20.4,Medial protective suture of eyelid,C204
+18492,C22.2,Biopsy of lesion of eyelid,C222
+18514,C24.2,Radiotherapy to lacrimal gland,C242
+18525,C24.4,Biopsy of lesion of lacrimal gland,C244
+18535,C25.5,Revision of anastomosis between lacrimal apparatus and nose,C255
+18544,C26.3,Biopsy of lesion of lacrimal sac,C263
+18554,C29.2,Enlargement of lacrimal punctum,C292
+18566,C29.3,Occlusion of lacrimal punctum,C293
+18591,C31.8,Other specified combined operations on muscles of eye,C318
+18592,C31.9,Unspecified combined operations on muscles of eye,C319
+18593,C31,Combined operations on muscles of eye,C31
+18604,C31.1,Recession of medial rectus muscle and resection of lateral rectus muscle of eye,C311
+18613,C31.2,Bilateral recession of medial recti muscles of eyes,C312
+18622,C31.3,Bilateral resection of medial recti muscles of eyes,C313
+18631,C31.4,Bilateral recession of lateral recti muscles of eyes,C314
+18640,C31.5,Bilateral resection of lateral recti muscles of eyes,C315
+18651,C32.3,Recession of superior rectus muscle of eye,C323
+18662,C32.4,Recession of inferior rectus muscle of eye,C324
+18671,C32.5,Recession of superior oblique muscle of eye,C325
+18680,C32.6,Recession of inferior oblique muscle of eye,C326
+18688,C32.7,Recession of combinations of muscles of eye,C327
+18699,C33.3,Resection of superior rectus muscle of eye,C333
+18710,C33.4,Resection of inferior rectus muscle of eye,C334
+18720,C33.5,Resection of superior oblique muscle of eye,C335
+18738,C33.7,Resection of combinations of muscles of eye,C337
+18741,C34.8,Other specified partial division of tendon of muscle of eye,C348
+18756,C34.9,Unspecified partial division of tendon of muscle of eye,C349
+18757,C34,Partial division of tendon of muscle of eye,C34
+18766,C34.1,Tenotomy of medial rectus muscle of eye,C341
+18775,C34.2,Tenotomy of lateral rectus muscle of eye,C342
+18784,C34.3,Tenotomy of superior rectus muscle of eye,C343
+18793,C34.4,Tenotomy of inferior rectus muscle of eye,C344
+18803,C34.5,Tenotomy of superior oblique muscle of eye,C345
+18812,C34.6,Tenotomy of inferior oblique muscle of eye,C346
+18821,C35.2,Lengthening of muscle of eye by muscle slide,C352
+18832,C37.3,Biopsy of lesion of muscle of eye,C373
+18852,C39.3,Cryotherapy to lesion of conjunctiva,C393
+18864,C39.4,Curettage of lesion of conjunctiva,C394
+18873,C39.5,Radiotherapy to lesion of conjunctiva,C395
+18881,C40.1,Mucosal graft to conjunctiva,C401
+18889,C40.2,Amniotic graft to conjunctiva,C402
+18898,C40.3,Sliding graft to conjunctiva,C403
+18909,C43.2,Biopsy of lesion of conjunctiva,C432
+18920,C43.5,Exploration of conjunctiva,C435
+18932,C43.6,Creation of hood of conjunctiva,C436
+18946,C45.1,Superficial keratectomy,C451
+18963,C45.3,Cauterisation of lesion of cornea,C453
+18975,C45.5,Radiotherapy to lesion of cornea,C455
+18985,C45.7,Debridement of lesion of cornea,C457
+19001,C44.8,Other specified other plastic operations on cornea,C448
+19002,C44.9,Unspecified other plastic operations on cornea,C449
+19003,C44,Other plastic operations on cornea,C44
+19004,C46,Plastic operations on cornea,C46
+19012,C49.1,Section of cornea,C491
+19023,C49.2,Trephine of cornea,C492
+19033,C51.1,Biopsy of lesion of cornea,C511
+19042,C51.3,Exploration of cornea,C513
+19052,C53.1,Punch resection of sclera,C531
+19062,C53.3,Cauterisation of lesion of sclera,C533
+19086,C54.1,Overlay scleroplasty,C541
+19096,C54.2,Imbrication of sclera,C542
+19131,C55.8,Other specified incision of sclera,C558
+19132,C55.9,Unspecified incision of sclera,C559
+19133,C60.2,Inclusion of iris,C602
+19134,C55,Incision of sclera,C55
+19144,C57.1,Biopsy of lesion of sclera,C571
+19157,C57.4,Suture of sclera,C574
+19167,C60.3,Fixation of iris,C603
+19183,C61.1,Laser trabeculoplasty,C611
+19203,C64.4,Biopsy of lesion of iris,C644
+19215,C64.6,Stretching of iris,C646
+19244,C66.5,Destruction of ciliary body NEC,C665
+19245,C66.8,Other specified extirpation of ciliary body,C668
+19246,C66.9,Unspecified extirpation of ciliary body,C669
+19247,C66,Extirpation of ciliary body,C66
+19256,C66.2,Cauterisation of ciliary body,C662
+19265,C69.1,Reformation of anterior chamber of eye,C691
+19290,C72.8,Other specified intracapsular extraction of lens,C728
+19291,C72.9,Unspecified intracapsular extraction of lens,C729
+19292,C72,Intracapsular extraction of lens,C72
+19306,C72.1,Forceps extraction of lens,C721
+19320,C72.3,Cryoextraction of lens,C723
+19331,C73.2,Capsulotomy of anterior lens capsule,C732
+19341,C73.3,Capsulotomy of posterior lens capsule,C733
+19364,C74.3,Mechanical lensectomy,C743
+19377,C75.2,Revision of prosthetic replacement for lens,C752
+19387,C77.3,Biopsy of lesion of lens,C773
+19416,C79.1,Vitrectomy using anterior approach,C791
+19426,C82.2,Cryotherapy to lesion of retina,C822
+19435,C84.1,Epiretinal dissection,C841
+19450,C84.2,Excision of lesion of retina NEC,C842
+19460,C84.3,Biopsy of lesion of retina,C843
+19485,C86.5,Fluorescein angiography of eye,C865
+19519,D02.8,Other specified extirpation of lesion of external ear,D028
+19520,D02.9,Unspecified extirpation of lesion of external ear,D029
+19521,D02,Extirpation of lesion of external ear,D02
+19566,D03.1,Reconstruction of external ear using graft,D031
+19577,D03.4,Meatoplasty of external ear,D034
+19643,D06.1,Biopsy of lesion of external ear,D061
+19653,D06.2,Repair of lobe of external ear,D062
+19671,D07.1,Irrigation of external auditory canal for removal of wax,D071
+19681,D08.1,Extirpation of lesion of external auditory canal,D081
+19691,D10.4,Simple mastoidectomy,D104
+19710,D12.3,Biopsy of mastoid,D123
+19834,D14.1,Tympanoplasty using graft,D141
+19846,D14.3,Revision of tympanoplasty,D143
+19857,D19.2,Destruction of lesion of middle ear,D192
+19866,D20.1,Biopsy of lesion of middle ear,D201
+19878,D15.2,Suction clearance of middle ear,D152
+19897,D19.8,Other specified extirpation of lesion of middle ear,D198
+19898,D19.9,Unspecified extirpation of lesion of middle ear,D199
+19899,D19,Extirpation of lesion of middle ear,D19
+19936,D22.1,Graft to eustachian canal,D221
+19947,D24.4,Neurectomy of cochlea,D244
+19962,D24.5,Transtympanic electrocochleography,D245
+19981,D26.4,Neurectomy of vestibular apparatus,D264
+19990,D28.2,Examination of ear under anaesthetic,D282
+20015,E02.1,Total reconstruction of nose,E021
+20031,E02.3,Septorhinoplasty using implant,E023
+20044,E02.4,Septorhinoplasty using graft,E024
+20062,E02.5,Reduction rhinoplasty,E025
+20177,E09.1,Excision of lesion of external nose,E091
+20192,E09.2,Destruction of lesion of external nose NEC,E092
+20202,E09.3,Suture of external nose,E093
+20220,E09.5,Biopsy of lesion of external nose,E095
+20263,E03.3,Biopsy of lesion of septum of nose,E033
+20295,E04.5,Biopsy of lesion of turbinate of nose,E045
+20308,E04.6,Cauterisation of turbinate of nose,E046
+20325,E05.1,Cauterisation of internal nose,E051
+20345,E05.3,Embolisation of artery of internal nose,E053
+20372,E08.1,Polypectomy of internal nose,E081
+20470,E12.1,Ligation of maxillary artery using sublabial approach,E121
+20483,E12.3,Irrigation of maxillary antrum using sublabial approach,E123
+20492,E12.4,Transantral neurectomy of vidian nerve using sublabial approach,E124
+20523,E13.4,Biopsy of lesion of maxillary antrum,E134
+20597,E14.2,Intranasal ethmoidectomy,E142
+20614,E14.3,External ethmoidectomy,E143
+20626,E14.5,Bone flap to frontal sinus,E145
+20644,E17.4,Lateral rhinotomy into nasal sinus NEC,E174
+20841,E21.2,Pharyngoplasty using posterior pharyngeal flap,E212
+20896,E23.1,Open excision of lesion of pharynx,E231
+20920,E24.1,Endoscopic extirpation of lesion of nasopharynx,E241
+20984,E29.5,Laryngofissure and cordectomy of vocal cord,E295
+21001,E30.8,Other specified open extirpation of lesion of larynx,E308
+21002,E30.9,Unspecified open extirpation of lesion of larynx,E309
+21003,E30,Open extirpation of lesion of larynx,E30
+21012,E30.1,Excision of lesion of larynx using thyrotomy as approach,E301
+21022,E30.2,Excision of lesion of larynx using lateral pharyngotomy as approach,E302
+21036,E30.3,Open destruction of lesion of larynx,E303
+21046,E31.1,Laryngotracheal reconstruction using cartilage graft,E311
+21056,E31.3,Division of stenosis of larynx and insertion of prosthesis into larynx,E313
+21068,E33.4,Open biopsy of lesion of larynx,E334
+21103,E34.2,Microtherapeutic endoscopic resection of lesion of larynx NEC,E342
+21104,E34.3,Microtherapeutic endoscopic destruction of lesion of larynx NEC,E343
+21105,E34.8,Other specified microtherapeutic endoscopic operations on larynx,E348
+21106,E34.9,Unspecified microtherapeutic endoscopic operations on larynx,E349
+21107,E34,Microtherapeutic endoscopic operations on larynx,E34
+21119,E34.1,Microtherapeutic endoscopic extirpation of lesion of larynx using laser,E341
+21133,E35.2,Endoscopic resection of lesion of larynx,E352
+21160,E35.3,Endoscopic destruction of lesion of larynx,E353
+21179,E37.9,Unspecified diagnostic microendoscopic examination of larynx,E379
+21180,E37,Diagnostic microendoscopic examination of larynx,E37
+21193,E39.8,Other specified partial excision of trachea,E398
+21194,E39.9,Unspecified partial excision of trachea,E399
+21195,E39,Partial excision of trachea,E39
+21207,E39.1,Open excision of lesion of trachea,E391
+21220,E40.2,Reconstruction of trachea using graft,E402
+21239,E42.2,Cricothyroidostomy,E422
+21254,E43.5,Closure of tracheocutaneous fistula,E435
+21270,E43.1,Open destruction of lesion of trachea,E431
+21305,E43.3,Tracheopexy,E433
+21319,E43.4,Open biopsy of lesion of trachea,E434
+21373,E44.3,Open biopsy of lesion of carina,E443
+21390,E46.8,Other specified partial extirpation of bronchus,E468
+21391,E46.9,Unspecified partial extirpation of bronchus,E469
+21392,E46,Partial extirpation of bronchus,E46
+21432,E46.4,Open destruction of lesion of bronchus,E464
+21575,E48.1,Fibreoptic endoscopic snare resection of lesion of lower respiratory tract,E481
+21587,E48.2,Fibreoptic endoscopic laser destruction of lesion of lower respiratory tract,E482
+21597,E48.3,Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC,E483
+21611,E48.5,Fibreoptic endoscopic removal of foreign body from lower respiratory tract,E485
+21633,E54.2,Bilobectomy of lung,E542
+21674,E54.3,Lobectomy of lung,E543
+21699,E54.4,Excision of segment of lung,E544
+21719,E55.8,Other specified open extirpation of lesion of lung,E558
+21720,E55.9,Unspecified open extirpation of lesion of lung,E559
+21721,E55,Open extirpation of lesion of lung,E55
+21733,E55.1,Open decortication of lesion of lung,E551
+21744,E55.2,Open excision of lesion of lung,E552
+21754,E55.3,Open cauterisation of lesion of lung,E553
+21766,E57.2,Ligation of bulla of lung,E572
+21776,E57.3,Deflation of bulla of lung,E573
+21787,E59.1,Needle biopsy of lesion of lung,E591
+21799,E59.2,Aspiration biopsy of lesion of lung,E592
+21818,F01.8,Other specified partial excision of lip,F018
+21819,F01.9,Unspecified partial excision of lip,F019
+21820,F01,Partial excision of lip,F01
+21828,F01.1,Excision of vermilion border of lip and advancement of mucosa of lip,F011
+21848,F02.8,Other specified extirpation of lesion of lip,F028
+21849,F02.9,Unspecified extirpation of lesion of lip,F029
+21868,F02.2,Destruction of lesion of lip,F022
+21870,F02,Extirpation of lesion of lip,F02
+21913,F03.2,Revision of primary closure of cleft lip,F032
+21956,F04.1,Reconstruction of lip using tongue flap,F041
+22062,F05.1,Excision of excess mucosa from lip,F051
+22073,F06.2,Biopsy of lesion of lip,F062
+22085,F08.1,Allotransplantation of tooth,F081
+22099,F08.2,Autotransplantation of tooth,F082
+22120,F08.3,Replantation of tooth,F083
+22130,F08.4,Repositioning of tooth,F084
+22143,F09.1,Surgical removal of impacted wisdom tooth,F091
+22160,F10.8,Other specified simple extraction of tooth,F108
+22161,F10.9,Unspecified simple extraction of tooth,F109
+22162,F10,Simple extraction of tooth,F10
+22179,F11.2,Augmentation of alveolar ridge using autobone graft,F112
+22211,F13.3,Restoration of crown of tooth NEC,F133
+22212,F13.4,Restoration of part of tooth using inlay NEC,F134
+22213,F13.8,Other specified restoration of tooth,F138
+22214,F13.9,Unspecified restoration of tooth,F139
+22215,F13,Restoration of tooth,F13
+22225,F13.1,Full restoration of crown of tooth,F131
+22233,F13.2,Partial restoration of crown of tooth,F132
+22250,F14.5,Surgical exposure of tooth,F145
+22276,F16.2,Surgical arrest of postoperative bleeding from tooth socket,F162
+22293,F18.8,Other specified excision of dental lesion of jaw,F188
+22294,F18.9,Unspecified excision of dental lesion of jaw,F189
+22296,F18,Excision of dental lesion of jaw,F18
+22308,F18.1,Enucleation of dental cyst of jaw,F181
+22320,F18.2,Marsupialisation of dental lesion of jaw,F182
+22333,F20.2,Excision of lesion of gingiva,F202
+22345,F20.3,Biopsy of lesion of gingiva,F203
+22358,F20.4,Gingivoplasty,F204
+22373,F20.5,Suture of gingiva,F205
+22401,F23.8,Other specified extirpation of lesion of tongue,F238
+22402,F23.9,Unspecified extirpation of lesion of tongue,F239
+22403,F23,Extirpation of lesion of tongue,F23
+22419,F23.1,Excision of lesion of tongue,F231
+22448,F24.1,Biopsy of lesion of tongue,F241
+22456,F26.1,Commissurectomy of tongue,F261
+22521,F28.8,Other specified extirpation of lesion of palate,F288
+22522,F28.9,Unspecified extirpation of lesion of palate,F289
+22523,F28,Extirpation of lesion of palate,F28
+22539,F28.1,Excision of lesion of palate,F281
+22554,F28.2,Destruction of lesion of palate,F282
+22589,F29.2,Revision of repair of cleft palate,F292
+22635,F30.1,Plastic repair of palate using flap of palate,F301
+22648,F30.2,Plastic repair of palate using flap of skin,F302
+22661,F30.3,Plastic repair of palate using flap of tongue,F303
+22673,F30.4,Plastic repair of palate using graft of skin,F304
+22688,F30.5,Plastic repair of palate using flap of mucosa,F305
+22700,F30.6,Plastic repair of palate using graft of mucosa,F306
+22730,F32.1,Biopsy of lesion of palate,F321
+22821,F34.4,Bilateral excision of tonsil NEC,F344
+22822,F34.8,Other specified excision of tonsil,F348
+22823,F34.9,Unspecified excision of tonsil,F349
+22826,F34,Excision of tonsil,F34
+22858,F34.3,Bilateral laser tonsillectomy,F343
+22891,F36.2,Biopsy of lesion of tonsil,F362
+22913,F38.3,Destruction of lesion of floor of mouth,F383
+23018,F45.8,Other specified extirpation of lesion of salivary gland,F458
+23019,F45.9,Unspecified extirpation of lesion of salivary gland,F459
+23020,F45,Extirpation of lesion of salivary gland,F45
+23030,F45.2,Excision of lesion of submandibular gland,F452
+23042,F45.3,Excision of lesion of sublingual gland,F453
+23051,F46.1,Incision of parotid gland,F461
+23060,F46.2,Incision of submandibular gland,F462
+23070,F46.3,Incision of sublingual gland,F463
+23081,F48.1,Biopsy of lesion of salivary gland,F481
+23116,F50.2,Transposition of submandibular duct,F502
+23126,F52.2,Ligation of submandibular duct,F522
+23135,G01.2,Oesophagogastrectomy and anastomosis of oesophagus to transposed jejunum,G012
+23148,G02.4,Total oesophagectomy and interposition of microvascularly attached colon,G024
+23160,G03.1,Partial oesophagectomy and end to end anastomosis of oesophagus,G031
+23173,G03.2,Partial oesophagectomy and interposition of microvascularly attached jejunum,G032
+23187,G03.3,Partial oesophagectomy and anastomosis of oesophagus to transposed jejunum,G033
+23199,G03.5,Partial oesophagectomy and interposition of microvascularly attached colon,G035
+23235,G04.8,Other specified open extirpation of lesion of oesophagus,G048
+23236,G04.9,Unspecified open extirpation of lesion of oesophagus,G049
+23237,G04,Open extirpation of lesion of oesophagus,G04
+23249,G04.2,Open laser destruction of lesion of oesophagus,G042
+23261,G05.1,Bypass of oesophagus by anastomosis of oesophagus to oesophagus,G051
+23272,G05.2,Bypass of oesophagus by anastomosis of oesophagus to stomach,G052
+23282,G05.3,Bypass of oesophagus by interposition of microvascularly attached jejunum,G053
+23293,G05.5,Bypass of oesophagus by interposition of microvascularly attached colon,G055
+23303,G06.1,Revision of interposition anastomosis of oesophagus,G061
+23312,G06.0,Conversion from previous direct anastomosis of oesophagus,G060
+23321,G07.4,Repair of rupture of oesophagus,G074
+23343,G10.2,Transection of oesophagus using staple gun,G102
+23353,G13.1,Open biopsy of lesion of oesophagus,G131
+23356,G12,Other fibreoptic endoscopic extirpation of lesion of oesophagus,G12
+23357,G12.8,Other specified other fibreoptic endoscopic extirpation of lesion of oesophagus,G128
+23358,G12.9,Unspecified other fibreoptic endoscopic extirpation of lesion of oesophagus,G129
+23359,G20,Therapeutic fibreoptic endoscopic operations on oesophagus,G20
+23360,G20.8,Other specified therapeutic fibreoptic endoscopic operations on oesophagus,G208
+23361,G20.9,Unspecified therapeutic fibreoptic endoscopic operations on oesophagus,G209
+23376,G14.5,Fibreoptic endoscopic destruction of lesion of oesophagus NEC,G145
+23377,G14.8,Other specified fibreoptic endoscopic extirpation of lesion of oesophagus,G148
+23378,G14.9,Unspecified fibreoptic endoscopic extirpation of lesion of oesophagus,G149
+23379,G14,Fibreoptic endoscopic extirpation of lesion of oesophagus,G14
+23394,G14.1,Fibreoptic endoscopic snare resection of lesion of oesophagus,G141
+23412,G14.2,Fibreoptic endoscopic laser destruction of lesion of oesophagus,G142
+23426,G14.3,Fibreoptic endoscopic cauterisation of lesion of oesophagus,G143
+23442,G14.4,Fibreoptic endoscopic injection sclerotherapy to varices of oesophagus,G144
+23471,G15.1,Fibreoptic endoscopic removal of foreign body from oesophagus,G151
+23487,G15.2,Fibreoptic endoscopic balloon dilation of oesophagus,G152
+23510,G16.1,Diagnostic fibreoptic endoscopic examination of oesophagus and biopsy of lesion of oesophagus,G161
+23526,G17.8,Other specified endoscopic extirpation of lesion of oesophagus using rigid oesophagoscope,G178
+23527,G17.9,Unspecified endoscopic extirpation of lesion of oesophagus using rigid oesophagoscope,G179
+23528,G17,Endoscopic extirpation of lesion of oesophagus using rigid oesophagoscope,G17
+23543,G17.1,Endoscopic snare resection of lesion of oesophagus using rigid oesophagoscope,G171
+23558,G17.2,Endoscopic laser destruction of lesion of oesophagus using rigid oesophagoscope,G172
+23572,G17.3,Endoscopic cauterisation of lesion of oesophagus using rigid oesophagoscope,G173
+23588,G17.4,Endoscopic injection sclerotherapy to varices of oesophagus using rigid oesophagoscope,G174
+23619,G18.1,Endoscopic removal of foreign body from oesophagus using rigid oesophagoscope,G181
+23634,G18.2,Endoscopic balloon dilation of oesophagus using rigid oesophagoscope,G182
+23647,G19.1,Diagnostic endoscopic examination of oesophagus and biopsy of lesion of oesophagus using rigid oesophagoscope,G191
+23671,G23.3,Repair of oesophageal hiatus using abdominal approach,G233
+23690,G25.1,Revision of fundoplication of stomach,G251
+23710,G27.1,Total gastrectomy and excision of surrounding tissue,G271
+23722,G27.3,Total gastrectomy and interposition of jejunum,G273
+23736,G27.4,Total gastrectomy and anastomosis of oesophagus to transposed jejunum,G274
+23737,G27.5,Total gastrectomy and anastomosis of oesophagus to jejunum NEC,G275
+23747,G28.2,Partial gastrectomy and anastomosis of stomach to transposed jejunum,G282
+23773,G29.8,Other specified open extirpation of lesion of stomach,G298
+23774,G29.9,Unspecified open extirpation of lesion of stomach,G299
+23775,G29,Open extirpation of lesion of stomach,G29
+23785,G29.1,Open excision of polyp of stomach,G291
+23796,G29.3,Open laser destruction of lesion of stomach,G293
+23807,G29.5,Cryotherapy to lesion of stomach,G295
+23827,G30.8,Other specified plastic operations on stomach,G308
+23828,G30.9,Unspecified plastic operations on stomach,G309
+23829,G30,Plastic operations on stomach,G30
+23888,G31.1,Bypass of stomach by anastomosis of oesophagus to duodenum,G311
+23905,G32.8,Other specified connection of stomach to transposed jejunum,G328
+23906,G32.9,Unspecified connection of stomach to transposed jejunum,G329
+23907,G33.8,Other specified other connection of stomach to jejunum,G338
+23908,G33.9,Unspecified other connection of stomach to jejunum,G339
+23909,G32,Connection of stomach to transposed jejunum,G32
+23918,G32.1,Bypass of stomach by anastomosis of stomach to transposed jejunum,G321
+23927,G32.3,Conversion to anastomosis of stomach to transposed jejunum,G323
+23950,G32.0,Conversion from previous anastomosis of stomach to transposed jejunum,G320
+23985,G38.1,Open biopsy of lesion of stomach,G381
+24010,G40.1,Pyloromyotomy,G401
+24011,G40.8,Other specified incision of pylorus,G408
+24012,G40.9,Unspecified incision of pylorus,G409
+24013,G40,Incision of pylorus,G40
+24025,G40.2,Repair of congenital atresia of pylorus,G402
+24047,G40.5,Closure of pyloroplasty,G405
+24070,G40.6,Open dilation of pylorus,G406
+24082,G41.1,Open biopsy of lesion of pylorus,G411
+24093,G41.2,Repair of perforation of pylorus,G412
+24124,G47.3,Irrigation of stomach,G473
+24137,G35.1,Closure of perforated ulcer of stomach,G351
+24150,G49.2,Total excision of duodenum,G492
+24159,G49.3,Partial excision of duodenum,G493
+24179,G50.8,Other specified open extirpation of lesion of duodenum,G508
+24180,G50.9,Unspecified open extirpation of lesion of duodenum,G509
+24181,G50,Open extirpation of lesion of duodenum,G50
+24195,G50.2,Open destruction of lesion of duodenum,G502
+24303,G51.4,Bypass of duodenum by anastomosis of duodenum to colon,G514
+24304,G51.8,Other specified bypass of duodenum,G518
+24305,G51.9,Unspecified bypass of duodenum,G519
+24306,G51,Bypass of duodenum,G51
+24318,G51.1,Bypass of duodenum by anastomosis of stomach to jejunum,G511
+24330,G51.2,Bypass of duodenum by anastomosis of duodenum to duodenum,G512
+24364,G53.1,Open biopsy of lesion of duodenum,G531
+24391,G54.2,Endoscopic dilation of duodenum,G542
+24404,G52.1,Closure of perforated ulcer of duodenum,G521
+24419,G58.1,Total jejunectomy and anastomosis of stomach to ileum,G581
+24432,G58.2,Total jejunectomy and anastomosis of duodenum to ileum,G582
+24445,G58.3,Total jejunectomy and anastomosis of duodenum to colon,G583
+24457,G58.4,Partial jejunectomy and anastomosis of jejunum to ileum,G584
+24468,G58.5,Partial jejunectomy and anastomosis of duodenum to colon,G585
+24486,G59.8,Other specified extirpation of lesion of jejunum,G598
+24487,G59.9,Unspecified extirpation of lesion of jejunum,G599
+24488,G59,Extirpation of lesion of jejunum,G59
+24501,G59.1,Excision of lesion of jejunum,G591
+24514,G59.2,Open destruction of lesion of jejunum,G592
+24525,G60.2,Refashioning of jejunostomy,G602
+24663,G61.8,Other specified bypass of jejunum,G618
+24664,G61.9,Unspecified bypass of jejunum,G619
+24665,G61,Bypass of jejunum,G61
+24674,G61.2,Bypass of jejunum by anastomosis of jejunum to ileum,G612
+24683,G62.1,Open jejunoscopy,G621
+24693,G63.1,Open biopsy of lesion of jejunum,G631
+24715,G63.3,Closure of perforation of jejunum,G633
+24726,G64.1,Endoscopic extirpation of lesion of jejunum,G641
+24746,G64.2,Endoscopic dilation of jejunum,G642
+24766,G64.3,Endoscopic insertion of tubal prosthesis into jejunum,G643
+24775,G67.1,Intubation of jejunum for decompression of intestine,G671
+24800,G69.1,Ileectomy and anastomosis of stomach to ileum,G691
+24808,G69.2,Ileectomy and anastomosis of duodenum to ileum,G692
+24816,G69.3,Ileectomy and anastomosis of ileum to ileum,G693
+24824,G69.4,Ileectomy and anastomosis of ileum to colon,G694
+24842,G70.8,Other specified open extirpation of lesion of ileum,G708
+24843,G70.9,Unspecified open extirpation of lesion of ileum,G709
+24844,G70,Open extirpation of lesion of ileum,G70
+24858,G70.3,Open destruction of lesion of ileum,G703
+25101,G71.8,Other specified bypass of ileum,G718
+25102,G71.9,Unspecified bypass of ileum,G719
+25103,G71,Bypass of ileum,G71
+25127,G71.1,Bypass of ileum by anastomosis of jejunum to ileum,G711
+25136,G71.2,Bypass of ileum by anastomosis of ileum to ileum,G712
+25146,G71.3,Bypass of ileum by anastomosis of ileum to caecum,G713
+25168,G71.4,Bypass of ileum by anastomosis of ileum to transverse colon,G714
+25192,G72.1,Anastomosis of ileum to caecum,G721
+25204,G73.8,Other specified attention to connection of ileum,G738
+25205,G73.9,Unspecified attention to connection of ileum,G739
+25206,G73,Attention to connection of ileum,G73
+25217,G73.1,Revision of anastomosis of ileum,G731
+25254,G74,Creation of artificial opening into ileum,G74
+25266,G74.2,Creation of temporary ileostomy,G742
+25275,G75.2,Repair of prolapse of ileostomy,G752
+25286,G75.5,Reduction of prolapse of ileostomy,G755
+25308,G76.3,Open relief of obstruction of ileum NEC,G763
+25309,G76.8,Other specified intra-abdominal manipulation of ileum,G768
+25310,G76.9,Unspecified intra-abdominal manipulation of ileum,G769
+25311,G76,Intra-abdominal manipulation of ileum,G76
+25324,G76.1,Open reduction of intussusception of ileum,G761
+25336,G76.2,Open relief of strangulation of ileum,G762
+25347,G76.4,Plication of ileum,G764
+25369,G78.1,Open biopsy of lesion of ileum,G781
+25380,G78.2,Strictureplasty of ileum,G782
+25415,G78.4,Closure of perforation of ileum,G784
+25423,G78.5,Exclusion of segment of ileum,G785
+25446,G79.1,Endoscopic extirpation of lesion of ileum,G791
+25477,G79.2,Endoscopic dilation of ileum,G792
+25497,G79.3,Endoscopic insertion of tubal prosthesis into ileum,G793
+25531,G82.2,Intubation of ileum for decompression of intestine,G822
+25543,G82.1,Radiological reduction of intussusception of ileum using barium enema,G821
+25566,H01.1,Emergency excision of abnormal appendix and drainage HFQ,H011
+25567,H01.2,Emergency excision of abnormal appendix NEC,H012
+25568,H01.8,Other specified emergency excision of appendix,H018
+25569,H01.9,Unspecified emergency excision of appendix,H019
+25570,H01,Emergency excision of appendix,H01
+25579,H01.3,Emergency excision of normal appendix,H013
+25599,H02.1,Interval appendicectomy,H021
+25626,H04.8,Other specified total excision of colon and rectum,H048
+25627,H04.9,Unspecified total excision of colon and rectum,H049
+25630,H04,Total excision of colon and rectum,H04
+25652,H06.3,Extended right hemicolectomy and anastomosis NEC,H063
+25653,H06.8,Other specified extended excision of right hemicolon,H068
+25654,H06.9,Unspecified extended excision of right hemicolon,H069
+25659,H06,Extended excision of right hemicolon,H06
+25681,H06.2,Extended right hemicolectomy and anastomosis of ileum to colon,H062
+25693,H07.1,Right hemicolectomy and end to end anastomosis of ileum to colon,H071
+25706,H07.2,Right hemicolectomy and side to side anastomosis of ileum to transverse colon,H072
+25716,H08.1,Transverse colectomy and end to end anastomosis,H081
+25728,H08.2,Transverse colectomy and anastomosis of ileum to colon,H082
+25740,H09.1,Left hemicolectomy and end to end anastomosis of colon to rectum,H091
+25750,H09.2,Left hemicolectomy and end to end anastomosis of colon to colon,H092
+25762,H10.1,Sigmoid colectomy and end to end anastomosis of ileum to rectum,H101
+25787,H10.2,Sigmoid colectomy and anastomosis of colon to rectum,H102
+25810,H12.8,Other specified extirpation of lesion of colon,H128
+25811,H12.9,Unspecified extirpation of lesion of colon,H129
+25812,H12,Extirpation of lesion of colon,H12
+26252,H13.8,Other specified bypass of colon,H138
+26253,H13.9,Unspecified bypass of colon,H139
+26254,H13,Bypass of colon,H13
+26265,H13.1,Bypass of colon by anastomosis of ileum to colon,H131
+26288,H13.2,Bypass of colon by anastomosis of caecum to sigmoid colon,H132
+26297,H13.3,Bypass of colon by anastomosis of transverse colon to sigmoid colon,H133
+26307,H13.4,Bypass of colon by anastomosis of transverse colon to rectum,H134
+26308,H13.5,Bypass of colon by anastomosis of colon to rectum NEC,H135
+26319,H14.2,Refashioning of caecostomy,H142
+26331,H15.6,Reduction of prolapse of colostomy,H156
+26349,H17.6,Open relief of obstruction of colon NEC,H176
+26350,H17.8,Other specified intra-abdominal manipulation of colon,H178
+26351,H17.9,Unspecified intra-abdominal manipulation of colon,H179
+26352,H17,Intra-abdominal manipulation of colon,H17
+26365,H17.1,Open reduction of intussusception of colon,H171
+26379,H17.2,Open reduction of volvulus of caecum,H172
+26393,H17.3,Open reduction of volvulus of sigmoid colon,H173
+26403,H17.5,Open relief of strangulation of colon,H175
+26414,H18.1,Open colonoscopy,H181
+26424,H19.1,Open biopsy of lesion of colon,H191
+26432,H19.3,Enterorrhaphy of colon,H193
+26445,H20.1,Fibreoptic endoscopic snare resection of lesion of colon,H201
+26457,H20.2,Fibreoptic endoscopic cauterisation of lesion of colon,H202
+26469,H20.3,Fibreoptic endoscopic laser destruction of lesion of colon,H203
+26479,H21.1,Fibreoptic endoscopic dilation of colon,H211
+26491,H21.2,Fibreoptic endoscopic coagulation of blood vessel of colon,H212
+26505,H23.1,Endoscopic snare resection of lesion of lower bowel using fibreoptic sigmoidoscope,H231
+26516,H23.2,Endoscopic cauterisation of lesion of lower bowel using fibreoptic sigmoidoscope,H232
+26528,H23.3,Endoscopic laser destruction of lesion of lower bowel using fibreoptic sigmoidoscope,H233
+26539,H24.1,Endoscopic dilation of lower bowel using fibreoptic sigmoidoscope,H241
+26556,H24.2,Endoscopic coagulation of blood vessel of lower bowel using fibreoptic sigmoidoscope,H242
+26570,H26.1,Endoscopic snare resection of lesion of sigmoid colon using rigid sigmoidoscope,H261
+26583,H26.2,Endoscopic cauterisation of lesion of sigmoid colon using rigid sigmoidoscope,H262
+26597,H26.3,Endoscopic laser destruction of lesion of sigmoid colon using rigid sigmoidoscope,H263
+26610,H26.4,Endoscopic cryotherapy to lesion of sigmoid colon using rigid sigmoidoscope,H264
+26621,H27.1,Endoscopic dilation of sigmoid colon using rigid sigmoidoscope,H271
+26634,H30.5,Irrigation of colon,H305
+26648,H33.2,Proctectomy and anastomosis of colon to anus,H332
+26657,H33.3,Anterior resection of rectum and anastomosis of colon to rectum using staples,H333
+26668,H34.1,Open excision of lesion of rectum,H341
+26678,H34.2,Open cauterisation of lesion of rectum,H342
+26687,H34.3,Open cryotherapy to lesion of rectum,H343
+26698,H34.4,Open laser destruction of lesion of rectum,H344
+26708,H40.1,Trans-sphincteric excision of mucosa of rectum,H401
+26718,H40.3,Trans-sphincteric destruction of lesion of rectum,H403
+26729,H40.4,Trans-sphincteric anastomosis of colon to anus,H404
+26740,H41.1,Rectosigmoidectomy and peranal anastomosis,H411
+26767,H42.6,Perineal repair of prolapse of rectum NEC,H426
+26768,H42.8,Other specified perineal operations for prolapse of rectum,H428
+26769,H42.9,Unspecified perineal operations for prolapse of rectum,H429
+26782,H42.2,Perineal plication of levator ani muscles and anal sphincters,H422
+26802,H42.3,Insertion of supralevator sling,H423
+26812,H44.4,Examination of rectum under anaesthetic,H444
+26821,H44.5,Massage of rectum,H445
+26841,H46.1,Radiological reduction of intussusception of rectum using barium enema,H461
+26856,H46.2,Hydrostatic reduction of intussusception of rectum,H462
+26957,H50.4,Reanastomosis of rectum to anal canal for correction of congenital atresia of rectum,H504
+26997,J01.1,Orthotopic transplantation of liver NEC,J011
+27009,J01.2,Heterotopic transplantation of liver,J012
+27021,J01.3,Replacement of previous liver transplant,J013
+27035,J02.3,Resection of segment of liver,J023
+27046,J02.4,Wedge excision of liver,J024
+27065,J02.5,Marsupialisation of lesion of liver,J025
+27074,J04.1,Removal of lacerated fragment of liver,J041
+27088,J05.3,Open wedge biopsy of lesion of liver,J053
+27097,J07.1,Open devascularisation of liver,J071
+27106,J13.1,Percutaneous transvascular biopsy of lesion of liver,J131
+27107,J13.2,Percutaneous biopsy of lesion of liver NEC,J132
+27116,J18.1,Total cholecystectomy and excision of surrounding tissue,J181
+27127,J18.2,Total cholecystectomy and exploration of common bile duct,J182
+27138,J18.4,Partial cholecystectomy and exploration of common bile duct,J184
+27148,J19.5,Revision of anastomosis of gall bladder,J195
+27159,J19.6,Closure of anastomosis of gall bladder,J196
+27176,J20.1,Closure of fistula of gall bladder,J201
+27185,J20.3,Repair of perforation of gall bladder,J203
+27196,J23.2,Open biopsy of lesion of gall bladder,J232
+27207,J23.3,Exploration of gall bladder,J233
+27219,J24.1,Percutaneous drainage of gall bladder,J241
+27231,J24.3,Percutaneous dissolution therapy to calculus in gall bladder,J243
+27242,J25.1,Percutaneous biopsy of lesion of gall bladder,J251
+27252,J27.1,Excision of ampulla of Vater and replantation of common bile duct into duodenum,J271
+27265,J27.2,Partial excision of bile duct and anastomosis of bile duct to duodenum,J272
+27278,J27.3,Partial excision of bile duct and anastomosis of bile duct to jejunum,J273
+27293,J30.1,Anastomosis of common bile duct to duodenum,J301
+27302,J30.2,Anastomosis of common bile duct to transposed jejunum,J302
+27318,J34,Plastic repair of sphincter of Oddi using duodenal approach,J34
+27332,J34.1,Sphincteroplasty of bile duct and pancreatic duct using duodenal approach,J341
+27340,J35.2,Sphincterotomy of bile duct using duodenal approach NEC,J352
+27341,J35.3,Sphincterotomy of pancreatic duct using duodenal approach NEC,J353
+27342,J35.8,Other specified incision of sphincter of Oddi using duodenal approach,J358
+27343,J35.9,Unspecified incision of sphincter of Oddi using duodenal approach,J359
+27344,J35,Incision of sphincter of Oddi using duodenal approach,J35
+27367,J35.1,Sphincterotomy of bile duct and pancreatic duct using duodenal approach,J351
+27385,C54.3,Buckling of sclera and implant HFQ,C543
+27395,J36.1,Excision of ampulla of Vater using duodenal approach,J361
+27404,J36.2,Biopsy of lesion of ampulla of Vater using duodenal approach,J362
+27423,J38.8,Other specified endoscopic incision of sphincter of Oddi,J388
+27424,J38.9,Unspecified endoscopic incision of sphincter of Oddi,J389
+27425,J38,Endoscopic incision of sphincter of Oddi,J38
+27435,J39.1,Endoscopic sphincterotomy of accessory ampulla of Vater,J391
+27444,J42.5,Endoscopic retrograde dilation of pancreatic duct,J425
+27470,J45.8,Other specified diagnostic endoscopic retrograde examination of pancreatic duct,J458
+27471,J45.9,Unspecified diagnostic endoscopic retrograde examination of pancreatic duct,J459
+27472,J45,Diagnostic endoscopic retrograde examination of pancreatic duct,J45
+27493,J45.2,Endoscopic retrograde pancreatography and collection of pancreatic juice,J452
+27504,J45.3,Endoscopic retrograde pancreatography through accessory ampulla of Vater,J453
+27516,J54.1,Transplantation of pancreas and duodenum,J541
+27528,J54.2,Transplantation of whole pancreas,J542
+27537,J54.3,Transplantation of tail of pancreas,J543
+27546,J54.5,Renewal of transplanted pancreatic tissue,J545
+27554,J55.1,Total pancreatectomy and excision of surrounding tissue,J551
+27564,J55.3,Excision of transplanted pancreas,J553
+27586,J56.8,Other specified excision of head of pancreas,J568
+27587,J56.9,Unspecified excision of head of pancreas,J569
+27588,J56,Excision of head of pancreas,J56
+27610,J57.2,Left pancreatectomy and drainage of pancreatic duct,J572
+27622,J57.4,Excision of tail of pancreas and drainage of pancreatic duct,J574
+27637,J58.8,Other specified extirpation of lesion of pancreas,J588
+27638,J58.9,Unspecified extirpation of lesion of pancreas,J589
+27639,J58,Extirpation of lesion of pancreas,J58
+27650,J58.1,Excision of lesion of islet of Langerhans,J581
+27665,J58.3,Destruction of lesion of pancreas,J583
+27675,J59.5,Revision of anastomosis of pancreatic duct,J595
+27684,H16.2,Caecotomy,H162
+27699,J60.5,Open dilation of pancreatic duct,J605
+27748,J61.1,Open cystogastrotomy of pancreas,J611
+27758,J61.2,Drainage of cyst of pancreas into transposed jejunum,J612
+27767,J62.1,Division of annular pancreas,J621
+27792,J63.2,Open pancreatography through papilla of Vater,J632
+27802,J65.1,Open biopsy of lesion of pancreas,J651
+27867,J69.2,Total splenectomy,J692
+27868,J69.8,Other specified total excision of spleen,J698
+27869,J69.9,Unspecified total excision of spleen,J699
+27870,J69,Total excision of spleen,J69
+27882,J69.1,Total excision of spleen and replantation of fragments of spleen,J691
+27903,J72.3,Biopsy of lesion of spleen,J723
+27913,J72.5,Banding of spleen,J725
+27945,K01.1,Allotransplantation of heart and lung,K011
+27959,K02.2,Xenotransplantation of heart,K022
+27970,K02.4,Piggyback transplantation of heart,K024
+27993,K04.1,Repair of tetralogy of Fallot using valved right ventricular outflow conduit,K041
+28008,K05.2,Reconstruction of atrium using atrial wall for transposition of great arteries,K052
+28063,K09.8,Other specified repair of defect of atrioventricular septum,K098
+28064,K09.9,Unspecified repair of defect of atrioventricular septum,K099
+28067,K09,Repair of defect of atrioventricular septum,K09
+28077,K09.1,Repair of defect of atrioventricular septum using dual prosthetic patches,K091
+28088,K09.3,Repair of defect of atrioventricular septum using tissue graft,K093
+28100,K09.6,Revision of repair of defect of atrioventricular septum,K096
+28111,K10.1,Repair of defect of interatrial septum using prosthetic patch,K101
+28122,K10.2,Repair of defect of interatrial septum using pericardial patch,K102
+28135,K10.5,Revision of repair of defect of interatrial septum,K105
+28146,K11.2,Repair of defect of interventricular septum using pericardial patch,K112
+28159,K11.5,Revision of repair of defect of interventricular septum,K115
+28172,K14.1,Open enlargement of defect of atrial septum,K141
+28190,K18.8,Other specified creation of valved cardiac conduit,K188
+28191,K18.9,Unspecified creation of valved cardiac conduit,K189
+28192,K18,Creation of valved cardiac conduit,K18
+28210,K18.1,Creation of valved conduit between atrium and ventricle of heart,K181
+28221,K18.2,Creation of valved conduit between right atrium and pulmonary artery,K182
+28222,K19.2,Creation of conduit between right atrium and pulmonary artery NEC,K192
+28234,K18.3,Creation of valved conduit between right ventricle of heart and pulmonary artery,K183
+28235,K19.3,Creation of conduit between right ventricle of heart and pulmonary artery NEC,K193
+28243,K18.4,Creation of valved conduit between left ventricle of heart and aorta,K184
+28244,K19.5,Creation of conduit between left ventricle of heart and aorta NEC,K195
+28259,K20.8,Other specified refashioning of atrium,K208
+28260,K20.9,Unspecified refashioning of atrium,K209
+28261,K20,Refashioning of atrium,K20
+28271,K23.4,Revascularisation of wall of heart,K234
+28283,K25.1,Allograft replacement of mitral valve,K251
+28296,K25.2,Xenograft replacement of mitral valve,K252
+28307,K26.1,Allograft replacement of aortic valve,K261
+28320,K26.2,Xenograft replacement of aortic valve,K262
+28339,K26.3,Prosthetic replacement of aortic valve,K263
+28351,K27.1,Allograft replacement of tricuspid valve,K271
+28364,K27.2,Xenograft replacement of tricuspid valve,K272
+28379,K27.3,Prosthetic replacement of tricuspid valve,K273
+28389,K27.5,Repositioning of tricuspid valve,K275
+28401,K28.1,Allograft replacement of pulmonary valve,K281
+28414,K28.2,Xenograft replacement of pulmonary valve,K282
+28429,K28.3,Prosthetic replacement of pulmonary valve,K283
+28448,K30.8,Other specified revision of plastic repair of valve of heart,K308
+28449,K30.9,Unspecified revision of plastic repair of valve of heart,K309
+28450,K30,Revision of plastic repair of valve of heart,K30
+28463,K30.1,Revision of plastic repair of mitral valve,K301
+28477,K30.2,Revision of plastic repair of aortic valve,K302
+28488,K30.3,Revision of plastic repair of tricuspid valve,K303
+28499,K30.4,Revision of plastic repair of pulmonary valve,K304
+28522,K31.8,Other specified open incision of valve of heart,K318
+28523,K31.9,Unspecified open incision of valve of heart,K319
+28524,K31,Open incision of valve of heart,K31
+28535,K31.1,Open mitral valvotomy,K311
+28545,K31.2,Open aortic valvotomy,K312
+28556,K31.3,Open tricuspid valvotomy,K313
+28567,K31.4,Open pulmonary valvotomy,K314
+28591,K32.8,Other specified closed incision of valve of heart,K328
+28592,K32.9,Unspecified closed incision of valve of heart,K329
+28593,K32,Closed incision of valve of heart,K32
+28606,K34.1,Annuloplasty of mitral valve,K341
+28617,K35.1,Percutaneous transluminal mitral valvotomy,K351
+28631,K35.2,Percutaneous transluminal aortic valvotomy,K352
+28642,K35.3,Percutaneous transluminal tricuspid valvotomy,K353
+28654,K35.4,Percutaneous transluminal pulmonary valvotomy,K354
+28662,K37.1,Infundibulectomy of heart using patch,K371
+28697,K42.1,Allograft replacement of one coronary artery,K421
+28698,K42.2,Allograft replacement of two coronary arteries,K422
+28699,K42.3,Allograft replacement of three coronary arteries,K423
+28700,K42.4,Allograft replacement of four or more coronary arteries,K424
+28701,K42.8,Other specified allograft replacement of coronary artery,K428
+28702,K42.9,Unspecified allograft replacement of coronary artery,K429
+28703,K41,Other autograft replacement of coronary artery,K41
+28704,K42,Allograft replacement of coronary artery,K42
+29028,K43.1,Prosthetic replacement of one coronary artery,K431
+29029,K43.2,Prosthetic replacement of two coronary arteries,K432
+29030,K43.3,Prosthetic replacement of three coronary arteries,K433
+29031,K43.4,Prosthetic replacement of four or more coronary arteries,K434
+29032,K43.8,Other specified prosthetic replacement of coronary artery,K438
+29033,K43.9,Unspecified prosthetic replacement of coronary artery,K439
+29034,K43,Prosthetic replacement of coronary artery,K43
+29052,K44.2,Revision of replacement of coronary artery,K442
+29094,K46.5,Revision of implantation of thoracic artery into heart,K465
+29102,K46.1,Double implantation of mammary arteries into heart,K461
+29113,K45.3,Anastomosis of mammary artery to left anterior descending coronary artery,K453
+29131,K48.1,Transection of muscle bridge of coronary artery,K481
+29143,K48.4,Exploration of coronary artery,K484
+29156,K49.3,Percutaneous transluminal balloon angioplasty of bypass graft of coronary artery,K493
+29166,K44.1,Replacement of coronary arteries using multiple methods,K441
+29177,K52.1,Open ablation of atrioventricular node,K521
+29190,K52.2,Epicardial excision of rhythmogenic focus,K522
+29201,K52.3,Endocardial excision of rhythmogenic focus,K523
+29213,K52.4,Open division of accessory pathway within heart,K524
+29228,K53.1,Inspection of valve of heart,K531
+29251,K57.1,Percutaneous transluminal ablation of atrioventricular node,K571
+29265,K58.1,Percutaneous transluminal mapping of conducting system of heart NEC,K581
+29283,K58.2,Percutaneous transluminal electrophysiological studies on conducting system of heart,K582
+29308,K63.1,Angiocardiography of combination of right and left side of heart,K631
+29319,K63.5,Coronary arteriography using single catheter,K635
+29343,L05.2,Creation of shunt to right pulmonary artery from ascending aorta using interposition tube prosthesis,L052
+29355,L05.3,Creation of shunt to left pulmonary artery from ascending aorta using interposition tube prosthesis,L053
+29373,L07.1,Creation of shunt to right pulmonary artery from right subclavian artery using interposition tube prosthesis,L071
+29391,L07.2,Creation of shunt to left pulmonary artery from left subclavian artery using interposition tube prosthesis,L072
+29424,L29.2,Intracranial bypass to carotid artery NEC,L292
+29440,L33.1,Excision of aneurysm of cerebral artery,L331
+29472,L34.1,Reconstruction of cerebral artery,L341
+29489,L34.2,Anastomosis of cerebral artery,L342
+29509,L34.4,Open embolisation of cerebral artery,L344
+29529,L35.1,Percutaneous transluminal embolisation of cerebral artery,L351
+29596,M01.1,Autotransplantation of kidney,M011
+29607,M01.2,Allotransplantation of kidney from live donor,M012
+29623,M01.3,Allotransplantation of kidney from cadaver NEC,M013
+29662,M02.8,Other specified total excision of kidney,M028
+29663,M02.9,Unspecified total excision of kidney,M029
+29666,M02,Total excision of kidney,M02
+29686,M02.2,Nephroureterectomy NEC,M022
+29694,M02.4,Excision of half of horseshoe kidney,M024
+29708,X45.1,Donation of kidney,X451
+29738,M03.1,Heminephrectomy of duplex kidney,M031
+29764,M04.1,Deroofing of cyst of kidney,M041
+29774,M04.2,Open excision of lesion of kidney NEC,M042
+29790,M04.3,Open destruction of lesion of kidney,M043
+29802,M05.2,Open revision of pyeloplasty,M052
+29812,M05.4,Plication of kidney,M054
+29823,M08.2,Open denervation of kidney,M082
+29843,M08.4,Exploration of transplanted kidney,M084
+29856,M09.1,Endoscopic ultrasound fragmentation of calculus of kidney,M091
+29873,M09.2,Endoscopic electrohydraulic shockwave fragmentation of calculus of kidney,M092
+29887,M11.1,Diagnostic endoscopic examination of kidney and biopsy of lesion of kidney NEC,M111
+29899,M13.1,Percutaneous needle biopsy of lesion of kidney,M131
+29926,M16.1,Irrigation of kidney,M161
+29946,M15.1,Nephrostomography,M151
+29987,M85.1,Endoscopic examination of intestinal conduit,M851
+30031,M21.1,Direct anastomosis of ureter to bladder,M211
+30064,C52.8,Other specified excision of sclera,C528
+30065,C52.9,Unspecified excision of sclera,C529
+30066,C52,Excision of sclera,C52
+30078,M32.1,Endoscopic extirpation of lesion of ureteric orifice,M321
+30093,M32.2,Endoscopic meatotomy of ureteric orifice,M322
+30132,M34.4,Simple cystectomy,M344
+30143,M36.1,Caecocystoplasty,M361
+30193,M37.3,Repair of rupture of bladder,M373
+30210,M38.2,Cystostomy and insertion of suprapubic tube into bladder,M382
+30229,M41.1,Open extirpation of lesion of bladder,M411
+30239,M41.2,Creation of vesicovaginal fistula,M412
+30251,M41.3,Open transection of bladder,M413
+30278,M41.5,Exploration of bladder,M415
+30340,M43.8,Other specified endoscopic operations to increase capacity of bladder,M438
+30341,M43.9,Unspecified endoscopic operations to increase capacity of bladder,M439
+30342,M43,Endoscopic operations to increase capacity of bladder,M43
+30354,M43.1,Endoscopic transection of bladder,M431
+30398,M55.1,Open resection of outlet of female bladder,M551
+30419,M56.1,Endoscopic resection of outlet of female bladder,M561
+30432,M64.1,Open resection of outlet of male bladder,M641
+30486,N05.3,Bilateral inguinal orchidectomy,N053
+30515,P22.8,Other specified repair of prolapse of vagina and amputation of cervix uteri,P228
+30516,P22.9,Unspecified repair of prolapse of vagina and amputation of cervix uteri,P229
+30517,P22,Repair of prolapse of vagina and amputation of cervix uteri,P22
+30551,Q01.4,Large loop excision of transformation zone,Q014
+30564,Q02.1,Avulsion of lesion of cervix uteri,Q021
+30596,Q03.2,Laser cone biopsy of cervix uteri,Q032
+30608,Q03.5,Ring biopsy of cervix uteri,Q035
+30627,Q55.4,Colposcopy of cervix,Q554
+30657,Q07.5,Subtotal abdominal hysterectomy,Q075
+30668,Q09.4,Open biopsy of lesion of uterus,Q094
+30698,Q10,Curettage of uterus,Q10
+30713,Q11.2,Dilation of cervix uteri and evacuation of products of conception from uterus NEC,Q112
+30754,Q17.2,Endoscopic cauterisation of lesion of uterus,Q172
+30765,Q17.3,Endoscopic cryotherapy to lesion of uterus,Q173
+30791,Q18.1,Diagnostic endoscopic examination of uterus and biopsy of lesion of uterus,Q181
+30799,Q20.3,Manual manipulation of uterus,Q203
+30810,Q20.4,Vaginofixation of uterus,Q204
+30839,Q16.1,Vaginal excision of lesion of uterus,Q161
+30957,Q26.2,Revision of tubal prosthesis in fallopian tube,Q262
+30976,Q27.8,Other specified open bilateral occlusion of fallopian tubes,Q278
+30977,Q27.9,Unspecified open bilateral occlusion of fallopian tubes,Q279
+30978,Q27,Open bilateral occlusion of fallopian tubes,Q27
+30992,Q27.1,Open bilateral ligation of fallopian tubes,Q271
+31029,Q29.8,Other specified open reversal of female sterilisation,Q298
+31030,Q29.9,Unspecified open reversal of female sterilisation,Q299
+31031,Q29,Open reversal of female sterilisation,Q29
+31042,Q34.2,Open biopsy of fallopian tube,Q342
+31057,Q34.3,Open dilation of fallopian tube,Q343
+31068,Q34.4,Exploration of fallopian tube,Q344
+31082,Q35.1,Endoscopic bilateral cauterisation of fallopian tubes,Q351
+31097,Q35.2,Endoscopic bilateral clipping of fallopian tubes,Q352
+31109,Q35.3,Endoscopic bilateral ringing of fallopian tubes,Q353
+31166,Q37.8,Other specified endoscopic reversal of female sterilisation,Q378
+31167,Q37.9,Unspecified endoscopic reversal of female sterilisation,Q379
+31168,Q37,Endoscopic reversal of female sterilisation,Q37
+31195,Q39.1,Diagnostic endoscopic examination of fallopian tube and biopsy of lesion of fallopian tube,Q391
+31219,Q41.2,Hydrotubation of fallopian tube,Q412
+31242,Q44.8,Other specified open destruction of lesion of ovary,Q448
+31243,Q44.9,Unspecified open destruction of lesion of ovary,Q449
+31244,Q44,Open destruction of lesion of ovary,Q44
+31255,Q44.1,Open cauterisation of lesion of ovary,Q441
+31264,Q45.1,Replantation of ovary,Q451
+31273,Q45.4,Suture of rupture of corpus luteum,Q454
+31284,Q47.3,Open biopsy of lesion of ovary,Q473
+31316,Q49.1,Endoscopic extirpation of lesion of ovary NEC,Q491
+31327,Q50.1,Diagnostic endoscopic examination of ovary and biopsy of lesion of ovary,Q501
+31365,R12.3,Repositioning of retroverted gravid uterus,R123
+31413,R17.8,Other specified elective caesarean delivery,R178
+31414,R17.9,Unspecified elective caesarean delivery,R179
+31415,R17,Elective caesarean delivery,R17
+31429,R17.1,Elective upper uterine segment caesarean delivery,R171
+31445,R17.2,Elective lower uterine segment caesarean delivery,R172
+31456,R21,Forceps cephalic delivery,R21
+31465,R21.1,High forceps cephalic delivery with rotation,R211
+31475,R21.3,Mid forceps cephalic delivery with rotation,R213
+31539,S01.1,Facelift and tightening of platysma,S011
+31552,S01.3,Submental lipectomy,S013
+31575,S01.4,Browlift NEC,S014
+31601,S21.1,Hair bearing flap of skin to scalp for male pattern baldness,S211
+31628,S21.3,Hair bearing flap of skin to nasolabial area,S213
+31647,S21.4,Hair bearing flap of skin to chin area,S214
+31694,S34.1,Hair bearing graft to nasolabial area,S341
+31707,S34.2,Hair bearing graft to chin area,S342
+31738,T07.8,Other specified open excision of pleura,T078
+31739,T07.9,Unspecified open excision of pleura,T079
+31740,T07,Open excision of pleura,T07
+31759,T07.1,Decortication of pleura,T071
+31770,T07.2,Open excision of lesion of pleura,T072
+31779,T08.2,Closure of open drainage of pleural cavity,T082
+31791,T09.1,Open destruction of lesion of pleura,T091
+31801,T09.2,Open biopsy of lesion of pleura,T092
+31813,T09.3,Mechanical open pleurodesis,T093
+31824,T09.4,Chemical open pleurodesis,T094
+31837,T10.1,Endoscopic extirpation of lesion of pleura,T101
+31848,T10.2,Endoscopic pleurodesis using talc,T102
+31893,T14.1,Percutaneous biopsy of lesion of pleura,T141
+31914,T15.8,Other specified repair of rupture of diaphragm,T158
+31915,T15.9,Unspecified repair of rupture of diaphragm,T159
+31916,T15,Repair of rupture of diaphragm,T15
+31927,T15.1,Repair of traumatic rupture of diaphragm,T151
+31937,T15.2,Repair of postoperative rupture of diaphragm,T152
+31948,T17.2,Destruction of lesion of diaphragm,T172
+31957,T37.1,Excision of lesion of mesentery of small intestine,T371
+31967,T37.2,Destruction of lesion of mesentery of small intestine,T372
+31977,T37.3,Biopsy of lesion of mesentery of small intestine,T373
+31985,T37.4,Repair of mesentery of small intestine,T374
+31994,T38.1,Excision of lesion of mesentery of colon,T381
+32004,T38.2,Destruction of lesion of mesentery of colon,T382
+32014,T38.3,Biopsy of lesion of mesentery of colon,T383
+32022,T38.4,Repair of mesentery of colon,T384
+32030,V01.1,Cranioplasty using prosthesis,V011
+32076,V03.1,Exploratory open craniotomy,V031
+32085,V03.6,Exploratory burrhole of cranium,V036
+32093,V03.2,Reopening of cranium and re-exploration of intracranial operation site and surgical arrest of postoperative bleeding,V032
+32103,V05.1,Extirpation of lesion of cranium,V051
+32152,V01.6,Strip craniectomy,V016
+32177,V09.1,Reduction of fracture of nasoethmoid complex of bones,V091
+32194,V09.3,Reduction of fracture of zygomatic complex of bones,V093
+32217,V13.3,Biopsy of lesion of bone of face,V133
+32227,V13.2,Alveolar bone graft to maxilla,V132
+32235,V10.1,Intracranial osteotomy of bone of face,V101
+32245,V10.2,Transorbital subcranial osteotomy of bone of face,V102
+32277,V07.1,Extensive excision of bone of face,V071
+32330,V15.1,Reduction of fracture of alveolus of mandible,V151
+32358,V08.8,Other specified reduction of fracture of maxilla,V088
+32359,V08.9,Unspecified reduction of fracture of maxilla,V089
+32360,V08,Reduction of fracture of maxilla,V08
+32370,V08.1,Reduction of fracture of alveolus of maxilla,V081
+32412,V17.1,Intermaxillary fixation of mandible,V171
+32420,V17.3,Extraoral fixation of mandible,V173
+32450,V11.1,Intermaxillary fixation of maxilla,V111
+32482,V10.3,Osteotomy of maxilla involving nasal complex,V103
+32490,V10.4,Low level osteotomy of maxilla,V104
+32498,V10.5,Osteotomy of alveolar segment of maxilla,V105
+32507,V16.1,Osteotomy of mandible and advancement of mandible,V161
+32515,V16.2,Osteotomy of mandible and retrusion of mandible,V162
+32523,V16.3,Osteotomy of alveolar segment of mandible,V163
+32556,V19.2,Genioplasty of mandible,V192
+32575,V19.5,Manipulation of mandible NEC,V195
+32597,V19.4,Biopsy of lesion of mandible,V194
+32623,V20.3,Intra-articular arthroplasty of temporomandibular joint,V203
+32637,V22.3,Primary foraminotomy of cervical spine,V223
+32652,V24.1,Primary decompression of thoracic spinal cord and fusion of joint of thoracic spine,V241
+32680,V22.8,Other specified primary decompression operations on cervical spine,V228
+32681,V22.9,Unspecified primary decompression operations on cervical spine,V229
+32682,V22,Primary decompression operations on cervical spine,V22
+32696,V22.1,Primary anterior decompression of cervical spinal cord and fusion of joint of cervical spine,V221
+32749,V23.2,Revisional anterior decompression of cervical spinal cord NEC,V232
+32750,V23.8,Other specified revisional decompression operations on cervical spine,V238
+32751,V23.9,Unspecified revisional decompression operations on cervical spine,V239
+32752,V23,Revisional decompression operations on cervical spine,V23
+32766,V23.1,Revisional anterior decompression of cervical spinal cord and fusion of joint of cervical spine,V231
+32819,V26.6,Revisional lateral foraminotomy of lumbar spine,V266
+32923,E35.1,Endoscopic arytenoidectomy,E351
+33020,X04.1,Autotransplantation of adrenal medulla to caudate nucleus of brain,X041
+33099,X31.1,Intravenous cholecystography,X311
+33182,J01.8,Other specified transplantation of liver,J018
+33183,J01.9,Unspecified transplantation of liver,J019
+33188,J01,Transplantation of liver,J01
+33208,X50.1,Direct current cardioversion,X501
+33231,K62.4,Percutaneous transluminal internal cardioversion NEC,K624
+33356,Y66.1,Harvest of bone from skull,Y661
+33372,Y67.1,Harvest of composite of skin and cartilage from ear,Y671
+33523,G04.3,Open destruction of lesion of oesophagus NEC,G043
+33938,R21.5,Low forceps cephalic delivery,R215
+33976,M02.3,Bilateral nephrectomy,M023
+34080,K47.3,Repair of aneurysm of coronary artery,K473
+34232,Q36.8,Other specified other endoscopic occlusion of fallopian tube,Q368
+34233,Q36.9,Unspecified other endoscopic occlusion of fallopian tube,Q369
+34302,A49.8,Other specified repair of spina bifida,A498
+34303,A49.9,Unspecified repair of spina bifida,A499
+34304,A49,Repair of spina bifida,A49
+34429,M58.2,Dilation of outlet of female bladder,M582
+35111,G07.3,Correction of congenital atresia of oesophagus,G073
+35208,C26.2,Destruction of lesion of lacrimal sac,C262
+35316,K22.1,Excision of lesion of atrium,K221
+35358,V09.8,Other specified reduction of fracture of other bone of face,V098
+35359,V09.9,Unspecified reduction of fracture of other bone of face,V099
+35360,V09,Reduction of fracture of other bone of face,V09
+35731,G31.5,Closure of connection of stomach to duodenum,G315
+36011,C59.1,Iridocyclectomy,C591
+36041,C37.4,Repair of muscle of eye NEC,C374
+36123,Q35.8,Other specified endoscopic bilateral occlusion of fallopian tubes,Q358
+36124,Q35.9,Unspecified endoscopic bilateral occlusion of fallopian tubes,Q359
+36125,Q35,Endoscopic bilateral occlusion of fallopian tubes,Q35
+36173,A45.2,Open chordotomy of spinal cord NEC,A452
+36174,A45.3,Myelotomy of spinal cord,A453
+36331,E07.3,Septorhinoplasty NEC,E073
+36391,G08.1,Exteriorisation of pouch of oesophagus,G081
+36450,C05.2,Plastic repair of cavity of orbit,C052
+36451,C05.8,Other specified plastic repair of orbit,C058
+36452,C05.9,Unspecified plastic repair of orbit,C059
+36453,C05,Plastic repair of orbit,C05
+36753,E08.3,Correction of congenital atresia of choana,E083
+36992,K10.3,Repair of defect of interatrial septum using tissue graft NEC,K103
+37040,A07.1,Open division of tissue of brain,A071
+37128,F34.5,Excision of remnant of tonsil,F345
+37388,G58.8,Other specified excision of jejunum,G588
+37389,G58.9,Unspecified excision of jejunum,G589
+37390,G58,Excision of jejunum,G58
+37455,C14.8,Other specified reconstruction of eyelid,C148
+37456,C14.9,Unspecified reconstruction of eyelid,C149
+37458,C14,Reconstruction of eyelid,C14
+38585,G07.8,Other specified repair of oesophagus,G078
+38586,G07.9,Unspecified repair of oesophagus,G079
+38587,G07,Repair of oesophagus,G07
+38790,A07.4,Excision of abscess of tissue of brain,A074
+38911,A08.8,Other specified other biopsy of lesion of tissue of brain,A088
+38912,A08.9,Unspecified other biopsy of lesion of tissue of brain,A089
+38915,A08,Other biopsy of lesion of tissue of brain,A08
+39445,A26.8,Intracranial destruction of specified cranial nerve NEC,A268
+39446,A26.9,Unspecified other intracranial destruction of cranial nerve,A269
+39447,A26,Other intracranial destruction of cranial nerve,A26
+40494,C14.1,Flap of skin to eyelid,C141
+40810,C25.4,Dacryocystorhinostomy NEC,C254
+40843,C25.3,Dacryocystorhinostomy and insertion of tube HFQ,C253
+40867,C31.6,Recession of lateral rectus muscle and resection of medial rectus muscle of eye,C316
+41455,C62.4,Correction iridodialysis NEC,C624
+41689,C81.8,Other specified photocoagulation of retina for detachment,C818
+41690,C81.9,Unspecified photocoagulation of retina for detachment,C819
+41769,C80.6,Removal of subretinal membrane NEC,C806
+41781,C84.6,Retinotomy NEC,C846
+41866,F12.1,Apicectomy of tooth,F121
+42058,D14.4,Combined approach tympanoplasty,D144
+42292,E08.6,Surgical closure of anterior nares,E086
+42348,E02.2,Reconstruction of nose NEC,E022
+42349,E02.6,Rhinoplasty NEC,E026
+42350,E02.8,Other specified plastic operations on nose,E028
+42351,E02.9,Unspecified plastic operations on nose,E029
+42352,E07.8,Other specified other plastic operations on nose,E078
+42353,E07.9,Unspecified other plastic operations on nose,E079
+42356,E02,Plastic operations on nose,E02
+42357,E07,Other plastic operations on nose,E07
+42469,E07.2,Septodermoplasty,E072
+42545,E08.2,Extirpation of lesion of internal nose NEC,E082
+42917,E31.2,Laryngotracheoplasty NEC,E312
+42950,E33.6,Vocal cord medialisation using biological material,E336
+43255,E50.3,Endoscopic destruction of lesion of lower respiratory tract using rigid bronchoscope NEC,E503
+43283,E50.2,Endoscopic laser destruction of lesion of lower respiratory tract using rigid bronchoscope,E502
+43326,E50.1,Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope,E501
+43710,E47.8,Other specified other open operations on bronchus,E478
+43711,E47.9,Unspecified other open operations on bronchus,E479
+44039,E53.2,Single lung transplant,E532
+44053,E53.1,Double lung transplant,E531
+44292,K41.4,Autograft replacement of four or more coronary arteries NEC,K414
+44293,K41.8,Other specified other autograft replacement of coronary artery,K418
+44294,K41.9,Unspecified other autograft replacement of coronary artery,K419
+44295,K44.8,Other specified other replacement of coronary artery,K448
+44296,K44.9,Unspecified other replacement of coronary artery,K449
+44297,K45.8,Other specified connection of thoracic artery to coronary artery,K458
+44298,K45.9,Unspecified connection of thoracic artery to coronary artery,K459
+44299,K46.8,Other specified other bypass of coronary artery,K468
+44300,K46.9,Unspecified other bypass of coronary artery,K469
+44303,K46,Other bypass of coronary artery,K46
+44338,K41.1,Autograft replacement of one coronary artery NEC,K411
+44365,K46.2,Double implantation of thoracic arteries into heart NEC,K462
+44620,K37.5,Excision of supramitral ring,K375
+44872,K34.5,Closure of tricuspid valve,K345
+44909,K36.1,Tricuspid valvectomy,K361
+45164,K37.6,Aortoventriculoplasty,K376
+45256,K34.6,Closure of pulmonary valve,K346
+45324,K36.2,Pulmonary valvectomy,K362
+45771,K29.6,Truncal valve repair,K296
+45849,K31.5,Open truncal valvotomy,K315
+45884,K29.7,Replacement of truncal valve,K297
+45967,K23.6,Cardiomyoplasty,K236
+45999,K02.1,Allotransplantation of heart NEC,K021
+46028,X45.2,Donation of heart,X452
+46238,K20.3,Repair of cor triatriatum,K203
+46262,K14.4,Surgical atrial septation,K144
+46336,K16.2,Percutaneous transluminal atrial septostomy NEC,K162
+46498,K37.2,Infundibulectomy of heart NEC,K372
+46726,K24.7,Myotomy of left ventricular outflow tract,K247
+46824,K13.1,Percutaneous transluminal repair of defect of interventricular septum using prosthesis,K131
+46892,K08.2,Repair of Fallot-type double outlet right ventricle,K082
+46914,L69.8,Other specified operations on major systemic to pulmonary collateral arteries,L698
+46915,L69.9,Unspecified operations on major systemic to pulmonary collateral arteries,L699
+46917,L69,Operations on major systemic to pulmonary collateral arteries,L69
+47003,K08.3,Repair of double outlet right ventricle,K083
+47030,K08.4,Repair of double outlet left ventricle,K084
+47127,K19.8,Other specified creation of other cardiac conduit,K198
+47128,K19.9,Unspecified creation of other cardiac conduit,K199
+47131,K19,Creation of other cardiac conduit,K19
+47194,K52.5,Open division of conducting system of heart NEC,K525
+47555,L16.2,Bypass of aorta by anastomosis of axillary artery to femoral artery NEC,L162
+47556,L16.3,Bypass of aorta by anastomosis of axillary artery to bilateral femoral arteries,L163
+47660,Q18,Diagnostic endoscopic examination of uterus,Q18
+47708,E04.1,Submucous diathermy to turbinate of nose,E041
+47791,J70.8,Other specified other excision of spleen,J708
+47792,J70.9,Unspecified other excision of spleen,J709
+47793,J70,Other excision of spleen,J70
+47902,F03.1,Primary closure of cleft lip,F031
+47913,F03.3,Adjustment to vermilion border of lip NEC,F033
+47973,F05.2,Advancement of mucosa of lip NEC,F052
+48046,F11.3,Augmentation of alveolar ridge NEC,F113
+48104,F09.2,Surgical removal of impacted tooth NEC,F092
+48191,F20.1,Excision of gingiva,F201
+48510,F17.1,Preparation of tooth for dental crown,F171
+48544,F17.6,Preparation of teeth for bridge,F176
+48596,F17.2,Creation of impression of tooth for dental crown,F172
+48637,F15.1,Creation of orthodontic impression,F151
+49065,F39.1,Reconstruction of mouth using flap NEC,F391
+49089,F39.2,Reconstruction of mouth using graft NEC,F392
+49105,F40.2,Graft of skin to mouth NEC,F402
+49119,F40.3,Graft of mucosa to mouth NEC,F403
+49130,F40.1,Revision of repair of mouth NEC,F401
+49328,P09.4,Biopsy of lesion of labia,P094
+49519,G06.2,Revision of anastomosis of oesophagus NEC,G062
+49592,G05.6,Bypass of oesophagus by interposition of colon NEC,G056
+49656,G09.2,Oesophagomyotomy NEC,G092
+49890,G36.2,Closure of perforation of stomach NEC,G362
+50008,G53.2,Closure of perforation of duodenum NEC,G532
+50525,G72.8,Other specified other connection of ileum,G728
+50526,G72.9,Unspecified other connection of ileum,G729
+50681,H20.4,Fibreoptic endoscopic destruction of lesion of colon NEC,H204
+50853,H35.1,Anterior fixation of rectum NEC,H351
+50866,H35.3,Posterior fixation of rectum NEC,H353
+50908,M62.4,Repair of rectoprostatic fistula,M624
+50926,H17.4,Open reduction of volvulus of colon NEC,H174
+51063,G71.5,Bypass of ileum by anastomosis of ileum to colon NEC,G715
+51064,G72.3,Anastomosis of ileum to colon NEC,G723
+51141,J56.4,Subtotal excision of head of pancreas with preservation of duodenum and drainage HFQ,J564
+51151,J57.5,Excision of tail of pancreas NEC,J575
+51177,J57.6,Pancreatic necrosectomy,J576
+51209,J59.4,Anastomosis of pancreatic duct to jejunum NEC,J594
+51334,J63.1,Open pancreatography through tail of pancreas,J631
+51335,J63.3,Open pancreatography NEC,J633
+51599,J34.2,Sphincteroplasty of bile duct using duodenal approach NEC,J342
+51600,J34.8,Other specified plastic repair of sphincter of Oddi using duodenal approach,J348
+51601,J34.9,Unspecified plastic repair of sphincter of Oddi using duodenal approach,J349
+51924,M32.3,Endoscopic injection of inert substance around ureteric orifice,M323
+52229,M42.2,Endoscopic cauterisation of lesion of bladder,M422
+52230,M42.3,Endoscopic destruction of lesion of bladder NEC,M423
+52259,M44.1,Endoscopic lithopaxy,M441
+52273,M52.2,Retropubic suspension of neck of bladder,M522
+52289,M54.2,Reconstruction of neck of female bladder NEC,M542
+52303,M64.6,Reconstruction of neck of male bladder NEC,M646
+52318,M65.8,Other specified endoscopic resection of outlet of male bladder,M658
+52319,M65.9,Unspecified endoscopic resection of outlet of male bladder,M659
+52379,F42.2,Incision of mouth NEC,F422
+52667,Q16.5,Radiofrequency ablation of endometrium,Q165
+53417,T09.8,Other specified other open operations on pleura,T098
+53418,T09.9,Unspecified other open operations on pleura,T099
+53419,T09,Other open operations on pleura,T09
+53478,A83.8,Other specified electroconvulsive therapy,A838
+53479,A83.9,Unspecified electroconvulsive therapy,A839
+53481,A83,Electroconvulsive therapy,A83
+53535,T12.8,Other specified puncture of pleura,T128
+53536,T12.9,Unspecified puncture of pleura,T129
+53605,C08.2,Open reduction of fracture of orbit,C082
+53712,F26.2,Excision of frenulum of tongue,F262
+53911,V11.3,Extraoral fixation of maxilla,V113
+53979,V19.3,Alveolar bone graft to mandible,V193
+54158,H11.1,Colectomy and end to end anastomosis of colon to colon NEC,H111
+54159,H11.3,Colectomy and anastomosis NEC,H113
+54160,H11.4,Colectomy and ileostomy NEC,H114
+54161,H11.5,Colectomy and exteriorisation of bowel NEC,H115
+54162,H11.8,Other specified other excision of colon,H118
+54163,H11.9,Unspecified other excision of colon,H119
+54166,H11,Other excision of colon,H11
+54541,U04.4,Lateral oblique jaw radiology,U044
+54560,U04.1,Bitewing radiology,U041
+54571,U04.2,Periapical radiology,U042
+54585,U04.3,Occlusal radiology,U043
+55657,U12.5,Static renogram,U125
+55674,U12.6,Mercaptoacetyltriglycine renogram,U126
+55833,U10.4,Myocardial positron emission tomography,U104
+56093,R38.2,Liquor volume scan,R382
+56177,U06.1,Computed tomography of sinuses,U061
+56501,U05.2,Magnetic resonance imaging of head,U052
+56657,U10.3,Cardiac magnetic resonance imaging,U103
+56711,U37.1,Magnetic resonance imaging of kidneys,U371
+57130,M19.1,Construction of ileal conduit,M191
+57277,C29.5,Canaliculotomy,C295
+57298,G27.2,Total gastrectomy and anastomosis of oesophagus to duodenum,G272
+57323,B08.1,Total thyroidectomy,B081
+57390,G01.1,Oesophagogastrectomy and anastomosis of oesophagus to stomach,G011
+57391,G01.3,Oesophagogastrectomy and anastomosis of oesophagus to jejunum NEC,G013
+57392,G01.8,Other specified excision of oesophagus and stomach,G018
+57393,G01.9,Unspecified excision of oesophagus and stomach,G019
+57395,G01,Excision of oesophagus and stomach,G01
+57653,V15.3,Closed reduction of fracture of mandible NEC,V153
+57752,G74.1,Creation of continent ileostomy,G741
+57898,A54.8,Other specified therapeutic spinal puncture,A548
+57899,A54.9,Unspecified therapeutic spinal puncture,A549
+57900,A54,Therapeutic spinal puncture,A54
+58128,K27.4,Replacement of tricuspid valve NEC,K274
+58156,U19.2,24 hour ambulatory electrocardiography,U192
+58219,U20.3,Intravascular echocardiography,U203
+58324,U10.6,Myocardial perfusion scan,U106
+58384,F42.5,Recording of jaw relationships,F425
+58821,U22.1,Electroencephalograph telemetry,U221
+58908,A84.6,Pattern electroretinography,A846
+59696,C45.6,Destruction of lesion of cornea NEC,C456
+59697,C45,Extirpation of lesion of cornea,C45
+59733,F11.1,Oral alveoplasty,F111
+59852,V03.8,Other specified opening of cranium,V038
+59853,V03.9,Unspecified opening of cranium,V039
+59857,V03,Opening of cranium,V03
+60044,E65.9,Unspecified diagnostic endoscopic examination of nasal cavity,E659
+60732,K55.8,Other specified other open operations on heart,K558
+60733,K55.9,Unspecified other open operations on heart,K559
+61069,Q41.3,Dye test of fallopian tube,Q413
+61134,K26.4,Replacement of aortic valve NEC,K264
+61174,G10.3,Transection of oesophagus NEC,G103
+61229,H05.8,Other specified total excision of colon,H058
+61230,H05.9,Unspecified total excision of colon,H059
+61233,H05,Total excision of colon,H05
+61322,G27.8,Other specified total excision of stomach,G278
+61323,G27.9,Unspecified total excision of stomach,G279
+61324,G27,Total excision of stomach,G27
+61353,T08.3,Fenestration of pleura,T083
+61366,T08.4,Closure of fenestration of pleura,T084
+61386,T12,Puncture of pleura,T12
+61398,E03.2,Excision of lesion of septum of nose,E032
+61439,E14.1,External frontoethmoidectomy,E141
+61451,E14.4,Transantral ethmoidectomy,E144
+61465,E21.1,Pharyngoplasty using posterior pharyngeal implant,E211
+61483,E21.3,Pharyngoplasty using lateral pharyngeal flap,E213
+61549,Q08.8,Other specified vaginal excision of uterus,Q088
+61550,Q08.9,Unspecified vaginal excision of uterus,Q089
+61555,Q08,Vaginal excision of uterus,Q08
+61572,Q09.2,Open myomectomy,Q092
+61607,C37.1,Excision of lesion of muscle of eye,C371
+61621,Q10.1,Dilation of cervix uteri and curettage of products of conception from uterus,Q101
+61642,Q17.1,Endoscopic resection of lesion of uterus,Q171
+61658,Q20.2,Biopsy of lesion of uterus NEC,Q202
+61671,Q27.2,Open bilateral clipping of fallopian tubes,Q272
+61724,A12.1,Ventriculocisternostomy,A121
+61736,A26.3,Intracranial destruction of trigeminal nerve (v),A263
+61746,A42.2,Biopsy of lesion of meninges of brain,A422
+61756,A47.1,Needle destruction of substantia gelatinosa of cervical spinal cord,A471
+61766,A51.3,Biopsy of lesion of meninges of spinal cord,A513
+61790,A55,Diagnostic spinal puncture,A55
+61817,C18.1,Correction of ptosis of eyelid using levator muscle technique,C181
+61828,C18.3,Correction of ptosis of eyelid using sling of fascia,C183
+61841,C25.1,Canaliculodacryocystorhinostomy,C251
+61857,C33.1,Resection of medial rectus muscle of eye NEC,C331
+61868,C59.2,Surgical iridectomy,C592
+61885,C61.3,Goniotomy,C613
+61899,C61.4,Goniopuncture,C614
+61910,C62.2,Surgical iridotomy,C622
+61919,C71.1,Simple linear extraction of lens,C711
+61931,C82.1,Cauterisation of lesion of retina,C821
+61958,D08.2,Reconstruction of external auditory canal,D082
+61974,D10.8,Other specified exenteration of mastoid air cells,D108
+61975,D10.9,Unspecified exenteration of mastoid air cells,D109
+61976,D10,Exenteration of mastoid air cells,D10
+61987,D10.3,Cortical mastoidectomy,D103
+62030,F03.8,Other specified correction of deformity of lip,F038
+62031,F03.9,Unspecified correction of deformity of lip,F039
+62032,F03,Correction of deformity of lip,F03
+62105,F12.8,Other specified surgery on apex of tooth,F128
+62106,F12.9,Unspecified surgery on apex of tooth,F129
+62107,F12,Surgery on apex of tooth,F12
+62134,F29.8,Other specified correction of deformity of palate,F298
+62135,F29.9,Unspecified correction of deformity of palate,F299
+62136,F29,Correction of deformity of palate,F29
+62231,G02.2,Total oesophagectomy and interposition of microvascularly attached jejunum,G022
+62405,G05.8,Other specified bypass of oesophagus,G058
+62406,G05.9,Unspecified bypass of oesophagus,G059
+62407,G05,Bypass of oesophagus,G05
+62435,G09.1,Cardiomyotomy,G091
+62455,G15.4,Fibreoptic endoscopic insertion of tubal prosthesis into oesophagus,G154
+62474,G18.4,Endoscopic insertion of tubal prosthesis into oesophagus using rigid oesophagoscope,G184
+62488,G23.1,Repair of oesophageal hiatus using thoracic approach,G231
+62499,G24.1,Antireflux fundoplication using thoracic approach,G241
+62509,G24.3,Antireflux fundoplication using abdominal approach,G243
+62520,G24.4,Antireflux gastropexy,G244
+62521,G31.8,Other specified connection of stomach to duodenum,G318
+62522,G28.1,Partial gastrectomy and anastomosis of stomach to duodenum,G281
+62523,G31.0,Conversion from previous anastomosis of stomach to duodenum,G310
+62524,G31,Connection of stomach to duodenum,G31
+62525,G31.4,Conversion to anastomosis of stomach to duodenum,G314
+62526,G31.9,Unspecified connection of stomach to duodenum,G319
+62537,G31.2,Bypass of stomach by anastomosis of stomach to duodenum,G312
+62549,G53.6,Correction of malrotation of duodenum,G536
+62562,G54.1,Endoscopic extirpation of lesion of duodenum,G541
+62573,G61.1,Bypass of jejunum by anastomosis of jejunum to jejunum,G611
+62634,G61.3,Bypass of jejunum by anastomosis of jejunum to colon,G613
+62645,G74.3,Creation of defunctioning ileostomy,G743
+62660,H20.8,Other specified endoscopic extirpation of lesion of colon,H208
+62661,H20.9,Unspecified endoscopic extirpation of lesion of colon,H209
+62662,H20,Endoscopic extirpation of lesion of colon,H20
+62679,H23.8,Other specified endoscopic extirpation of lesion of lower bowel using fibreoptic sigmoidoscope,H238
+62680,H23.9,Unspecified endoscopic extirpation of lesion of lower bowel using fibreoptic sigmoidoscope,H239
+62681,H23,Endoscopic extirpation of lesion of lower bowel using fibreoptic sigmoidoscope,H23
+62690,H37,Other endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope,H37
+62691,H37.8,Other specified other endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope,H378
+62692,H37.9,Unspecified other endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope,H379
+62709,H26.5,Endoscopic destruction of lesion of sigmoid colon using rigid sigmoidoscope NEC,H265
+62710,H26.7,Endoscopic resection of lesion of sigmoid colon using rigid sigmoidoscope NEC,H267
+62711,H26.8,Other specified endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope,H268
+62712,H26.9,Unspecified endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope,H269
+62713,H26,Endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope,H26
+62770,H33.1,Abdominoperineal excision of rectum and end colostomy,H331
+62791,H34.8,Other specified open extirpation of lesion of rectum,H348
+62792,H34.9,Unspecified open extirpation of lesion of rectum,H349
+62793,H34,Open extirpation of lesion of rectum,H34
+62802,H35.2,Posterior fixation of rectum using prosthetic material,H352
+62813,H35.4,Fixation of rectum using fascia lata,H354
+62846,H40.2,Trans-sphincteric excision of lesion of rectum,H402
+62847,H41.2,Peranal excision of lesion of rectum,H412
+62862,H41.3,Peranal destruction of lesion of rectum,H413
+62881,J07.3,Exploration of liver,J073
+62932,J10.8,Other specified transluminal operations on blood vessel of liver,J108
+62933,J10.9,Unspecified transluminal operations on blood vessel of liver,J109
+62934,J77.8,Other specified other transluminal operations on blood vessel of liver,J778
+62935,J77.9,Unspecified other transluminal operations on blood vessel of liver,J779
+62936,J10,Transluminal operations on blood vessel of liver,J10
+62937,J77,Other transluminal operations on blood vessel of liver,J77
+62948,J29.1,Anastomosis of hepatic duct to transposed jejunum and insertion of tubal prosthesis HFQ,J291
+62966,J38.1,Endoscopic sphincterotomy of sphincter of Oddi and removal of calculus HFQ,J381
+62978,J56.1,Pancreaticoduodenectomy and excision of surrounding tissue,J561
+62991,J56.2,Pancreaticoduodenectomy and resection of antrum of stomach,J562
+63015,J59.3,Anastomosis of pancreatic duct to transposed jejunum,J593
+63041,J63.8,Other specified open examination of pancreas,J638
+63042,J63.9,Unspecified open examination of pancreas,J639
+63061,K05.8,Other specified atrial inversion operations for transposition of great arteries,K058
+63062,K05.9,Unspecified atrial inversion operations for transposition of great arteries,K059
+63063,K06.4,Atrial inversion and repositioning of transposed great artery,K064
+63064,K05,Atrial inversion operations for transposition of great arteries,K05
+63084,K25.8,Other specified plastic repair of mitral valve,K258
+63085,K25.9,Unspecified plastic repair of mitral valve,K259
+63086,K25,Plastic repair of mitral valve,K25
+63108,K26.8,Other specified plastic repair of aortic valve,K268
+63109,K26.9,Unspecified plastic repair of aortic valve,K269
+63110,K26,Plastic repair of aortic valve,K26
+63125,K27.8,Other specified plastic repair of tricuspid valve,K278
+63126,K27.9,Unspecified plastic repair of tricuspid valve,K279
+63127,K27,Plastic repair of tricuspid valve,K27
+63148,K28.8,Other specified plastic repair of pulmonary valve,K288
+63149,K28.9,Unspecified plastic repair of pulmonary valve,K289
+63150,K28,Plastic repair of pulmonary valve,K28
+63164,K34.2,Annuloplasty of tricuspid valve,K342
+63178,K45.1,Double anastomosis of mammary arteries to coronary arteries,K451
+63218,M02.7,Excision of transplanted kidney NEC,M027
+63234,M05,Open repair of kidney,M05
+63303,M52.3,Colposuspension of neck of bladder,M523
+63319,P18.1,Complete colpocleisis,P181
+63341,R12.1,Cerclage of cervix of gravid uterus,R121
+63395,S33.3,Hair bearing graft to scalp for male pattern baldness NEC,S333
+63396,S33.8,Other specified hair bearing graft of skin to scalp,S338
+63397,S33.9,Unspecified hair bearing graft of skin to scalp,S339
+63398,S33,Hair bearing graft of skin to scalp,S33
+63415,S41.8,Other specified suture of skin of head or neck,S418
+63416,S41.9,Unspecified suture of skin of head or neck,S419
+63417,S41,Suture of skin of head or neck,S41
+63449,V15.8,Other specified reduction of fracture of mandible,V158
+63450,V15.9,Unspecified reduction of fracture of mandible,V159
+63451,V15,Reduction of fracture of mandible,V15
+63476,V11.4,Fixation of maxilla NEC,V114
+63477,V11.8,Other specified fixation of bone of face,V118
+63478,V11.9,Unspecified fixation of bone of face,V119
+63479,V11,Fixation of bone of face,V11
+63511,Y58.1,Harvest of full thickness skin from post auricular region,Y581
+63540,G34.4,Closure of gastrostomy,G344
+63541,G36.3,Closure of abnormal opening of stomach NEC,G363
+63590,T11.2,Diagnostic endoscopic examination of pleura and biopsy of lesion of intrathoracic organ NEC,T112
+63758,C54.5,Buckling of sclera NEC,C545
+63759,C54.8,Other specified buckling operations for attachment of retina,C548
+63760,C54.9,Unspecified buckling operations for attachment of retina,C549
+63761,C54,Buckling operations for attachment of retina,C54
+64020,H08.8,Other specified excision of transverse colon,H088
+64021,H08.9,Unspecified excision of transverse colon,H089
+64024,H08,Excision of transverse colon,H08
+64036,P25.4,Repair of uterovaginal fistula,P254
+64171,V17.8,Other specified fixation of mandible,V178
+64172,V17.9,Unspecified fixation of mandible,V179
+64173,V17,Fixation of mandible,V17
+64184,J23.1,Excision of lesion of gall bladder,J231
+64274,A09.8,Other specified neurostimulation of brain,A098
+64275,A09.9,Unspecified neurostimulation of brain,A099
+64276,A09,Neurostimulation of brain,A09
+64289,E27.1,Open biopsy of lesion of pharynx,E271
+64302,K16.1,Percutaneous transluminal balloon atrial septostomy,K161
+64342,V02.8,Other specified other plastic repair of cranium,V028
+64343,V02.9,Unspecified other plastic repair of cranium,V029
+64348,V01,Plastic repair of cranium,V01
+64349,V02,Other plastic repair of cranium,V02
+64529,G62.8,Other specified open endoscopic operations on jejunum,G628
+64530,G62.9,Unspecified open endoscopic operations on jejunum,G629
+64531,G62,Open endoscopic operations on jejunum,G62
+64809,H18.8,Other specified open endoscopic operations on colon,H188
+64810,H18.9,Unspecified open endoscopic operations on colon,H189
+64811,H18,Open endoscopic operations on colon,H18
+66560,H41.4,Peranal mucosal proctectomy and endoanal anastomosis,H414
+66693,X50.2,External cardioversion NEC,X502
+66763,E27.6,Examination of pharynx under anaesthetic,E276
+67184,A12.3,Creation of ventriculopleural shunt,A123
+67210,F30.8,Other specified other repair of palate,F308
+67211,F30.9,Unspecified other repair of palate,F309
+67212,F30,Other repair of palate,F30
+67615,M41.6,Detrusor myotomy,M416
+68378,V06.8,Other specified excision of maxilla,V068
+68379,V06.9,Unspecified excision of maxilla,V069
+68380,V06,Excision of maxilla,V06
+68587,M02.6,Excision of rejected transplanted kidney,M026
+68651,K66.1,Cardiotachygraphy,K661
+68693,D15.1,Myringotomy with insertion of ventilation tube through tympanic membrane,D151
+69043,B17.8,Other specified transplantation of thymus gland,B178
+69044,B17.9,Unspecified transplantation of thymus gland,B179
+69045,B17,Transplantation of thymus gland,B17
+69318,T16.5,Suture of diaphragm NEC,T165
+69423,D06.4,Graft of skin to external ear,D064
+70607,M34.1,Cystoprostatectomy,M341
+71129,J57.1,Subtotal pancreatectomy,J571
+71130,J57.8,Other specified other partial excision of pancreas,J578
+71131,J57.9,Unspecified other partial excision of pancreas,J579
+71133,J57,Other partial excision of pancreas,J57
+71322,Q22.2,Bilateral salpingectomy NEC,Q222
+71928,C44.3,Endothelial graft to cornea,C443
+71938,H42,Perineal operations for prolapse of rectum,H42
+72303,U19.8,Other specified diagnostic electrocardiography,U198
+72304,U19.9,Unspecified diagnostic electrocardiography,U199
+72422,G63.2,Incision of jejunum,G632
+72547,C60.4,Iridoplasty NEC,C604
+72629,D10.2,Modified radical mastoidectomy,D102
+72663,Q43.8,Other specified partial excision of ovary,Q438
+72664,Q43.9,Unspecified partial excision of ovary,Q439
+72665,Q43,Partial excision of ovary,Q43
+72772,Q22.1,Bilateral salpingoophorectomy,Q221
+72788,F02.1,Excision of lesion of lip,F021
+73080,D10.5,Excision of lesion of mastoid,D105
+73107,Q02.2,Laser destruction of lesion of cervix uteri,Q022
+73151,Q28.8,Other specified other open occlusion of fallopian tube,Q288
+73152,Q28.9,Unspecified other open occlusion of fallopian tube,Q289
+73153,Q28,Other open occlusion of fallopian tube,Q28
+73419,M45.5,Diagnostic endoscopic examination of bladder using rigid cystoscope,M455
+73533,J29.2,Anastomosis of hepatic duct to jejunum NEC,J292
+73640,G07.2,Closure of fistula of oesophagus NEC,G072
+73687,E19.2,Partial pharyngectomy,E192
+73740,B02.3,Injection of destructive substance into pituitary gland NEC,B023
+73759,B22.2,Bilateral adrenalectomy NEC,B222
+73788,F50.8,Other specified transposition of salivary duct,F508
+73789,F50.9,Unspecified transposition of salivary duct,F509
+73790,F50,Transposition of salivary duct,F50
+73811,F52.8,Other specified ligation of salivary duct,F528
+73812,F52.9,Unspecified ligation of salivary duct,F529
+73813,F52,Ligation of salivary duct,F52
+73940,R21.8,Other specified forceps cephalic delivery,R218
+73941,R21.9,Unspecified forceps cephalic delivery,R219
+73962,T09.5,Open pleurodesis NEC,T095
+74004,V01.5,Revision of cranioplasty NEC,V015
+74023,V09.2,Reduction of fracture of nasal bone NEC,V092
+74062,V17.2,Internal fixation of mandible NEC,V172
+74072,V11.2,Internal fixation of maxilla NEC,V112
+74136,T16.4,Repair of congenital diaphragmatic hernia,T164
+74209,G29.4,Diathermy to lesion of stomach,G294
+74243,H04.2,Panproctocolectomy and anastomosis of ileum to anus and creation of pouch HFQ,H042
+74357,E19.1,Total pharyngectomy,E191
+74390,E13.6,Puncture of maxillary antrum,E136
+74504,U05.1,Computed tomography of head,U051
+74696,J67.2,Percutaneous puncture of pancreatic duct and pancreatography,J672
+74816,U12.7,Nuclear cystography,U127
+75064,F43.1,Smear of buccal mucosa,F431
+75115,G24.5,Gastroplasty and antireflux procedure HFQ,G245
+75116,G36.8,Other specified other repair of stomach,G368
+75117,G36.9,Unspecified other repair of stomach,G369
+75118,G36,Other repair of stomach,G36
+75257,H06.4,Extended right hemicolectomy and ileostomy HFQ,H064
+75343,K14.2,Open atrial septostomy,K142
+75414,F10.1,Full dental clearance,F101
+75440,G51.3,Bypass of duodenum by anastomosis of duodenum to jejunum,G513
+75533,U12.3,Ultrasound of kidneys,U123
+75645,K45.2,Double anastomosis of thoracic arteries to coronary arteries NEC,K452
+75670,F32.3,Incision of palate,F323
+75781,J02.6,Extended right hemihepatectomy,J026
+76060,G52.2,Suture of ulcer of duodenum NEC,G522
+76110,V07.2,Partial excision of bone of face NEC,V072
+76178,V08.2,Open reduction of fracture of maxilla NEC,V082
+76199,V08.3,Closed reduction of fracture of maxilla NEC,V083
+76220,V15.2,Open reduction of fracture of mandible NEC,V152
+76304,G02.3,Total oesophagectomy and interposition of jejunum NEC,G023
+76328,G02.5,Total oesophagectomy and interposition of colon NEC,G025
+76329,G03.6,Partial oesophagectomy and interposition of colon NEC,G036
+76545,C33.6,Resection of inferior oblique muscle of eye,C336
+76754,J02.7,Extended left hemihepatectomy,J027
+76936,H08.4,Transverse colectomy and ileostomy HFQ,H084
+76948,H08.5,Transverse colectomy and exteriorisation of bowel NEC,H085
+76958,H10.4,Sigmoid colectomy and ileostomy HFQ,H104
+77016,H09.5,Left hemicolectomy and exteriorisation of bowel NEC,H095
+77086,H05.3,Total colectomy and ileostomy NEC,H053
+77103,H05.2,Total colectomy and ileostomy and creation of rectal fistula HFQ,H052
+77185,Q07.1,Abdominal hysterocolpectomy and excision of periuterine tissue,Q071
+77309,M06.3,Closure of nephrostomy,M063
+77498,M51.2,Endoscopic suspension of neck of bladder,M512
+78110,C32.1,Recession of medial rectus muscle of eye NEC,C321
+78131,C32.2,Recession of lateral rectus muscle of eye NEC,C322
+78148,C33.2,Resection of lateral rectus muscle of eye NEC,C332
+78179,Q20.5,Exploration of uterus NEC,Q205
+78196,Q07.3,Abdominal hysterocolpectomy NEC,Q073
+78214,Q08.3,Vaginal hysterocolpectomy NEC,Q083
+78463,C54.4,Buckling of sclera and local or encircling explant HFQ,C544
+78667,C80.3,Delamination of epiretinal fibrovascular membrane,C803
+78683,C80.4,Segmentation of epiretinal fibrovascular membrane,C804
+78733,K51.2,Intravascular ultrasound of coronary artery,K512
+78845,H04.1,Panproctocolectomy and ileostomy,H041
+78846,H04.3,Panproctocolectomy and anastomosis of ileum to anus NEC,H043
+78922,Q02.8,Other specified destruction of lesion of cervix uteri,Q028
+78923,Q02.9,Unspecified destruction of lesion of cervix uteri,Q029
+78924,Q02,Destruction of lesion of cervix uteri,Q02
+78963,C69.2,Paracentesis of anterior chamber of eye,C692
+79245,C44.2,Laser in situ keratomileusis,C442
+79318,Q16.2,Balloon ablation of endometrium,Q162
+79419,F34.1,Bilateral dissection tonsillectomy,F341
+79432,F34.2,Bilateral guillotine tonsillectomy,F342
+79678,U16.2,Magnetic resonance cholangiopancreatography,U162
+80044,H08.3,Transverse colectomy and anastomosis NEC,H083
+80061,H09.3,Left hemicolectomy and anastomosis NEC,H093
+80079,H09.4,Left hemicolectomy and ileostomy HFQ,H094
+80093,H10.3,Sigmoid colectomy and anastomosis NEC,H103
+80122,H33.4,Anterior resection of rectum and anastomosis NEC,H334
+80213,F48.2,Closure of fistula of salivary gland,F482
+80305,H15.4,Closure of colostomy,H154
+80410,B22.3,Unilateral adrenalectomy,B223
+80411,B22.8,Other specified excision of adrenal gland,B228
+80412,B22.9,Unspecified excision of adrenal gland,B229
+80413,B22,Excision of adrenal gland,B22
+80737,G29.2,Open excision of lesion of stomach NEC,G292
+80830,K02.8,Other specified other transplantation of heart,K028
+80831,K02.9,Unspecified other transplantation of heart,K029
+80833,K02,Other transplantation of heart,K02
+80906,K01,Transplantation of heart and lung,K01
+81022,V01.8,Other specified plastic repair of cranium,V018
+81023,V01.9,Unspecified plastic repair of cranium,V019
+81024,V02.3,Reconstruction of cranium NEC,V023
+81117,L35.2,Arteriography of cerebral artery,L352
+81303,J19.1,Anastomosis of gall bladder to stomach,J191
+81492,G09.8,Other specified incision of oesophagus,G098
+81493,G09.9,Unspecified incision of oesophagus,G099
+81494,G09,Incision of oesophagus,G09
+81621,K63.6,Coronary arteriography NEC,K636
+81790,F55.8,Other specified dilation of salivary duct,F558
+81791,F55.9,Unspecified dilation of salivary duct,F559
+81792,F55,Dilation of salivary duct,F55
+81889,B22.4,Partial adrenalectomy,B224
+81959,J70.2,Marsupialisation of lesion of spleen,J702
+82055,D03.8,Other specified plastic operations on external ear,D038
+82056,D03.9,Unspecified plastic operations on external ear,D039
+82057,D06.3,Repair of external ear NEC,D063
+82058,D03,Plastic operations on external ear,D03
+82089,E13.3,Intranasal antrostomy,E133
+82206,K29.1,Allograft replacement of valve of heart NEC,K291
+82207,K29.2,Xenograft replacement of valve of heart NEC,K292
+82208,K29.3,Prosthetic replacement of valve of heart NEC,K293
+82209,K29.4,Replacement of valve of heart NEC,K294
+82248,K53.8,Other specified other incision of heart,K538
+82249,K53.9,Unspecified other incision of heart,K539
+82250,K53,Other incision of heart,K53
+82388,M05.8,Other specified open repair of kidney,M058
+82389,M05.9,Unspecified open repair of kidney,M059
+82648,F10.3,Lower dental clearance,F103
+82670,F26.5,Suture of tongue,F265
+82946,C82.8,Other specified destruction of lesion of retina,C828
+82947,C82.9,Unspecified destruction of lesion of retina,C829
+82948,C82,Destruction of lesion of retina,C82
+83001,C66.4,Laser photocoagulation of ciliary body,C664
+83048,M06.8,Other specified incision of kidney,M068
+83049,M06.9,Unspecified incision of kidney,M069
+83050,M06,Incision of kidney,M06
+83218,A22.2,Puncture of cistern of brain,A222
+83242,K40.8,Other specified saphenous vein graft replacement of coronary artery,K408
+83243,K40.9,Unspecified saphenous vein graft replacement of coronary artery,K409
+83244,K40,Saphenous vein graft replacement of coronary artery,K40
+83601,Q43.2,Excision of lesion of ovary,Q432
+83724,Q08.1,Vaginal hysterocolpectomy and excision of periuterine tissue,Q081
+83839,H07.3,Right hemicolectomy and anastomosis NEC,H073
+83840,H07.8,Other specified other excision of right hemicolon,H078
+83841,H07.9,Unspecified other excision of right hemicolon,H079
+83845,H07,Other excision of right hemicolon,H07
+84077,K45.4,Anastomosis of mammary artery to coronary artery NEC,K454
+84134,E54.5,Partial lobectomy of lung NEC,E545
+84363,F22.1,Total glossectomy,F221
+84734,D22.3,Insufflation of eustachian canal,D223
+85014,Q54.1,Suspension of uterus NEC,Q541
+85176,M02.1,Nephrectomy and excision of perirenal tissue,M021
+85231,H05.1,Total colectomy and anastomosis of ileum to rectum,H051
+85248,C12.5,Destruction of lesion of eyelid NEC,C125
+85498,G40.3,Pyloroplasty NEC,G403
+85521,Q01.3,Excision of lesion of cervix uteri,Q013
+85562,C10.1,Excision of lesion of eyebrow,C101
+85630,M41.4,Open biopsy of lesion of bladder,M414
+85901,M13.8,Other specified percutaneous puncture of kidney,M138
+85902,M13.9,Unspecified percutaneous puncture of kidney,M139
+85903,M13,Percutaneous puncture of kidney,M13
+85991,V14.2,Extensive excision of mandible NEC,V142
+85992,V14.8,Other specified excision of mandible,V148
+85993,V14.9,Unspecified excision of mandible,V149
+85994,V14,Excision of mandible,V14
+86028,G38.6,Reduction of volvulus of stomach,G386
+86122,C59.8,Other specified excision of iris,C598
+86123,C59.9,Unspecified excision of iris,C599
+86124,C59,Excision of iris,C59
+86161,G36.1,Gastropexy NEC,G361
+86174,C06.5,Exploration of orbit,C065
+86340,G09.3,Division of web of oesophagus,G093
+86390,C72.2,Suction extraction of lens,C722
+86464,K47.2,Repair of arteriovenous fistula of coronary artery,K472
+86476,K23.2,Biopsy of lesion of wall of heart,K232
+86513,M39.1,Open removal of calculus from bladder,M391
+86550,C62.3,Laser iridotomy,C623
+86728,F52.1,Ligation of parotid duct,F521
+86894,C01.3,Evisceration of eye,C013
+86932,C86.3,Suture of eye NEC,C863
+87227,C15.2,Correction of entropion NEC,C152
+87379,F45.1,Excision of lesion of parotid gland,F451
+87571,J18.3,Total cholecystectomy NEC,J183
+87572,J18.8,Other specified excision of gall bladder,J188
+87573,J18.9,Unspecified excision of gall bladder,J189
+87575,J18,Excision of gall bladder,J18
+87851,M42.8,Other specified endoscopic extirpation of lesion of bladder,M428
+87852,M42.9,Unspecified endoscopic extirpation of lesion of bladder,M429
+87853,M42,Endoscopic extirpation of lesion of bladder,M42
+87898,K25.5,Mitral valve repair NEC,K255
+87957,K27.6,Tricuspid valve repair NEC,K276
+87998,K48.2,Transposition of coronary artery NEC,K482
+88079,T10.3,Endoscopic pleurodesis NEC,T103
+88178,H12.1,Excision of diverticulum of colon,H121
+88226,H62.5,Irrigation of bowel NEC,H625
+88316,G04.1,Excision of lesion of oesophagus,G041
+88388,C62.8,Other specified incision of iris,C628
+88389,C62.9,Unspecified incision of iris,C629
+88390,C62,Incision of iris,C62
+88460,M36.3,Colocystoplasty,M363
+88492,A44.2,Extirpation of lesion of spinal cord NEC,A442
+88701,K28.5,Pulmonary valve repair NEC,K285
+88715,M44.3,Endoscopic removal of foreign body from bladder,M443
+88869,M42.1,Endoscopic resection of lesion of bladder,M421
+88898,M43.2,Endoscopic hydrostatic distension of bladder,M432
+88990,H15.2,End colostomy,H152
+89014,P22.2,Anterior colporrhaphy and amputation of cervix uteri NEC,P222
+89015,P22.3,Posterior colporrhaphy and amputation of cervix uteri NEC,P223
+89016,Q01.1,Amputation of cervix uteri,Q011
+89124,M08.3,Exploration of kidney,M083
+89310,H42.5,Excision of mucosal prolapse of rectum NEC,H425
+89345,G34,Artificial opening into stomach,G34
+89378,G38.5,Incision of stomach NEC,G385
+89424,C16.4,Tarsorrhaphy NEC,C164
+89487,M66.1,Endoscopic sphincterotomy of external sphincter of male bladder,M661
+89563,F05.3,Suture of lip,F053
+89601,E21.4,Plastic repair of pharynx NEC,E214
+89741,Q32.1,Excision of fimbria,Q321
+89844,E43.2,Tracheorrhaphy,E432
+89882,Q29.1,Reanastomosis of fallopian tube NEC,Q291
+89883,Q30.3,Anastomosis of fallopian tube NEC,Q303
+89961,R28.1,Curettage of delivered uterus,R281
+90015,Q03.1,Knife cone biopsy of cervix uteri,Q031
+90118,V14.4,Excision of lesion of mandible,V144
+90170,E42.4,Revision of tracheostomy,E424
+90217,Q05.1,Repair of cervix uteri NEC,Q051
+90255,E15.2,Puncture of sphenoid sinus,E152
+90385,C39.1,Excision of lesion of conjunctiva,C391
+90524,V14.3,Partial excision of mandible NEC,V143
+90598,G53.3,Open removal of foreign body from duodenum,G533
+90667,K06.8,Other specified other repair of transposition of great arteries,K068
+90668,K06.9,Unspecified other repair of transposition of great arteries,K069
+90733,V01.3,Opening of suture of cranium,V013
+90835,D14.8,Other specified repair of eardrum,D148
+90836,D14.9,Unspecified repair of eardrum,D149
+90837,D14,Repair of eardrum,D14
+90915,A07.3,Exploration of tissue of brain,A073
+90967,G08.2,External fistulisation of oesophagus NEC,G082
+90968,G08.3,Tube oesophagostomy,G083
+90969,G08.8,Other specified artificial opening into oesophagus,G088
+90970,G08.9,Unspecified artificial opening into oesophagus,G089
+90971,G08,Artificial opening into oesophagus,G08
+91115,J04.2,Repair of laceration of liver,J042
+91176,M05.5,Repair of laceration of kidney,M055
+91239,E52.1,Irrigation of bronchus NEC,E521
+91348,C44.4,Photorefractive keratectomy,C444
+91477,C46.7,Transplant of corneal limbal cells,C467
+91530,E03.7,Septal reconstruction with cartilage graft,E037
+91561,D15.3,Incision of ear drum NEC,D153
+91655,E48.6,Fibreoptic endoscopic irrigation of lower respiratory tract,E486
+91697,D16.8,Other specified reconstruction of ossicular chain,D168
+91698,D16.9,Unspecified reconstruction of ossicular chain,D169
+91699,D16,Reconstruction of ossicular chain,D16
+91721,C01.1,Exenteration of orbit,C011
+91763,E50.6,Endoscopic irrigation of lower respiratory tract using rigid bronchoscope,E506
+91894,G03.8,Other specified partial excision of oesophagus,G038
+91895,G03.9,Unspecified partial excision of oesophagus,G039
+91896,G03,Partial excision of oesophagus,G03
+91947,C22.6,Epilation of eyelash,C226
+92001,H14.8,Other specified exteriorisation of caecum,H148
+92002,H14.9,Unspecified exteriorisation of caecum,H149
+92003,H14,Exteriorisation of caecum,H14
+92074,J59.1,Anastomosis of pancreatic duct to stomach,J591
+92171,C16.8,Other specified other plastic repair of eyelid,C168
+92172,C16.9,Unspecified other plastic repair of eyelid,C169
+92173,C17.8,Other specified other repair of eyelid,C178
+92174,C17.9,Unspecified other repair of eyelid,C179
+92176,C16,Other plastic repair of eyelid,C16
+92177,C17,Other repair of eyelid,C17
+92342,F43.8,Other specified other examinations of mouth,F438
+92343,F43.9,Unspecified other examinations of mouth,F439
+92344,F43,Other examinations of mouth,F43
+92433,H30.1,Radiological reduction of intussusception of colon using barium enema,H301
+92469,H15.8,Other specified other exteriorisation of colon,H158
+92470,H15.9,Unspecified other exteriorisation of colon,H159
+92471,H32.8,Other specified exteriorisation of colon,H328
+92472,H32.9,Unspecified exteriorisation of colon,H329
+92473,H15,Other exteriorisation of colon,H15
+92474,H32,Exteriorisation of colon,H32
+92540,Q30.2,Replantation of fallopian tube,Q302
+92589,B18.8,Other specified excision of thymus gland,B188
+92590,B18.9,Unspecified excision of thymus gland,B189
+92592,B18,Excision of thymus gland,B18
+92610,C82.6,Laser photocoagulation to lesion of retina NEC,C826
+92737,J57.3,Left pancreatectomy NEC,J573
+92773,A39.8,Other specified repair of dura,A398
+92774,A39.9,Unspecified repair of dura,A399
+92975,M08.1,Open biopsy of lesion of kidney,M081
+93031,M38.3,Cystostomy NEC,M383
+93091,K05.1,Reconstruction of atrium using atrial patch for transposition of great arteries,K051
+93353,F09.6,Coronectomy NEC,F096
+93468,Q54.2,Plication of round ligament of uterus,Q542
+93499,F42.3,Removal of excess mucosa from mouth NEC,F423
+93818,U20.8,Other specified diagnostic Echocardiography,U208
+93819,U20.9,Unspecified diagnostic Echocardiography,U209
+93822,U20,Diagnostic echocardiography,U20
+93851,J72.4,Repair of spleen,J724
+93876,Q16.3,Microwave ablation of endometrium NEC,Q163
+94057,E20.2,Biopsy of adenoid,E202
+94294,J61.3,Drainage of cyst of pancreas into jejunum NEC,J613
+94651,R25.1,Caesarean hysterectomy,R251
+95417,E10.1,Biopsy of lesion of nose NEC,E101
+95474,Q32.3,Excision of hydatid of Morgagni,Q323
+96067,C44.5,Laser subepithelial keratomileusis,C445
+96866,C27.2,Dilation of nasolacrimal duct,C272
+97592,C46.5,Deep lamellar graft to cornea,C465
+97848,C25.8,Other specified connection between lacrimal apparatus and nose,C258
+97849,C25.9,Unspecified connection between lacrimal apparatus and nose,C259
+97850,C25,Connection between lacrimal apparatus and nose,C25
+98285,C46.3,Penetrating graft to cornea,C463
+98518,Q09.6,Incision of uterus NEC,Q096
+98629,H03.3,Exteriorisation of appendix,H033
+98693,F24.3,Glossotomy,F243
+98694,F24.8,Other specified incision of tongue,F248
+98695,F24.9,Unspecified incision of tongue,F249
+98696,F24,Incision of tongue,F24
+98789,A44.4,Excision of lesion of extradural spinal cord,A444
+98802,V05.6,Transpetrous excision of lesion of jugular foramen,V056
+98826,U19.6,Cardiomemo electrocardiographic monitoring,U196
+98845,G68.8,Other specified transplantation of ileum,G688
+98846,G68.9,Unspecified transplantation of ileum,G689
+98847,G68,Transplantation of ileum,G68
+98888,E02.7,Alar reconstruction with cartilage graft,E027
+98908,K17.8,Other specified repair of univentricular heart,K178
+98909,K17.9,Unspecified repair of univentricular heart,K179
+98910,K17,Repair of univentricular heart,K17
+98925,U17.5,Computed tomography of colon,U175
+98955,J10.4,Percutaneous transluminal angioplasty of blood vessel of liver,J104
+99044,Q17.5,Endoscopic metroplasty,Q175
+99062,M10.4,Endoscopic cryoablation of lesion of kidney,M104
+99077,M32.6,Endoscopic transurethral resection of ureteric orifice,M326
+99091,K58.5,Transluminal intracardiac echocardiography,K585
+99111,C88.8,Other specified destruction of subretinal lesion,C888
+99112,C88.9,Unspecified destruction of subretinal lesion,C889
+99113,C88,Destruction of subretinal lesion,C88
+99144,C83.8,Other specified translocation of retina,C838
+99145,C83.9,Unspecified translocation of retina,C839
+99147,C83,Translocation of retina,C83
+99172,R42.3,Doppler ultrasound scan of middle cerebral artery of fetus,R423
+99186,J73.8,Other specified laparoscopic ultrasound examination of pancreas,J738
+99187,J73.9,Unspecified laparoscopic ultrasound examination of pancreas,J739
+99188,J73,Laparoscopic ultrasound examination of pancreas,J73
+99199,C87.4,Ultrasonic evaluation of retina,C874
+99211,F34.7,Bilateral coblation tonsillectomy,F347
+99227,H20.5,Fibreoptic endoscopic submucosal resection of lesion of colon,H205
+99286,K20.4,Repair of coronary sinus abnormality,K204
+99298,G32.4,Closure of connection of stomach to transposed jejunum,G324
+99313,C47.4,Gluing of cornea,C474
+99323,C22.7,Denervation of nerve of eyelid,C227
+99336,U10.1,Cardiac computed tomography for calcium scoring,U101
+99348,G45.4,Fibreoptic endoscopic examination of upper gastrointestinal tract and staining of gastric mucosa,G454
+99364,E48.7,Fibreoptic endoscopic photodynamic therapy of lesion of lower respiratory tract,E487
+99380,Q56.2,Fertiloscopy,Q562
+99390,C52.2,Deep sclerectomy without spacer,C522
+99409,J10.6,Percutaneous transluminal thrombolysis of blood vessel of liver,J106
+99438,J67.3,Percutaneous biopsy of lesion of pancreas,J673
+99451,K24.4,Repair of left ventricular aneurysm,K244
+99465,U11.4,Computed tomography scan of cerebral vessels,U114
+99507,K47.4,Repair of rupture of coronary artery,K474
+99522,G14.6,Fibreoptic endoscopic submucosal resection of lesion of oesophagus,G146
+99537,J66.5,Percutaneous chemical ablation of lesion of pancreas,J665
+99552,C79.5,Internal tamponade of retina using gas,C795
+99574,X50.4,External ventricular defibrillation,X504
+99591,C14.3,Graft of cartilage to eyelid,C143
+99609,C08.5,Internal fixation of fracture of orbit,C085
+99646,G30.3,Partitioning of stomach using band,G303
+99673,E35.7,Endoscopic vocal cord medialisation,E357
+99697,V22.5,Primary decompression of posterior fossa and upper cervical spinal cord and instrumentation,V225
+99714,C82.3,External beam radiotherapy to lesion of retina,C823
+99731,H31.2,Image guided transluminal occlusion of colorectal fistula,H312
+99742,J01.5,Orthotopic transplantation of whole liver,J015
+99782,E07.1,Correction of stenosis of nasal pyriform aperture,E071
+99795,G14.7,Fibreoptic endoscopic photodynamic therapy of lesion of oesophagus,G147
+99812,G44.6,Fibreoptic endoscopic pressure controlled balloon dilation of lower oesophageal sphincter,G446
+99825,Q17.6,Endoscopic microwave ablation of endometrium,Q176
+99849,V06.1,Medial maxillectomy,V061
+99864,G68.1,Allotransplantation of ileum,G681
+99877,Q55.5,Transvaginal ultrasound examination of female genital tract,Q555
+99890,R01.2,Fetoscopic insertion of tracheal plug,R012
+99900,K18.6,Creation of valved conduit between left ventricle of heart and pulmonary artery,K186
+99917,G15.5,Fibreoptic endoscopic dilation of web of oesophagus,G155
+99938,K14.3,Atrial septectomy,K143
+99986,H31.4,Image guided insertion of colorectal stent,H314
+100000,C11.7,Biopsy of lesion of canthus,C117
+100015,Q49.4,Endoscopic drilling of ovary,Q494
+100029,M13.7,Percutaneous radiofrequency ablation of lesion of kidney,M137
+100045,H26.6,Endoscopic submucosal resection of lesion of sigmoid colon using rigid sigmoidoscope,H266
+100074,J12.6,Percutaneous chemical ablation of lesion of liver,J126
+100124,E15.3,Repair of sphenoidal sinus,E153
+100135,G71.6,Duodenal switch,G716
+100155,H31.5,Image guided removal of colorectal stent,H315
+100169,A53.6,Creation of lumbar subcutaneous shunt,A536
+100185,J74.8,Other specified endoscopic ultrasound examination of pancreas,J748
+100186,J74.9,Unspecified endoscopic ultrasound examination of pancreas,J749
+100190,J74,Endoscopic ultrasound examination of pancreas,J74
+100202,A36.4,Radial optic neurotomy (ii),A364
+100230,J12.4,Percutaneous radiofrequency ablation of lesion of liver,J124
+100258,K24.3,Repair of right ventricular aneurysm,K243
+100312,K24.2,Repair of double chambered right ventricle,K242
+100328,C43.7,Transplantation of conjunctiva,C437
+100340,V07.4,Excision of lesion of infratemporal fossa,V074
+100363,C52.1,Deep sclerectomy with spacer,C521
+100378,M10.3,Endoscopic deroofing of multiple cysts of kidney,M103
+100391,B17.1,Allotransplantation of thymus gland,B171
+100405,E59.5,Percutaneous radiofrequency ablation of lesion of lung,E595
+100416,J03.5,Excision of multiple lesions of liver,J035
+100459,C83.3,Limited macular translocation,C833
+100473,G30.4,Partitioning of stomach using staples,G304
+100485,A07.6,Complete callosotomy,A076
+100529,U19.5,Holter extended electrocardiographic recording,U195
+100560,Q51.1,Transvaginal ultrasound guided aspiration of ovarian cyst,Q511
+100588,P32.1,Reconstruction of vagina using bowel interposition,P321
+100604,G18.5,Dilation of web of oesophagus using rigid oesophagoscope,G185
+100626,Q07.6,Excision of accessory uterus,Q076
+100643,J17.8,Other specified endoscopic ultrasound examination of liver,J178
+100644,J17.9,Unspecified endoscopic ultrasound examination of liver,J179
+100646,J17,Endoscopic ultrasound examination of liver,J17
+100657,K47.5,Repair of arteriovenous malformation of coronary artery,K475
+100673,J43.3,Endoscopic retrograde cholangiopancreatography and collection of bile,J433
+100691,H31.1,Image guided percutaneous occlusion of colorectal fistula,H311
+100710,M10.5,Endoscopic endoluminal balloon rupture of stenosis of pelviureteric junction of kidney,M105
+100725,K08.1,Repair of double outlet right ventricle with intraventricular tunnel,K081
+100737,K38.4,Closure of aorto-left ventricular tunnel,K384
+100754,K55.6,Repair of traumatic injury of heart,K556
+100790,C85.5,Retinopexy NEC,C855
+100791,C85.8,Other specified fixation of retina,C858
+100792,C85.9,Unspecified fixation of retina,C859
+100795,C85,Fixation of retina,C85
+100810,E09.6,Laser destruction of lesion of external nose,E096
+100841,C14.4,Graft of skin and fat to eyelid,C144
+100856,C79.6,Internal tamponade of retina using liquid,C796
+100885,G46.1,Fibreoptic endoscopic endoluminal plication of gastro-oesophageal junction,G461
+100898,U19.3,48 hour ambulatory electrocardiography,U193
+100931,C87.8,Other specified evaluation of retina,C878
+100932,C87.9,Unspecified evaluation of retina,C879
+100935,C87,Evaluation of retina,C87
+100960,H66.1,Excision of ileoanal pouch,H661
+100971,Q41.6,Recanalisation of fallopian tube,Q416
+100987,Q17.7,Endoscopic balloon ablation of endometrium,Q177
+101009,K17.5,Biventricular repair of hypoplastic left heart syndrome,K175
+101023,A02.6,Excision of lesion of tissue of brain stem,A026
+101036,M32.4,Endoscopic dilation of ureteric orifice,M324
+101074,S01.6,Internal browlift,S016
+101103,J03.4,Thermal ablation of multiple lesions of liver,J034
+101125,G28.4,Sleeve gastrectomy and duodenal switch,G284
+101143,V56.1,Primary laser foraminoplasty of cervical spine,V561
+101160,K58.4,Percutaneous transluminal left ventricular biopsy,K584
+101178,H29.1,Subtotal excision of colon and rectum and creation of colonic pouch and anastomosis of colon to anus,H291
+101191,J03.3,Thermal ablation of single lesion of liver,J033
+101205,C85.3,Retinopexy using mechanical tacks,C853
+101219,V57.2,Revisional laser foraminoplasty of thoracic spine,V572
+101247,E85.2,Non-invasive ventilation NEC,E852
+101287,A49.2,Closure of spinal myelomeningocele,A492
+101307,K57.7,Percutaneous transluminal ablation for congenital heart malformation,K577
+101322,E11.4,Revision of fixtures for attachment of nasal prosthesis,E114
+101351,C09.3,Replacement of medial canthal tendon using periosteal strip,C093
+101392,C85.1,Retinopexy using cryotherapy,C851
+101408,C65.2,Injection of bleb,C652
+101423,V56.2,Primary laser foraminoplasty of thoracic spine,V562
+101446,K33.1,Aortic root replacement using pulmonary valve autograft with right ventricle to pulmonary artery valved conduit,K331
+101471,Q54.4,Suspension of uterus using mesh NEC,Q544
+101489,K24.6,Myectomy of left ventricular outflow tract,K246
+101501,C85.4,Retinopexy using tissue adhesive,C854
+101516,E08.7,Surgical reopening of anterior nares,E087
+101530,K57.4,Percutaneous transluminal ablation of accessory pathway,K574
+101541,S01.5,Direct browlift,S015
+101555,L69.2,Pulmonary unifocalisation,L692
+101595,V56.4,Primary laser foraminoplasty of spine NEC,V564
+101596,V56.8,Other specified primary foraminoplasty of spine,V568
+101597,V56.9,Unspecified primary foraminoplasty of spine,V569
+101598,V56,Primary foraminoplasty of spine,V56
+101623,K23.5,Partial left ventriculectomy,K235
+101655,E41.4,Tracheo-oesophageal puncture with insertion of speech prosthesis,E414
+101674,A10.6,Insertion of carmustine wafers in neoplasm of tissue of brain,A106
+101685,K11.6,Repair of multiple interventricular septal defects,K116
+101722,K11.7,Repair of interventricular septal defect using intraoperative transluminal prosthesis,K117
+101735,C88.2,Photodynamic therapy to subretinal lesion,C882
+101756,H15.7,Percutaneous endoscopic sigmoid colostomy,H157
+101779,E16.1,Frontal sinus osteoplasty,E161
+101810,C83.1,Pigment epithelium translocation of retina,C831
+101840,C09.1,Replacement of lateral canthal tendon using tarsal strip,C091
+101863,K16.5,Percutaneous transluminal closure of patent oval foramen with prosthesis,K165
+101920,K35.7,Percutaneous transluminal pulmonary valve replacement,K357
+101935,K33.6,Aortoventriculoplasty with pulmonary valve autograft,K336
+101954,F32.6,Uvulopalatoplasty,F326
+101964,A07.7,Partial callosotomy,A077
+101984,E53.3,Single lobe lung transplant,E533
+101998,K30.5,Revision of plastic repair of truncal valve,K305
+102020,C15.5,Correction of cicatricial entropion,C155
+102031,K58.3,Percutaneous transluminal right ventricular biopsy,K583
+102052,V56.3,Primary laser foraminoplasty of lumbar spine,V563
+102062,Q16.6,Photodynamic ablation of endometrium,Q166
+102081,H31.3,Image guided balloon dilation of colorectal stricture,H313
+102082,H31,Image guided colorectal therapeutic operations,H31
+102105,A07.5,Multiple subpial transections,A075
+102122,C84.4,Retinal vascular sheathotomy,C844
+102165,K14.5,Open enlargement of defect of interventricular septum,K145
+102181,A10.7,Stereotactic radiosurgery on tissue of brain,A107
+102210,K55.5,Resection of heart tumour,K555
+102229,V04.8,Other specified reshaping of cranium,V048
+102230,V04.9,Unspecified reshaping of cranium,V049
+102231,V04,Reshaping of cranium,V04
+102244,E54.6,Reduction of lung volume,E546
+102289,K75.3,Percutaneous transluminal balloon angioplasty and insertion of 1-2 stents into coronary artery,K753
+102290,K75.4,Percutaneous transluminal balloon angioplasty and insertion of 3 or more stents into coronary artery NEC,K754
+102291,K75.8,Other specified percutaneous transluminal balloon angioplasty and insertion of stent into coronary artery,K758
+102292,K75.9,Unspecified percutaneous transluminal balloon angioplasty and insertion of stent into coronary artery,K759
+102305,R43.1,Ultrasound monitoring of luteal phase,R431
+102331,V57.1,Revisional laser foraminoplasty of cervical spine,V571
+102348,K13.3,Percutaneous transluminal repair of defect of interatrial septum using prosthesis,K133
+102361,C09.2,Replacement of lateral canthal tendon using periosteal strip,C092
+102374,C15.4,Correction of cicatricial ectropion,C154
+103168,E13.2,Excision of lesion of maxillary antrum,E132
+103227,H29.8,Other specified subtotal excision of colon,H298
+103228,H29.9,Unspecified subtotal excision of colon,H299
+103231,H29,Subtotal excision of colon,H29
+103243,H41.5,Peranal resection of rectum using staples,H415
+103287,V21.2,Reduction of dislocation of temporomandibular joint,V212
+103516,V20.8,Other specified reconstruction of temporomandibular joint,V208
+103517,V20.9,Unspecified reconstruction of temporomandibular joint,V209
+103518,V20,Reconstruction of temporomandibular joint,V20
+103634,K25.3,Prosthetic replacement of mitral valve,K253
+103971,U11.5,Thallium stress test,U115
+105279,C53.4,Destruction of lesion of sclera NEC,C534
+105280,C53,Extirpation of lesion of sclera,C53
+106374,U20.4,Epicardial echocardiography,U204
+106385,U20.5,Stress echocardiography,U205
+106400,U20.6,Fetal echocardiography,U206
+106418,U20.1,Transthoracic echocardiography,U201
+106857,K12.3,Repair of defect of septum of heart using tissue graft NEC,K123
+106914,K16.6,Percutaneous transluminal chemical mediated septal ablation,K166
+109615,V16.8,Other specified division of mandible,V168
+109616,V16.9,Unspecified division of mandible,V169
+109617,V16,Division of mandible,V16
+109858,H44.2,Manual reduction of prolapse of rectum,H442
+109969,R32.5,Repair of obstetric laceration of perineum and sphincter and mucosa of anus,R325
+110004,A44.5,Excision of lesion of intradural extramedullary spinal cord,A445
+110085,A17.2,Endoscopic third ventriculostomy,A172
+110160,A43.1,Extirpation of lesion of meninges of skull base,A431
+110292,U10.8,Other specified diagnostic imaging of heart,U108
+110293,U10.9,Unspecified diagnostic imaging of heart,U109
+110295,U10,Diagnostic imaging of heart,U10
+110416,V66.1,Revisional fusion of occipitocervical junction,V661
+110464,A44.3,Excision of lesion of intradural intramedullary spinal cord,A443
+110563,F39.8,Other specified reconstruction of other part of mouth,F398
+110564,F39.9,Unspecified reconstruction of other part of mouth,F399
+110625,A43.2,Extirpation of lesion of meninges of skull clivus,A432
+110659,E33.2,Cordopexy of vocal cord,E332
+111365,C64.1,Excision of prolapsed iris,C641
+111492,J21.8,Other specified incision of gall bladder,J218
+111493,J21.9,Unspecified incision of gall bladder,J219
+111494,J21,Incision of gall bladder,J21
+112099,H33.7,Perineal resection of rectum HFQ,H337
+112175,Q30.5,Suture of fallopian tube,Q305
+112382,H24.8,Other specified other therapeutic endoscopic operations on lower bowel using fibreoptic sigmoidoscope,H248
+112383,H24.9,Unspecified other therapeutic endoscopic operations on lower bowel using fibreoptic sigmoidoscope,H249
+112384,H25.8,Other specified diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope,H258
+112385,H25.9,Unspecified diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope,H259
+112386,H25,Diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope,H25
+112387,H27,Other therapeutic endoscopic operations on sigmoid colon using rigid sigmoidoscope,H27
+113076,H23.6,Endoscopic resection of lesion of lower bowel using fibreoptic sigmoidoscope NEC,H236
+113246,M44.2,Endoscopic extraction of calculus of bladder NEC,M442
+114970,E64.1,Endoscopic extirpation of lesion of nasal cavity,E641
+115006,C86.1,Biopsy of lesion of eye NEC,C861
+115477,M34.2,Cystourethrectomy,M342
+115881,K09.5,Primary repair of defect of atrioventricular septum NEC,K095
+115939,Q07.2,Abdominal hysterectomy and excision of periuterine tissue NEC,Q072
+115951,L08.2,Creation of anastomosis to left pulmonary artery from left subclavian artery NEC,L082
+115973,Q01.2,Wedge excision of cervix uteri and suture HFQ,Q012
+115997,L06.3,Creation of anastomosis to right pulmonary artery from ascending aorta NEC,L063
+116011,K19.4,Creation of conduit between right ventricle of heart and vena cava,K194
+116023,K09.2,Repair of defect of atrioventricular septum using prosthetic patch NEC,K092
+116046,Q25.1,Excision of lesion of fallopian tube,Q251
+116079,H07.4,Right hemicolectomy and ileostomy HFQ,H074
+116090,L06.4,Creation of anastomosis to left pulmonary artery from descending aorta NEC,L064
+116114,L08.1,Creation of anastomosis to right pulmonary artery from right subclavian artery NEC,L081
+116122,E46.1,Sleeve resection of bronchus and anastomosis HFQ,E461
+116262,K19.1,Creation of conduit between atrium and ventricle of heart NEC,K191
+116292,K57.2,Percutaneous transluminal ablation of conducting system of heart NEC,K572
+116293,K62.3,Percutaneous transluminal ablation of conducting system of heart for atrial flutter NEC,K623
+116303,K11.4,Primary repair of defect of interventricular septum NEC,K114
+116324,H11.2,Colectomy and side to side anastomosis of ileum to colon NEC,H112
+116447,G03.4,Partial oesophagectomy and anastomosis of oesophagus to jejunum NEC,G034
+116470,E20.4,Suction diathermy adenoidectomy,E204
+116492,K12.2,Repair of defect of septum of heart using pericardial patch NEC,K122
+116529,V22.2,Primary anterior decompression of cervical spinal cord NEC,V222
+116543,H23.4,Endoscopic destruction of lesion of lower bowel using fibreoptic sigmoidoscope NEC,H234
+116663,G18.3,Endoscopic dilation of oesophagus using rigid oesophagoscope NEC,G183
+116679,Q20.6,Focused ultrasound to lesion of uterus,Q206
+116696,J34.3,Sphincteroplasty of pancreatic duct using duodenal approach NEC,J343
+116823,X45.3,Donation of lobe of lung,X453
+116837,Q08.2,Vaginal hysterectomy and excision of periuterine tissue NEC,Q082
+116850,J08.3,Endoscopic microwave ablation of lesion of liver using laparoscope,J083
+116968,U35.3,Transcranial Doppler ultrasound velocimetry,U353
+116999,A11.4,Cortical mapping,A114
+117202,K12.1,Repair of defect of septum of heart using prosthetic patch NEC,K121
+117309,Q54.6,Infracoccygeal hysteropexy,Q546
+117317,Q54.5,Sacrohysteropexy,Q545
+117429,C10.6,Biopsy of lesion of eyebrow,C106
+117694,C24.3,Destruction of lacrimal gland NEC,C243
+117706,E04.3,Excision of lesion of turbinate of nose NEC,E043
+117718,E17.3,Biopsy of lesion of nasal sinus NEC,E173
+117733,E59.3,Biopsy of lesion of lung NEC,E593
+117746,F04.2,Reconstruction of lip using skin flap,F042
+117756,F29.1,Primary repair of cleft palate,F291
+117839,D12.4,Exploration of mastoid,D124
+117847,H29.4,Subtotal excision of colon and creation of colonic pouch NEC,H294
+117861,H29.2,Subtotal excision of colon and rectum and creation of colonic pouch NEC,H292
+117874,G15.3,Fibreoptic endoscopic dilation of oesophagus NEC,G153
+117947,G05.4,Bypass of oesophagus by interposition of jejunum NEC,G054
+118192,L33.4,Obliteration of aneurysm of cerebral artery NEC,L334
+118251,Q17.4,Endoscopic destruction of lesion of uterus NEC,Q174
+118331,F13.5,Restoration of part of tooth using filling NEC,F135
+118366,K23.1,Excision of lesion of wall of heart NEC,K231
+118378,A08.5,Biopsy of lesion of tissue of cerebellum NEC,A085
+118390,A08.6,Biopsy of lesion of tissue of brain stem NEC,A086
+118402,A08.2,Biopsy of lesion of tissue of temporal lobe of brain NEC,A082
+118414,A08.4,Biopsy of lesion of tissue of occipital lobe of brain NEC,A084
+118426,A08.3,Biopsy of lesion of tissue of parietal lobe of brain NEC,A083
+118443,A48.1,Biopsy of lesion of spinal cord NEC,A481
+118455,A08.1,Biopsy of lesion of tissue of frontal lobe of brain NEC,A081
+118476,E55.4,Open destruction of lesion of lung NEC,E554
+118505,Q28.2,Open ligation of fallopian tube NEC,Q282
+118522,Q28.4,Open clipping of fallopian tube NEC,Q284
+118608,Q09.3,Open excision of lesion of uterus NEC,Q093
+118657,K23.3,Repair of wall of heart NEC,K233
+118692,K12.4,Primary repair of defect of septum of heart NEC,K124
+118704,K12.5,Revision of repair of septum of heart NEC,K125
+118750,K02.6,Revision of transplantation of heart NEC,K026
+118777,R30.3,Instrumental exploration of delivered uterus NEC,R303
+119332,E46.2,Excision of cyst of bronchus,E462
+119420,E57.4,Incision of lung NEC,E574
+119489,J20.8,Other specified repair of gall bladder,J208
+119490,J20.9,Unspecified repair of gall bladder,J209
+119491,J20,Repair of gall bladder,J20
+119876,U19.4,Exercise electrocardiography,U194
+119923,C13.2,Blepharoplasty of upper eyelid,C132
+119944,P22.1,Anterior and posterior colporrhaphy and amputation of cervix uteri,P221
+120244,C22.5,Exploration of eyelid,C225
+120288,E15.4,Excision of lesion of sphenoid sinus,E154
+120428,U34.8,Other specified other diagnostic electrocardiography,U348
+120429,U34.9,Unspecified other diagnostic electrocardiography,U349
+120431,U19,Diagnostic electrocardiography,U19
+120432,U34,Other diagnostic electrocardiography,U34
+120459,E93.3,Body plethysmographic measurement of airways resistance,E933
+120562,A12.4,Creation of ventriculoperitoneal shunt,A124
+120662,K09.4,Repair of persistent ostium primum,K094
+120672,G40.4,Revision of pyloroplasty,G404
+120709,F44.4,Excision of submandibular gland,F444
+121123,C64.2,Excision of lesion of iris,C642
+121308,J58.2,Excision of lesion of pancreas NEC,J582
+121372,M83.2,Exploration of retropubic space,M832
+121387,F34.6,Excision of lingual tonsil,F346
+121486,M36,Enlargement of bladder,M36
+121569,K15.1,Closed enlargement of defect of atrial septum,K151
+121668,K45.5,Anastomosis of thoracic artery to coronary artery NEC,K455
+122086,M39.2,Open removal of foreign body from bladder,M392
+122161,R30.4,Manual exploration of delivered uterus NEC,R304
+122237,G28.3,Partial gastrectomy and anastomosis of stomach to jejunum NEC,G283
+122238,G28.8,Other specified partial excision of stomach,G288
+122239,G28.9,Unspecified partial excision of stomach,G289
+122242,G28,Partial excision of stomach,G28
+122332,G33.1,Bypass of stomach by anastomosis of stomach to jejunum NEC,G331
+122333,G33.3,Conversion to anastomosis of stomach to jejunum NEC,G333
+122336,G33,Other connection of stomach to jejunum,G33
+122376,C69.4,Irrigation of anterior chamber of eye,C694
+122475,Q41.1,Salpingography,Q411
+122489,F36.6,Excision of lesion of tonsil,F366
+122586,H14.4,Appendicocaecostomy,H144
+122635,K63.4,Coronary arteriography using two catheters,K634
+122712,E54.1,Total pneumonectomy,E541
+122907,Q41.4,Insufflation of fallopian tube,Q414
+123090,X03.2,Replantation of nose,X032
+123213,C11.4,Correction of telecanthus,C114
+123288,F10.4,Extraction of multiple teeth NEC,F104
+123335,C33.8,Other specified resection of muscle of eye,C338
+123336,C33.9,Unspecified resection of muscle of eye,C339
+123337,C33,Resection of muscle of eye,C33
+123481,Q03.8,Other specified biopsy of cervix uteri,Q038
+123482,Q03.9,Unspecified biopsy of cervix uteri,Q039
+123483,Q03,Biopsy of cervix uteri,Q03
+123508,Q20.1,Freeing of adhesions of uterus,Q201
+123738,K06.1,Repositioning of transposed great arteries,K061
+123810,E19.8,Other specified excision of pharynx,E198
+123811,E19.9,Unspecified excision of pharynx,E199
+123812,E19,Excision of pharynx,E19
+123853,E04.2,Excision of turbinate of nose NEC,E042
+123905,G69.8,Other specified excision of ileum,G698
+123906,G69.9,Unspecified excision of ileum,G699
+123907,G70.2,Excision of lesion of ileum NEC,G702
+123908,G69,Excision of ileum,G69
+124042,Q03.4,Punch biopsy of cervix uteri,Q034
+124058,C49.3,Radial keratotomy,C493
+124296,F22.8,Other specified excision of tongue,F228
+124297,F22.9,Unspecified excision of tongue,F229
+124298,F22,Excision of tongue,F22
+124346,C55.2,Corneoscleral trephine,C552
+124471,D03.3,Pinnaplasty,D033
+124525,M09.8,Other specified therapeutic endoscopic operations on calculus of kidney,M098
+124526,M09.9,Unspecified therapeutic endoscopic operations on calculus of kidney,M099
+124527,M10.2,Endoscopic pyeloplasty,M102
+124528,M10.8,Other specified other therapeutic endoscopic operations on kidney,M108
+124529,M10.9,Unspecified other therapeutic endoscopic operations on kidney,M109
+124530,M11.3,Diagnostic endoscopic retrograde examination of kidney NEC,M113
+124531,M11.8,Other specified diagnostic endoscopic examination of kidney,M118
+124532,M11.9,Unspecified diagnostic endoscopic examination of kidney,M119
+124533,M09,Therapeutic endoscopic operations on calculus of kidney,M09
+124534,M10,Other therapeutic endoscopic operations on kidney,M10
+124535,M11,Diagnostic endoscopic examination of kidney,M11
+124649,B01.8,Other specified excision of pituitary gland,B018
+124650,B01.9,Unspecified excision of pituitary gland,B019
+124652,B01,Excision of pituitary gland,B01
+124757,H34.5,Open destruction of lesion of rectum NEC,H345
+124804,G23.4,Repair of diaphragmatic hernia using abdominal approach NEC,G234
+124850,K11.8,Other specified repair of defect of interventricular septum,K118
+124851,K11.9,Unspecified repair of defect of interventricular septum,K119
+124927,K25.4,Replacement of mitral valve NEC,K254
+125072,M37.2,Repair of vesicocolic fistula,M372
+125364,E50.5,Endoscopic removal of foreign body from lower respiratory tract using rigid bronchoscope,E505
+125398,K63.3,Angiocardiography of left side of heart NEC,K633
+125452,A49.3,Closure of spinal meningocele,A493
+125495,E17.2,Excision of lesion of nasal sinus NEC,E172
+125534,F38.1,Excision of lesion of floor of mouth,F381
+125563,M37.1,Cystourethroplasty,M371
+125692,J03.2,Destruction of lesion of liver NEC,J032
+125693,J03.8,Other specified extirpation of lesion of liver,J038
+125694,J03.9,Unspecified extirpation of lesion of liver,J039
+125695,J12.5,Percutaneous thermal ablation of lesion of liver NEC,J125
+125696,J03,Extirpation of lesion of liver,J03
+125718,J05.8,Other specified incision of liver,J058
+125719,J05.9,Unspecified incision of liver,J059
+125720,J05,Incision of liver,J05
+125837,V05.5,Graft of bone to cranium,V055
+126004,Q03.3,Cone biopsy of cervix uteri NEC,Q033
+126121,A84.1,Electroencephalography NEC,A841
+126294,M49.6,Micturating cystography,M496
+126295,U12.1,Voiding cystourethrogram,U121
+126340,A43,Other extirpation of lesion of meninges of brain,A43
+126518,F09.4,Surgical removal of tooth NEC,F094
+126519,F09.8,Other specified surgical removal of tooth,F098
+126520,F09.9,Unspecified surgical removal of tooth,F099
+126521,F09,Surgical removal of tooth,F09
+126593,C26.1,Excision of lacrimal sac,C261
+126747,U37.2,Computed tomography of kidneys,U372
+126985,Q31.8,Other specified incision of fallopian tube,Q318
+126986,Q31.9,Unspecified incision of fallopian tube,Q319
+126987,Q31,Incision of fallopian tube,Q31
+127041,U06.4,Plain x-ray of skull,U064
+127063,E03.5,Incision of septum of nose,E035
+127254,V07.8,Other specified excision of bone of face,V078
+127255,V07.9,Unspecified excision of bone of face,V079
+127256,V07,Excision of bone of face,V07
+127341,E47.1,Open biopsy of lesion of bronchus NEC,E471
+127490,D10.6,Revision of mastoidectomy,D106
+127610,U15.2,Lung ventilation scanning NEC,U152
+127773,U17.1,Meckel's scan,U171
+128331,F09.5,Surgical removal of retained root of tooth,F095
+128363,C10.3,Hair bearing graft to eyebrow,C103
+128511,D12.1,Obliteration of mastoid,D121
+128615,C11.6,Canthotomy,C116
+128995,J62.8,Other specified incision of pancreas,J628
+128996,J62.9,Unspecified incision of pancreas,J629
+128997,J62,Incision of pancreas,J62
+129140,J59.2,Anastomosis of pancreatic duct to duodenum,J592
+129195,C86.2,Repair of globe,C862
+129435,C39.2,Cauterisation of lesion of conjunctiva,C392
+129558,H14.3,Closure of caecostomy,H143
+129694,C53.2,Excision of lesion of sclera NEC,C532
+129695,C53.8,Other specified extirpation of lesion of sclera,C538
+129696,C53.9,Unspecified extirpation of lesion of sclera,C539
+130248,J12.7,Percutaneous microwave ablation of lesion of liver,J127
+130265,K64.1,Percutaneous radiofrequency ablation of epicardium,K641
+130493,Q35.4,Endoscopic bilateral placement of intrafallopian implants,Q354
+130611,Q47.1,Transposition of ovary,Q471
+130647,G70.1,Excision of Meckel's diverticulum,G701
+130699,J02.1,Right hemihepatectomy NEC,J021
+130779,Q45.2,Fixation of ovary NEC,Q452
+130906,J43.2,Endoscopic retrograde cholangiopancreatography and biopsy of lesion of biliary or pancreatic system NEC,J432
+131132,H19.2,Fixation of colon,H192
+131397,M03.2,Division of isthmus of horseshoe kidney,M032
+131427,C47.1,Suture of cornea,C471
+131474,J54.8,Other specified transplantation of pancreas,J548
+131475,J54.9,Unspecified transplantation of pancreas,J549
+131477,J54,Transplantation of pancreas,J54
+131577,R21.4,Mid forceps cephalic delivery NEC,R214
+131657,Q25.8,Other specified partial excision of fallopian tube,Q258
+131658,Q25.9,Unspecified partial excision of fallopian tube,Q259
+131659,Q25,Partial excision of fallopian tube,Q25
+131671,A47.3,Percutaneous chordotomy of spinal cord,A473
+131795,C49.8,Other specified incision of cornea,C498
+131796,C49.9,Unspecified incision of cornea,C499
+131797,C49,Incision of cornea,C49
+131855,V13.1,Reconstruction of bone of face,V131
+131905,M34.8,Other specified total excision of bladder,M348
+131906,M34.9,Unspecified total excision of bladder,M349
+131907,M34,Total excision of bladder,M34
+132027,E03.4,Closure of perforation of septum of nose NEC,E034
+132041,D10.1,Radical mastoidectomy NEC,D101
+132079,C73.1,Membranectomy of lens,C731
+132080,C77.1,Capsulectomy,C771
+132105,M37.5,Repair of fistula of bladder NEC,M375
+132191,C41.1,Peritomy,C411
+132287,J02.2,Left hemihepatectomy NEC,J022
+132509,C13.3,Blepharoplasty of lower eyelid,C133
+132524,K32.1,Closed mitral valvotomy,K321
+132534,V14.1,Hemimandibulectomy,V141
+132619,C05.3,Enlargement of cavity of orbit,C053
+132670,G38.4,Open removal of foreign body from stomach,G384
+132840,C71.3,Aspiration of lens,C713
+132897,P25.3,Repair of rectovaginal fistula,P253
+133212,F09.3,Surgical removal of wisdom tooth NEC,F093
+133239,F23.2,Destruction of lesion of tongue,F232
+133266,J20.2,Closure of cholecystotomy,J202
+133301,F30.7,Suture of palate,F307
+133466,M52.1,Suprapubic sling operation,M521
+133577,U15.1,Lung perfusion scanning NEC,U151
+133642,A84.5,Electroretinography NEC,A845
+133771,E27.5,Dilation of pharynx,E275
+133822,D08.5,Irrigation of external auditory canal NEC,D085
+133879,C10.4,Suture of eyebrow,C104
+133900,E29.1,Total laryngectomy,E291
+133953,U06.2,Dacryoscintigraphy,U062
+133995,A39,Repair of dura,A39
+134222,X03.1,Replantation of ear,X031
+134395,J70.1,Partial splenectomy,J701
+134545,M36.2,Ileocystoplasty,M362
+134662,A01.3,Partial lobectomy of brain,A013
+134905,E42.5,Closure of tracheostomy,E425
+134979,V03.5,Trephine of cranium,V035
+135040,G13.2,Open removal of foreign body from oesophagus,G132
+135188,Q45.3,Suture of ovary,Q453
+135208,K15.2,Closed atrial septostomy,K152
+135356,C27.3,Irrigation of nasolacrimal duct,C273
+135518,F22.2,Partial glossectomy,F222
+135601,C35.1,Transposition of muscle of eye NEC,C351
+135637,K35.5,Percutaneous transluminal valvuloplasty,K355
+135783,D17.1,Stapedectomy,D171
+135933,K22.2,Repair of atrium NEC,K222
+136021,T16.8,Other specified other repair of diaphragm,T168
+136022,T16.9,Unspecified other repair of diaphragm,T169
+136023,T16,Other repair of diaphragm,T16
+136185,V37.4,Fusion of atlanto-occipital joint,V374
+136237,V37.7,Fusion of occipitocervical junction NEC,V377
+136255,M04,Open extirpation of lesion of kidney,M04
+136285,C18.8,Other specified correction of ptosis of eyelid,C188
+136286,C18.9,Unspecified correction of ptosis of eyelid,C189
+136288,C18,Correction of ptosis of eyelid,C18
+136301,J14.8,Other specified other puncture of liver,J148
+136302,J14.9,Unspecified other puncture of liver,J149
+136305,J14,Other puncture of liver,J14
+136616,E21.8,Other specified repair of pharynx,E218
+136617,E21.9,Unspecified repair of pharynx,E219
+136618,E21,Repair of pharynx,E21
+136697,S21.2,Hair bearing flap of skin to scalp NEC,S212
+137006,F26.3,Incision of frenulum of tongue,F263
+137051,E01.1,Total excision of nose,E011
+137233,G72.5,Anastomosis of ileum to anus and creation of pouch HFQ,G725
+137616,V05.2,Biopsy of lesion of cranium,V052
+137890,G33.5,Closure of connection of stomach to jejunum NEC,G335
+137896,C85.2,Retinopexy using diathermy,C852
+138043,C18.5,Tarsomullerectomy,C185
+138173,M01.8,Other specified transplantation of kidney,M018
+138174,M01.9,Unspecified transplantation of kidney,M019
+138198,M01,Transplantation of kidney,M01
+138229,V05.3,Elevation of depressed fracture of cranium,V053
+138239,C16.1,Central tarsorrhaphy,C161
+138401,K49.4,Percutaneous transluminal cutting balloon angioplasty of coronary artery,K494
+138417,K57.5,Percutaneous transluminal ablation of atrial wall NEC,K575
+138418,K62.2,Percutaneous transluminal ablation of atrial wall for atrial flutter,K622
+138429,K58.6,Percutaneous transluminal three dimensional electroanatomic mapping of conducting system of heart,K586
+138441,V05.7,Hemicraniotomy,V057
+138893,F42.1,Biopsy of lesion of mouth NEC,F421
+139861,F55.1,Dilation of parotid duct,F551
+140589,C66.3,Cryotherapy to ciliary body,C663
+140968,M01.4,Allotransplantation of kidney from cadaver heart beating,M014
+140981,M01.5,Allotransplantation of kidney from cadaver heart non-beating,M015
+141252,J02.8,Other specified partial excision of liver,J028
+141253,J02.9,Unspecified partial excision of liver,J029
+141254,J02,Partial excision of liver,J02
+141783,K47.8,Other specified repair of coronary artery,K478
+141784,K47.9,Unspecified repair of coronary artery,K479
+141785,K44,Other replacement of coronary artery,K44
+141786,K47,Repair of coronary artery,K47
+141887,C15.1,Correction of ectropion NEC,C151
+142099,M49.1,Closure of cystostomy,M491
+142535,F44.8,Other specified excision of salivary gland,F448
+142536,F44.9,Unspecified excision of salivary gland,F449
+142537,F45.4,Excision of lesion of salivary gland NEC,F454
+142538,F44,Excision of salivary gland,F44
+142792,J30.3,Anastomosis of common bile duct to jejunum NEC,J303
+143091,F05.8,Other specified other repair of lip,F058
+143092,F05.9,Unspecified other repair of lip,F059
+143093,F05,Other repair of lip,F05
+143408,J03.1,Excision of lesion of liver NEC,J031
+143476,E47.3,Repair of bronchus NEC,E473
+143941,C24.1,Excision of lacrimal gland,C241
+144093,G23.2,Repair of diaphragmatic hernia using thoracic approach NEC,G232
+144396,C57.2,Repair of sclera,C572
+144423,C41.8,Other specified incision of conjunctiva,C418
+144424,C41.9,Unspecified incision of conjunctiva,C419
+144425,C41,Incision of conjunctiva,C41
+144521,E29.6,Laryngectomy NEC,E296
+144522,E29.8,Other specified excision of larynx,E298
+144523,E29.9,Unspecified excision of larynx,E299
+144525,E29,Excision of larynx,E29
+144840,P17.1,Total colpectomy,P171
+144937,D12.2,Atticotomy,D122
+145087,C02.1,Excision of lesion of orbit,C021
+145641,C64.3,Destruction of lesion of iris,C643
+145714,K40.4,Saphenous vein graft replacement of four or more coronary arteries,K404
+145727,K40.1,Saphenous vein graft replacement of one coronary artery,K401
+145739,K40.3,Saphenous vein graft replacement of three coronary arteries,K403
+145751,K40.2,Saphenous vein graft replacement of two coronary arteries,K402
+145899,F10.2,Upper dental clearance,F102
+145943,G49.8,Other specified excision of duodenum,G498
+145944,G49.9,Unspecified excision of duodenum,G499
+145945,G49,Excision of duodenum,G49
+146012,E13.5,Closure of fistula between maxillary antrum and mouth,E135
+146089,H44.8,Other specified manipulation of rectum,H448
+146090,H44.9,Unspecified manipulation of rectum,H449
+146091,H44,Manipulation of rectum,H44
+146196,H36.8,Other specified other abdominal operations for prolapse of rectum,H368
+146197,H36.9,Unspecified other abdominal operations for prolapse of rectum,H369
+146385,F50.1,Transposition of parotid duct,F501
+146486,M37.8,Other specified other repair of bladder,M378
+146487,M37.9,Unspecified other repair of bladder,M379
+146489,M37,Other repair of bladder,M37
+146526,C73,Incision of capsule of lens,C73
+146646,K41.2,Autograft replacement of two coronary arteries NEC,K412
+146734,Q02.3,Cauterisation of lesion of cervix uteri,Q023
+146804,C11.5,Graft of skin to canthus,C115
+146964,C06.8,Other specified incision of orbit,C068
+146965,C06.9,Unspecified incision of orbit,C069
+146966,C06,Incision of orbit,C06
+147006,C74.8,Other specified other extraction of lens,C748
+147007,C74.9,Unspecified other extraction of lens,C749
+147008,C74,Other extraction of lens,C74
+147078,D02.2,Destruction of lesion of external ear,D022
+147203,C13.1,Blepharoplasty of both eyelids,C131
+147250,C45.2,Excision of lesion of cornea NEC,C452
+147251,C45.8,Other specified extirpation of lesion of cornea,C458
+147252,C45.9,Unspecified extirpation of lesion of cornea,C459
+147378,C26.4,Incision of lacrimal sac,C264
+147608,M35.1,Diverticulectomy of bladder,M351
+147715,M38,Open drainage of bladder,M38
+147833,C24.5,Incision of lacrimal gland,C245
+147868,C40.8,Other specified repair of conjunctiva,C408
+147869,C40.9,Unspecified repair of conjunctiva,C409
+147870,C40,Repair of conjunctiva,C40
+147883,C29.1,Repair of canaliculus,C291
+147982,D19.1,Excision of lesion of middle ear,D191
+148264,G02.1,Total oesophagectomy and anastomosis of pharynx to stomach,G021
+148558,J12.3,Selective internal radiotherapy with microspheres to lesion of liver,J123
+148576,F46.8,Other specified incision of salivary gland,F468
+148577,F46.9,Unspecified incision of salivary gland,F469
+148578,F46,Incision of salivary gland,F46
+148807,C13.4,Blepharoplasty NEC,C134
+149242,D08.4,Incision of external auditory canal,D084
+149245,B25.4,Exploration of adrenal gland,B254
+149546,Q22.3,Bilateral oophorectomy NEC,Q223
+149883,M05.1,Open pyeloplasty,M051
+150032,G12.1,Fibreoptic endoscopic mucosal resection of lesion of oesophagus,G121
+150048,H20.7,Fibreoptic endoscopic mucosal resection of lesion of colon,H207
+150061,H23.7,Endoscopic mucosal resection of lesion of lower bowel using fibreoptic sigmoidoscope,H237
+150283,H37.1,Endoscopic mucosal resection of lesion of sigmoid colon using rigid sigmoidoscope,H371
+150716,S01.2,Facelift NEC,S012
+150776,A45.1,Stereotactic chordotomy of spinal cord,A451
+150938,P25.1,Repair of vesicovaginal fistula,P251
+151013,H20.6,Fibreoptic endoscopic resection of lesion of colon NEC,H206
+151079,Q02.4,Cryotherapy to lesion of cervix uteri,Q024
+151301,S33.1,Hair bearing punch graft to scalp for male pattern baldness,S331
+151312,S33.2,Hair bearing strip graft to scalp for male pattern baldness,S332
+151331,E27.3,Incision of pharynx NEC,E273
+151447,S35.1,Meshed split autograft of skin to head or neck,S351
+152048,R18.2,Lower uterine segment caesarean delivery NEC,R182
+152237,F08.9,Unspecified implantation of tooth,F089
+152238,F08,Implantation of tooth,F08
+152241,F08.8,Other specified implantation of tooth,F088
+152270,C81,Photocoagulation of retina for detachment,C81
+152602,V07.3,Excision of lesion of bone of face,V073
+152755,C25.2,Conjunctivodacryocystorhinostomy,C252
+152841,E47.2,Closure of fistula of bronchus,E472
+153129,H02.2,Planned delayed appendicectomy NEC,H022
+153130,H02.3,Prophylactic appendicectomy NEC,H023
+153131,H02.8,Other specified other excision of appendix,H028
+153132,H02.9,Unspecified other excision of appendix,H029
+153133,H02,Other excision of appendix,H02
+153144,D26.2,Membranous labyrinthectomy,D262
+153180,C12.6,Wedge excision of lesion of eyelid,C126
+153214,K63.2,Angiocardiography of right side of heart NEC,K632
+153293,J19.3,Anastomosis of gall bladder to jejunum,J193
+153382,T17.1,Excision of lesion of diaphragm,T171
+153472,E29.3,Partial vertical laryngectomy,E293
+153473,E29.4,Partial laryngectomy NEC,E294
+153631,A06.8,Other specified other excision of lesion of tissue of brain,A068
+153632,A06.9,Unspecified other excision of lesion of tissue of brain,A069
+153848,E44.2,Reconstruction of carina,E442
+154193,M03.8,Other specified partial excision of kidney,M038
+154194,M03.9,Unspecified partial excision of kidney,M039
+154195,M03,Partial excision of kidney,M03
+154339,G72.4,Anastomosis of ileum to rectum,G724
+154354,B25.1,Excision of lesion of adrenal gland,B251
+154434,F44.3,Excision of parotid gland NEC,F443
+154470,T16.2,Plication of diaphragm,T162
+154616,D26.3,Osseous labyrinthectomy,D263
+154725,F48.3,Repair of salivary gland NEC,F483
+154920,E13.7,Neurectomy of vidian nerve NEC,E137
+155021,H09.8,Other specified excision of left hemicolon,H098
+155022,H09.9,Unspecified excision of left hemicolon,H099
+155025,H09,Excision of left hemicolon,H09
+155054,C40.5,Suture of conjunctiva,C405
+155146,H02.4,Incidental appendicectomy,H024
+155170,C61.2,Trabeculotomy,C612
+155203,A12.2,Creation of ventriculovascular shunt,A122
+155283,V03.4,Reopening of cranium NEC,V034
+155438,E28.1,Cricopharyngeal myotomy,E281
+155573,Q23.5,Unilateral oophorectomy NEC,Q235
+155574,Q23.6,Oophorectomy of remaining solitary ovary NEC,Q236
+155575,Q24.3,Oophorectomy NEC,Q243
+155599,K32.4,Closed pulmonary valvotomy,K324
+155635,G35.2,Closure of ulcer of stomach NEC,G352
+155688,A22.3,Isotopic cisternography,A223
+155711,F32.5,Uvulopalatopharyngoplasty,F325
+155806,M21.2,Anastomosis of ureter to bladder using flap of bladder,M212
+155826,G53.5,Incision of duodenum NEC,G535
+155855,C06.3,Decompression of orbit,C063
+155897,B02.8,Other specified destruction of pituitary gland,B028
+155898,B02.9,Unspecified destruction of pituitary gland,B029
+155899,B02,Destruction of pituitary gland,B02
+155941,C46.2,Lamellar graft to cornea NEC,C462
+156060,G49.1,Gastroduodenectomy,G491
+156089,E29.2,Partial horizontal laryngectomy,E292
+156328,R18.1,Upper uterine segment caesarean delivery NEC,R181
+156413,G07.1,Closure of tracheo-oesophageal fistula,G071
+156597,H10.5,Sigmoid colectomy and exteriorisation of bowel NEC,H105
+156598,H10.8,Other specified excision of sigmoid colon,H108
+156599,H10.9,Unspecified excision of sigmoid colon,H109
+156603,H10,Excision of sigmoid colon,H10
+156618,D12.7,Atticoantrostomy,D127
+156642,D01.3,Excision of preauricular abnormality,D013
+156772,K49.2,Percutaneous transluminal balloon angioplasty of multiple coronary arteries,K492
+156897,C81.2,Laser photocoagulation of retina for detachment,C812
+156982,F38.2,Excision of lesion of mouth NEC,F382
+156983,F38,Extirpation of lesion of other part of mouth,F38
+157188,C73.4,Capsulotomy of lens NEC,C734
+157189,C73.8,Other specified incision of capsule of lens,C738
+157190,C73.9,Unspecified incision of capsule of lens,C739
+157255,K29.5,Repair of valve of heart NEC,K295
+157469,E67.1,Endoscopic thermal bronchoplasty,E671
+157546,J14.1,Biopsy of liver NEC,J141
+157802,D02.1,Excision of lesion of external ear,D021
+158202,C79.2,Vitrectomy using pars plana approach,C792
+158416,E46.3,Excision of lesion of bronchus NEC,E463
+158478,K36.8,Other specified excision of valve of heart,K368
+158479,K36.9,Unspecified excision of valve of heart,K369
+158480,K36,Excision of valve of heart,K36
+158618,H12.2,Excision of lesion of colon NEC,H122
+158797,V21.1,Meniscectomy of temporomandibular joint,V211
+158840,Q05.2,Dilation of cervix uteri,Q052
+158921,G28.5,Sleeve gastrectomy NEC,G285
+159021,H33.8,Other specified excision of rectum,H338
+159022,H33.9,Unspecified excision of rectum,H339
+159025,H33,Excision of rectum,H33
+159182,C62.1,Iridosclerotomy,C621
+159233,E53.8,Other specified transplantation of lung,E538
+159234,E53.9,Unspecified transplantation of lung,E539
+159239,E53,Transplantation of lung,E53
+159271,K28.4,Replacement of pulmonary valve NEC,K284
+159341,C67.1,Separation of ciliary body,C671
+159506,V19.1,Reconstruction of mandible,V191
+159801,G50.1,Excision of lesion of duodenum,G501
+159820,C11.3,Correction of epicanthus,C113
+160151,G65.1,Diagnostic endoscopic examination of jejunum and biopsy of lesion of jejunum,G651
+160189,G80.1,Diagnostic endoscopic examination of ileum and biopsy of lesion of ileum,G801
+160299,F40.4,Suture of mouth NEC,F404
+160413,H33.6,Anterior resection of rectum and exteriorisation of bowel,H336
+160551,K11.1,Repair of defect of interventricular septum using prosthetic patch,K111
+160620,R21.2,High forceps cephalic delivery NEC,R212
+160693,E57.1,Repair of lung,E571
+160789,J18.5,Partial cholecystectomy NEC,J185
+160847,D01.2,Partial excision of external ear,D012
+160900,J59.8,Other specified connection of pancreatic duct,J598
+160901,J59.9,Unspecified connection of pancreatic duct,J599
+160902,J59,Connection of pancreatic duct,J59
+160938,F06.3,Shave of lip,F063
+160962,E14.6,Trephine of frontal sinus,E146
+160991,C27.5,Probing of nasolacrimal duct NEC,C275
+161261,C65.3,Revision of bleb NEC,C653
+161494,E33.1,External arytenoidectomy,E331
+161637,C32.8,Other specified recession of muscle of eye,C328
+161638,C32.9,Unspecified recession of muscle of eye,C329
+161639,C32,Recession of muscle of eye,C32
+161684,T12.3,Aspiration of pleural cavity,T123
+161794,H16.3,Colotomy,H163
+161795,H16.8,Other specified incision of colon,H168
+161796,H16.9,Unspecified incision of colon,H169
+161797,H16,Incision of colon,H16
+161813,E04.7,Surgical outfracture of turbinate of nose,E047
+161856,D17.2,Revision of stapedectomy,D172
+162027,G30.1,Gastroplasty NEC,G301
+162084,J55.2,Total pancreatectomy NEC,J552
+162085,J55.8,Other specified total excision of pancreas,J558
+162086,J55.9,Unspecified total excision of pancreas,J559
+162087,J55,Total excision of pancreas,J55
+162365,H12.3,Destruction of lesion of colon NEC,H123
+162380,H15.1,Loop colostomy,H151

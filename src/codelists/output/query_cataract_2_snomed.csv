@@ -1,52 +1,22 @@
 conceptId,idAndFsnTerm
-38631000087106,38631000087106 | Extraction of cataract and implantation of intraocular lens in right eye (procedure) |
-38621000087109,38621000087109 | Extraction of cataract and implantation of intraocular lens in left eye (procedure) |
-1236928007,1236928007 | Surgery of cataract of bilateral eyes (procedure) |
-1231300009,1231300009 | Extraction of cataract of left eye (procedure) |
-1231299001,1231299001 | Extraction of cataract of right eye (procedure) |
-1231296008,1231296008 | Extraction of cataract of bilateral eyes (procedure) |
-860934001,860934001 | Surgery of cataract of right eye (procedure) |
-860930005,860930005 | Surgery of cataract of left eye (procedure) |
 447304001,447304001 | One stage extracapsular extraction of lens and insertion of prosthetic intraocular lens (procedure) |
 446862000,446862000 | One stage intracapsular extraction of lens with insertion of prosthetic intraocular lens (procedure) |
 446590009,446590009 | One stage intracapsular extraction of lens by inferior temporal route and insertion of prosthetic intraocular lens (procedure) |
-446548003,446548003 | Extraction of cataract and trabeculectomy (procedure) |
-446508006,446508006 | Insertion of capsular tension ring and artificial iris (procedure) |
 446490007,446490007 | One stage extracapsular extraction of lens and insertion of prosthetic intraocular lens by inferior temporal route (procedure) |
-427288008,427288008 | Insertion of prosthetic replacement for lens with suture fixation (procedure) |
-424945000,424945000 | Torsional phacoemulsification (procedure) |
 422103004,422103004 | Can opener anterior capsulotomy (procedure) |
-420526005,420526005 | Coaxial phacoemulsfication (procedure) |
-420260004,420260004 | Bimanual phacoemulsification (procedure) |
-419767009,419767009 | Bimanual microincisional phacoemulsification of cataract with intraocular lens implantation (procedure) |
-418430006,418430006 | Bimanual phacoemulsification of cataract with intraocular lens implantation (procedure) |
 418121005,418121005 | Bimanual phacoemulsification of lens with intraocular lens implantation (procedure) |
-417493007,417493007 | Small incision manual extracapsular cataract extraction (procedure) |
-416861004,416861004 | Trypan blue staining of lens capsule (procedure) |
-416217004,416217004 | Indocyanine green staining of lens capsule (procedure) |
-415089008,415089008 | Phacoemulsification of cataract with intraocular lens implantation (procedure) |
-414507007,414507007 | Insertion of capsular tension ring (procedure) |
 410702009,410702009 | Pars plana lensectomy of cataract (procedure) |
 404629006,404629006 | Yttrium-aluminum-garnet laser anterior capsulotomy (procedure) |
-404628003,404628003 | Intracapsular cataract extraction (procedure) |
 404627008,404627008 | Posterior capsulorrhexis (procedure) |
 404626004,404626004 | Anterior capsulorrhexis (procedure) |
 401306006,401306006 | Phacoemulsification of lens and insertion of prosthetic replacement (procedure) |
 397544007,397544007 | Complicated cataract surgery (procedure) |
-386612009,386612009 | Operation on lens (procedure) |
-386611002,386611002 | Procedure on lens (procedure) |
-385468004,385468004 | Cataract extraction and implantation of intraocular lens (procedure) |
-373418002,373418002 | Implantation of posterior chamber intraocular lens in capsular bag (procedure) |
-361191005,361191005 | Extraction of cataract by ultrasonic phacofragmentation (procedure) |
 360411008,360411008 | Capsulotomy of lens with removal of foreign body (procedure) |
 360405005,360405005 | Removal of foreign body of lens by incision (procedure) |
 336651000,336651000 | Extraction of primary membranous cataract by mechanical fragmentation (procedure) |
 335636001,335636001 | Extraction of primary membranous cataract by phacofragmentation (procedure) |
-313999004,313999004 | Small incision phacoemulsification of cataract and insertion of intraocular lens (procedure) |
 312714009,312714009 | Relocation of intraocular lens from vitreous cavity (procedure) |
 309556000,309556000 | Yttrium-aluminum-garnet laser posterior capsulotomy (procedure) |
-308695001,308695001 | Intracapsular cataract extraction and insertion of intraocular lens (procedure) |
-308694002,308694002 | Extracapsular cataract extraction and insertion of intraocular lens (procedure) |
 265295001,265295001 | Simple linear extraction of lens (procedure) |
 231752003,231752003 | Repositioning of intraocular lens (procedure) |
 231751005,231751005 | Exchange of intraocular lens (procedure) |
@@ -54,12 +24,7 @@ conceptId,idAndFsnTerm
 231749006,231749006 | Capsulorrhexis of lens capsule (procedure) |
 231748003,231748003 | Laser capsulotomy of lens capsule (procedure) |
 231747008,231747008 | Surgical capsulotomy of lens capsule (procedure) |
-231746004,231746004 | Operation on lens capsule (procedure) |
-231745000,231745000 | Vectis extraction of lens (procedure) |
-231744001,"231744001 | Cataract extraction, insertion of intraocular lens and trabeculectomy (procedure) |"
-231742002,231742002 | Combined operation with cataract extraction (procedure) |
 172549004,172549004 | Reposition of lens of eye (procedure) |
-172548007,172548007 | Surgical removal of foreign body from lens (procedure) |
 172547002,172547002 | Biopsy of lesion of lens (procedure) |
 172542008,172542008 | Revision of intraocular lens (procedure) |
 172538005,172538005 | Mechanical lensectomy (procedure) |
@@ -71,57 +36,33 @@ conceptId,idAndFsnTerm
 172523009,172523009 | Intracapsular extraction of lens (procedure) |
 120122001,120122001 | Lens reconstruction (procedure) |
 120121008,120121008 | Lens closure (procedure) |
-112964009,112964009 | Extraction of cataract by rotoextraction with aspiration (procedure) |
-112963003,112963003 | Aspiration of cataract (procedure) |
-110473004,110473004 | Cataract surgery (procedure) |
-108152001,108152001 | Lens incision (procedure) |
 89978003,89978003 | Intracapsular extraction of lens with iridectomy for dislocated lens (procedure) |
-89153001,89153001 | Extracapsular extraction of cataract by rotoextraction with aspiration by posterior route (procedure) |
-88282000,88282000 | Extracapsular extraction of cataract by mechanical fragmentation with aspiration (procedure) |
-88234006,88234006 | Removal of implant of lens (procedure) |
 88096002,88096002 | Capsulectomy with extraction of lens (procedure) |
 85785001,85785001 | Capsulotomy of lens (procedure) |
-85622008,85622008 | Cryoextraction of cataract by intracapsular approach (procedure) |
-84149000,84149000 | Aspiration of cataract by phacoemulsification (procedure) |
-84016007,84016007 | Removal of foreign body from lens (procedure) |
 83868006,83868006 | Iridocapsulectomy (procedure) |
-82155009,82155009 | Extracapsular extraction of cataract by emulsification with aspiration (procedure) |
-79611007,79611007 | Extracapsular extraction of cataract by curette evacuation (procedure) |
 79259004,79259004 | Extraction of secondary membrane by needling (procedure) |
 78191003,78191003 | Capsulotomy of lens with removal of foreign body by magnet extraction (procedure) |
-75814005,75814005 | Erysiphake extraction of cataract by inferior temporal route (procedure) |
 75227000,75227000 | Excision and prosthetic replacement of lens (procedure) |
 75170007,75170007 | Extraction of lens of eye (procedure) |
-74490003,74490003 | Mechanical fragmentation of primary membranous cataract (procedure) |
 74184007,"74184007 | Incisional discission of lens capsule, initial (procedure) |"
 70107009,70107009 | Repair of ocular lens (procedure) |
-69360005,69360005 | Extracapsular extraction of cataract by mechanical fragmentation with aspiration by posterior route (procedure) |
 67991000,67991000 | Extracapsular extraction of lens by linear extraction technique (procedure) |
-67760003,67760003 | Extracapsular extraction of cataract by rotoextraction with aspiration (procedure) |
 66542005,66542005 | Zonulolysis with lens extraction (procedure) |
 66359001,66359001 | Intracapsular extraction of lens by inferior temporal route (procedure) |
 66226002,66226002 | Extraction of after cataract with capsulotomy (procedure) |
-65812008,65812008 | Removal of secondary membranous cataract with iridectomy (procedure) |
 64854001,64854001 | Aspiration of lens (procedure) |
 64835001,64835001 | Extraction of after cataract with iridocapsulectomy (procedure) |
 63356004,63356004 | Capsulectomy of lens (procedure) |
-58689006,58689006 | Magnet extraction of foreign body from lens (procedure) |
-54885007,54885007 | Extraction of cataract (procedure) |
-54305003,54305003 | Lens couching procedure (procedure) |
-54211003,54211003 | Nonmagnetic extraction of foreign body from lens without extraction of lens (procedure) |
 51839008,51839008 | Extraction of primary membranous cataract by needling (procedure) |
 50538003,"50538003 | Discission of membranous cataract, primary (procedure) |"
 46562009,46562009 | Incisional discission of secondary membranous cataract and anterior hyaloid (procedure) |
-46426006,46426006 | Cryoextraction of cataract by inferior temporal route (procedure) |
 46309001,46309001 | Extraction of primary membranous cataract by excision (procedure) |
-45919008,45919008 | Excision of secondary membrane (procedure) |
 44819003,44819003 | Destructive procedure of lens (procedure) |
 44269004,44269004 | Curette evacuation of lens (procedure) |
 40163002,40163002 | Extraction of secondary membrane with capsulectomy (procedure) |
 39243005,39243005 | Mechanical fragmentation of cataract with extraction by posterior route (procedure) |
 35717002,35717002 | Discission of congenital cataract (procedure) |
 33481008,33481008 | Mechanical fragmentation of secondary membrane (procedure) |
-31705006,31705006 | Extraction of cataract by rotoextraction with aspiration by posterior route (procedure) |
 30104007,30104007 | Needling of lens capsule (procedure) |
 22127001,22127001 | Extraction of secondary membrane by mechanical fragmentation (procedure) |
 19740002,19740002 | Extracapsular extraction of lens by inferior temporal route (procedure) |
@@ -130,9 +71,6 @@ conceptId,idAndFsnTerm
 18137003,18137003 | Extracapsular extraction of lens by aspiration and irrigation technique (procedure) |
 13793006,13793006 | Extracapsular extraction of lens (procedure) |
 12163000,12163000 | Needling of secondary cataract (procedure) |
-10178000,10178000 | Extracapsular extraction of cataract by inferior temporal route (procedure) |
-9812004,9812004 | Injection of lens (procedure) |
 9137006,"9137006 | Discission of membranous cataract, secondary (procedure) |"
-5130002,5130002 | Extraction of primary membranous cataract by discission (procedure) |
 4877004,4877004 | Extracapsular extraction of lens with iridectomy (procedure) |
 3700004,3700004 | Erysiphake extraction of cataract by intracapsular approach (procedure) |

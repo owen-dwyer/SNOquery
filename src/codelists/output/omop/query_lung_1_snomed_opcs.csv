@@ -28,33 +28,32 @@
 1121,L10.1,Repair of pulmonary artery using prosthesis,L101
 1131,L12.5,Open embolisation of pulmonary artery,L125
 1141,L13.2,Percutaneous transluminal embolisation of pulmonary artery,L132
-1160,T07.1,Decortication of pleura,T071
-1428,E47.8,Other specified other open operations on bronchus,E478
-1429,E47.9,Unspecified other open operations on bronchus,E479
-1724,E53.2,Single lung transplant,E532
-2377,E54.5,Partial lobectomy of lung NEC,E545
-2458,E52.1,Irrigation of bronchus NEC,E521
-2605,L12.6,Pulmonary artery ligation,L126
-2655,L10.4,Repair of pulmonary arterial sling,L104
-2669,E59.5,Percutaneous radiofrequency ablation of lesion of lung,E595
-2680,L01.3,Repair of anomalous pulmonary artery origin from ascending aorta,L013
-2681,L10.3,Repair of anomalous pulmonary artery NEC,L103
-2726,E54.6,Reduction of lung volume,E546
-3005,E46.1,Sleeve resection of bronchus and anastomosis HFQ,E461
-3040,X45.3,Donation of lobe of lung,X453
-3058,E59.3,Biopsy of lesion of lung NEC,E593
-3081,E55.4,Open destruction of lesion of lung NEC,E554
-3107,E46.2,Excision of cyst of bronchus,E462
-3122,E57.4,Incision of lung NEC,E574
-3208,E54.1,Total pneumonectomy,E541
-3243,E47.1,Open biopsy of lesion of bronchus NEC,E471
-3279,U15.2,Lung ventilation scanning NEC,U152
-3461,E47.3,Repair of bronchus NEC,E473
-3693,E47.2,Closure of fistula of bronchus,E472
-3747,L13.3,Arteriography of pulmonary artery,L133
-3750,E67.1,Endoscopic thermal bronchoplasty,E671
-3801,E46.3,Excision of lesion of bronchus NEC,E463
-3860,E53.8,Other specified transplantation of lung,E538
-3861,E53.9,Unspecified transplantation of lung,E539
-3866,E53,Transplantation of lung,E53
-3951,E57.1,Repair of lung,E571
+1395,E47.8,Other specified other open operations on bronchus,E478
+1396,E47.9,Unspecified other open operations on bronchus,E479
+1691,E53.2,Single lung transplant,E532
+2344,E54.5,Partial lobectomy of lung NEC,E545
+2425,E52.1,Irrigation of bronchus NEC,E521
+2572,L12.6,Pulmonary artery ligation,L126
+2622,L10.4,Repair of pulmonary arterial sling,L104
+2636,E59.5,Percutaneous radiofrequency ablation of lesion of lung,E595
+2647,L01.3,Repair of anomalous pulmonary artery origin from ascending aorta,L013
+2648,L10.3,Repair of anomalous pulmonary artery NEC,L103
+2693,E54.6,Reduction of lung volume,E546
+2972,E46.1,Sleeve resection of bronchus and anastomosis HFQ,E461
+3000,X45.3,Donation of lobe of lung,X453
+3018,E59.3,Biopsy of lesion of lung NEC,E593
+3041,E55.4,Open destruction of lesion of lung NEC,E554
+3067,E46.2,Excision of cyst of bronchus,E462
+3082,E57.4,Incision of lung NEC,E574
+3138,E54.1,Total pneumonectomy,E541
+3173,E47.1,Open biopsy of lesion of bronchus NEC,E471
+3209,U15.2,Lung ventilation scanning NEC,U152
+3378,E47.3,Repair of bronchus NEC,E473
+3598,E47.2,Closure of fistula of bronchus,E472
+3652,L13.3,Arteriography of pulmonary artery,L133
+3655,E67.1,Endoscopic thermal bronchoplasty,E671
+3706,E46.3,Excision of lesion of bronchus NEC,E463
+3765,E53.8,Other specified transplantation of lung,E538
+3766,E53.9,Unspecified transplantation of lung,E539
+3771,E53,Transplantation of lung,E53
+3856,E57.1,Repair of lung,E571

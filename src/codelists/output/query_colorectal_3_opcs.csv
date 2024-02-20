@@ -268,7 +268,6 @@ snomed,opcs,opcs_term
 169301006,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 82619000,H099,H09.9 Unspecified excision of left hemicolon
 429579007,O163,O16.3 Axilla NEC
-473276009,Y259,Y25.9 Unspecified suture of organ NOC
 235378002,H358,H35.8 Other specified fixation of rectum for prolapse
 235364003,H336,H33.6 Anterior resection of rectum and exteriorisation of bowel
 235378002,H355,H35.5 Anterior fixation of rectum using prosthetic material
@@ -386,7 +385,6 @@ snomed,opcs,opcs_term
 8180007,H205,H20.5 Fibreoptic endoscopic submucosal resection of lesion of colon
 897713009,X385,X38.5 Subcutaneous immunotherapy
 46044009,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
-473276009,Y252,Y25.2 Resuture of organ NOC
 387861003,H425,H42.5 Excision of mucosal prolapse of rectum NEC
 78110003,Y358,Y35.8 Other specified introduction of removable radioactive material into organ NOC
 241336001,Y949,Y94.9 Unspecified radiopharmaceutical imaging
@@ -415,7 +413,6 @@ snomed,opcs,opcs_term
 235343002,H206,H20.6 Fibreoptic endoscopic resection of lesion of colon NEC
 447912004,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 169396008,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
-473276009,H468,H46.8 Other specified other operations on rectum
 235343002,H209,H20.9 Unspecified endoscopic extirpation of lesion of colon
 11331000224100,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 771556003,U215,U21.5 Contrast fluoroscopy NEC
@@ -523,7 +520,6 @@ snomed,opcs,opcs_term
 231585009,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 8180007,H228,H22.8 Other specified diagnostic endoscopic examination of colon
 235342007,H236,H23.6 Endoscopic resection of lesion of lower bowel using fibreoptic sigmoidoscope NEC
-473276009,Y251,Y25.1 Suture of laceration of organ NOC
 241674004,H258,H25.8 Other specified diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope
 174172009,H202,H20.2 Fibreoptic endoscopic cauterisation of lesion of colon
 169298007,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
@@ -1132,7 +1128,6 @@ snomed,opcs,opcs_term
 169302004,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 429774000,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 76164006,H191,H19.1 Open biopsy of lesion of colon
-473276009,Y258,Y25.8 Other specified suture of organ NOC
 287784004,H049,H04.9 Unspecified total excision of colon and rectum
 74023000,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 418181007,Z287,Z28.7 Colon NEC

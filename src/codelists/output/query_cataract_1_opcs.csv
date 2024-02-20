@@ -62,14 +62,12 @@ snomed,opcs,opcs_term
 168665001,Y973,Y97.3 Radiology with post contrast
 359593004,W642,W64.2 Conversion to arthrodesis and external fixation NEC
 4531000087105,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
-67542001,Z734,Z73.4 Phalanx of finger
 172198004,C112,C11.2 Destruction of lesion of canthus
 241653000,Z843,Z84.3 Hip joint
 26792008,Y122,Y12.2 Injection of other destructive substance into lesion of organ NOC
 401226007,V553,V55.3 Greater than two levels of spine
 571921000119104,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 397112000,C452,C45.2 Excision of lesion of cornea NEC
-236883005,R281,R28.1 Curettage of delivered uterus
 88930008,M026,M02.6 Excision of rejected transplanted kidney
 27959000,Z721,Z72.1 Shafts of radius and ulna in combination
 277520001,Z358,Z35.8 Specified cerebral artery NEC
@@ -95,7 +93,6 @@ snomed,opcs,opcs_term
 59902006,W109,W10.9 Unspecified open surgical fracture of bone
 64261005,Z779,Z77.9 Tibia NEC
 70177008,S552,S55.2 Removal of slough from burnt skin NEC
-1870001,V058,V05.8 Other specified other operations on cranium
 444083005,M027,M02.7 Excision of transplanted kidney NEC
 178534000,V552,V55.2 Two levels of spine
 446693001,Y069,Y06.9 Unspecified excision of lesion of organ NOC
@@ -135,7 +132,6 @@ snomed,opcs,opcs_term
 438888005,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 8271002,W383,W38.3 Revision of total prosthetic replacement of hip joint not using cement
 24742009,D208,D20.8 Other specified other operations on middle ear
-47329006,V543,V54.3 Osteotomy of spine NEC
 426945003,U135,U13.5 Plain x-ray of bone
 119725003,Y016,Y01.6 Alloreplacement of organ from cadaver NOC
 448338006,V552,V55.2 Two levels of spine
@@ -269,9 +265,7 @@ snomed,opcs,opcs_term
 311490001,V452,V45.2 Open reduction of fracture of spine NEC
 119913009,J041,J04.1 Removal of lacerated fragment of liver
 230951006,A282,A28.2 Extracranial transection of accessory nerve (xi) NEC
-73257006,Y031,Y03.1 Maintenance of prosthesis in organ NOC
 169003001,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
-276921001,Y536,Y53.6 Approach to organ under video control
 432430009,U216,U21.6 Ultrasound scan NEC
 386682000,W598,W59.8 Other specified fusion of joint of toe
 241464005,Y971,Y97.1 Radiology with pre and post contrast
@@ -312,7 +306,6 @@ snomed,opcs,opcs_term
 451008006,F181,F18.1 Enucleation of dental cyst of jaw
 715728004,Y971,Y97.1 Radiology with pre and post contrast
 120036009,P181,P18.1 Complete colpocleisis
-232977008,K228,K22.8 Other specified other operations on wall of atrium
 107897006,S476,S47.6 Incision of skin NEC
 433235006,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 764677008,J123,J12.3 Selective internal radiotherapy with microspheres to lesion of liver
@@ -561,7 +554,6 @@ snomed,opcs,opcs_term
 79346009,Y531,Y53.1 Approach to organ under radiological control
 431617002,Y941,Y94.1 Dopamine transporter scan
 87083001,W083,W08.3 Excision of excrescence of bone
-176929000,Y959,Y95.9 Unspecified gestational age
 440559004,W264,W26.4 Remanipulation of fracture of bone NEC
 54496005,C118,C11.8 Other specified operations on canthus
 116141005,Q072,Q07.2 Abdominal hysterectomy and excision of periuterine tissue NEC
@@ -643,7 +635,6 @@ snomed,opcs,opcs_term
 448514006,V333,V33.3 Primary anterior excision of lumbar intervertebral disc and interbody fusion of joint of lumbar spine
 429769008,V397,V39.7 Revisional transforaminal interbody fusion of joint of lumbar spine
 90239000,W141,W14.1 Angulation diaphyseal osteotomy and internal fixation HFQ
-88362001,Q311,Q31.1 Removal of products of conception from fallopian tube
 386018007,S688,S68.8 Other specified excision of nail
 173330006,F162,F16.2 Surgical arrest of postoperative bleeding from tooth socket
 432366006,Y931,Y93.1 Gallium-67 imaging scan
@@ -918,7 +909,6 @@ snomed,opcs,opcs_term
 58011003,U217,U21.7 Plain x-ray NEC
 232792004,K382,K38.2 Operations on chordae tendineae
 310471000,Z328,Z32.8 Specified valve of heart NEC
-367411006,Z578,Z57.8 Specified muscle of hip or thigh NEC
 173834007,W066,W06.6 Total excision of coccyx
 426056001,C522,C52.2 Deep sclerectomy without spacer
 119614000,W588,W58.8 Other specified other reconstruction of joint
@@ -1198,7 +1188,6 @@ snomed,opcs,opcs_term
 431426008,Z988,Z98.8 Specified vein of lower limb NEC
 83061004,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 231409004,V559,V55.9 Unspecified levels of spine
-427560001,O068,O06.8 Other specified hybrid prosthetic replacement of shoulder joint using cemented humeral component
 37983004,A244,A24.4 Primary microsurgical graft to cranial nerve NEC
 310558000,C841,C84.1 Epiretinal dissection
 231002002,S242,S24.2 Local myocutaneous subcutaneous pedicle flap NEC
@@ -1376,7 +1365,6 @@ snomed,opcs,opcs_term
 445746008,Y464,Y46.4 Transmastoid open approach to contents of cranium
 419157006,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 45819007,E333,E33.3 Operations on cartilage of larynx NEC
-367411006,Z579,Z57.9 Muscle of hip or thigh NEC
 713686009,W471,W47.1 Primary prosthetic replacement of head of femur not using cement
 764970007,Y971,Y97.1 Radiology with pre and post contrast
 277518004,Y535,Y53.5 Approach to organ under image intensifier
@@ -1611,7 +1599,6 @@ snomed,opcs,opcs_term
 83471008,A487,A48.7 Insertion of neurostimulator electrodes into the spinal cord
 28494004,Q319,Q31.9 Unspecified incision of fallopian tube
 178685003,V558,V55.8 Other specified levels of spine
-367411006,Z577,Z57.7 Hamstring
 7776005,Y711,Y71.1 Subsequent stage of staged operations NOC
 44198008,M059,M05.9 Unspecified open repair of kidney
 439365009,W244,W24.4 Closed reduction of fracture of small bone and fixation using screw
@@ -1736,7 +1723,6 @@ snomed,opcs,opcs_term
 274000001,A733,A73.3 Decompression of peripheral nerve NEC
 284904002,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 238217002,T324,T32.4 Reconstruction of anterior abdominal wall using insert of prosthetic material and flap NEC
-700073007,Y959,Y95.9 Unspecified gestational age
 34238000,Z676,Z67.6 Lumbosacral joint
 241075002,Y973,Y97.3 Radiology with post contrast
 398006009,D161,D16.1 Prosthetic replacement of ossicular chain
@@ -1928,7 +1914,6 @@ snomed,opcs,opcs_term
 73610000,Y308,Y30.8 Other specified incision of organ NOC
 120053002,Q251,Q25.1 Excision of lesion of fallopian tube
 440374003,W241,W24.1 Closed reduction of intracapsular fracture of neck of femur and fixation using nail or screw
-225230008,X428,X42.8 Other specified placement of other apparatus for compensation for renal failure
 784213003,S378,S37.8 Other specified other graft of skin
 439067005,T682,T68.2 Secondary repair of tendon using lengthening procedure
 82027008,C592,C59.2 Surgical iridectomy
@@ -1990,7 +1975,6 @@ snomed,opcs,opcs_term
 33367005,Y535,Y53.5 Approach to organ under image intensifier
 443014000,Z589,Z58.9 Muscle of lower leg NEC
 360810000,M794,M79.4 Internal urethrotomy NEC
-28233006,R291,R29.1 Manual removal of placenta from delivered uterus
 42622002,Z753,Z75.3 Wing of ilium
 239549006,V551,V55.1 One level of spine
 231422007,A771,A77.1 Cryotherapy to cervical sympathetic nerve
@@ -2016,7 +2000,6 @@ snomed,opcs,opcs_term
 704036002,Y941,Y94.1 Dopamine transporter scan
 287271009,K464,K46.4 Implantation of thoracic artery into heart NEC
 284023006,Z568,Z56.8 Specified muscle of hand NEC
-110474005,X521,X52.1 Hyperbaric therapy
 239542002,V337,V33.7 Primary microdiscectomy of lumbar intervertebral disc
 448245009,W301,W30.1 Application of external fixation to bone NEC
 443047009,S172,S17.2 Distant myocutaneous subcutaneous pedicle flap NEC
@@ -2065,7 +2048,6 @@ snomed,opcs,opcs_term
 2711000087100,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 440440003,O178,O17.8 Other specified secondary closed reduction of fracture of bone and internal fixation
 234545002,F322,F32.2 Removal of foreign body from palate
-62820003,K091,K09.1 Repair of defect of atrioventricular septum using dual prosthetic patches
 172231003,C141,C14.1 Flap of skin to eyelid
 81913003,T162,T16.2 Plication of diaphragm
 3418002,V552,V55.2 Two levels of spine
@@ -2187,7 +2169,6 @@ snomed,opcs,opcs_term
 116143008,Q074,Q07.4 Total abdominal hysterectomy NEC
 239568009,V553,V55.3 Greater than two levels of spine
 429639007,Y536,Y53.6 Approach to organ under video control
-47329006,V549,V54.9 Unspecified other operations on spine
 5105000,M094,M09.4 Endoscopic extraction of calculus of kidney NEC
 428909008,X504,X50.4 External ventricular defibrillation
 52930005,K041,K04.1 Repair of tetralogy of Fallot using valved right ventricular outflow conduit
@@ -2428,7 +2409,6 @@ snomed,opcs,opcs_term
 19961003,Z253,Z25.3 Tooth NEC
 241557005,Z422,Z42.2 Prostate
 426494009,Z792,Z79.2 Os calcis
-225230008,X429,X42.9 Unspecified placement of other apparatus for compensation for renal failure
 386691001,A444,A44.4 Excision of lesion of extradural spinal cord
 773133007,V551,V55.1 One level of spine
 1162813001,D033,D03.3 Pinnaplasty
@@ -2687,7 +2667,6 @@ snomed,opcs,opcs_term
 310810003,Z258,Z25.8 Specified mouth NEC
 241628003,Z463,Z46.3 Ovary
 41515001,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
-62820003,K092,K09.2 Repair of defect of atrioventricular septum using prosthetic patch NEC
 239338004,Z944,Z94.4 Unilateral operation
 718337003,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 233159005,K521,K52.1 Open ablation of atrioventricular node
@@ -3113,7 +3092,6 @@ snomed,opcs,opcs_term
 440374003,O171,O17.1 Remanipulation of intracapsular fracture of neck of femur and fixation using nail or screw
 72293004,Y138,Y13.8 Other specified other destruction of lesion of organ NOC
 38083004,E212,E21.2 Pharyngoplasty using posterior pharyngeal flap
-62820003,K043,K04.3 Repair of tetralogy of Fallot using transannular patch
 432845009,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 172571009,C802,C80.2 Peel of internal limiting membrane
 79378001,V073,V07.3 Excision of lesion of bone of face
@@ -3144,7 +3122,6 @@ snomed,opcs,opcs_term
 46779000,A641,A64.1 Primary approximation of peripheral nerve
 718324001,Z652,Z65.2 Temporomandibular joint
 1010295006,Q282,Q28.2 Open ligation of fallopian tube NEC
-71192002,X406,X40.6 Continuous ambulatory peritoneal dialysis
 443516005,Y973,Y97.3 Radiology with post contrast
 172984006,E243,E24.3 Endoscopic operations on pharyngeal pouch
 440708003,W246,W24.6 Closed reduction of fracture of bone and fixation using nail or screw
@@ -3159,7 +3136,6 @@ snomed,opcs,opcs_term
 79046000,Y265,Y26.5 Other attention to repair of organ NOC
 4461000087102,Y534,Y53.4 Approach to organ under fluoroscopic control
 239542002,V558,V55.8 Other specified levels of spine
-46415000,Z714,Z71.4 Head of ulna
 448752005,Y503,Y50.3 Vaginal approach
 29114001,Y223,Y22.3 Irrigation of organ NOC
 70446004,T132,T13.2 Introduction of sclerosing substance into pleural cavity NEC
@@ -3458,7 +3434,6 @@ snomed,opcs,opcs_term
 416708003,Y052,Y05.2 Partial excision of organ NOC
 446070006,Y209,Y20.9 Unspecified biopsy of organ NOC
 764581000,Z418,Z41.8 Specified upper urinary tract NEC
-387617009,Y954,Y95.4 Under 9 weeks gestational age
 443025009,Z781,Z78.1 Shafts of tibia and fibula in combination
 87022008,Y053,Y05.3 Excision of sinus track from organ NOC
 84412001,Z699,Z69.9 Humerus NEC
@@ -3566,7 +3541,6 @@ snomed,opcs,opcs_term
 708872002,Y534,Y53.4 Approach to organ under fluoroscopic control
 720364002,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 265541005,L832,L83.2 Subfascial ligation of perforating vein of leg
-310604000,Y954,Y95.4 Under 9 weeks gestational age
 418824004,K421,K42.1 Allograft replacement of one coronary artery
 23331009,S443,S44.3 Removal of glass from skin of head or neck
 119953007,E202,E20.2 Biopsy of adenoid
@@ -3874,7 +3848,6 @@ snomed,opcs,opcs_term
 265115006,W038,W03.8 Other specified complex reconstruction of forefoot
 265318001,F031,F03.1 Primary closure of cleft lip
 715188006,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
-236883005,Q112,Q11.2 Dilation of cervix uteri and evacuation of products of conception from uterus NEC
 361240004,A629,A62.9 Unspecified microsurgical repair of peripheral nerve
 41447009,S475,S47.5 Incision of skin of head or neck
 427253008,U216,U21.6 Ultrasound scan NEC
@@ -4024,7 +3997,6 @@ snomed,opcs,opcs_term
 718324001,U134,U13.4 Plain x-ray of joint
 447115003,A063,A06.3 Excision of syncipital encephalocele
 9940005,Z565,Z56.5 Hypothenar muscle
-112934001,V509,V50.9 Unspecified manipulation of spine
 386668000,F405,F40.5 Removal of suture from mouth NEC
 88218008,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 56976006,Z505,Z50.5 Skin of foot NEC
@@ -4042,7 +4014,6 @@ snomed,opcs,opcs_term
 38071001,V051,V05.1 Extirpation of lesion of cranium
 418988002,Z261,Z26.1 Parotid gland
 234759006,F151,F15.1 Creation of orthodontic impression
-440235008,L661,L66.1 Percutaneous transluminal arterial thrombolysis and reconstruction
 85357001,F382,F38.2 Excision of lesion of mouth NEC
 33302002,A841,A84.1 Electroencephalography NEC
 6231003,Y278,Y27.8 Other specified graft to organ NOC
@@ -4314,18 +4285,13 @@ snomed,opcs,opcs_term
 233287007,Z386,Z38.6 Popliteal artery
 239237006,Y253,Y25.3 Removal of retained suture from organ NOC
 178854005,S249,S24.9 Unspecified local flap of skin and muscle
-37120004,V559,V55.9 Unspecified levels of spine
 284400003,Z843,Z84.3 Hip joint
 448943008,V558,V55.8 Other specified levels of spine
-37120004,V553,V55.3 Greater than two levels of spine
 22849005,Z693,Z69.3 Neck of humerus
 56087001,Y973,Y97.3 Radiology with post contrast
 243390001,Y269,Y26.9 Unspecified other repair of organ NOC
 443681002,W426,W42.6 Arthrolysis of total prosthetic replacement of knee joint
-427560001,O069,O06.9 Unspecified hybrid prosthetic replacement of shoulder joint using cemented humeral component
-711430006,V553,V55.3 Greater than two levels of spine
 444889008,W739,W73.9 Unspecified prosthetic reinforcement of ligament
-176929000,Y958,Y95.8 Other specified gestational age
 241304008,Y931,Y93.1 Gallium-67 imaging scan
 25212003,C201,C20.1 Complete protective suture of eyelid
 704036002,Y931,Y93.1 Gallium-67 imaging scan
@@ -4668,7 +4634,6 @@ snomed,opcs,opcs_term
 231698008,Z176,Z17.6 Inferior oblique muscle of eye
 230861003,A091,A09.1 Implantation of neurostimulator into brain
 715967001,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
-178894007,W065,W06.5 Total excision of bone of foot NEC
 84891000,Z599,Z59.9 Muscle of foot NEC
 439465008,V559,V55.9 Unspecified levels of spine
 232755004,Z321,Z32.1 Mitral valve
@@ -4817,7 +4782,6 @@ snomed,opcs,opcs_term
 78191003,C775,C77.5 Magnetic extraction of foreign body from lens
 387643005,Q081,Q08.1 Vaginal hysterocolpectomy and excision of periuterine tissue
 901000087105,Z942,Z94.2 Right sided operation
-431612008,A529,A52.9 Unspecified therapeutic epidural injection
 708651002,V559,V55.9 Unspecified levels of spine
 38432009,Y254,Y25.4 Removal of other suture from organ NOC
 398194002,E473,E47.3 Repair of bronchus NEC
@@ -4879,7 +4843,6 @@ snomed,opcs,opcs_term
 36837001,W095,W09.5 Curettage of tumour of bone and graft HFQ
 310818005,M675,M67.5 Endoscopic microwave destruction of lesion of prostate
 303826005,T676,T67.6 Primary simple repair of tendon
-450640001,Y951,Y95.1 Over 20 weeks gestational age
 16545811000119100,Y939,Y93.9 Unspecified gallium-67 imaging
 55705006,V381,V38.1 Primary fusion of joint of thoracic spine
 232826002,Y069,Y06.9 Unspecified excision of lesion of organ NOC
@@ -4943,7 +4906,6 @@ snomed,opcs,opcs_term
 239553008,V479,V47.9 Unspecified biopsy of spine
 447873001,W149,W14.9 Unspecified diaphyseal division of bone
 64562004,Q012,Q01.2 Wedge excision of cervix uteri and suture HFQ
-420231008,Y223,Y22.3 Irrigation of organ NOC
 19651000087101,Y538,Y53.8 Other specified approach to organ under image control
 281416002,M379,M37.9 Unspecified other repair of bladder
 735025000,Z942,Z94.2 Right sided operation
@@ -5001,7 +4963,6 @@ snomed,opcs,opcs_term
 290020004,M702,M70.2 Perineal needle biopsy of prostate
 420137004,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 718326004,U212,U21.2 Computed tomography NEC
-176929000,Q311,Q31.1 Removal of products of conception from fallopian tube
 783286008,Z489,Z48.9 Skin of head NEC
 303586004,H491,H49.1 Cauterisation of lesion of anus
 432336004,U112,U11.2 Doppler ultrasound of vessels of extremities
@@ -5063,7 +5024,6 @@ snomed,opcs,opcs_term
 38663004,A673,A67.3 Release of entrapment of plantar digital nerve
 447362004,A386,A38.6 Extirpation of lesion of tentorium cerebelli
 440143005,W262,W26.2 Manipulation of fracture of bone NEC
-46415000,Z718,Z71.8 Specified ulna NEC
 1119333005,Q362,Q36.2 Endoscopic placement of intrafallopian implant into remaining solitary fallopian tube
 303643006,A494,A49.4 Complex freeing of spinal tether
 11717003,Z681,Z68.1 Clavicle
@@ -5333,7 +5293,6 @@ snomed,opcs,opcs_term
 361221005,P132,P13.2 Female perineorrhaphy
 230841009,A063,A06.3 Excision of syncipital encephalocele
 52221007,Z905,Z90.5 Foot NEC
-73341009,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 300030006,C121,C12.1 Excision of lesion of eyelid NEC
 287465001,Y534,Y53.4 Approach to organ under fluoroscopic control
 241512001,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
@@ -5362,7 +5321,6 @@ snomed,opcs,opcs_term
 405463009,L597,L59.7 Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC
 430832002,Y938,Y93.8 Other specified gallium-67 imaging
 3681000087108,Z787,Z78.7 Patella
-47329006,Y251,Y25.1 Suture of laceration of organ NOC
 700074001,S051,S05.1 Microscopically controlled excision of lesion of skin of head or neck using fresh tissue technique
 233321008,L713,L71.3 Percutaneous transluminal embolisation of artery
 18277003,W119,W11.9 Unspecified other surgical fracture of bone
@@ -5700,7 +5658,6 @@ snomed,opcs,opcs_term
 446343006,Y069,Y06.9 Unspecified excision of lesion of organ NOC
 303643006,A512,A51.2 Freeing of adhesions of meninges of spinal cord
 699253003,W918,W91.8 Other specified other manipulation of joint
-37120004,V551,V55.1 One level of spine
 439995008,W264,W26.4 Remanipulation of fracture of bone NEC
 29063004,A078,A07.8 Other specified other open operations on tissue of brain
 18972001,H504,H50.4 Reanastomosis of rectum to anal canal for correction of congenital atresia of rectum
@@ -5760,7 +5717,6 @@ snomed,opcs,opcs_term
 252902008,M121,M12.1 Percutaneous pyeloureterodynamics
 58515002,A031,A03.1 Stereotactic leucotomy
 41496004,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
-711430006,V548,V54.8 Other specified other operations on spine
 232642006,E541,E54.1 Total pneumonectomy
 309065004,Y589,Y58.9 Unspecified harvest of skin for graft
 112779006,Z591,Z59.1 Flexor hallucis longus
@@ -6016,7 +5972,6 @@ snomed,opcs,opcs_term
 450698009,C833,C83.3 Limited macular translocation
 439364008,O174,O17.4 Remanipulation of fracture of small bone and fixation using screw
 232838006,K343,K34.3 Annuloplasty of valve of heart NEC
-47329006,Y255,Y25.5 Other attention to suture of organ NOC
 83356008,E199,E19.9 Unspecified excision of pharynx
 433109004,Y534,Y53.4 Approach to organ under fluoroscopic control
 446571001,V037,V03.7 Decompressive craniectomy
@@ -6227,7 +6182,6 @@ snomed,opcs,opcs_term
 12314005,W316,W31.6 Muscle pedicle autograft of bone
 275218004,M079,M07.9 Unspecified therapeutic ureteroscopic operations on kidney
 81068001,M452,M45.2 Diagnostic endoscopic examination of bladder and biopsy of lesion of prostate NEC
-37120004,V501,V50.1 Manipulation of spine using traction
 413650000,E095,E09.5 Biopsy of lesion of external nose
 711507002,U202,U20.2 Transoesophageal echocardiography
 426100003,Z943,Z94.3 Left sided operation
@@ -6297,7 +6251,6 @@ snomed,opcs,opcs_term
 440412008,O174,O17.4 Remanipulation of fracture of small bone and fixation using screw
 241588009,Z856,Z85.6 Ankle joint
 35713003,V542,V54.2 Graft of bone to spine NEC
-709787009,T123,T12.3 Aspiration of pleural cavity
 112821001,L263,L26.3 Percutaneous transluminal embolectomy of bifurcation of aorta
 13088001,Y971,Y97.1 Radiology with pre and post contrast
 252821004,C865,C86.5 Fluorescein angiography of eye
@@ -6371,7 +6324,6 @@ snomed,opcs,opcs_term
 447872006,W162,W16.2 Multiple osteotomy and external fixation HFQ
 118485008,V522,V52.2 Destruction of intervertebral disc NEC
 112958002,C184,C18.4 Correction of ptosis of eyelid using superior rectus muscle technique
-310604000,Q115,Q11.5 Vacuum aspiration of products of conception from uterus using rigid cannula
 53705008,N135,N13.5 Exploration of testis
 6846004,B044,B04.4 Exploration of pituitary gland
 445725004,Q174,Q17.4 Endoscopic destruction of lesion of uterus NEC
@@ -6487,7 +6439,6 @@ snomed,opcs,opcs_term
 119256007,E541,E54.1 Total pneumonectomy
 473197003,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 440340002,O171,O17.1 Remanipulation of intracapsular fracture of neck of femur and fixation using nail or screw
-71192002,X405,X40.5 Automated peritoneal dialysis
 232621009,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
 112809000,K382,K38.2 Operations on chordae tendineae
 176687003,P212,P21.2 Reconstruction of vagina NEC
@@ -6536,7 +6487,6 @@ snomed,opcs,opcs_term
 440335005,Y948,Y94.8 Other specified radiopharmaceutical imaging
 3851000087101,Y973,Y97.3 Radiology with post contrast
 439876002,V553,V55.3 Greater than two levels of spine
-112934001,V559,V55.9 Unspecified levels of spine
 118486009,W069,W06.9 Unspecified total excision of bone
 709101001,Z258,Z25.8 Specified mouth NEC
 88892001,Y301,Y30.1 Incision of lesion of organ NOC
@@ -6752,7 +6702,6 @@ snomed,opcs,opcs_term
 698354004,Z019,Z01.9 Tissue of brain NEC
 445751002,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 176410001,S181,S18.1 Distant fasciocutaneous subcutaneous pedicle flap to head or neck
-711430006,Y229,Y22.9 Unspecified drainage of organ NOC
 829831000000100,Y361,Y36.1 Introduction of gold seeds into organ NOC
 8151003,U208,U20.8 Other specified diagnostic Echocardiography
 447866006,W122,W12.2 Angulation periarticular osteotomy and internal fixation NEC
@@ -6925,7 +6874,6 @@ snomed,opcs,opcs_term
 40371005,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 84237009,Z703,Z70.3 Shaft of radius NEC
 609588000,W421,W42.1 Primary total prosthetic replacement of knee joint NEC
-310603006,Q113,Q11.3 Evacuation of products of conception from uterus NEC
 86688004,U198,U19.8 Other specified diagnostic electrocardiography
 239308005,W775,W77.5 Periarticular osteotomy for stabilisation of joint
 26212005,K263,K26.3 Prosthetic replacement of aortic valve
@@ -7188,7 +7136,6 @@ snomed,opcs,opcs_term
 429923003,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 178956006,W148,W14.8 Other specified diaphyseal division of bone
 171692002,A386,A38.6 Extirpation of lesion of tentorium cerebelli
-110474005,E871,E87.1 Home oxygen support
 419132001,K442,K44.2 Revision of replacement of coronary artery
 386745004,M455,M45.5 Diagnostic endoscopic examination of bladder using rigid cystoscope
 448106007,W165,W16.5 Osteotomy and external fixation NEC
@@ -7273,7 +7220,6 @@ snomed,opcs,opcs_term
 20885004,C059,C05.9 Unspecified plastic repair of orbit
 408695000,L845,L84.5 Combined operations on recurrent short saphenous vein
 171849009,A692,A69.2 Revision of carpal tunnel release
-440235008,Z357,Z35.7 Artery of circle of Willis
 405339000,L601,L60.1 Endarterectomy of femoral artery and patch repair of femoral artery
 77950003,C889,C88.9 Unspecified destruction of subretinal lesion
 234939003,F455,F45.5 Destruction of lesion of salivary gland
@@ -7509,7 +7455,6 @@ snomed,opcs,opcs_term
 234931000,Y223,Y22.3 Irrigation of organ NOC
 236275005,M732,M73.2 Repair of epispadias
 448944002,V551,V55.1 One level of spine
-230825008,A141,A14.1 Renewal of cerebroventricular shunt
 168729000,Z255,Z25.5 Tongue
 431066004,E334,E33.4 Open biopsy of lesion of larynx
 17115007,T642,T64.2 Transfer of tendon to tendon NEC
@@ -7573,7 +7518,6 @@ snomed,opcs,opcs_term
 3511000087103,Y971,Y97.1 Radiology with pre and post contrast
 451013005,Z651,Z65.1 Mandible
 287223009,Y318,Y31.8 Other specified exploration of organ NOC
-62820003,K048,K04.8 Other specified repair of tetralogy of Fallot
 431616006,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 239283000,O171,O17.1 Remanipulation of intracapsular fracture of neck of femur and fixation using nail or screw
 61303007,Z575,Z57.5 Tensor fasciae latae
@@ -7881,7 +7825,6 @@ snomed,opcs,opcs_term
 168766006,U217,U21.7 Plain x-ray NEC
 178632005,V559,V55.9 Unspecified levels of spine
 405320005,Y261,Y26.1 Reconstruction of organ NOC
-367411006,T641,T64.1 Multiple transfer of tendon to tendon
 359593004,W600,W60.0 Conversion from previous arthrodesis and extra-articular bone graft NEC
 197076005,C241,C24.1 Excision of lacrimal gland
 241557005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
@@ -7951,7 +7894,6 @@ snomed,opcs,opcs_term
 22648000,Z108,Z10.8 Specified lumbar plexus NEC
 445419002,Z337,Z33.7 Ventricle of heart
 38366004,Z846,Z84.6 Knee joint
-419470007,Y534,Y53.4 Approach to organ under fluoroscopic control
 177242002,S015,S01.5 Direct browlift
 172951006,S208,S20.8 Other specified other distant flap of skin
 257904000,V093,V09.3 Reduction of fracture of zygomatic complex of bones
@@ -8181,7 +8123,6 @@ snomed,opcs,opcs_term
 2697008,L841,L84.1 Combined operations on primary long saphenous vein
 5992009,W600,W60.0 Conversion from previous arthrodesis and extra-articular bone graft NEC
 445746008,Y465,Y46.5 Supratentorial open approach to contents of cranium
-276921001,Y532,Y53.2 Approach to organ under ultrasonic control
 391907007,S429,S42.9 Unspecified suture of skin of other site
 288052000,W325,W32.5 Cancellous chip allograft of bone
 64265001,A398,A39.8 Other specified repair of dura
@@ -8249,7 +8190,6 @@ snomed,opcs,opcs_term
 239546004,V373,V37.3 Transoral fusion of atlantoaxial joint
 257898007,M738,M73.8 Other specified repair of urethra
 6704000,G239,G23.9 Unspecified repair of diaphragmatic hernia
-181021005,W169,W16.9 Unspecified other division of bone
 42969009,S082,S08.2 Curettage and cauterisation of lesion of skin NEC
 215103005,Y208,Y20.8 Other specified biopsy of organ NOC
 112974007,Y119,Y11.9 Unspecified other destruction of organ NOC
@@ -8436,7 +8376,6 @@ snomed,opcs,opcs_term
 84077007,C572,C57.2 Repair of sclera
 718285000,Y971,Y97.1 Radiology with pre and post contrast
 74756008,Z589,Z58.9 Muscle of lower leg NEC
-271415006,Y958,Y95.8 Other specified gestational age
 444795004,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 759005,A841,A84.1 Electroencephalography NEC
 439706005,Z094,Z09.4 Ulna nerve
@@ -8448,7 +8387,6 @@ snomed,opcs,opcs_term
 449311007,Z754,Z75.4 Ischium
 74692004,J088,J08.8 Other specified therapeutic endoscopic operations on liver using laparoscope
 70353009,Y019,Y01.9 Unspecified replacement of organ NOC
-181021005,W163,W16.3 Multiple osteotomy NEC
 172260007,C199,C19.9 Unspecified incision of eyelid
 448505001,Z742,Z74.2 Sternum NEC
 67821005,Z765,Z76.5 Lower end of femur NEC
@@ -8570,7 +8508,6 @@ snomed,opcs,opcs_term
 64622008,Y536,Y53.6 Approach to organ under video control
 427961005,U135,U13.5 Plain x-ray of bone
 446693001,Y067,Y06.7 Radiofrequency excision of lesion of organ NOC
-700073007,Q311,Q31.1 Removal of products of conception from fallopian tube
 431846007,K743,K74.3 Renewal of biventricular cardiac pacemaker NEC
 5992009,W609,W60.9 Unspecified fusion of other joint and extra-articular bone graft
 425410009,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
@@ -8679,7 +8616,6 @@ snomed,opcs,opcs_term
 438888005,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 231702007,C373,C37.3 Biopsy of lesion of muscle of eye
 699152002,Z685,Z68.5 Scapula NEC
-71192002,X421,X42.1 Insertion of temporary peritoneal dialysis catheter
 171570008,A258,A25.8 Intracranial transection of specified cranial nerve NEC
 447752008,E301,E30.1 Excision of lesion of larynx using thyrotomy as approach
 234742001,F175,F17.5 Removal of dental crown from tooth
@@ -8788,7 +8724,6 @@ snomed,opcs,opcs_term
 239307000,W133,W13.3 Cuneiform osteotomy NEC
 33621000,W323,W32.3 Xenograft of bone
 229459003,W675,W67.5 Remanipulation of fracture dislocation of joint
-225230008,X411,X41.1 Insertion of ambulatory peritoneal dialysis catheter
 231005000,S209,S20.9 Unspecified other distant flap of skin
 1010433004,Q431,Q43.1 Excision of wedge of ovary
 446821006,M429,M42.9 Unspecified endoscopic extirpation of lesion of bladder
@@ -8925,7 +8860,6 @@ snomed,opcs,opcs_term
 773408002,U217,U21.7 Plain x-ray NEC
 450792002,V552,V55.2 Two levels of spine
 429868005,Y533,Y53.3 Approach to organ under computed tomography scan control
-236883005,Q091,Q09.1 Open removal of products of conception from uterus
 447863003,Z798,Z79.8 Specified bone of tarsus NEC
 447866006,W162,W16.2 Multiple osteotomy and external fixation HFQ
 312090008,F201,F20.1 Excision of gingiva
@@ -9181,7 +9115,6 @@ snomed,opcs,opcs_term
 414170000,C334,C33.4 Resection of inferior rectus muscle of eye
 301047001,V461,V46.1 Fixation of fracture of spine using plate
 5151004,H533,H53.3 Manual reduction of prolapsed haemorrhoid
-233580005,X403,X40.3 Haemodialysis NEC
 300976007,X659,X65.9 Unspecified radiotherapy delivery
 28228007,A278,A27.8 Other specified extracranial extirpation of vagus nerve (x)
 3051000087109,U211,U21.1 Magnetic resonance imaging NEC
@@ -9384,7 +9317,6 @@ snomed,opcs,opcs_term
 449093001,Z703,Z70.3 Shaft of radius NEC
 450863009,C332,C33.2 Resection of lateral rectus muscle of eye NEC
 450440007,S563,S56.3 Toilet to skin of head or neck NEC
-62820003,K093,K09.3 Repair of defect of atrioventricular septum using tissue graft
 387643005,Q088,Q08.8 Other specified vaginal excision of uterus
 33412005,C515,C51.5 Placement of therapeutic contact lens on to cornea
 41306007,M736,M73.6 Urethroplasty NEC
@@ -9497,7 +9429,6 @@ snomed,opcs,opcs_term
 10715004,W548,W54.8 Other specified other prosthetic replacement of articulation of other bone
 395723006,K058,K05.8 Other specified atrial inversion operations for transposition of great arteries
 3749006,W264,W26.4 Remanipulation of fracture of bone NEC
-711430006,V559,V55.9 Unspecified levels of spine
 236334001,N066,N06.6 Inguinal orchidectomy NEC
 718324001,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 241037002,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
@@ -9619,7 +9550,6 @@ snomed,opcs,opcs_term
 40945001,Z692,Z69.2 Tuberosity of humerus
 29401007,Y069,Y06.9 Unspecified excision of lesion of organ NOC
 386206008,Y938,Y93.8 Other specified gallium-67 imaging
-236883005,R288,R28.8 Other specified instrumental removal of products of conception from delivered uterus
 241641004,U133,U13.3 Magnetic resonance imaging of bone
 232647000,E473,E47.3 Repair of bronchus NEC
 241264008,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
@@ -9699,7 +9629,6 @@ snomed,opcs,opcs_term
 231586005,C115,C11.5 Graft of skin to canthus
 309430005,H482,H48.2 Excision of skin tag of anus
 439365009,O178,O17.8 Other specified secondary closed reduction of fracture of bone and internal fixation
-440235008,Z354,Z35.4 Middle cerebral artery
 45474001,Y713,Y71.3 Revisional operations NOC
 239289001,O176,O17.6 Remanipulation of fracture of bone and fixation using plate
 16410231000119101,U211,U21.1 Magnetic resonance imaging NEC
@@ -9979,7 +9908,6 @@ snomed,opcs,opcs_term
 43318006,Z599,Z59.9 Muscle of foot NEC
 239320002,W145,W14.5 Rotation diaphyseal osteotomy and external fixation HFQ
 765130008,Z989,Z98.9 Vein of lower limb NEC
-428648006,X405,X40.5 Automated peritoneal dialysis
 440440003,W249,W24.9 Unspecified closed reduction of fracture of bone and internal fixation
 19688005,V444,V44.4 Vertebroplasty of fracture of spine
 386668000,F403,F40.3 Graft of mucosa to mouth NEC
@@ -10021,7 +9949,6 @@ snomed,opcs,opcs_term
 236222006,M388,M38.8 Other specified open drainage of bladder
 42581003,Z592,Z59.2 Flexor digitorum muscle of foot
 50980006,M451,M45.1 Diagnostic endoscopic examination of bladder and biopsy of lesion of bladder NEC
-177200004,R289,R28.9 Unspecified instrumental removal of products of conception from delivered uterus
 725933005,V552,V55.2 Two levels of spine
 229827003,S068,S06.8 Other specified other excision of lesion of skin
 265636007,Y954,Y95.4 Under 9 weeks gestational age
@@ -10126,7 +10053,6 @@ snomed,opcs,opcs_term
 447376003,A511,A51.1 Extirpation of lesion of meninges of spinal cord
 85830006,K269,K26.9 Unspecified plastic repair of aortic valve
 432946009,Z973,Z97.3 Peroneal artery
-225230008,X419,X41.9 Unspecified placement of ambulatory apparatus for compensation for renal failure
 274474001,X499,X49.9 Unspecified other external support of limb
 449880005,Y973,Y97.3 Radiology with post contrast
 312707007,Y292,Y29.2 Manipulative removal of foreign body from organ NOC
@@ -10415,7 +10341,6 @@ snomed,opcs,opcs_term
 88148000,V558,V55.8 Other specified levels of spine
 230837005,A026,A02.6 Excision of lesion of tissue of brain stem
 25291006,C061,C06.1 Biopsy of lesion of orbit
-367411006,T644,T64.4 Insertion of tendon into bone NEC
 440197005,W146,W14.6 Rotation diaphyseal osteotomy NEC
 710312009,U168,U16.8 Other specified diagnostic imaging of hepatobiliary system
 72223009,Z784,Z78.4 Lateral malleolus
@@ -10577,7 +10502,6 @@ snomed,opcs,opcs_term
 718286004,Z649,Z64.9 Bone of face NEC
 12528003,Z567,Z56.7 Extensor muscle of hand
 119619005,Y016,Y01.6 Alloreplacement of organ from cadaver NOC
-448699008,K604,K60.4 Removal of intravenous cardiac pacemaker system
 431648005,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 830147001,Z161,Z16.1 Orbit
 287726000,M411,M41.1 Open extirpation of lesion of bladder
@@ -10596,7 +10520,6 @@ snomed,opcs,opcs_term
 265556001,M139,M13.9 Unspecified percutaneous puncture of kidney
 234894007,F302,F30.2 Plastic repair of palate using flap of skin
 241616006,U211,U21.1 Magnetic resonance imaging NEC
-23316000,Z684,Z68.4 Glenoid cavity of scapula
 448307005,U052,U05.2 Magnetic resonance imaging of head
 178458004,V172,V17.2 Internal fixation of mandible NEC
 241512001,Y973,Y97.3 Radiology with post contrast
@@ -10770,7 +10693,6 @@ snomed,opcs,opcs_term
 232793009,K382,K38.2 Operations on chordae tendineae
 443532008,Y143,Y14.3 Insertion of metal stent into organ NOC
 312724001,Z909,Z90.9 Leg region NEC
-427560001,O060,O06.0 Conversion from previous hybrid prosthetic replacement of shoulder joint using cemented humeral component
 41747008,Y938,Y93.8 Other specified gallium-67 imaging
 231565005,C092,C09.2 Replacement of lateral canthal tendon using periosteal strip
 31951004,W655,W65.5 Primary open reduction of fracture dislocation of joint and combined internal and external fixation
@@ -10983,7 +10905,6 @@ snomed,opcs,opcs_term
 439270004,Z862,Z86.2 Intertarsal joint
 64261005,Z774,Z77.4 Upper end of tibia NEC
 241272005,Y533,Y53.3 Approach to organ under computed tomography scan control
-310604000,Q111,Q11.1 Vacuum aspiration of products of conception from uterus NEC
 77664001,A649,A64.9 Unspecified other repair of peripheral nerve
 34985002,S063,S06.3 Shave excision of lesion of skin of head or neck
 90915003,Y661,Y66.1 Harvest of bone from skull
@@ -11127,7 +11048,6 @@ snomed,opcs,opcs_term
 443435007,W371,W37.1 Primary total prosthetic replacement of hip joint using cement
 70767003,S476,S47.6 Incision of skin NEC
 309876004,Q012,Q01.2 Wedge excision of cervix uteri and suture HFQ
-236883005,R291,R29.1 Manual removal of placenta from delivered uterus
 431427004,Z988,Z98.8 Specified vein of lower limb NEC
 446248004,S143,S14.3 Shaved deep ellipse biopsy of lesion of skin of head or neck
 57113004,U152,U15.2 Lung ventilation scanning NEC
@@ -11138,7 +11058,6 @@ snomed,opcs,opcs_term
 870425000,A841,A84.1 Electroencephalography NEC
 449327000,V552,V55.2 Two levels of spine
 89562006,K714,K71.4 Exploration of pericardium
-62820003,K042,K04.2 Repair of tetralogy of Fallot using right ventricular outflow conduit NEC
 73332004,Z853,Z85.3 Talocalcaneal joint
 112725002,V552,V55.2 Two levels of spine
 450669005,Q239,Q23.9 Unspecified unilateral excision of adnexa of uterus
@@ -11198,7 +11117,6 @@ snomed,opcs,opcs_term
 82651004,E571,E57.1 Repair of lung
 765130008,Y539,Y53.9 Unspecified approach to organ under image control
 83061004,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
-62820003,K094,K09.4 Repair of persistent ostium primum
 241506006,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 443916000,Y531,Y53.1 Approach to organ under radiological control
 9693008,Y053,Y05.3 Excision of sinus track from organ NOC
@@ -11319,7 +11237,6 @@ snomed,opcs,opcs_term
 36884001,Z844,Z84.4 Patellofemoral joint
 450863009,C311,C31.1 Recession of medial rectus muscle and resection of lateral rectus muscle of eye
 239564006,V558,V55.8 Other specified levels of spine
-450640001,Q091,Q09.1 Open removal of products of conception from uterus
 171706001,A395,A39.5 Repair of dura of vault of cranium
 70596000,W664,W66.4 Primary closed reduction of fracture dislocation of joint and internal fixation
 119874007,F268,F26.8 Other specified other operations on tongue
@@ -11406,7 +11323,6 @@ snomed,opcs,opcs_term
 359904009,A658,A65.8 Other specified release of entrapment of peripheral nerve at wrist
 418029005,Y535,Y53.5 Approach to organ under image intensifier
 420137004,U211,U21.1 Magnetic resonance imaging NEC
-236883005,Y959,Y95.9 Unspecified gestational age
 302359007,L933,L93.3 Ligation of vein NEC
 405446005,X129,X12.9 Unspecified operations on amputation stump
 419275004,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
@@ -11446,7 +11362,6 @@ snomed,opcs,opcs_term
 241204005,Z864,Z86.4 Metatarsophalangeal joint of great toe
 275168001,R215,R21.5 Low forceps cephalic delivery
 76699006,W743,W74.3 Reconstruction of extra-articular ligament NEC
-387617009,Y959,Y95.9 Unspecified gestational age
 236279004,N306,N30.6 Manual reduction of prepuce
 33859005,Y139,Y13.9 Unspecified other destruction of lesion of organ NOC
 44198008,M109,M10.9 Unspecified other therapeutic endoscopic operations on kidney
@@ -11472,7 +11387,6 @@ snomed,opcs,opcs_term
 398874009,C811,C81.1 Xenon photocoagulation of retina for detachment
 311490001,V441,V44.1 Complex decompression of fracture of spine
 312706003,Y292,Y29.2 Manipulative removal of foreign body from organ NOC
-178894007,W058,W05.8 Other specified prosthetic replacement of bone
 396205005,Z019,Z01.9 Tissue of brain NEC
 274365002,Q473,Q47.3 Open biopsy of lesion of ovary
 417905003,L721,L72.1 Arteriography NEC
@@ -11717,7 +11631,6 @@ snomed,opcs,opcs_term
 71660004,T795,T79.5 Revisional repair of multiple tears of rotator cuff of shoulder
 241606003,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 82442002,E048,E04.8 Other specified operations on turbinate of nose
-431337005,L993,L99.3 Percutaneous transluminal venous thrombolysis with reconstruction
 43668008,Y058,Y05.8 Other specified excision of organ NOC
 441919004,V553,V55.3 Greater than two levels of spine
 440440003,W245,W24.5 Closed reduction of fragment of bone and fixation using screw
@@ -11901,7 +11814,6 @@ snomed,opcs,opcs_term
 609588000,W425,W42.5 Revision of one component of total prosthetic replacement of knee joint NEC
 9693008,V542,V54.2 Graft of bone to spine NEC
 241049001,U043,U04.3 Occlusal radiology
-244608001,K198,K19.8 Other specified creation of other cardiac conduit
 169026008,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 47596009,W462,W46.2 Conversion to prosthetic replacement of head of femur using cement
 56657006,E278,E27.8 Other specified other operations on pharynx
@@ -11922,7 +11834,6 @@ snomed,opcs,opcs_term
 178919002,W093,W09.3 Curettage of lesion of bone NEC
 88429005,Z713,Z71.3 Coronoid process of ulna
 75732000,C792,C79.2 Vitrectomy using pars plana approach
-112934001,V558,V55.8 Other specified levels of spine
 449327000,V559,V55.9 Unspecified levels of spine
 433139009,U133,U13.3 Magnetic resonance imaging of bone
 133863002,W193,W19.3 Primary open reduction of fracture of long bone and fixation using flexible nail
@@ -11985,7 +11896,6 @@ snomed,opcs,opcs_term
 39570002,Z843,Z84.3 Hip joint
 450588007,Z478,Z47.8 Specified skin of face NEC
 44498002,T103,T10.3 Endoscopic pleurodesis NEC
-62820003,K049,K04.9 Unspecified repair of tetralogy of Fallot
 125674004,Z685,Z68.5 Scapula NEC
 88429005,Z715,Z71.5 Styloid process of ulna
 418454001,Z389,Z38.9 Terminal branch of aorta NEC
@@ -12229,7 +12139,6 @@ snomed,opcs,opcs_term
 410554002,E641,E64.1 Endoscopic extirpation of lesion of nasal cavity
 231658006,C315,C31.5 Bilateral resection of lateral recti muscles of eyes
 120038005,Q014,Q01.4 Large loop excision of transformation zone
-177204008,R291,R29.1 Manual removal of placenta from delivered uterus
 241661005,U133,U13.3 Magnetic resonance imaging of bone
 239388007,V113,V11.3 Extraoral fixation of maxilla
 440376001,W253,W25.3 Remanipulation of fracture of bone and external fixation HFQ
@@ -12251,7 +12160,6 @@ snomed,opcs,opcs_term
 174839007,K044,K04.4 Revision of repair of tetralogy of Fallot
 428737009,S065,S06.5 Excision of lesion of skin of head or neck NEC
 274336008,C432,C43.2 Biopsy of lesion of conjunctiva
-77570000,T098,T09.8 Other specified other open operations on pleura
 370614007,W752,W75.2 Open repair of intra-articular ligament NEC
 25276009,Z772,Z77.2 Shaft of tibia NEC
 45693007,V051,V05.1 Extirpation of lesion of cranium
@@ -12273,7 +12181,6 @@ snomed,opcs,opcs_term
 386745004,M451,M45.1 Diagnostic endoscopic examination of bladder and biopsy of lesion of bladder NEC
 257946009,O173,O17.3 Remanipulation of fracture of long bone and flexible internal fixation HFQ
 440304004,W269,W26.9 Unspecified other closed reduction of fracture of bone
-276921001,Y533,Y53.3 Approach to organ under computed tomography scan control
 765476000,U372,U37.2 Computed tomography of kidneys
 23147004,Z685,Z68.5 Scapula NEC
 767345009,Z943,Z94.3 Left sided operation
@@ -12282,7 +12189,6 @@ snomed,opcs,opcs_term
 239555001,V551,V55.1 One level of spine
 11581000087109,Y971,Y97.1 Radiology with pre and post contrast
 47540002,S062,S06.2 Marsupialisation of lesion of skin NEC
-450640001,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 171849009,A682,A68.2 Secondary neurolysis of peripheral nerve and transposition of peripheral nerve
 67134009,Y264,Y26.4 Removal of other repair material from organ NOC
 1747001,Y038,Y03.8 Other specified attention to prosthesis in organ NOC
@@ -12340,7 +12246,6 @@ snomed,opcs,opcs_term
 448877002,V398,V39.8 Other specified revisional fusion of joint of spine
 2659008,Z909,Z90.9 Leg region NEC
 287250004,A628,A62.8 Other specified microsurgical repair of peripheral nerve
-88362001,Y951,Y95.1 Over 20 weeks gestational age
 440304004,W246,W24.6 Closed reduction of fracture of bone and fixation using nail or screw
 54114002,Y822,Y82.2 Injection of local anaesthetic NEC
 6639006,A134,A13.4 Renewal of valve of cerebroventricular shunt
@@ -12524,7 +12429,6 @@ snomed,opcs,opcs_term
 22034001,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 179163003,W264,W26.4 Remanipulation of fracture of bone NEC
 179173001,W661,W66.1 Primary closed reduction of fracture dislocation of joint and skeletal traction HFQ
-431337005,L994,L99.4 Percutaneous transluminal venous thrombolysis NEC
 85830006,K258,K25.8 Other specified plastic repair of mitral valve
 75227000,C749,C74.9 Unspecified other extraction of lens
 76827003,M799,M79.9 Unspecified other operations on urethra
@@ -12536,7 +12440,6 @@ snomed,opcs,opcs_term
 446286008,F121,F12.1 Apicectomy of tooth
 446060009,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 265690004,S472,S47.2 Drainage of lesion of skin NEC
-236883005,R299,R29.9 Unspecified manual removal of products of conception from delivered uterus
 443602007,Y973,Y97.3 Radiology with post contrast
 274360007,M301,M30.1 Endoscopic retrograde pyelography
 177302005,S064,S06.4 Shave excision of lesion of skin NEC
@@ -12992,7 +12895,6 @@ snomed,opcs,opcs_term
 449094007,Z742,Z74.2 Sternum NEC
 178799009,V553,V55.3 Greater than two levels of spine
 718031007,Y534,Y53.4 Approach to organ under fluoroscopic control
-14477007,Z692,Z69.2 Tuberosity of humerus
 231737005,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 433111008,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 308754005,W639,W63.9 Unspecified revisional fusion of other joint
@@ -13097,7 +12999,6 @@ snomed,opcs,opcs_term
 49276007,U203,U20.3 Intravascular echocardiography
 241043000,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 308721008,Y228,Y22.8 Other specified drainage of organ NOC
-62820003,K046,K04.6 Repair of Fallot-type pulmonary atresia with aortopulmonary collaterals
 1172770002,F121,F12.1 Apicectomy of tooth
 440440003,W263,W26.3 Remanipulation of fracture of bone and skeletal traction NEC
 450863009,C349,C34.9 Unspecified partial division of tendon of muscle of eye
@@ -13136,7 +13037,6 @@ snomed,opcs,opcs_term
 6281000087103,Y971,Y97.1 Radiology with pre and post contrast
 709555008,Z383,Z38.3 Common femoral artery
 443682009,W401,W40.1 Primary total prosthetic replacement of knee joint using cement
-46415000,Z716,Z71.6 Lower end of ulna NEC
 63992008,Y064,Y06.4 Excision of scar tissue NOC
 733496000,X562,X56.2 Endotracheal intubation
 609191008,H471,H47.1 Excision of sphincter of anus
@@ -13225,7 +13125,6 @@ snomed,opcs,opcs_term
 68315004,T839,T83.9 Unspecified other operations on muscle
 438491001,Y971,Y97.1 Radiology with pre and post contrast
 273999003,A308,A30.8 Repair of specified cranial nerve NEC
-176928008,Q438,Q43.8 Other specified partial excision of ovary
 438491001,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 287309009,E552,E55.2 Open excision of lesion of lung
 9292007,G238,G23.8 Other specified repair of diaphragmatic hernia
@@ -13248,7 +13147,6 @@ snomed,opcs,opcs_term
 19831000087106,Y533,Y53.3 Approach to organ under computed tomography scan control
 699164005,W215,W21.5 Primary extra-articular reduction of intra-articular fracture of bone
 359911008,G233,G23.3 Repair of oesophageal hiatus using abdominal approach
-81333007,Z758,Z75.8 Specified bone of pelvis NEC
 432848006,Y986,Y98.6 Mobile and or intraoperative procedures of any/all body areas
 85765000,E499,E49.9 Unspecified diagnostic fibreoptic endoscopic examination of lower respiratory tract
 40811007,M302,M30.2 Endoscopic catheterisation of ureter
@@ -13290,7 +13188,6 @@ snomed,opcs,opcs_term
 119850009,Z501,Z50.1 Skin of arm
 45808009,T641,T64.1 Multiple transfer of tendon to tendon
 172193008,C105,C10.5 Incision of lesion of eyebrow
-427560001,O062,O06.2 Conversion to hybrid prosthetic replacement of shoulder joint using cemented humeral component
 30184009,Y061,Y06.1 Marsupialisation of organ NOC
 119739003,E408,E40.8 Other specified plastic operations on trachea
 274938004,E051,E05.1 Cauterisation of internal nose
@@ -13533,7 +13430,6 @@ snomed,opcs,opcs_term
 231586005,C091,C09.1 Replacement of lateral canthal tendon using tarsal strip
 711500000,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 726108003,Z943,Z94.3 Left sided operation
-73257006,X402,X40.2 Peritoneal dialysis NEC
 232660006,E538,E53.8 Other specified transplantation of lung
 38663004,A683,A68.3 Neurolysis of peripheral nerve and transposition of peripheral nerve NEC
 13183007,M413,M41.3 Open transection of bladder
@@ -13648,7 +13544,6 @@ snomed,opcs,opcs_term
 39649003,Z773,Z77.3 Medial malleolus
 238214009,S275,S27.5 Local flap of skin to head or neck NEC
 443086008,E061,E06.1 Packing of posterior cavity of nose NEC
-11686006,Z705,Z70.5 Lower end of radius NEC
 432216002,Y973,Y97.3 Radiology with post contrast
 50445001,D102,D10.2 Modified radical mastoidectomy
 763465002,L945,L94.5 Percutaneous transluminal insertion of stent into vein NEC
@@ -13796,7 +13691,6 @@ snomed,opcs,opcs_term
 232723004,K448,K44.8 Other specified other replacement of coronary artery
 448243002,Z765,Z76.5 Lower end of femur NEC
 49700001,Y062,Y06.2 Deroofing of cyst of organ NOC
-47329006,V541,V54.1 Transoral excision of odontoid process of axis
 231432000,V559,V55.9 Unspecified levels of spine
 274474001,X495,X49.5 Application of sling NEC
 69747001,C298,C29.8 Other specified other operations on lacrimal apparatus
@@ -13833,8 +13727,6 @@ snomed,opcs,opcs_term
 88444006,Z783,Z78.3 Shaft of fibula NEC
 234729001,F168,F16.8 Other specified other operations on tooth
 440708003,O178,O17.8 Other specified secondary closed reduction of fracture of bone and internal fixation
-276921001,Y538,Y53.8 Other specified approach to organ under image control
-70956006,X052,X05.2 Implantation of kineplastic prosthesis for limb
 239542002,V347,V34.7 Revisional microdiscectomy of lumbar intervertebral disc
 431851001,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 129241004,V453,V45.3 Manipulative reduction of fracture of spine
@@ -14004,7 +13896,6 @@ snomed,opcs,opcs_term
 27496004,U278,U27.8 Other specified diagnostic application tests on skin
 119772003,Y251,Y25.1 Suture of laceration of organ NOC
 29672006,Q438,Q43.8 Other specified partial excision of ovary
-711430006,Y223,Y22.3 Irrigation of organ NOC
 23331009,S441,S44.1 Removal of metal from skin of head or neck
 708625004,Y134,Y13.4 Radiofrequency controlled thermal destruction of lesion of organ NOC
 449374009,W292,W29.2 Adjustment to skeletal traction of bone
@@ -14138,7 +14029,6 @@ snomed,opcs,opcs_term
 47596009,W958,W95.8 Other specified hybrid prosthetic replacement of hip joint using cement
 430832002,Y942,Y94.2 Octreotide imaging
 178993000,W161,W16.1 Multiple osteotomy and internal fixation HFQ
-14477007,Z695,Z69.5 Lateral condyle of humerus
 405456009,L681,L68.1 Endarterectomy and patch repair of artery NEC
 450668002,Z478,Z47.8 Specified skin of face NEC
 173834007,W061,W06.1 Total excision of cervical rib
@@ -14193,7 +14083,6 @@ snomed,opcs,opcs_term
 232898009,Z328,Z32.8 Specified valve of heart NEC
 26262000,Y538,Y53.8 Other specified approach to organ under image control
 447858002,W881,W88.1 Diagnostic endoscopic examination of joint and biopsy of lesion of joint NEC
-14477007,Z699,Z69.9 Humerus NEC
 387821004,V388,V38.8 Other specified primary fusion of other joint of spine
 65786007,S474,S47.4 Incision of lesion of skin NEC
 25662004,S064,S06.4 Shave excision of lesion of skin NEC
@@ -14315,7 +14204,6 @@ snomed,opcs,opcs_term
 174425003,J015,J01.5 Orthotopic transplantation of whole liver
 264937008,W081,W08.1 Excision of natural protuberance of bone
 176890006,Q208,Q20.8 Other specified other operations on uterus
-309729004,V498,V49.8 Other specified exploration of spine
 870252007,K572,K57.2 Percutaneous transluminal ablation of conducting system of heart NEC
 440302000,W263,W26.3 Remanipulation of fracture of bone and skeletal traction NEC
 37153009,Y271,Y27.1 Autograft to organ NOC
@@ -14417,14 +14305,12 @@ snomed,opcs,opcs_term
 194930002,M292,M29.2 Endoscopic insertion of tubal prosthesis into ureter NEC
 422851000119101,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 50323003,L579,L57.9 Unspecified other replacement of aneurysmal femoral artery
-387615001,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 443540002,P018,P01.8 Other specified operations on clitoris
 125863006,Z682,Z68.2 Acromion process of scapula
 710161003,L717,L71.7 Percutaneous transluminal atherectomy
 448656003,Z772,Z77.2 Shaft of tibia NEC
 447965006,W365,W36.5 Diagnostic extraction of bone marrow NEC
 448017005,W365,W36.5 Diagnostic extraction of bone marrow NEC
-225231007,X419,X41.9 Unspecified placement of ambulatory apparatus for compensation for renal failure
 236198005,M328,M32.8 Other specified operations on ureteric orifice
 428545002,S124,S12.4 Combined photochemotherapy and ultraviolet B light therapy to skin
 30043008,H562,H56.2 Lateral sphincterotomy of anus
@@ -14686,7 +14572,6 @@ snomed,opcs,opcs_term
 419929003,Y931,Y93.1 Gallium-67 imaging scan
 19688005,V445,V44.5 Balloon kyphoplasty of fracture of spine
 441740006,Z983,Z98.3 Superficial femoral vein
-62820003,K044,K04.4 Revision of repair of tetralogy of Fallot
 427037000,A076,A07.6 Complete callosotomy
 7776005,C118,C11.8 Other specified operations on canthus
 119723005,E179,E17.9 Unspecified operations on unspecified nasal sinus
@@ -14776,7 +14661,6 @@ snomed,opcs,opcs_term
 703698008,Q368,Q36.8 Other specified other endoscopic occlusion of fallopian tube
 284400003,W889,W88.9 Unspecified diagnostic endoscopic examination of other joint
 90249002,E594,E59.4 Drainage of lung
-81705005,L255,L25.5 Operations on aortic body
 448228004,Y554,Y55.4 Harvest of random pattern flap of skin from foot
 409781000119101,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 390849007,Y063,Y06.3 Enucleation of lesion of organ NOC
@@ -14819,7 +14703,6 @@ snomed,opcs,opcs_term
 173357008,F231,F23.1 Excision of lesion of tongue
 445429009,V491,V49.1 Exploratory cervical laminectomy
 397110008,C444,C44.4 Photorefractive keratectomy
-62820003,K095,K09.5 Primary repair of defect of atrioventricular septum NEC
 53352004,D081,D08.1 Extirpation of lesion of external auditory canal
 239391007,Z643,Z64.3 Zygomatic complex of bones
 312707007,Y291,Y29.1 Surgical removal of foreign body from organ NOC
@@ -14934,7 +14817,6 @@ snomed,opcs,opcs_term
 241618007,Y973,Y97.3 Radiology with post contrast
 241541005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 67116005,E408,E40.8 Other specified plastic operations on trachea
-77570000,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 265718004,V551,V55.1 One level of spine
 233092001,K248,K24.8 Other specified other operations on ventricles of heart
 239425006,W843,W84.3 Endoscopic division of synovial plica
@@ -15065,7 +14947,6 @@ snomed,opcs,opcs_term
 90243001,C882,C88.2 Photodynamic therapy to subretinal lesion
 32581000,W392,W39.2 Conversion to total prosthetic replacement of hip joint NEC
 277534001,Y534,Y53.4 Approach to organ under fluoroscopic control
-438999008,Y534,Y53.4 Approach to organ under fluoroscopic control
 61303007,T702,T70.2 Tenotomy NEC
 26144004,Z698,Z69.8 Specified humerus NEC
 1001000087107,U216,U21.6 Ultrasound scan NEC
@@ -15135,7 +15016,6 @@ snomed,opcs,opcs_term
 55502007,W138,W13.8 Other specified other periarticular division of bone
 19417000,Z808,Z80.8 Specified bone of foot NEC
 47571006,Z761,Z76.1 Head of femur
-21789005,K471,K47.1 Endarterectomy of coronary artery
 265439007,J112,J11.2 Transjugular intrahepatic thrombectomy of portal vein
 931021000000101,Y973,Y97.3 Radiology with post contrast
 715288002,Z909,Z90.9 Leg region NEC
@@ -15203,7 +15083,6 @@ snomed,opcs,opcs_term
 31852007,Y261,Y26.1 Reconstruction of organ NOC
 450490006,Z261,Z26.1 Parotid gland
 307723009,E032,E03.2 Excision of lesion of septum of nose
-233590002,X408,X40.8 Other specified compensation for renal failure
 88892001,Y308,Y30.8 Other specified incision of organ NOC
 52166007,T094,T09.4 Chemical open pleurodesis
 450342000,A789,A78.9 Unspecified radiofrequency controlled thermal destruction of sympathetic nerve
@@ -15221,7 +15100,6 @@ snomed,opcs,opcs_term
 443681002,W413,W41.3 Revision of total prosthetic replacement of knee joint not using cement
 315300001,P055,P05.5 Excision of excess labial tissue
 171708000,A393,A39.3 Repair of dura of middle fossa of cranium
-178894007,W055,W05.5 Attention to endoprosthesis of bone NEC
 61553000,Y971,Y97.1 Radiology with pre and post contrast
 712738001,U136,U13.6 Computed tomography of bone
 265474008,K274,K27.4 Replacement of tricuspid valve NEC
@@ -15290,7 +15168,6 @@ snomed,opcs,opcs_term
 287205001,A078,A07.8 Other specified other open operations on tissue of brain
 178761002,V558,V55.8 Other specified levels of spine
 448261006,W362,W36.2 Needle biopsy of lesion of bone NEC
-699234008,O252,O25.2 Conversion to prosthetic replacement of head of radius not using cement
 241224009,Z398,Z39.8 Specified vein NEC
 53841003,S541,S54.1 Debridement of burnt skin of head or neck
 5290006,F383,F38.3 Destruction of lesion of floor of mouth
@@ -15430,7 +15307,6 @@ snomed,opcs,opcs_term
 397930006,Y532,Y53.2 Approach to organ under ultrasonic control
 37924007,H557,H55.7 Repair of anal fistula using plug
 168982001,Y535,Y53.5 Approach to organ under image intensifier
-88362001,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 448101002,Z794,Z79.4 Cuboid bone
 241606003,Z218,Z21.8 Specified part of ear NEC
 12663001,Y713,Y71.3 Revisional operations NOC
@@ -15471,7 +15347,6 @@ snomed,opcs,opcs_term
 718290002,U216,U21.6 Ultrasound scan NEC
 303868005,Y939,Y93.9 Unspecified gallium-67 imaging
 16798006,T624,T62.4 Aspiration of bursa
-387615001,Q311,Q31.1 Removal of products of conception from fallopian tube
 447156000,Y476,Y47.6 Infratentorial burrhole approach to contents of cranium
 77368008,Y012,Y01.2 Alloreplacement of organ NOC
 22891007,O361,O36.1 Multiple teeth NEC
@@ -15514,7 +15389,6 @@ snomed,opcs,opcs_term
 367446003,T702,T70.2 Tenotomy NEC
 54085006,Y298,Y29.8 Other specified removal of foreign body from organ NOC
 405416007,X104,X10.4 Amputation through metatarsal bones
-387616000,Y954,Y95.4 Under 9 weeks gestational age
 449667009,Z507,Z50.7 Skin of ankle
 442116008,U129,U12.9 Unspecified diagnostic imaging of genitourinary system
 440627004,W243,W24.3 Closed reduction of fracture of long bone and flexible internal fixation HFQ
@@ -15732,7 +15606,6 @@ snomed,opcs,opcs_term
 718071002,Y971,Y97.1 Radiology with pre and post contrast
 302130002,V553,V55.3 Greater than two levels of spine
 241452002,U216,U21.6 Ultrasound scan NEC
-55230008,K463,K46.3 Implantation of mammary artery into heart NEC
 419132001,K429,K42.9 Unspecified allograft replacement of coronary artery
 40337001,A799,A79.9 Unspecified other destruction of sympathetic nerve
 84572006,T093,T09.3 Mechanical open pleurodesis
@@ -15743,7 +15616,6 @@ snomed,opcs,opcs_term
 61950005,A611,A61.1 Excision of lesion of peripheral nerve
 9754005,C403,C40.3 Sliding graft to conjunctiva
 736646003,F109,F10.9 Unspecified simple extraction of tooth
-178894007,W061,W06.1 Total excision of cervical rib
 120057001,Q508,Q50.8 Other specified diagnostic endoscopic examination of ovary
 771134008,Z675,Z67.5 Lumbar intervertebral joint
 85768003,Y054,Y05.4 Ex vivo resection of organ NOC
@@ -15912,7 +15784,6 @@ snomed,opcs,opcs_term
 870380006,U364,U36.4 Ultrasound elastography
 16547871000119103,M133,M13.3 Percutaneous aspiration of kidney NEC
 386682000,W592,W59.2 Fusion of first metatarsophalangeal joint and excision of lesser metatarsophalangeal joint
-310604000,Y959,Y95.9 Unspecified gestational age
 428205007,V553,V55.3 Greater than two levels of spine
 62990005,Y253,Y25.3 Removal of retained suture from organ NOC
 8750008,Z113,Z11.3 Pudendal nerve
@@ -15953,7 +15824,6 @@ snomed,opcs,opcs_term
 1747001,T835,T83.5 Catheter manometry of muscle compartment
 204401001,C374,C37.4 Repair of muscle of eye NEC
 179159005,W262,W26.2 Manipulation of fracture of bone NEC
-181021005,W162,W16.2 Multiple osteotomy and external fixation HFQ
 54315009,K309,K30.9 Unspecified revision of plastic repair of valve of heart
 6561000179108,X451,X45.1 Donation of kidney
 33367005,Y536,Y53.6 Approach to organ under video control
@@ -15963,7 +15833,6 @@ snomed,opcs,opcs_term
 55550006,Y948,Y94.8 Other specified radiopharmaceutical imaging
 241452002,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 257841000,W304,W30.4 Application of external ring fixation to bone NEC
-178894007,O091,O09.1 Implantation of vertical expanding prosthetic titanium rib
 27967008,E025,E02.5 Reduction rhinoplasty
 171892004,A773,A77.3 Cryotherapy to lumbar sympathetic nerve
 361247001,E302,E30.2 Excision of lesion of larynx using lateral pharyngotomy as approach
@@ -16106,7 +15975,6 @@ snomed,opcs,opcs_term
 699526003,N288,N28.8 Other specified plastic operations on penis
 2561000087106,U133,U13.3 Magnetic resonance imaging of bone
 699148002,Z782,Z78.2 Head of fibula
-180107003,X225,X22.5 Extra-articular procedures for correction of congenital deformity of hip
 450780002,Q554,Q55.4 Colposcopy of cervix
 233100002,K131,K13.1 Percutaneous transluminal repair of defect of interventricular septum using prosthesis
 241368009,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
@@ -16128,7 +15996,6 @@ snomed,opcs,opcs_term
 22210000,W622,W62.2 Primary arthrodesis and external fixation of joint NEC
 231690001,T523,T52.3 Plantar fasciectomy
 446590009,C723,C72.3 Cryoextraction of lens
-110474005,E879,E87.9 Unspecified oxygen therapy support
 25291006,C065,C06.5 Exploration of orbit
 287533002,E505,E50.5 Endoscopic removal of foreign body from lower respiratory tract using rigid bronchoscope
 59389009,W319,W31.9 Unspecified other autograft of bone
@@ -16156,7 +16023,6 @@ snomed,opcs,opcs_term
 13861005,W365,W36.5 Diagnostic extraction of bone marrow NEC
 50558002,L349,L34.9 Unspecified other open operations on cerebral artery
 231762005,C825,C82.5 Panretinal laser photocoagulation to lesion of retina
-367411006,Z574,Z57.4 Adductor muscle of thigh
 6403005,Z567,Z56.7 Extensor muscle of hand
 37153009,K299,K29.9 Unspecified plastic repair of unspecified valve of heart
 82731005,Z696,Z69.6 Medial epicondyle of humerus
@@ -16397,7 +16263,6 @@ snomed,opcs,opcs_term
 18816008,O081,O08.1 Primary hybrid prosthetic replacement of shoulder joint using cement NEC
 426632004,V362,V36.2 Prosthetic replacement of thoracic intervertebral disc
 6111000087102,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
-47329006,V552,V55.2 Two levels of spine
 37990009,W610,W61.0 Conversion from previous arthrodesis and articular bone graft NEC
 449004004,V551,V55.1 One level of spine
 236336004,N066,N06.6 Inguinal orchidectomy NEC
@@ -16527,7 +16392,6 @@ snomed,opcs,opcs_term
 71598007,W104,W10.4 Open osteoclasis and internal fixation NEC
 45495006,Y308,Y30.8 Other specified incision of organ NOC
 243390001,Y268,Y26.8 Other specified other repair of organ NOC
-440235008,L716,L71.6 Percutaneous transluminal thrombolysis of artery
 241348003,U161,U16.1 Hepatobiliary nuclear scan
 446784007,Y536,Y53.6 Approach to organ under video control
 239313009,W133,W13.3 Cuneiform osteotomy NEC
@@ -16937,7 +16801,6 @@ snomed,opcs,opcs_term
 241628003,Y973,Y97.3 Radiology with post contrast
 448261006,W361,W36.1 Percutaneous needle biopsy of lesion of bone
 172929003,E178,E17.8 Other specified operations on unspecified nasal sinus
-432941004,Z396,Z39.6 Hepatic vein
 387740003,Q432,Q43.2 Excision of lesion of ovary
 448759001,A114,A11.4 Cortical mapping
 700499007,Z846,Z84.6 Knee joint
@@ -17179,7 +17042,6 @@ snomed,opcs,opcs_term
 14970003,Y011,Y01.1 Autoreplacement of organ NOC
 702653009,Y534,Y53.4 Approach to organ under fluoroscopic control
 61327009,Y221,Y22.1 Aspiration of haematoma of organ NOC
-81333007,Z756,Z75.6 Acetabulum
 431616006,Y942,Y94.2 Octreotide imaging
 11981000087102,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 781527008,Y973,Y97.3 Radiology with post contrast
@@ -17223,7 +17085,6 @@ snomed,opcs,opcs_term
 14192000,W086,W08.6 Disarticulation of bone
 112725002,V632,V63.2 Revisional percutaneous intradiscal radiofrequency thermocoagulation to thoracic intervertebral disc
 36239005,C128,C12.8 Other specified extirpation of lesion of eyelid
-387616000,Q311,Q31.1 Removal of products of conception from fallopian tube
 41339005,K494,K49.4 Percutaneous transluminal cutting balloon angioplasty of coronary artery
 307944004,E301,E30.1 Excision of lesion of larynx using thyrotomy as approach
 231430008,V552,V55.2 Two levels of spine
@@ -17419,7 +17280,6 @@ snomed,opcs,opcs_term
 449134006,V553,V55.3 Greater than two levels of spine
 42534004,Z506,Z50.6 Skin of toe
 789147006,F089,F08.9 Unspecified implantation of tooth
-81333007,Z757,Z75.7 Coccyx
 709574000,Y971,Y97.1 Radiology with pre and post contrast
 300025007,S051,S05.1 Microscopically controlled excision of lesion of skin of head or neck using fresh tissue technique
 432374007,U133,U13.3 Magnetic resonance imaging of bone
@@ -17461,7 +17321,6 @@ snomed,opcs,opcs_term
 426580006,C796,C79.6 Internal tamponade of retina using liquid
 231568007,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 233108009,K148,K14.8 Other specified other open operations on septum of heart
-225230008,X418,X41.8 Other specified placement of ambulatory apparatus for compensation for renal failure
 37990009,W631,W63.1 Revision of arthrodesis and internal fixation NEC
 241576007,Z905,Z90.5 Foot NEC
 230921000,Z012,Z01.2 Tissue of temporal lobe of brain
@@ -17486,7 +17345,6 @@ snomed,opcs,opcs_term
 239691004,C171,C17.1 Suture of eyelid
 39029006,A842,A84.2 Electromyography
 275051003,L608,L60.8 Other specified reconstruction of femoral artery
-387615001,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 58057001,Z123,Z12.3 Sural nerve
 72223009,W168,W16.8 Other specified other division of bone
 6161000087100,Z942,Z94.2 Right sided operation
@@ -17606,7 +17464,6 @@ snomed,opcs,opcs_term
 1119007,W673,W67.3 Secondary open reduction of fracture dislocation of joint NEC
 63816008,J022,J02.2 Left hemihepatectomy NEC
 425809005,V369,V36.9 Unspecified prosthetic replacement of intervertebral disc
-276921001,Y534,Y53.4 Approach to organ under fluoroscopic control
 5865004,W675,W67.5 Remanipulation of fracture dislocation of joint
 438574003,V551,V55.1 One level of spine
 239320002,W165,W16.5 Osteotomy and external fixation NEC
@@ -17675,7 +17532,6 @@ snomed,opcs,opcs_term
 86480004,W206,W20.6 Wiring of sternum
 75282009,W271,W27.1 Permanent cross union epiphysiodesis
 703099004,E411,E41.1 Open insertion of tubal prosthesis in trachea
-178894007,W066,W06.6 Total excision of coccyx
 238171002,T231,T23.1 Repair of recurrent femoral hernia using insert of natural material
 274453002,W655,W65.5 Primary open reduction of fracture dislocation of joint and combined internal and external fixation
 176766002,Q021,Q02.1 Avulsion of lesion of cervix uteri
@@ -17687,7 +17543,6 @@ snomed,opcs,opcs_term
 443682009,W425,W42.5 Revision of one component of total prosthetic replacement of knee joint NEC
 217136007,M754,M75.4 Open extraction of calculus from urethra
 722416003,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
-14684005,X402,X40.2 Peritoneal dialysis NEC
 5119000,E356,E35.6 Endoscopic partial laryngectomy
 44291006,Y111,Y11.1 Cauterisation of organ NOC
 179160000,W264,W26.4 Remanipulation of fracture of bone NEC
@@ -17745,7 +17600,6 @@ snomed,opcs,opcs_term
 231003007,S209,S20.9 Unspecified other distant flap of skin
 112777008,Z762,Z76.2 Neck of femur
 177731007,S663,S66.3 Incision of nail bed
-77570000,T099,T09.9 Unspecified other open operations on pleura
 176616002,S243,S24.3 Local myocutaneous flap to head or neck NEC
 1331000087102,Z843,Z84.3 Hip joint
 80800000,Y112,Y11.2 Cryotherapy to organ NOC
@@ -18349,7 +18203,6 @@ snomed,opcs,opcs_term
 448189002,Y531,Y53.1 Approach to organ under radiological control
 386682000,Z856,Z85.6 Ankle joint
 287597004,Y531,Y53.1 Approach to organ under radiological control
-444688002,H354,H35.4 Fixation of rectum using fascia lata
 432001005,Z901,Z90.1 Buttock NEC
 232159002,S201,S20.1 Axial pattern distant flap of skin to head or neck
 438626009,M672,M67.2 Endoscopic destruction of lesion of prostate NEC
@@ -18591,7 +18444,6 @@ snomed,opcs,opcs_term
 45693007,Z631,Z63.1 Frontal bone
 241570001,Y982,Y98.2 Radiology of two body areas
 3749006,W263,W26.3 Remanipulation of fracture of bone and skeletal traction NEC
-387617009,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 36239005,C121,C12.1 Excision of lesion of eyelid NEC
 241283001,Y942,Y94.2 Octreotide imaging
 35022005,T688,T68.8 Other specified secondary repair of tendon
@@ -18608,7 +18460,6 @@ snomed,opcs,opcs_term
 360512003,W249,W24.9 Unspecified closed reduction of fracture of bone and internal fixation
 63513005,W649,W64.9 Unspecified conversion to fusion of other joint
 712729003,Z722,Z72.2 Scaphoid bone
-387616000,Y958,Y95.8 Other specified gestational age
 429541002,V551,V55.1 One level of spine
 178814008,V488,V48.8 Other specified denervation of spinal facet joint of vertebra
 429594006,C331,C33.1 Resection of medial rectus muscle of eye NEC
@@ -18730,7 +18581,6 @@ snomed,opcs,opcs_term
 271406004,A099,A09.9 Unspecified neurostimulation of brain
 282191000,V234,V23.4 Revisional anterior corpectomy of cervical spine with reconstruction HFQ
 447985005,Y082,Y08.2 Laser excision of lesion of organ NOC
-450640001,Y958,Y95.8 Other specified gestational age
 710302002,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 70627009,Y068,Y06.8 Other specified excision of lesion of organ NOC
 51968005,W064,W06.4 Total excision of sesamoid bone NEC
@@ -18869,7 +18719,6 @@ snomed,opcs,opcs_term
 86755003,W091,W09.1 Excision of lesion of bone NEC
 241472007,U216,U21.6 Ultrasound scan NEC
 273999003,A301,A30.1 Repair of optic nerve (ii)
-46415000,Z712,Z71.2 Shaft of ulna NEC
 9251000087100,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 11381000087101,Y971,Y97.1 Radiology with pre and post contrast
 252741004,A841,A84.1 Electroencephalography NEC
@@ -18883,7 +18732,6 @@ snomed,opcs,opcs_term
 90239000,W132,W13.2 Displacement osteotomy
 428917000,C831,C83.1 Pigment epithelium translocation of retina
 38653007,A318,A31.8 Intracranial stereotactic neurolysis of specified cranial nerve NEC
-10455003,Y441,Y44.1 Evacuation of contents of organ NOC
 449148006,Q545,Q54.5 Sacrohysteropexy
 359925009,T676,T67.6 Primary simple repair of tendon
 112725002,V559,V55.9 Unspecified levels of spine
@@ -18921,7 +18769,6 @@ snomed,opcs,opcs_term
 261000087102,Z942,Z94.2 Right sided operation
 46545004,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 1854003,Y301,Y30.1 Incision of lesion of organ NOC
-236883005,R289,R28.9 Unspecified instrumental removal of products of conception from delivered uterus
 233367008,L568,L56.8 Other specified emergency replacement of aneurysmal femoral artery
 88218008,Y751,Y75.1 Laparoscopically assisted approach to abdominal cavity
 440440003,W259,W25.9 Unspecified closed reduction of fracture of bone and external fixation
@@ -18980,7 +18827,6 @@ snomed,opcs,opcs_term
 87971000,W264,W26.4 Remanipulation of fracture of bone NEC
 386682000,Z869,Z86.9 Joint of foot NEC
 449727003,Q071,Q07.1 Abdominal hysterocolpectomy and excision of periuterine tissue
-23316000,Z683,Z68.3 Coracoid process of scapula
 383471000119101,Z238,Z23.8 Specified nasal sinus NEC
 709638002,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 35807001,E064,E06.4 Balloon packing of cavity of nose
@@ -19031,7 +18877,6 @@ snomed,opcs,opcs_term
 287730002,M038,M03.8 Other specified partial excision of kidney
 108164009,D282,D28.2 Examination of ear under anaesthetic
 448656003,W253,W25.3 Remanipulation of fracture of bone and external fixation HFQ
-367411006,Z572,Z57.2 Iliopsoas
 112974007,Y118,Y11.8 Other specified other destruction of organ NOC
 13433005,A023,A02.3 Excision of lesion of tissue of parietal lobe of brain
 447149006,C248,C24.8 Other specified operations on lacrimal gland
@@ -19092,7 +18937,6 @@ snomed,opcs,opcs_term
 5216004,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 56153009,O260,O26.0 Conversion from previous prosthetic replacement of head of radius NEC
 66799000,A672,A67.2 Release of entrapment of lateral cutaneous nerve of thigh
-230829002,A143,A14.3 Removal of cerebroventricular shunt
 178685003,V553,V55.3 Greater than two levels of spine
 16841000087107,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 232670008,E369,E36.9 Unspecified diagnostic endoscopic examination of larynx
@@ -19188,7 +19032,6 @@ snomed,opcs,opcs_term
 16437531000119105,R382,R38.2 Liquor volume scan
 447936000,J273,J27.3 Partial excision of bile duct and anastomosis of bile duct to jejunum
 22505000,Z785,Z78.5 Lower end of fibula NEC
-236883005,Y958,Y95.8 Other specified gestational age
 14441000,V553,V55.3 Greater than two levels of spine
 430294007,K608,K60.8 Other specified cardiac pacemaker system introduced through vein
 373641001,W261,W26.1 Manipulation of fracture of bone and skeletal traction NEC
@@ -19289,7 +19132,6 @@ snomed,opcs,opcs_term
 46485008,Z846,Z84.6 Knee joint
 231586005,C151,C15.1 Correction of ectropion NEC
 47458005,W581,W58.1 Primary resurfacing arthroplasty of joint
-700073007,Y954,Y95.4 Under 9 weeks gestational age
 360789000,M042,M04.2 Open excision of lesion of kidney NEC
 431620005,W903,W90.3 Injection of therapeutic substance into joint
 720364002,Y973,Y97.3 Radiology with post contrast
@@ -19336,7 +19178,6 @@ snomed,opcs,opcs_term
 440124005,Z864,Z86.4 Metatarsophalangeal joint of great toe
 47118000,H572,H57.2 Maintenance of artificial anal sphincter NEC
 429884006,U201,U20.1 Transthoracic echocardiography
-387617009,Q311,Q31.1 Removal of products of conception from fallopian tube
 432946009,Z974,Z97.4 Dorsalis pedis artery
 699152002,W233,W23.3 Secondary open reduction of intra-articular fracture of bone
 176399003,N013,N01.3 Destruction of lesion of scrotum
@@ -19847,7 +19688,6 @@ snomed,opcs,opcs_term
 702372001,S361,S36.1 Full thickness autograft of skin to head or neck
 265439007,J062,J06.2 Transjugular intrahepatic insertion of stent graft into portal vein
 42481001,Y052,Y05.2 Partial excision of organ NOC
-238321006,X402,X40.2 Peritoneal dialysis NEC
 449363000,Z723,Z72.3 Lunate
 274328004,S148,S14.8 Other specified shave biopsy of skin
 445959007,Y971,Y97.1 Radiology with pre and post contrast
@@ -19947,7 +19787,6 @@ snomed,opcs,opcs_term
 108150009,Y412,Y41.2 Endoscopic ultrasound staging examination of organ NOC
 232646009,E541,E54.1 Total pneumonectomy
 172523009,C723,C72.3 Cryoextraction of lens
-23316000,Z682,Z68.2 Acromion process of scapula
 36939002,Z768,Z76.8 Specified femur NEC
 448017005,W368,W36.8 Other specified diagnostic puncture of bone
 32827008,S102,S10.2 Cryotherapy to lesion of skin of head or neck
@@ -19961,7 +19800,6 @@ snomed,opcs,opcs_term
 948007,Z398,Z39.8 Specified vein NEC
 440437003,W243,W24.3 Closed reduction of fracture of long bone and flexible internal fixation HFQ
 432404005,U132,U13.2 Ultrasound of bone
-431337005,Y534,Y53.4 Approach to organ under fluoroscopic control
 432047002,J117,J11.7 Transjugular intrahepatic pressure measurements of hepatic vein
 179169004,W251,W25.1 Closed reduction of fracture of bone and fixation to skeleton HFQ
 27290008,V168,V16.8 Other specified division of mandible
@@ -19993,13 +19831,11 @@ snomed,opcs,opcs_term
 439523004,A762,A76.2 Chemical destruction of thoracic sympathetic nerve
 473229000,K621,K62.1 Percutaneous transluminal ablation of pulmonary vein to left atrium conducting system
 419084009,Z419,Z41.9 Upper urinary tract NEC
-62820003,K098,K09.8 Other specified repair of defect of atrioventricular septum
 2491000087104,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 1441000087100,U212,U21.2 Computed tomography NEC
 176042003,M251,M25.1 Excision of ureterocele
 82027008,C606,C60.6 Viscocanulostomy
 239306009,W149,W14.9 Unspecified diaphyseal division of bone
-367411006,T642,T64.2 Transfer of tendon to tendon NEC
 119779007,Y308,Y30.8 Other specified incision of organ NOC
 72456008,S401,S40.1 Tape closure of skin NEC
 448853008,W251,W25.1 Closed reduction of fracture of bone and fixation to skeleton HFQ
@@ -20027,7 +19863,6 @@ snomed,opcs,opcs_term
 816996009,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 3671000087106,U135,U13.5 Plain x-ray of bone
 239307000,W169,W16.9 Unspecified other division of bone
-271415006,Y954,Y95.4 Under 9 weeks gestational age
 433131007,Y943,Y94.3 Metaiodobenzylguanidine imaging
 405343001,Z385,Z38.5 Superficial femoral artery
 391131000119106,R382,R38.2 Liquor volume scan
@@ -20126,7 +19961,6 @@ snomed,opcs,opcs_term
 416708003,Z633,Z63.3 Temporal bone
 18778009,T652,T65.2 Excision of lesion of tendon
 232913000,Z328,Z32.8 Specified valve of heart NEC
-236883005,Q113,Q11.3 Evacuation of products of conception from uterus NEC
 42621009,Y717,Y71.7 Third or greater revisional operation NOC
 82731005,Z693,Z69.3 Neck of humerus
 252793002,A841,A84.1 Electroencephalography NEC
@@ -20255,7 +20089,6 @@ snomed,opcs,opcs_term
 76930006,U216,U21.6 Ultrasound scan NEC
 23147004,W183,W18.3 Sequestrectomy of bone
 239293007,W245,W24.5 Closed reduction of fragment of bone and fixation using screw
-11686006,Z708,Z70.8 Specified radius NEC
 449372008,W258,W25.8 Other specified closed reduction of fracture of bone and external fixation
 78585009,M652,M65.2 Endoscopic resection of prostate using punch
 764689005,Z989,Z98.9 Vein of lower limb NEC
@@ -20280,7 +20113,6 @@ snomed,opcs,opcs_term
 764550009,Y973,Y97.3 Radiology with post contrast
 433630009,Y948,Y94.8 Other specified radiopharmaceutical imaging
 287528001,E503,E50.3 Endoscopic destruction of lesion of lower respiratory tract using rigid bronchoscope NEC
-11686006,Z704,Z70.4 Styloid process of radius
 439424008,O175,O17.5 Remanipulation of fragment of bone and fixation using screw
 63971008,Y401,Y40.1 Dilation of stricture of organ NOC
 232561004,E341,E34.1 Microtherapeutic endoscopic extirpation of lesion of larynx using laser
@@ -20369,7 +20201,6 @@ snomed,opcs,opcs_term
 287246006,A762,A76.2 Chemical destruction of thoracic sympathetic nerve
 303237000,S066,S06.6 Re-excision of skin margins of head or neck
 700196009,J029,J02.9 Unspecified partial excision of liver
-181021005,W168,W16.8 Other specified other division of bone
 32428006,Y016,Y01.6 Alloreplacement of organ from cadaver NOC
 429510003,A075,A07.5 Multiple subpial transections
 257627006,D038,D03.8 Other specified plastic operations on external ear
@@ -20403,7 +20234,6 @@ snomed,opcs,opcs_term
 234653001,S279,S27.9 Unspecified other local flap of skin
 107755006,V543,V54.3 Osteotomy of spine NEC
 17459007,Z865,Z86.5 Metatarsophalangeal joint of toe NEC
-178894007,W064,W06.4 Total excision of sesamoid bone NEC
 59687004,E352,E35.2 Endoscopic resection of lesion of larynx
 231744001,C718,C71.8 Other specified extracapsular extraction of lens
 287597004,Y534,Y53.4 Approach to organ under fluoroscopic control
@@ -20964,7 +20794,6 @@ snomed,opcs,opcs_term
 440572003,W244,W24.4 Closed reduction of fracture of small bone and fixation using screw
 22122007,Y013,Y01.3 Xenoreplacement of organ NOC
 172996004,E309,E30.9 Unspecified open extirpation of lesion of larynx
-236883005,Q111,Q11.1 Vacuum aspiration of products of conception from uterus NEC
 241504009,Y973,Y97.3 Radiology with post contrast
 432813004,Y534,Y53.4 Approach to organ under fluoroscopic control
 20783001,W672,W67.2 Secondary open reduction of traumatic dislocation of joint and skeletal traction NEC
@@ -21162,7 +20991,6 @@ snomed,opcs,opcs_term
 233317001,Z352,Z35.2 Ophthalmic artery
 303868005,Y938,Y93.8 Other specified gallium-67 imaging
 239547008,V559,V55.9 Unspecified levels of spine
-440235008,O281,O28.1 Basilar artery
 14316006,S138,S13.8 Other specified punch biopsy of skin
 764728005,U112,U11.2 Doppler ultrasound of vessels of extremities
 472818003,T109,T10.9 Unspecified therapeutic endoscopic operations on pleura
@@ -21397,7 +21225,6 @@ snomed,opcs,opcs_term
 89355001,V292,V29.2 Primary hemilaminectomy excision of cervical intervertebral disc
 300896003,Q284,Q28.4 Open clipping of fallopian tube NEC
 37990009,W640,W64.0 Conversion from previous arthrodesis NEC
-47329006,V559,V55.9 Unspecified levels of spine
 448892001,W125,W12.5 Biosseus angulation periarticular osteotomy NEC
 44478007,W086,W08.6 Disarticulation of bone
 253292002,C181,C18.1 Correction of ptosis of eyelid using levator muscle technique
@@ -21414,7 +21241,6 @@ snomed,opcs,opcs_term
 32413006,K029,K02.9 Unspecified other transplantation of heart
 39856007,Z903,Z90.3 Upper leg NEC
 359543003,Y309,Y30.9 Unspecified incision of organ NOC
-431612008,A528,A52.8 Other specified therapeutic epidural injection
 773143005,Z161,Z16.1 Orbit
 239348002,V051,V05.1 Extirpation of lesion of cranium
 450782005,V551,V55.1 One level of spine
@@ -21661,7 +21487,6 @@ snomed,opcs,opcs_term
 112826006,Y058,Y05.8 Other specified excision of organ NOC
 241268006,Z989,Z98.9 Vein of lower limb NEC
 713687000,O180,O18.0 Conversion from previous hybrid prosthetic replacement of knee joint using cement
-257833000,W281,W28.1 Application of internal fixation to bone NEC
 54301007,W062,W06.2 Total excision of rib NEC
 308000002,N031,N03.1 Biopsy of lesion of scrotum
 764677008,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
@@ -21714,7 +21539,6 @@ snomed,opcs,opcs_term
 426632004,V558,V55.8 Other specified levels of spine
 719169005,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 432842007,Z398,Z39.8 Specified vein NEC
-236883005,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 287478001,Q181,Q18.1 Diagnostic endoscopic examination of uterus and biopsy of lesion of uterus
 241494004,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 56148004,Z574,Z57.4 Adductor muscle of thigh
@@ -22116,7 +21940,6 @@ snomed,opcs,opcs_term
 47029003,F582,F58.2 Operations on submandibular duct NEC
 408740001,Y973,Y97.3 Radiology with post contrast
 448173000,E484,E48.4 Fibreoptic endoscopic aspiration of lower respiratory tract
-271415006,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 120125004,Y269,Y26.9 Unspecified other repair of organ NOC
 232721002,K403,K40.3 Saphenous vein graft replacement of three coronary arteries
 178546001,V558,V55.8 Other specified levels of spine
@@ -22208,12 +22031,9 @@ snomed,opcs,opcs_term
 82311008,F483,F48.3 Repair of salivary gland NEC
 781527008,Y971,Y97.1 Radiology with pre and post contrast
 782740003,A639,A63.9 Unspecified other graft to peripheral nerve
-448699008,K614,K61.4 Removal of cardiac pacemaker system NEC
 230844001,A181,A18.1 Diagnostic endoscopic examination of ventricle of brain and biopsy of lesion of ventricle of brain
 312967000,S065,S06.5 Excision of lesion of skin of head or neck NEC
-178894007,W063,W06.3 Total excision of patella
 448367007,Z799,Z79.9 Bone of tarsus NEC
-46415000,Z711,Z71.1 Olecranon process of ulna
 445746008,Y466,Y46.6 Infratentorial open approach to contents of cranium
 440376001,O173,O17.3 Remanipulation of fracture of long bone and flexible internal fixation HFQ
 448853008,W235,W23.5 Secondary open reduction of fracture of bone and external fixation HFQ
@@ -22324,7 +22144,6 @@ snomed,opcs,opcs_term
 48320007,Y715,Y71.5 Failed percutaneous transluminal approach converted to open
 67484007,V109,V10.9 Unspecified division of bone of face
 432813004,M336,M33.6 Percutaneous removal of ureteric stent from ureter NEC
-177200004,R281,R28.1 Curettage of delivered uterus
 274458006,W679,W67.9 Unspecified secondary reduction of traumatic dislocation of joint
 12341000,Y938,Y93.8 Other specified gallium-67 imaging
 24044003,W365,W36.5 Diagnostic extraction of bone marrow NEC
@@ -22589,7 +22408,6 @@ snomed,opcs,opcs_term
 715288002,Y971,Y97.1 Radiology with pre and post contrast
 27493007,A639,A63.9 Unspecified other graft to peripheral nerve
 5992009,W649,W64.9 Unspecified conversion to fusion of other joint
-387616000,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 232920007,K297,K29.7 Replacement of truncal valve
 13387000,W749,W74.9 Unspecified other reconstruction of ligament
 432368007,Z239,Z23.9 Nasal sinus NEC
@@ -22916,7 +22734,6 @@ snomed,opcs,opcs_term
 443050007,W243,W24.3 Closed reduction of fracture of long bone and flexible internal fixation HFQ
 78136005,V104,V10.4 Low level osteotomy of maxilla
 448101002,Z791,Z79.1 Talus
-310604000,Y958,Y95.8 Other specified gestational age
 29347003,Y252,Y25.2 Resuture of organ NOC
 16881002,M082,M08.2 Open denervation of kidney
 13088001,Y973,Y97.3 Radiology with post contrast
@@ -22942,7 +22759,6 @@ snomed,opcs,opcs_term
 722416003,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 239295000,W215,W21.5 Primary extra-articular reduction of intra-articular fracture of bone
 443187002,S053,S05.3 Microscopically controlled excision of lesion of skin of head or neck using chemosurgical technique
-367411006,T643,T64.3 Multiple insertion of tendons into bone
 239312004,W141,W14.1 Angulation diaphyseal osteotomy and internal fixation HFQ
 87338009,Y971,Y97.1 Radiology with pre and post contrast
 171479006,A071,A07.1 Open division of tissue of brain
@@ -22978,7 +22794,6 @@ snomed,opcs,opcs_term
 232571002,E361,E36.1 Diagnostic endoscopic examination of larynx and biopsy of lesion of larynx
 897280004,Y973,Y97.3 Radiology with post contrast
 82917000,V034,V03.4 Reopening of cranium NEC
-178686002,V551,V55.1 One level of spine
 288151005,W293,W29.3 Removal of skeletal traction from bone
 25084003,A542,A54.2 Injection of therapeutic substance into cerebrospinal fluid
 699169000,W218,W21.8 Other specified primary open reduction of intra-articular fracture of bone
@@ -23052,7 +22867,6 @@ snomed,opcs,opcs_term
 447699006,V551,V55.1 One level of spine
 447871004,W368,W36.8 Other specified diagnostic puncture of bone
 447650007,Z651,Z65.1 Mandible
-700073007,Y951,Y95.1 Over 20 weeks gestational age
 273999003,A642,A64.2 Primary repair of peripheral nerve NEC
 19621000087108,Y539,Y53.9 Unspecified approach to organ under image control
 206175003,C013,C01.3 Evisceration of eye
@@ -23332,7 +23146,6 @@ snomed,opcs,opcs_term
 311887001,P205,P20.5 Implantation of radioactive substance into vagina
 142007,T772,T77.2 Wide excision of muscle
 15749009,A202,A20.2 Ventriculography of brain
-444688002,H352,H35.2 Posterior fixation of rectum using prosthetic material
 23379002,Y301,Y30.1 Incision of lesion of organ NOC
 434366007,L635,L63.5 Percutaneous transluminal insertion of stent into femoral artery
 450791009,V551,V55.1 One level of spine
@@ -23362,7 +23175,6 @@ snomed,opcs,opcs_term
 425945007,Y973,Y97.3 Radiology with post contrast
 448953009,Z801,Z80.1 First metatarsal
 432367002,Z759,Z75.9 Bone of pelvis NEC
-63077009,K234,K23.4 Revascularisation of wall of heart
 119727006,E315,E31.5 Attention to artificial voice box in larynx
 439938007,W247,W24.7 Closed reduction of fracture of bone and fixation using plate
 418881009,Z983,Z98.3 Superficial femoral vein
@@ -23373,11 +23185,9 @@ snomed,opcs,opcs_term
 448206004,V553,V55.3 Greater than two levels of spine
 16522741000119100,Y971,Y97.1 Radiology with pre and post contrast
 231418002,Y112,Y11.2 Cryotherapy to organ NOC
-699796007,A128,A12.8 Other specified creation of connection from ventricle of brain
 168664002,Y971,Y97.1 Radiology with pre and post contrast
 312849006,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
 233049006,K092,K09.2 Repair of defect of atrioventricular septum using prosthetic patch NEC
-178894007,O099,O09.9 Unspecified placement of bone prosthesis
 771105002,Z942,Z94.2 Right sided operation
 1689004,Q433,Q43.3 Marsupialisation of lesion of ovary
 287708003,M428,M42.8 Other specified endoscopic extirpation of lesion of bladder
@@ -23417,7 +23227,6 @@ snomed,opcs,opcs_term
 76992000,Z846,Z84.6 Knee joint
 177835007,T152,T15.2 Repair of postoperative rupture of diaphragm
 359921000,Z584,Z58.4 Tibialis anterior
-77570000,T094,T09.4 Chemical open pleurodesis
 73610000,Y309,Y30.9 Unspecified incision of organ NOC
 394681000119101,Z019,Z01.9 Tissue of brain NEC
 59389009,W314,W31.4 Cancellous chip autograft of bone
@@ -23676,7 +23485,6 @@ snomed,opcs,opcs_term
 448504002,W303,W30.3 Removal of external fixation from bone NEC
 176692001,S258,S25.8 Other specified local flap of skin and fascia
 287600003,K639,K63.9 Unspecified contrast radiology of heart
-440235008,Z356,Z35.6 Posterior communicating artery
 178570002,V558,V55.8 Other specified levels of spine
 40695002,Z679,Z67.9 Intervertebral joint NEC
 287707008,M651,M65.1 Endoscopic resection of prostate using electrotome
@@ -23727,7 +23535,6 @@ snomed,opcs,opcs_term
 112908009,Y258,Y25.8 Other specified suture of organ NOC
 432154005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 429639007,Y534,Y53.4 Approach to organ under fluoroscopic control
-236883005,Q101,Q10.1 Dilation of cervix uteri and curettage of products of conception from uterus
 179966005,O323,O32.3 Revision of total prosthetic replacement of ankle joint NEC
 440531000,W245,W24.5 Closed reduction of fragment of bone and fixation using screw
 239426007,W732,W73.2 Extra-articular prosthetic augmentation of intra-articular ligament NEC
@@ -23815,7 +23622,6 @@ snomed,opcs,opcs_term
 772247005,Z989,Z98.9 Vein of lower limb NEC
 81099000,V552,V55.2 Two levels of spine
 129241004,Z662,Z66.2 Axis bone
-419470007,Y222,Y22.2 Aspiration of other lesion of organ NOC
 41284009,Y072,Y07.2 Clipping of organ NOC
 5216004,Y971,Y97.1 Radiology with pre and post contrast
 16496009,V558,V55.8 Other specified levels of spine
@@ -23955,7 +23761,6 @@ snomed,opcs,opcs_term
 64853007,P211,P21.1 Construction of vagina
 302362005,M302,M30.2 Endoscopic catheterisation of ureter
 240977001,S149,S14.9 Unspecified shave biopsy of skin
-431612008,A522,A52.2 Therapeutic sacral epidural injection
 234670009,F093,F09.3 Surgical removal of wisdom tooth NEC
 418982001,Y534,Y53.4 Approach to organ under fluoroscopic control
 176795006,Q228,Q22.8 Other specified bilateral excision of adnexa of uterus
@@ -23984,7 +23789,6 @@ snomed,opcs,opcs_term
 447867002,W162,W16.2 Multiple osteotomy and external fixation HFQ
 58884004,W816,W81.6 Capsulorrhaphy of joint
 16547921000119107,Y533,Y53.3 Approach to organ under computed tomography scan control
-711430006,Y221,Y22.1 Aspiration of haematoma of organ NOC
 6111000087102,Y973,Y97.3 Radiology with post contrast
 88696001,D208,D20.8 Other specified other operations on middle ear
 59601001,Z474,Z47.4 Skin of nasolabial area
@@ -24022,7 +23826,6 @@ snomed,opcs,opcs_term
 241611001,Z264,Z26.4 Salivary gland
 5216004,U202,U20.2 Transoesophageal echocardiography
 176616002,S271,S27.1 Axial pattern local flap of skin to head or neck NEC
-387617009,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 239312004,W144,W14.4 Rotation diaphyseal osteotomy and internal fixation HFQ
 17537007,Y066,Y06.6 Vacuum excision of lesion of organ NOC
 252803002,Y442,Y44.2 Monitoring of pressure in organ NOC
@@ -24289,7 +24092,6 @@ snomed,opcs,opcs_term
 361156002,Q208,Q20.8 Other specified other operations on uterus
 11665006,N154,N15.4 Drainage of epididymis
 51189002,Z774,Z77.4 Upper end of tibia NEC
-14477007,Z696,Z69.6 Medial epicondyle of humerus
 4387005,K041,K04.1 Repair of tetralogy of Fallot using valved right ventricular outflow conduit
 433794007,T625,T62.5 Injection into bursa
 18816008,O069,O06.9 Unspecified hybrid prosthetic replacement of shoulder joint using cemented humeral component
@@ -24385,8 +24187,6 @@ snomed,opcs,opcs_term
 429558007,V559,V55.9 Unspecified levels of spine
 119614000,W463,W46.3 Revision of prosthetic replacement of head of femur using cement
 236840004,P136,P13.6 Operations on female periurethral tissue NEC
-110474005,E878,E87.8 Other specified oxygen therapy support
-440235008,Z358,Z35.8 Specified cerebral artery NEC
 89355001,V311,V31.1 Primary anterolateral excision of thoracic intervertebral disc and graft HFQ
 37364004,K342,K34.2 Annuloplasty of tricuspid valve
 440456008,Y973,Y97.3 Radiology with post contrast
@@ -24449,7 +24249,6 @@ snomed,opcs,opcs_term
 49109005,S012,S01.2 Facelift NEC
 20013001,V093,V09.3 Reduction of fracture of zygomatic complex of bones
 61353001,Z421,Z42.1 Bladder NEC
-81333007,Z759,Z75.9 Bone of pelvis NEC
 76359002,Q528,Q52.8 Other specified operations on broad ligament of uterus
 19688005,V551,V55.1 One level of spine
 430471009,Z856,Z85.6 Ankle joint
@@ -24568,7 +24367,6 @@ snomed,opcs,opcs_term
 172768004,S271,S27.1 Axial pattern local flap of skin to head or neck NEC
 112725002,V622,V62.2 Primary percutaneous intradiscal radiofrequency thermocoagulation to thoracic intervertebral disc
 311482001,V552,V55.2 Two levels of spine
-238319001,X402,X40.2 Peritoneal dialysis NEC
 15372008,S352,S35.2 Meshed split autograft of skin NEC
 86954007,M728,M72.8 Other specified excision of urethra
 23331009,S455,S45.5 Removal of foreign body from skin of head or neck NEC
@@ -24614,7 +24412,6 @@ snomed,opcs,opcs_term
 215065003,Y067,Y06.7 Radiofrequency excision of lesion of organ NOC
 47118000,H576,H57.6 Maintenance of dynamic graciloplasty sphincter
 20142006,E544,E54.4 Excision of segment of lung
-14477007,Z697,Z69.7 Lower end of humerus NEC
 119863003,F048,F04.8 Other specified other reconstruction of lip
 231071008,Z096,Z09.6 Anterior interosseous nerve
 413650000,E101,E10.1 Biopsy of lesion of nose NEC
@@ -24625,7 +24422,6 @@ snomed,opcs,opcs_term
 52728000,E339,E33.9 Unspecified other open operations on larynx
 830079008,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 449879007,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
-443291003,W291,W29.1 Application of skeletal traction to bone NEC
 449460001,Z792,Z79.2 Os calcis
 440690008,T774,T77.4 Debridement of muscle NEC
 69852004,Y428,Y42.8 Other specified manipulation of organ NOC
@@ -24844,7 +24640,6 @@ snomed,opcs,opcs_term
 178749005,V559,V55.9 Unspecified levels of spine
 265234000,A571,A57.1 Extirpation of lesion of spinal nerve root
 449515004,W921,W92.1 Biopsy of lesion of joint NEC
-54334009,W333,W33.3 Suture of periosteum
 63992008,Y063,Y06.3 Enucleation of lesion of organ NOC
 10658007,A641,A64.1 Primary approximation of peripheral nerve
 233047008,K098,K09.8 Other specified repair of defect of atrioventricular septum
@@ -25092,7 +24887,6 @@ snomed,opcs,opcs_term
 302439007,S549,S54.9 Unspecified exploration of burnt skin of head or neck
 13769001,C347,C34.7 Tenotomy of combinations of muscles of eye
 4957007,V377,V37.7 Fusion of occipitocervical junction NEC
-225230008,X412,X41.2 Removal of ambulatory peritoneal dialysis catheter
 24058001,U208,U20.8 Other specified diagnostic Echocardiography
 65839000,Y973,Y97.3 Radiology with post contrast
 70596000,W679,W67.9 Unspecified secondary reduction of traumatic dislocation of joint
@@ -25117,7 +24911,6 @@ snomed,opcs,opcs_term
 112701005,W085,W08.5 Partial excision of bone NEC
 699800001,S202,S20.2 Axial pattern distant flap of skin NEC
 446922003,Y065,Y06.5 Gamma wave excision of lesion of organ NOC
-62820003,K041,K04.1 Repair of tetralogy of Fallot using valved right ventricular outflow conduit
 64622008,Y531,Y53.1 Approach to organ under radiological control
 439938007,W251,W25.1 Closed reduction of fracture of bone and fixation to skeleton HFQ
 447594008,A389,A38.9 Unspecified extirpation of lesion of meninges of brain
@@ -25337,7 +25130,6 @@ snomed,opcs,opcs_term
 699144000,Z705,Z70.5 Lower end of radius NEC
 26786002,C544,C54.4 Buckling of sclera and local or encircling explant HFQ
 307288003,V081,V08.1 Reduction of fracture of alveolus of maxilla
-287286003,K678,K67.8 Other specified excision of pericardium
 431756003,Y973,Y97.3 Radiology with post contrast
 433875009,U212,U21.2 Computed tomography NEC
 85830006,K294,K29.4 Replacement of valve of heart NEC
@@ -25433,7 +25225,6 @@ snomed,opcs,opcs_term
 5081000087102,Z943,Z94.3 Left sided operation
 46282009,E388,E38.8 Other specified other operations on larynx
 719893002,Z029,Z02.9 Ventricle of brain NEC
-443627000,K202,K20.2 Correction of partial anomalous pulmonary venous drainage
 294002,V438,V43.8 Other specified extirpation of lesion of spine
 40916003,E489,E48.9 Unspecified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 6778001,Y201,Y20.1 Stereotactic biopsy of lesion of organ NOC
@@ -25545,7 +25336,6 @@ snomed,opcs,opcs_term
 446248004,S159,S15.9 Unspecified other biopsy of skin
 90239000,W164,W16.4 Osteotomy and internal fixation NEC
 88961004,E241,E24.1 Endoscopic extirpation of lesion of nasopharynx
-225231007,X421,X42.1 Insertion of temporary peritoneal dialysis catheter
 405301008,Z605,Z60.5 Muscle of chest
 699143006,Z765,Z76.5 Lower end of femur NEC
 172796005,Y713,Y71.3 Revisional operations NOC
@@ -25744,7 +25534,6 @@ snomed,opcs,opcs_term
 265717009,V553,V55.3 Greater than two levels of spine
 241504009,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 359969002,T094,T09.4 Chemical open pleurodesis
-271415006,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 13757009,Z694,Z69.4 Mid shaft of humerus
 396207002,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 50323003,Z383,Z38.3 Common femoral artery
@@ -26044,7 +25833,6 @@ snomed,opcs,opcs_term
 284023006,Y258,Y25.8 Other specified suture of organ NOC
 176693006,S208,S20.8 Other specified other distant flap of skin
 69171004,W085,W08.5 Partial excision of bone NEC
-14477007,Z698,Z69.8 Specified humerus NEC
 425559005,Y973,Y97.3 Radiology with post contrast
 241561004,Z759,Z75.9 Bone of pelvis NEC
 450514003,M671,M67.1 Endoscopic cryotherapy to lesion of prostate
@@ -26078,7 +25866,6 @@ snomed,opcs,opcs_term
 21151000087104,Z907,Z90.7 Toe NEC
 1172769003,F121,F12.1 Apicectomy of tooth
 50141002,C543,C54.3 Buckling of sclera and implant HFQ
-178894007,W069,W06.9 Unspecified total excision of bone
 35757004,K585,K58.5 Transluminal intracardiac echocardiography
 440315009,W247,W24.7 Closed reduction of fracture of bone and fixation using plate
 373357006,Y061,Y06.1 Marsupialisation of organ NOC
@@ -26173,7 +25960,6 @@ snomed,opcs,opcs_term
 241130002,U217,U21.7 Plain x-ray NEC
 74864006,T645,T64.5 Tenodesis
 52858001,V541,V54.1 Transoral excision of odontoid process of axis
-438999008,Z918,Z91.8 Specified vein of upper body NEC
 713499001,E132,E13.2 Excision of lesion of maxillary antrum
 232525009,E218,E21.8 Other specified repair of pharynx
 241504009,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
@@ -26539,7 +26325,6 @@ snomed,opcs,opcs_term
 17481000087102,Z909,Z90.9 Leg region NEC
 448261006,Z785,Z78.5 Lower end of fibula NEC
 61000087103,U215,U21.5 Contrast fluoroscopy NEC
-178686002,V058,V05.8 Other specified other operations on cranium
 47596009,W469,W46.9 Unspecified prosthetic replacement of head of femur using cement
 303621003,E191,E19.1 Total pharyngectomy
 718030008,Y534,Y53.4 Approach to organ under fluoroscopic control
@@ -26638,7 +26423,6 @@ snomed,opcs,opcs_term
 4421000087107,Z846,Z84.6 Knee joint
 169140007,Y939,Y93.9 Unspecified gallium-67 imaging
 7634006,V553,V55.3 Greater than two levels of spine
-23316000,Z685,Z68.5 Scapula NEC
 11954004,J042,J04.2 Repair of laceration of liver
 31757006,W161,W16.1 Multiple osteotomy and internal fixation HFQ
 48127001,Z788,Z78.8 Specified bone of lower leg NEC
@@ -26648,7 +26432,6 @@ snomed,opcs,opcs_term
 168892005,Y973,Y97.3 Radiology with post contrast
 287382003,E051,E05.1 Cauterisation of internal nose
 236149001,M068,M06.8 Other specified incision of kidney
-68408006,Z722,Z72.2 Scaphoid bone
 229467006,W663,W66.3 Primary manipulative closed reduction of fracture dislocation of joint NEC
 50067005,W332,W33.2 Debridement of open fracture of bone
 309876004,Q029,Q02.9 Unspecified destruction of lesion of cervix uteri
@@ -26712,7 +26495,6 @@ snomed,opcs,opcs_term
 447983003,E352,E35.2 Endoscopic resection of lesion of larynx
 20021000087104,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 236975003,R212,R21.2 High forceps cephalic delivery NEC
-176929000,Y954,Y95.4 Under 9 weeks gestational age
 314617008,Y092,Y09.2 Injection of other destructive substance into organ NOC
 232800007,K342,K34.2 Annuloplasty of tricuspid valve
 438626009,Y084,Y08.4 Laser destruction of lesion of organ NOC
@@ -26771,7 +26553,6 @@ snomed,opcs,opcs_term
 229469009,Y428,Y42.8 Other specified manipulation of organ NOC
 1241000087104,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 265172001,W414,W41.4 Revision of one component of total prosthetic replacement of knee joint not using cement
-67542001,W333,W33.3 Suture of periosteum
 698979008,Z473,Z47.3 Skin of cheek
 233014004,Z942,Z94.2 Right sided operation
 54312007,Z762,Z76.2 Neck of femur
@@ -26780,7 +26561,6 @@ snomed,opcs,opcs_term
 282191000,V256,V25.6 Primary lateral foraminotomy of lumbar spine
 439424008,W252,W25.2 Closed reduction of fracture of bone and fixation using functional bracing system
 38690008,W222,W22.2 Primary open reduction of fracture of bone and external fixation HFQ
-420231008,K578,K57.8 Other specified other therapeutic transluminal operations on heart
 119838003,S105,S10.5 Electrodessication of lesion of skin of head or neck
 173834007,W065,W06.5 Total excision of bone of foot NEC
 312364000,U113,U11.3 Vascular ultrasound NEC
@@ -27140,7 +26920,6 @@ snomed,opcs,opcs_term
 270677005,N099,N09.9 Unspecified other placement of testis in scrotum
 447865005,Z704,Z70.4 Styloid process of radius
 447156000,Y474,Y47.4 Transmastoid burrhole approach to contents of cranium
-367411006,T648,T64.8 Other specified transposition of tendon
 269612002,Z763,Z76.3 Trochanter of femur
 178989006,W315,W31.5 Vascularised pedicle autograft of bone
 698981005,S261,S26.1 Axial pattern local subcutaneous pedicle flap of skin to head or neck
@@ -27214,7 +26993,6 @@ snomed,opcs,opcs_term
 232611001,E402,E40.2 Reconstruction of trachea using graft
 449002000,V552,V55.2 Two levels of spine
 172996004,E308,E30.8 Other specified open extirpation of lesion of larynx
-112934001,V551,V55.1 One level of spine
 274099007,Z787,Z78.7 Patella
 65061006,W229,W22.9 Unspecified other primary open reduction of fracture of bone
 43135000,C108,C10.8 Other specified operations on eyebrow
@@ -27234,7 +27012,6 @@ snomed,opcs,opcs_term
 64201008,M762,M76.2 Endoscopic removal of foreign body from urethra
 440686006,Y931,Y93.1 Gallium-67 imaging scan
 440226001,W241,W24.1 Closed reduction of intracapsular fracture of neck of femur and fixation using nail or screw
-431337005,L661,L66.1 Percutaneous transluminal arterial thrombolysis and reconstruction
 440559004,W259,W25.9 Unspecified closed reduction of fracture of bone and external fixation
 47458005,W396,W39.6 Closed reduction of dislocated total prosthetic replacement of hip joint
 180660000,Y549,Y54.9 Unspecified harvest of nerve
@@ -27348,7 +27125,6 @@ snomed,opcs,opcs_term
 231031003,A571,A57.1 Extirpation of lesion of spinal nerve root
 55705006,V662,V66.2 Revisional posterior fusion of atlantoaxial joint using transarticular screw
 48007004,M369,M36.9 Unspecified enlargement of bladder
-387616000,Y951,Y95.1 Over 20 weeks gestational age
 439490005,C848,C84.8 Other specified other operations on retina
 431675003,Y534,Y53.4 Approach to organ under fluoroscopic control
 392238003,W403,W40.3 Revision of total prosthetic replacement of knee joint using cement
@@ -27569,7 +27345,6 @@ snomed,opcs,opcs_term
 2178007,M231,M23.1 Open ureterolithotomy
 446210009,Y069,Y06.9 Unspecified excision of lesion of organ NOC
 241405008,Y938,Y93.8 Other specified gallium-67 imaging
-81333007,Z755,Z75.5 Ramus of pubis
 770606008,W399,W39.9 Unspecified other total prosthetic replacement of hip joint
 178407001,V101,V10.1 Intracranial osteotomy of bone of face
 438593001,Y942,Y94.2 Octreotide imaging
@@ -27583,7 +27358,6 @@ snomed,opcs,opcs_term
 443517001,Y971,Y97.1 Radiology with pre and post contrast
 265656008,S099,S09.9 Unspecified photodestruction of lesion of skin
 69257001,Z788,Z78.8 Specified bone of lower leg NEC
-440235008,Z355,Z35.5 Posterior cerebral artery
 70353009,Y014,Y01.4 Alloreplacement of organ from cadaver heart beating NOC
 442921007,Y973,Y97.3 Radiology with post contrast
 449644007,L845,L84.5 Combined operations on recurrent short saphenous vein
@@ -27600,7 +27374,6 @@ snomed,opcs,opcs_term
 253694007,Z698,Z69.8 Specified humerus NEC
 55162003,F104,F10.4 Extraction of multiple teeth NEC
 37191009,Z708,Z70.8 Specified radius NEC
-431612008,A523,A52.3 Epidural blood patch
 360512003,W248,W24.8 Other specified closed reduction of fracture of bone and internal fixation
 38722003,C452,C45.2 Excision of lesion of cornea NEC
 18816008,W970,W97.0 Conversion from total prosthetic replacement of shoulder joint not using cement
@@ -28064,7 +27837,6 @@ snomed,opcs,opcs_term
 718326004,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 77821006,Z732,Z73.2 Metacarpal NEC
 726011000,K753,K75.3 Percutaneous transluminal balloon angioplasty and insertion of 1-2 stents into coronary artery
-178894007,W062,W06.2 Total excision of rib NEC
 308670002,Z328,Z32.8 Specified valve of heart NEC
 180732009,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 429823002,Y948,Y94.8 Other specified radiopharmaceutical imaging
@@ -28084,7 +27856,6 @@ snomed,opcs,opcs_term
 698520001,Z479,Z47.9 Skin of face NEC
 264990007,Z599,Z59.9 Muscle of foot NEC
 1891000087105,Y971,Y97.1 Radiology with pre and post contrast
-408818004,R141,R14.1 Forewater rupture of amniotic membrane
 373641001,W259,W25.9 Unspecified closed reduction of fracture of bone and external fixation
 13392003,E388,E38.8 Other specified other operations on larynx
 428372009,A679,A67.9 Unspecified release of entrapment of peripheral nerve at other site
@@ -28103,7 +27874,6 @@ snomed,opcs,opcs_term
 276178005,W472,W47.2 Conversion to prosthetic replacement of head of femur not using cement
 310395004,K255,K25.5 Mitral valve repair NEC
 49194008,C118,C11.8 Other specified operations on canthus
-236883005,R298,R29.8 Other specified manual removal of products of conception from delivered uterus
 10988000,W655,W65.5 Primary open reduction of fracture dislocation of joint and combined internal and external fixation
 105377009,Y973,Y97.3 Radiology with post contrast
 203644001,C552,C55.2 Corneoscleral trephine
@@ -28252,7 +28022,6 @@ snomed,opcs,opcs_term
 237001001,R151,R15.1 Medical induction of labour
 168890002,Z469,Z46.9 Female genital tract NEC
 449372008,W308,W30.8 Other specified other external fixation of bone
-427560001,O061,O06.1 Primary hybrid prosthetic replacement of shoulder joint using cemented humeral component
 716038008,W904,W90.4 Injection into joint NEC
 69051005,K042,K04.2 Repair of tetralogy of Fallot using right ventricular outflow conduit NEC
 440702002,V558,V55.8 Other specified levels of spine
@@ -28296,7 +28065,6 @@ snomed,opcs,opcs_term
 432310006,Y938,Y93.8 Other specified gallium-67 imaging
 718007002,U365,U36.5 Cone beam computed tomography NEC
 35713003,V559,V55.9 Unspecified levels of spine
-73341009,Y298,Y29.8 Other specified removal of foreign body from organ NOC
 440627004,W246,W24.6 Closed reduction of fracture of bone and fixation using nail or screw
 24485004,W173,W17.3 Traction lengthening of epiphyseal plate of bone
 11981000087102,Y531,Y53.1 Approach to organ under radiological control
@@ -28322,7 +28090,6 @@ snomed,opcs,opcs_term
 18517006,Z574,Z57.4 Adductor muscle of thigh
 410351000119101,Z905,Z90.5 Foot NEC
 361240004,A628,A62.8 Other specified microsurgical repair of peripheral nerve
-387615001,Y951,Y95.1 Over 20 weeks gestational age
 178052005,T524,T52.4 Revision of plantar fasciectomy
 22748009,Z804,Z80.4 Phalanx of toe NEC
 433021002,Y971,Y97.1 Radiology with pre and post contrast
@@ -28546,7 +28313,6 @@ snomed,opcs,opcs_term
 81203002,Z765,Z76.5 Lower end of femur NEC
 446872002,S068,S06.8 Other specified other excision of lesion of skin
 361242007,A625,A62.5 Secondary microsurgical repair of peripheral nerve NEC
-440235008,Y534,Y53.4 Approach to organ under fluoroscopic control
 429017006,L881,L88.1 Percutaneous transluminal laser ablation of long saphenous vein
 307720007,V334,V33.4 Primary anterior excision of lumbar intervertebral disc NEC
 387747000,Y131,Y13.1 Cauterisation of lesion of organ NOC
@@ -28770,7 +28536,6 @@ snomed,opcs,opcs_term
 450338003,A673,A67.3 Release of entrapment of plantar digital nerve
 42534004,S063,S06.3 Shave excision of lesion of skin of head or neck
 14573009,Y412,Y41.2 Endoscopic ultrasound staging examination of organ NOC
-176929000,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 440361009,W247,W24.7 Closed reduction of fracture of bone and fixation using plate
 58809006,W814,W81.4 Incision of joint NEC
 426506002,K049,K04.9 Unspecified repair of tetralogy of Fallot
@@ -28815,7 +28580,6 @@ snomed,opcs,opcs_term
 77018005,L348,L34.8 Other specified other open operations on cerebral artery
 443050007,W244,W24.4 Closed reduction of fracture of small bone and fixation using screw
 80151008,V553,V55.3 Greater than two levels of spine
-178686002,V558,V55.8 Other specified levels of spine
 183579007,Y469,Y46.9 Unspecified open approach to contents of cranium
 438345008,Y532,Y53.2 Approach to organ under ultrasonic control
 440372004,Y534,Y53.4 Approach to organ under fluoroscopic control
@@ -28859,7 +28623,6 @@ snomed,opcs,opcs_term
 44972003,Y528,Y52.8 Other specified approach to organ through other opening
 231076003,A755,A75.5 Excision of splanchnic sympathetic nerve
 176949009,Q282,Q28.2 Open ligation of fallopian tube NEC
-444688002,H359,H35.9 Unspecified fixation of rectum for prolapse
 440417002,W263,W26.3 Remanipulation of fracture of bone and skeletal traction NEC
 108027000,Y428,Y42.8 Other specified manipulation of organ NOC
 390935004,O019,O01.9 Unspecified transluminal coil embolisation of aneurysm of artery
@@ -29153,7 +28916,6 @@ snomed,opcs,opcs_term
 239312004,Z772,Z77.2 Shaft of tibia NEC
 65812008,C739,C73.9 Unspecified incision of capsule of lens
 241269003,Z981,Z98.1 Common femoral vein
-81333007,Z752,Z75.2 Ala of sacrum
 414088005,K412,K41.2 Autograft replacement of two coronary arteries NEC
 173308005,F172,F17.2 Creation of impression of tooth for dental crown
 430873001,W669,W66.9 Unspecified primary closed reduction of traumatic dislocation of joint
@@ -29256,7 +29018,6 @@ snomed,opcs,opcs_term
 3541000087102,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 387730001,M792,M79.2 Dilation of urethra NEC
 178797006,V552,V55.2 Two levels of spine
-271415006,Q311,Q31.1 Removal of products of conception from fallopian tube
 699168008,W239,W23.9 Unspecified secondary open reduction of fracture of bone
 450624004,Z482,Z48.2 Skin of neck
 75078003,K096,K09.6 Revision of repair of defect of atrioventricular septum
@@ -29334,7 +29095,6 @@ snomed,opcs,opcs_term
 702759004,Y942,Y94.2 Octreotide imaging
 175722006,Y532,Y53.2 Approach to organ under ultrasonic control
 178523003,V551,V55.1 One level of spine
-387615001,Y954,Y95.4 Under 9 weeks gestational age
 119850009,Z503,Z50.3 Skin of finger
 315029007,C128,C12.8 Other specified extirpation of lesion of eyelid
 446873007,Z501,Z50.1 Skin of arm
@@ -29581,7 +29341,6 @@ snomed,opcs,opcs_term
 432933004,Y534,Y53.4 Approach to organ under fluoroscopic control
 432430009,Z111,Z11.1 Sciatic nerve
 62453004,Z568,Z56.8 Specified muscle of hand NEC
-387615001,Y958,Y95.8 Other specified gestational age
 443014000,Z585,Z58.5 Extensor hallucis longus
 86053003,Z734,Z73.4 Phalanx of finger
 450505008,W143,W14.3 Angulation diaphyseal osteotomy NEC
@@ -29906,7 +29665,6 @@ snomed,opcs,opcs_term
 12155001,Z694,Z69.4 Mid shaft of humerus
 51796005,Z773,Z77.3 Medial malleolus
 241264008,Y534,Y53.4 Approach to organ under fluoroscopic control
-178894007,W052,W05.2 Implantation massive endoprosthetic replacement of bone
 446103006,A023,A02.3 Excision of lesion of tissue of parietal lobe of brain
 446693001,E352,E35.2 Endoscopic resection of lesion of larynx
 265617002,P063,P06.3 Cauterisation of lesion of vulva
@@ -30021,7 +29779,6 @@ snomed,opcs,opcs_term
 29567006,U052,U05.2 Magnetic resonance imaging of head
 397823004,P233,P23.3 Posterior colporrhaphy NEC
 81203002,Z762,Z76.2 Neck of femur
-310604000,Y951,Y95.1 Over 20 weeks gestational age
 241199004,W084,W08.4 Excision of fragment of bone
 40485001,C462,C46.2 Lamellar graft to cornea NEC
 6889000,C543,C54.3 Buckling of sclera and implant HFQ
@@ -30605,7 +30362,6 @@ snomed,opcs,opcs_term
 392238003,W420,W42.0 Conversion from previous total prosthetic replacement of knee joint NEC
 206849004,Y202,Y20.2 Stereotactic biopsy of organ NOC
 870380006,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
-711430006,Y228,Y22.8 Other specified drainage of organ NOC
 231037004,A573,A57.3 Radiofrequency controlled thermal destruction of spinal nerve root
 252637008,Z291,Z29.1 Rectum
 450794001,K105,K10.5 Revision of repair of defect of interatrial septum
@@ -30627,7 +30383,6 @@ snomed,opcs,opcs_term
 26549000,Z758,Z75.8 Specified bone of pelvis NEC
 173373002,S265,S26.5 Local subcutaneous pedicle flap of skin to head or neck NEC
 71273005,J022,J02.2 Left hemihepatectomy NEC
-419470007,Y221,Y22.1 Aspiration of haematoma of organ NOC
 179630006,W664,W66.4 Primary closed reduction of fracture dislocation of joint and internal fixation
 71871000,W142,W14.2 Angulation diaphyseal osteotomy and external fixation HFQ
 340926007,K247,K24.7 Myotomy of left ventricular outflow tract
@@ -30800,7 +30555,6 @@ snomed,opcs,opcs_term
 15256002,Y088,Y08.8 Other specified laser therapy to organ NOC
 440194003,W124,W12.4 Angulation periarticular osteotomy and external fixation NEC
 447067001,A443,A44.3 Excision of lesion of intradural intramedullary spinal cord
-77570000,Y298,Y29.8 Other specified removal of foreign body from organ NOC
 35022005,Z584,Z58.4 Tibialis anterior
 32555004,F134,F13.4 Restoration of part of tooth using inlay NEC
 69081002,Z741,Z74.1 Manubrium sterni
@@ -30824,7 +30578,6 @@ snomed,opcs,opcs_term
 279526001,V383,V38.3 Primary posterior fusion of joint of lumbar spine NEC
 450668002,S063,S06.3 Shave excision of lesion of skin of head or neck
 440376001,W262,W26.2 Manipulation of fracture of bone NEC
-271415006,Y951,Y95.1 Over 20 weeks gestational age
 443187002,S067,S06.7 Re-excision of skin margins NEC
 252620001,A844,A84.4 Evoked potential recording
 18942007,Z788,Z78.8 Specified bone of lower leg NEC
@@ -30864,7 +30617,6 @@ snomed,opcs,opcs_term
 68315004,T794,T79.4 Plastic repair of multiple tears of rotator cuff of shoulder
 1891000087105,Z909,Z90.9 Leg region NEC
 447858002,Z862,Z86.2 Intertarsal joint
-265082003,Q483,Q48.3 Laparoscopic oocyte recovery
 302412004,S423,S42.3 Secondary suture of skin NEC
 441211007,Z124,Z12.4 Plantar nerve
 418762008,U113,U11.3 Vascular ultrasound NEC
@@ -30873,7 +30625,6 @@ snomed,opcs,opcs_term
 112701005,W087,W08.7 Excision of accessory ossicle
 71871000,W141,W14.1 Angulation diaphyseal osteotomy and internal fixation HFQ
 439995008,W252,W25.2 Closed reduction of fracture of bone and fixation using functional bracing system
-711204005,O062,O06.2 Conversion to hybrid prosthetic replacement of shoulder joint using cemented humeral component
 49264007,H483,H48.3 Excision of perianal wart
 265056007,Q088,Q08.8 Other specified vaginal excision of uterus
 49528005,E483,E48.3 Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC
@@ -31024,7 +30775,6 @@ snomed,opcs,opcs_term
 439364008,O175,O17.5 Remanipulation of fragment of bone and fixation using screw
 405416007,X129,X12.9 Unspecified operations on amputation stump
 233384002,L583,L58.3 Emergency bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC
-427560001,O063,O06.3 Revision of hybrid prosthetic replacement of shoulder joint using cemented humeral component
 670008,Y111,Y11.1 Cauterisation of organ NOC
 698978000,S251,S25.1 Local fasciocutaneous subcutaneous pedicle flap to head or neck
 232470004,E026,E02.6 Rhinoplasty NEC
@@ -31617,7 +31367,6 @@ snomed,opcs,opcs_term
 81398000,Y064,Y06.4 Excision of scar tissue NOC
 231605001,C204,C20.4 Medial protective suture of eyelid
 78121007,E361,E36.1 Diagnostic endoscopic examination of larynx and biopsy of lesion of larynx
-420231008,Y222,Y22.2 Aspiration of other lesion of organ NOC
 120020007,Y253,Y25.3 Removal of retained suture from organ NOC
 241293008,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 241494004,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
@@ -31798,7 +31547,6 @@ snomed,opcs,opcs_term
 430444009,Y533,Y53.3 Approach to organ under computed tomography scan control
 239547008,V377,V37.7 Fusion of occipitocervical junction NEC
 419674007,Y534,Y53.4 Approach to organ under fluoroscopic control
-11686006,W333,W33.3 Suture of periosteum
 709461008,W153,W15.3 Osteotomy of first metatarsal bone NEC
 418244003,C272,C27.2 Dilation of nasolacrimal duct
 40701008,Y971,Y97.1 Radiology with pre and post contrast
@@ -31839,7 +31587,6 @@ snomed,opcs,opcs_term
 174478004,J131,J13.1 Percutaneous transvascular biopsy of lesion of liver
 419929003,Y938,Y93.8 Other specified gallium-67 imaging
 239569001,Y538,Y53.8 Other specified approach to organ under image control
-47329006,V553,V55.3 Greater than two levels of spine
 287926006,P201,P20.1 Excision of lesion of vagina
 230833009,A399,A39.9 Unspecified repair of dura
 50704008,W329,W32.9 Unspecified other graft of bone
@@ -31909,7 +31656,6 @@ snomed,opcs,opcs_term
 71956000,H509,H50.9 Unspecified repair of anus
 241372008,Y948,Y94.8 Other specified radiopharmaceutical imaging
 179159005,W661,W66.1 Primary closed reduction of fracture dislocation of joint and skeletal traction HFQ
-26500007,W333,W33.3 Suture of periosteum
 236855008,P213,P21.3 Vaginoplasty NEC
 37153009,K292,K29.2 Xenograft replacement of valve of heart NEC
 23518000,A312,A31.2 Intracranial stereotactic neurolysis of oculomotor nerve (iii)
@@ -32174,7 +31920,6 @@ snomed,opcs,opcs_term
 450783000,K115,K11.5 Revision of repair of defect of interventricular septum
 44846008,S475,S47.5 Incision of skin of head or neck
 308675007,K293,K29.3 Prosthetic replacement of valve of heart NEC
-236883005,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 440494008,Y973,Y97.3 Radiology with post contrast
 232888003,K381,K38.1 Operations on papillary muscle
 59580007,A304,A30.4 Repair of facial nerve (vii)
@@ -32478,7 +32223,6 @@ snomed,opcs,opcs_term
 609152003,K754,K75.4 Percutaneous transluminal balloon angioplasty and insertion of 3 or more stents into coronary artery NEC
 405388000,L601,L60.1 Endarterectomy of femoral artery and patch repair of femoral artery
 177278007,S069,S06.9 Unspecified other excision of lesion of skin
-67542001,Z733,Z73.3 Phalanx of thumb
 49375009,W678,W67.8 Other specified secondary reduction of traumatic dislocation of joint
 432216002,U216,U21.6 Ultrasound scan NEC
 432719005,Z846,Z84.6 Knee joint
@@ -32540,7 +32284,6 @@ snomed,opcs,opcs_term
 425712000,J111,J11.1 Transjugular intrahepatic angioplasty of portal vein
 439425009,W244,W24.4 Closed reduction of fracture of small bone and fixation using screw
 257841000,W301,W30.1 Application of external fixation to bone NEC
-709787009,Y533,Y53.3 Approach to organ under computed tomography scan control
 178638009,V347,V34.7 Revisional microdiscectomy of lumbar intervertebral disc
 62992002,M759,M75.9 Unspecified other open operations on urethra
 361168006,Q548,Q54.8 Other specified operations on other ligament of uterus
@@ -32596,7 +32339,6 @@ snomed,opcs,opcs_term
 37364004,K345,K34.5 Closure of tricuspid valve
 241217008,Y533,Y53.3 Approach to organ under computed tomography scan control
 119614000,W379,W37.9 Unspecified total prosthetic replacement of hip joint using cement
-711430006,V551,V55.1 One level of spine
 77464009,E295,E29.5 Laryngofissure and chordectomy of vocal chord
 39398003,T098,T09.8 Other specified other open operations on pleura
 49994009,Y309,Y30.9 Unspecified incision of organ NOC
@@ -32786,7 +32528,6 @@ snomed,opcs,opcs_term
 397574004,C812,C81.2 Laser photocoagulation of retina for detachment
 440417002,W242,W24.2 Closed reduction of fracture of long bone and rigid internal fixation NEC
 55705006,V379,V37.9 Unspecified primary fusion of joint of cervical spine
-444688002,H353,H35.3 Posterior fixation of rectum NEC
 27454003,W281,W28.1 Application of internal fixation to bone NEC
 401226007,V559,V55.9 Unspecified levels of spine
 271994003,E021,E02.1 Total reconstruction of nose
@@ -32823,8 +32564,6 @@ snomed,opcs,opcs_term
 265776009,Y581,Y58.1 Harvest of full thickness skin from post auricular region
 176604008,P065,P06.5 Excision of lesion of labia
 178446004,V083,V08.3 Closed reduction of fracture of maxilla NEC
-276921001,Y535,Y53.5 Approach to organ under image intensifier
-244608001,K188,K18.8 Other specified creation of valved cardiac conduit
 118465009,W269,W26.9 Unspecified other closed reduction of fracture of bone
 439400000,Z733,Z73.3 Phalanx of thumb
 386826003,Z562,Z56.2 Thenar muscle
@@ -32867,7 +32606,6 @@ snomed,opcs,opcs_term
 440417002,W245,W24.5 Closed reduction of fragment of bone and fixation using screw
 447518007,A381,A38.1 Extirpation of lesion of meninges of cortex of brain
 25131004,W149,W14.9 Unspecified diaphyseal division of bone
-432941004,J106,J10.6 Percutaneous transluminal thrombolysis of blood vessel of liver
 429867000,Y973,Y97.3 Radiology with post contrast
 26196001,W677,W67.7 Secondary open reduction of fracture dislocation of joint and internal fixation NEC
 405449003,X128,X12.8 Other specified operations on amputation stump
@@ -33067,7 +32805,6 @@ snomed,opcs,opcs_term
 773143005,Y973,Y97.3 Radiology with post contrast
 239251006,T703,T70.3 Adjustment to muscle origin of tendon
 233008006,O432,O43.2 Coronary sinus
-47329006,Y259,Y25.9 Unspecified suture of organ NOC
 90252005,V168,V16.8 Other specified division of mandible
 75176001,D208,D20.8 Other specified other operations on middle ear
 232475009,E038,E03.8 Other specified operations on septum of nose
@@ -33104,7 +32841,6 @@ snomed,opcs,opcs_term
 450582008,Z481,Z48.1 Skin of scalp
 383311000119100,U211,U21.1 Magnetic resonance imaging NEC
 429824008,Y948,Y94.8 Other specified radiopharmaceutical imaging
-14477007,Z691,Z69.1 Head of humerus
 241532000,Y973,Y97.3 Radiology with post contrast
 287528001,Z243,Z24.3 Trachea
 440695003,Y982,Y98.2 Radiology of two body areas
@@ -33146,7 +32882,6 @@ snomed,opcs,opcs_term
 174880000,K182,K18.2 Creation of valved conduit between right atrium and pulmonary artery
 172196000,C091,C09.1 Replacement of lateral canthal tendon using tarsal strip
 239309002,W144,W14.4 Rotation diaphyseal osteotomy and internal fixation HFQ
-62820003,K045,K04.5 Repair of tetralogy of Fallot with absent pulmonary valve
 120065003,Y011,Y01.1 Autoreplacement of organ NOC
 450508005,E052,E05.2 Ligation of artery of internal nose
 108116000,A445,A44.5 Excision of lesion of intradural extramedullary spinal cord
@@ -33283,11 +33018,9 @@ snomed,opcs,opcs_term
 448246005,Z588,Z58.8 Specified muscle of lower leg NEC
 2391000087105,Y971,Y97.1 Radiology with pre and post contrast
 88722002,K603,K60.3 Renewal of intravenous cardiac pacemaker system
-276921001,Y539,Y53.9 Unspecified approach to organ under image control
 38303005,S474,S47.4 Incision of lesion of skin NEC
 176616002,S279,S27.9 Unspecified other local flap of skin
 414170000,C336,C33.6 Resection of inferior oblique muscle of eye
-310603006,R298,R29.8 Other specified manual removal of products of conception from delivered uterus
 44662004,L571,L57.1 Replacement of aneurysmal femoral artery by anastomosis of femoral artery to femoral artery NEC
 46423003,Q278,Q27.8 Other specified open bilateral occlusion of fallopian tubes
 18830003,D151,D15.1 Myringotomy with insertion of ventilation tube through tympanic membrane
@@ -33513,7 +33246,6 @@ snomed,opcs,opcs_term
 20101008,M089,M08.9 Unspecified other open operations on kidney
 5983006,N181,N18.1 Reversal of bilateral vasectomy
 302364006,M731,M73.1 Repair of hypospadias
-238322004,X402,X40.2 Peritoneal dialysis NEC
 427952005,C825,C82.5 Panretinal laser photocoagulation to lesion of retina
 232557005,E333,E33.3 Operations on cartilage of larynx NEC
 3666002,A624,A62.4 Primary microsurgical repair of peripheral nerve NEC
@@ -33568,7 +33300,6 @@ snomed,opcs,opcs_term
 239658008,Z792,Z79.2 Os calcis
 24611008,E381,E38.1 Injection into larynx
 241003005,S641,S64.1 Excision of nail bed
-77570000,Y292,Y29.2 Manipulative removal of foreign body from organ NOC
 360515001,W251,W25.1 Closed reduction of fracture of bone and fixation to skeleton HFQ
 439755001,O175,O17.5 Remanipulation of fragment of bone and fixation using screw
 265439007,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
@@ -33626,7 +33357,6 @@ snomed,opcs,opcs_term
 9702000,Z792,Z79.2 Os calcis
 232159002,S205,S20.5 Distant flap of skin to head or neck NEC
 47058000,K028,K02.8 Other specified other transplantation of heart
-47329006,Y252,Y25.2 Resuture of organ NOC
 241549007,Y973,Y97.3 Radiology with post contrast
 40945001,Z698,Z69.8 Specified humerus NEC
 30025009,A625,A62.5 Secondary microsurgical repair of peripheral nerve NEC
@@ -33756,7 +33486,6 @@ snomed,opcs,opcs_term
 418354002,Y971,Y97.1 Radiology with pre and post contrast
 229459003,W913,W91.3 Manipulation of prosthetic joint NEC
 43318006,Z596,Z59.6 Lumbrical muscle of foot
-37120004,V558,V55.8 Other specified levels of spine
 1184599003,W718,W71.8 Other specified other open operations on intra-articular structure
 54080001,Y111,Y11.1 Cauterisation of organ NOC
 56810007,W673,W67.3 Secondary open reduction of fracture dislocation of joint NEC
@@ -33801,7 +33530,6 @@ snomed,opcs,opcs_term
 7246002,M083,M08.3 Exploration of kidney
 176408003,S269,S26.9 Unspecified local subcutaneous pedicle flap of skin
 440412008,W253,W25.3 Remanipulation of fracture of bone and external fixation HFQ
-68408006,W549,W54.9 Unspecified other prosthetic replacement of articulation of other bone
 450672003,S541,S54.1 Debridement of burnt skin of head or neck
 3407002,Y532,Y53.2 Approach to organ under ultrasonic control
 68986004,M655,M65.5 Endoscopic resection of prostate using vapotrode
@@ -33910,7 +33638,6 @@ snomed,opcs,opcs_term
 61710003,Z682,Z68.2 Acromion process of scapula
 108150009,C918,C91.8 Other specified operations on anterior segment of eye
 17203000,J018,J01.8 Other specified transplantation of liver
-14477007,Z693,Z69.3 Neck of humerus
 446183009,Z506,Z50.6 Skin of toe
 176408003,N036,N03.6 Reconstruction of scrotum
 446693001,Y063,Y06.3 Enucleation of lesion of organ NOC
@@ -34048,7 +33775,6 @@ snomed,opcs,opcs_term
 2561000087106,Z942,Z94.2 Right sided operation
 287528001,E492,E49.2 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and lavage of lesion of lower respiratory tract
 79227006,Y111,Y11.1 Cauterisation of organ NOC
-71192002,X402,X40.2 Peritoneal dialysis NEC
 176536006,S172,S17.2 Distant myocutaneous subcutaneous pedicle flap NEC
 51000087101,Z943,Z94.3 Left sided operation
 448808006,V388,V38.8 Other specified primary fusion of other joint of spine
@@ -34115,7 +33841,6 @@ snomed,opcs,opcs_term
 90358006,W261,W26.1 Manipulation of fracture of bone and skeletal traction NEC
 736513001,E026,E02.6 Rhinoplasty NEC
 444115008,T643,T64.3 Multiple insertion of tendons into bone
-47329006,Y254,Y25.4 Removal of other suture from organ NOC
 70446004,T134,T13.4 Introduction of therapeutic substance into pleural cavity
 771628000,T222,T22.2 Primary repair of femoral hernia using insert of prosthetic material
 25653001,W086,W08.6 Disarticulation of bone
@@ -34172,7 +33897,6 @@ snomed,opcs,opcs_term
 82506007,W654,W65.4 Primary open reduction of fracture dislocation of joint and internal fixation NEC
 53000009,Y015,Y01.5 Alloreplacement of organ from cadaver heart non-beating NOC
 11933006,K043,K04.3 Repair of tetralogy of Fallot using transannular patch
-174899009,K201,K20.1 Correction of persistent sinus venosus
 434366007,L895,L89.5 Endovascular placement of one drug-eluting stent
 65239007,M416,M41.6 Detrusor myotomy
 61060004,W134,W13.4 Relocation and derotation osteotomy
@@ -34603,7 +34327,6 @@ snomed,opcs,opcs_term
 119755005,E574,E57.4 Incision of lung NEC
 47596009,W460,W46.0 Conversion from previous cemented prosthetic replacement of head of femur
 41284009,E171,E17.1 Excision of nasal sinus NEC
-236883005,Y951,Y95.1 Over 20 weeks gestational age
 387821004,V391,V39.1 Revisional fusion of joint of cervical spine NEC
 609588000,W408,W40.8 Other specified total prosthetic replacement of knee joint using cement
 112777008,Z769,Z76.9 Femur NEC
@@ -34649,7 +34372,6 @@ snomed,opcs,opcs_term
 442914007,W191,W19.1 Primary open reduction of fracture of neck of femur and open fixation using pin and plate
 233318006,L344,L34.4 Open embolisation of cerebral artery
 307550001,C322,C32.2 Recession of lateral rectus muscle of eye NEC
-62820003,K096,K09.6 Revision of repair of defect of atrioventricular septum
 241042005,Y971,Y97.1 Radiology with pre and post contrast
 229461007,W675,W67.5 Remanipulation of fracture dislocation of joint
 447873001,W128,W12.8 Other specified angulation periarticular division of bone
@@ -34731,7 +34453,6 @@ snomed,opcs,opcs_term
 698980006,S253,S25.3 Local fasciocutaneous flap to head or neck NEC
 715248007,Y973,Y97.3 Radiology with post contrast
 19613007,P208,P20.8 Other specified extirpation of lesion of vagina
-110474005,E872,E87.2 Long term oxygen assessment
 173171007,E545,E54.5 Partial lobectomy of lung NEC
 17881005,Y131,Y13.1 Cauterisation of lesion of organ NOC
 439705009,A642,A64.2 Primary repair of peripheral nerve NEC
@@ -34817,7 +34538,6 @@ snomed,opcs,opcs_term
 18551005,Y301,Y30.1 Incision of lesion of organ NOC
 448261006,W368,W36.8 Other specified diagnostic puncture of bone
 408763006,C651,C65.1 Needling of bleb
-47329006,Y253,Y25.3 Removal of retained suture from organ NOC
 718972006,Z111,Z11.1 Sciatic nerve
 174347002,H576,H57.6 Maintenance of dynamic graciloplasty sphincter
 65546002,F109,F10.9 Unspecified simple extraction of tooth
@@ -35271,7 +34991,6 @@ snomed,opcs,opcs_term
 5105000,M098,M09.8 Other specified therapeutic endoscopic operations on calculus of kidney
 447748008,K093,K09.3 Repair of defect of atrioventricular septum using tissue graft
 15516003,S362,S36.2 Full thickness autograft of skin NEC
-310604000,Q116,Q11.6 Vacuum aspiration of products of conception from uterus using flexible cannula
 177278007,S064,S06.4 Shave excision of lesion of skin NEC
 233047008,K049,K04.9 Unspecified repair of tetralogy of Fallot
 36870006,U216,U21.6 Ultrasound scan NEC
@@ -35392,7 +35111,6 @@ snomed,opcs,opcs_term
 434158009,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 72432009,S069,S06.9 Unspecified other excision of lesion of skin
 239328009,W319,W31.9 Unspecified other autograft of bone
-47329006,V551,V55.1 One level of spine
 89610000,M052,M05.2 Open revision of pyeloplasty
 17737009,Y275,Y27.5 Vein graft NOC
 440437003,O175,O17.5 Remanipulation of fragment of bone and fixation using screw
@@ -35401,7 +35119,6 @@ snomed,opcs,opcs_term
 241655007,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 265721002,V552,V55.2 Two levels of spine
 398031005,C032,C03.2 Insertion of prosthetic replacement for eyeball
-310603006,R291,R29.1 Manual removal of placenta from delivered uterus
 232838006,K264,K26.4 Replacement of aortic valve NEC
 229463005,W669,W66.9 Unspecified primary closed reduction of traumatic dislocation of joint
 314117007,C601,C60.1 Trabeculectomy
@@ -35577,7 +35294,6 @@ snomed,opcs,opcs_term
 231694005,C346,C34.6 Tenotomy of inferior oblique muscle of eye
 278540006,S181,S18.1 Distant fasciocutaneous subcutaneous pedicle flap to head or neck
 783317005,Z482,Z48.2 Skin of neck
-181021005,W161,W16.1 Multiple osteotomy and internal fixation HFQ
 119685007,Y053,Y05.3 Excision of sinus track from organ NOC
 178872004,W045,W04.5 Release of medial soft tissue of hindfoot and excision of lateral wedge of os calcis and fusion of os calcis
 21622006,M796,M79.6 Urethrography ascending NEC
@@ -35703,7 +35419,6 @@ snomed,opcs,opcs_term
 84940002,P063,P06.3 Cauterisation of lesion of vulva
 29433003,Y973,Y97.3 Radiology with post contrast
 429876007,Z843,Z84.3 Hip joint
-310604000,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 428545002,S099,S09.9 Unspecified photodestruction of lesion of skin
 783289001,S365,S36.5 Pinch graft of skin to head or neck
 59580007,A307,A30.7 Repair of vagus nerve (x)
@@ -35744,7 +35459,6 @@ snomed,opcs,opcs_term
 571921000119104,Y941,Y94.1 Dopamine transporter scan
 116218007,K232,K23.2 Biopsy of lesion of wall of heart
 172386004,C395,C39.5 Radiotherapy to lesion of conjunctiva
-112934001,V508,V50.8 Other specified manipulation of spine
 56994000,V552,V55.2 Two levels of spine
 9730000,W628,W62.8 Other specified other primary fusion of other joint
 762809009,Q259,Q25.9 Unspecified partial excision of fallopian tube
@@ -35907,7 +35621,6 @@ snomed,opcs,opcs_term
 442984001,W579,W57.9 Unspecified excision reconstruction of joint
 54301007,Z755,Z75.5 Ramus of pubis
 363113000,Y323,Y32.3 Re-exploration of organ and packing of organ NOC
-236883005,Y954,Y95.4 Under 9 weeks gestational age
 265214001,Z856,Z85.6 Ankle joint
 311482001,V553,V55.3 Greater than two levels of spine
 359969002,T091,T09.1 Open destruction of lesion of pleura
@@ -36209,13 +35922,11 @@ snomed,opcs,opcs_term
 61561005,E338,E33.8 Other specified other open operations on larynx
 179159005,W269,W26.9 Unspecified other closed reduction of fracture of bone
 177808003,Y744,Y74.4 Thoracoscopic video-assisted approach to thoracic cavity
-700073007,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 367446003,T704,T70.4 Shortening of tendon NEC
 232888003,Z328,Z32.8 Specified valve of heart NEC
 119911006,Y019,Y01.9 Unspecified replacement of organ NOC
 231624003,C178,C17.8 Other specified other repair of eyelid
 265305009,D122,D12.2 Atticotomy
-432941004,Y534,Y53.4 Approach to organ under fluoroscopic control
 441985002,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 265721002,V468,V46.8 Other specified fixation of fracture of spine
 27779004,Y491,Y49.1 Median sternotomy approach
@@ -36263,7 +35974,6 @@ snomed,opcs,opcs_term
 446872002,S054,S05.4 Microscopically controlled excision of lesion of skin using chemosurgical technique NEC
 38882005,S353,S35.3 Split autograft of skin to head or neck NEC
 9940005,Y064,Y06.4 Excision of scar tissue NOC
-178686002,V552,V55.2 Two levels of spine
 29613008,R215,R21.5 Low forceps cephalic delivery
 236357007,Y717,Y71.7 Third or greater revisional operation NOC
 119725003,Y013,Y01.3 Xenoreplacement of organ NOC
@@ -36365,7 +36075,6 @@ snomed,opcs,opcs_term
 236138007,Y013,Y01.3 Xenoreplacement of organ NOC
 21570007,Z809,Z80.9 Bone of foot NEC
 71917006,F054,F05.4 Removal of suture from lip
-47329006,V544,V54.4 Injection around spinal facet of spine
 232200001,D261,D26.1 Operations on endolymphatic sac
 8596003,Z685,Z68.5 Scapula NEC
 442971005,W144,W14.4 Rotation diaphyseal osteotomy and internal fixation HFQ
@@ -36472,7 +36181,6 @@ snomed,opcs,opcs_term
 37153009,Y279,Y27.9 Unspecified graft to organ NOC
 13433005,A022,A02.2 Excision of lesion of tissue of temporal lobe of brain
 234937001,F441,F44.1 Total excision of parotid gland
-438999008,L994,L99.4 Percutaneous transluminal venous thrombolysis NEC
 234268007,T878,T87.8 Other specified excision or biopsy of lymph node
 441780002,Z856,Z85.6 Ankle joint
 239313009,W145,W14.5 Rotation diaphyseal osteotomy and external fixation HFQ
@@ -36515,7 +36223,6 @@ snomed,opcs,opcs_term
 241001007,S683,S68.3 Partial excision of nail NEC
 171457001,A032,A03.2 Stereotactic ablation of tissue of thalamus
 176410001,S172,S17.2 Distant myocutaneous subcutaneous pedicle flap NEC
-699234008,O242,O24.2 Conversion to prosthetic replacement of head of radius using cement
 55612007,Y532,Y53.2 Approach to organ under ultrasonic control
 257831003,W281,W28.1 Application of internal fixation to bone NEC
 241217008,Y532,Y53.2 Approach to organ under ultrasonic control
@@ -36566,7 +36273,6 @@ snomed,opcs,opcs_term
 450698009,C545,C54.5 Buckling of sclera NEC
 171947007,B041,B04.1 Excision of lesion of pituitary gland
 179160000,Z846,Z84.6 Knee joint
-310603006,R302,R30.2 Expression of placenta
 772045007,Z758,Z75.8 Specified bone of pelvis NEC
 442171009,Z262,Z26.2 Submandibular gland
 307289006,V174,V17.4 Removal of fixation from mandible
@@ -36636,7 +36342,6 @@ snomed,opcs,opcs_term
 448515007,V552,V55.2 Two levels of spine
 119998001,N288,N28.8 Other specified plastic operations on penis
 230840005,A023,A02.3 Excision of lesion of tissue of parietal lobe of brain
-11686006,Z703,Z70.3 Shaft of radius NEC
 239431009,W742,W74.2 Reconstruction of intra-articular ligament NEC
 427478009,C872,C87.2 Indocyanine angiography evaluation of retina
 315065002,Q312,Q31.2 Drainage of fallopian tube
@@ -36667,7 +36372,6 @@ snomed,opcs,opcs_term
 28813001,E139,E13.9 Unspecified other operations on maxillary antrum
 178926002,W104,W10.4 Open osteoclasis and internal fixation NEC
 278539009,S252,S25.2 Local fasciocutaneous subcutaneous pedicle flap NEC
-37120004,V509,V50.9 Unspecified manipulation of spine
 448504002,W292,W29.2 Adjustment to skeletal traction of bone
 449049001,W065,W06.5 Total excision of bone of foot NEC
 74184007,Y086,Y08.6 Laser incision of organ NOC
@@ -36736,7 +36440,6 @@ snomed,opcs,opcs_term
 23941004,W229,W22.9 Unspecified other primary open reduction of fracture of bone
 231398004,A265,A26.5 Intracranial destruction of acoustic nerve (viii)
 432245000,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
-367411006,Z571,Z57.1 Gluteus
 440315009,W268,W26.8 Other specified other closed reduction of fracture of bone
 431306005,Y973,Y97.3 Radiology with post contrast
 431306005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
@@ -37007,7 +36710,6 @@ snomed,opcs,opcs_term
 301063009,S339,S33.9 Unspecified hair bearing graft of skin to scalp
 79725002,Z765,Z76.5 Lower end of femur NEC
 171643008,A315,A31.5 Intracranial stereotactic neurolysis of acoustic nerve (viii)
-178894007,W053,W05.3 Implantation endoprosthetic replacement of bone NEC
 23965001,S058,S05.8 Other specified microscopically controlled excision of lesion of skin
 440412008,W244,W24.4 Closed reduction of fracture of small bone and fixation using screw
 5121005,W163,W16.3 Multiple osteotomy NEC
@@ -37026,7 +36728,6 @@ snomed,opcs,opcs_term
 9521005,H552,H55.2 Laying open of high anal fistula
 398006009,D162,D16.2 Graft replacement of ossicular chain
 441701001,V553,V55.3 Greater than two levels of spine
-88362001,Y959,Y95.9 Unspecified gestational age
 25653001,Z764,Z76.4 Shaft of femur
 445974009,D282,D28.2 Examination of ear under anaesthetic
 448924008,Z781,Z78.1 Shafts of tibia and fibula in combination
@@ -37191,7 +36892,6 @@ snomed,opcs,opcs_term
 232956005,K299,K29.9 Unspecified plastic repair of unspecified valve of heart
 722611003,L893,L89.3 Endovascular placement of three or more drug-eluting stents
 54737004,V152,V15.2 Open reduction of fracture of mandible NEC
-179261007,W338,W33.8 Other specified other open operations on bone
 2491000087104,Y971,Y97.1 Radiology with pre and post contrast
 67230007,Z861,Z86.1 Midtarsal joint
 307721006,V552,V55.2 Two levels of spine
@@ -37255,7 +36955,6 @@ snomed,opcs,opcs_term
 76970004,Y273,Y27.3 Xenograft to organ NOC
 5212002,Y064,Y06.4 Excision of scar tissue NOC
 699163004,Z779,Z77.9 Tibia NEC
-73341009,Y299,Y29.9 Unspecified removal of foreign body from organ NOC
 406571000119104,Z238,Z23.8 Specified nasal sinus NEC
 642006,Y973,Y97.3 Radiology with post contrast
 448934004,Z802,Z80.2 Metatarsal NEC
@@ -37306,7 +37005,6 @@ snomed,opcs,opcs_term
 239343006,W064,W06.4 Total excision of sesamoid bone NEC
 119739003,E442,E44.2 Reconstruction of carina
 442984001,W551,W55.1 Primary prosthetic interposition arthroplasty of joint
-178851002,W022,W02.2 Metacarpal support operations on carpus
 42910002,Y319,Y31.9 Unspecified exploration of organ NOC
 307288003,V089,V08.9 Unspecified reduction of fracture of maxilla
 239311006,W138,W13.8 Other specified other periarticular division of bone
@@ -37634,7 +37332,6 @@ snomed,opcs,opcs_term
 25131004,W132,W13.2 Displacement osteotomy
 236145007,M136,M13.6 Percutaneous insertion of nephrostomy tube
 310442001,K104,K10.4 Primary repair of defect of interatrial septum NEC
-431337005,Z989,Z98.9 Vein of lower limb NEC
 274366001,Q032,Q03.2 Laser cone biopsy of cervix uteri
 301063009,S342,S34.2 Hair bearing graft to chin area
 2659008,W749,W74.9 Unspecified other reconstruction of ligament
@@ -37996,7 +37693,6 @@ snomed,opcs,opcs_term
 91160008,Z245,Z24.5 Bronchus
 27959000,Z705,Z70.5 Lower end of radius NEC
 112974007,D178,D17.8 Other specified other operations on ossicle of ear
-444688002,H351,H35.1 Anterior fixation of rectum
 70353009,Y011,Y01.1 Autoreplacement of organ NOC
 25653001,Z761,Z76.1 Head of femur
 67864003,Y472,Y47.2 Frontal burrhole approach to contents of cranium
@@ -38221,7 +37917,6 @@ snomed,opcs,opcs_term
 67549005,W332,W33.2 Debridement of open fracture of bone
 56810007,W658,W65.8 Other specified primary open reduction of traumatic dislocation of joint
 418824004,K438,K43.8 Other specified prosthetic replacement of coronary artery
-276921001,Y531,Y53.1 Approach to organ under radiological control
 15241000087104,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 281766007,T672,T67.2 Primary repair of tendon using lengthening procedure
 52822008,W641,W64.1 Conversion to arthrodesis and internal fixation NEC
@@ -38234,7 +37929,6 @@ snomed,opcs,opcs_term
 172179001,C081,C08.1 Transposition of ligament of orbit
 13861000087101,Y222,Y22.2 Aspiration of other lesion of organ NOC
 52734007,W932,W93.2 Conversion to hybrid prosthetic replacement of hip joint using cemented acetabular component
-711430006,V552,V55.2 Two levels of spine
 360515001,W245,W24.5 Closed reduction of fragment of bone and fixation using screw
 433171002,Y938,Y93.8 Other specified gallium-67 imaging
 307829004,Y067,Y06.7 Radiofrequency excision of lesion of organ NOC
@@ -38296,7 +37990,6 @@ snomed,opcs,opcs_term
 428547005,V382,V38.2 Primary posterior interlaminar fusion of joint of lumbar spine
 232777000,K301,K30.1 Revision of plastic repair of mitral valve
 175886001,L933,L93.3 Ligation of vein NEC
-46415000,W333,W33.3 Suture of periosteum
 52728000,E355,E35.5 Endoscopic removal of foreign body from larynx
 432275005,Y948,Y94.8 Other specified radiopharmaceutical imaging
 303633008,E123,E12.3 Irrigation of maxillary antrum using sublabial approach
@@ -38315,7 +38008,6 @@ snomed,opcs,opcs_term
 172661001,Z633,Z63.3 Temporal bone
 239451008,W924,W92.4 Examination of joint under anaesthetic
 252899005,M798,M79.8 Other specified other operations on urethra
-387617009,Y958,Y95.8 Other specified gestational age
 35646002,S069,S06.9 Unspecified other excision of lesion of skin
 171692002,A382,A38.2 Extirpation of lesion of meninges of sphenoidal ridge of cranium
 60060005,Z177,Z17.7 Combinations of muscles of eye
@@ -38367,7 +38059,6 @@ snomed,opcs,opcs_term
 20516002,A471,A47.1 Needle destruction of substantia gelatinosa of cervical spinal cord
 68315004,T838,T83.8 Other specified other operations on muscle
 76824005,C401,C40.1 Mucosal graft to conjunctiva
-174289008,H423,H42.3 Insertion of supralevator sling
 41284009,E173,E17.3 Biopsy of lesion of nasal sinus NEC
 33685007,A391,A39.1 Repair of meningoencephalocele
 15257006,J027,J02.7 Extended left hemihepatectomy
@@ -38392,7 +38083,6 @@ snomed,opcs,opcs_term
 431849000,U211,U21.1 Magnetic resonance imaging NEC
 57525009,Y052,Y05.2 Partial excision of organ NOC
 234734002,F173,F17.3 Fitting of dental crown on tooth
-387617009,Y951,Y95.1 Over 20 weeks gestational age
 65886001,Y058,Y05.8 Other specified excision of organ NOC
 449311007,W298,W29.8 Other specified skeletal traction of bone
 451008006,Z644,Z64.4 Maxilla
@@ -38502,7 +38192,6 @@ snomed,opcs,opcs_term
 17411000087106,Y971,Y97.1 Radiology with pre and post contrast
 231544004,X658,X65.8 Other specified radiotherapy delivery
 61327009,Y228,Y22.8 Other specified drainage of organ NOC
-440235008,Z353,Z35.3 Anterior communicating artery
 440113008,Z126,Z12.6 Peripheral nerve of leg NEC
 80160000,Q528,Q52.8 Other specified operations on broad ligament of uterus
 6161000,W811,W81.1 Excision of lesion of joint NEC
@@ -38559,7 +38248,6 @@ snomed,opcs,opcs_term
 72432009,S065,S06.5 Excision of lesion of skin of head or neck NEC
 75176001,Y059,Y05.9 Unspecified excision of organ NOC
 44291006,C228,C22.8 Other specified other operations on eyelid
-178686002,V501,V50.1 Manipulation of spine using traction
 81941004,Z852,Z85.2 Lower tibiofibular joint
 72223009,W143,W14.3 Angulation diaphyseal osteotomy NEC
 231429003,Y112,Y11.2 Cryotherapy to organ NOC
@@ -38657,7 +38345,6 @@ snomed,opcs,opcs_term
 1119345001,Y973,Y97.3 Radiology with post contrast
 443187002,S064,S06.4 Shave excision of lesion of skin NEC
 80632003,C792,C79.2 Vitrectomy using pars plana approach
-88362001,Y958,Y95.8 Other specified gestational age
 447518007,A388,A38.8 Other specified extirpation of lesion of meninges of brain
 1161000087107,Y971,Y97.1 Radiology with pre and post contrast
 448980002,W363,W36.3 Diagnostic drilling of bone
@@ -38949,7 +38636,6 @@ snomed,opcs,opcs_term
 57069006,Z698,Z69.8 Specified humerus NEC
 18590009,K741,K74.1 Renewal of single chamber cardiac pacemaker system NEC
 47808008,E218,E21.8 Other specified repair of pharynx
-711430006,V558,V55.8 Other specified levels of spine
 310443006,K109,K10.9 Unspecified repair of defect of interatrial septum
 772769004,S293,S29.3 Distant osteocutaneous flap to head or neck NEC
 442914007,W203,W20.3 Primary open reduction of fracture of long bone and extramedullary fixation using suture
@@ -38977,7 +38663,6 @@ snomed,opcs,opcs_term
 446588008,M268,M26.8 Other specified therapeutic nephroscopic operations on ureter
 241071006,Y971,Y97.1 Radiology with pre and post contrast
 4201000087100,Y973,Y97.3 Radiology with post contrast
-367411006,T645,T64.5 Tenodesis
 72362002,S054,S05.4 Microscopically controlled excision of lesion of skin using chemosurgical technique NEC
 771105002,V544,V54.4 Injection around spinal facet of spine
 16439481000119102,U103,U10.3 Cardiac magnetic resonance imaging
@@ -39023,7 +38708,6 @@ snomed,opcs,opcs_term
 230974005,A248,A24.8 Other specified graft to cranial nerve
 75903006,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
 302612008,S172,S17.2 Distant myocutaneous subcutaneous pedicle flap NEC
-440235008,Z359,Z35.9 Cerebral artery NEC
 386608003,C629,C62.9 Unspecified incision of iris
 405343001,L601,L60.1 Endarterectomy of femoral artery and patch repair of femoral artery
 35887003,Q432,Q43.2 Excision of lesion of ovary
@@ -39154,7 +38838,6 @@ snomed,opcs,opcs_term
 788424007,Y948,Y94.8 Other specified radiopharmaceutical imaging
 22953008,K304,K30.4 Revision of plastic repair of pulmonary valve
 241303002,Y942,Y94.2 Octreotide imaging
-46415000,Z715,Z71.5 Styloid process of ulna
 26167002,Z397,Z39.7 Adrenal vein
 698240009,V559,V55.9 Unspecified levels of spine
 310662003,C824,C82.4 Plaque radiotherapy to lesion of retina
@@ -39267,7 +38950,6 @@ snomed,opcs,opcs_term
 428925003,V397,V39.7 Revisional transforaminal interbody fusion of joint of lumbar spine
 20624000,Z705,Z70.5 Lower end of radius NEC
 134245004,Q176,Q17.6 Endoscopic microwave ablation of endometrium
-11686006,Z709,Z70.9 Radius NEC
 360341006,W603,W60.3 Conversion to arthrodesis and extra-articular bone graft NEC
 119726002,Y269,Y26.9 Unspecified other repair of organ NOC
 178553005,V313,V31.3 Primary costotransversectomy of thoracic intervertebral disc
@@ -39314,7 +38996,6 @@ snomed,opcs,opcs_term
 235381007,H576,H57.6 Maintenance of dynamic graciloplasty sphincter
 438573009,A754,A75.4 Excision of perivascular sympathetic nerve
 61561005,E342,E34.2 Microtherapeutic endoscopic resection of lesion of larynx NEC
-62820003,K099,K09.9 Unspecified repair of defect of atrioventricular septum
 14521000087106,Y973,Y97.3 Radiology with post contrast
 52174008,Z863,Z86.3 Tarsometatarsal joint
 234736000,F174,F17.4 Adjustment of dental crown on tooth
@@ -39502,7 +39183,6 @@ snomed,opcs,opcs_term
 81099000,V376,V37.6 Posterior fusion of atlantoaxial joint using pedicle screw
 78790009,A345,A34.5 Exploration of acoustic nerve (viii)
 704053009,E025,E02.5 Reduction rhinoplasty
-77570000,T095,T09.5 Open pleurodesis NEC
 28813001,E134,E13.4 Biopsy of lesion of maxillary antrum
 277519007,Y531,Y53.1 Approach to organ under radiological control
 232745003,K341,K34.1 Annuloplasty of mitral valve
@@ -39680,7 +39360,6 @@ snomed,opcs,opcs_term
 6670003,E432,E43.2 Tracheorrhaphy
 37679001,Z475,Z47.5 Skin of chin
 440302000,O179,O17.9 Unspecified secondary closed reduction of fracture of bone and internal fixation
-276921001,L358,L35.8 Other specified transluminal operations on cerebral artery
 68315004,Z574,Z57.4 Adductor muscle of thigh
 9774003,V195,V19.5 Manipulation of mandible NEC
 433217002,Z073,Z07.3 Spinal nerve root of lumbar spine
@@ -39719,7 +39398,6 @@ snomed,opcs,opcs_term
 173259008,S222,S22.2 Neurovascular island sensory flap of skin NEC
 37924007,H559,H55.9 Unspecified other operations on perianal region
 449686001,S472,S47.2 Drainage of lesion of skin NEC
-37120004,V508,V50.8 Other specified manipulation of spine
 239308005,W149,W14.9 Unspecified diaphyseal division of bone
 446599005,E121,E12.1 Ligation of maxillary artery using sublabial approach
 439634007,T672,T67.2 Primary repair of tendon using lengthening procedure
@@ -40000,7 +39678,6 @@ snomed,opcs,opcs_term
 252727008,A841,A84.1 Electroencephalography NEC
 711547009,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 428569003,Y973,Y97.3 Radiology with post contrast
-47329006,V558,V55.8 Other specified levels of spine
 119961002,Y261,Y26.1 Reconstruction of organ NOC
 426220008,X504,X50.4 External ventricular defibrillation
 312966009,P201,P20.1 Excision of lesion of vagina
@@ -40049,7 +39726,6 @@ snomed,opcs,opcs_term
 252834003,Z699,Z69.9 Humerus NEC
 430432006,Y973,Y97.3 Radiology with post contrast
 46485008,W738,W73.8 Other specified prosthetic reinforcement of ligament
-14477007,W333,W33.3 Suture of periosteum
 176538007,S371,S37.1 Allograft of skin to head or neck
 446062001,A432,A43.2 Extirpation of lesion of meninges of skull clivus
 12896001,H483,H48.3 Excision of perianal wart
@@ -40085,7 +39761,6 @@ snomed,opcs,opcs_term
 311488002,V559,V55.9 Unspecified levels of spine
 16410231000119101,Z065,Z06.5 Cerebrospinal fluid
 16548951000119100,Y943,Y94.3 Metaiodobenzylguanidine imaging
-46415000,Z713,Z71.3 Coronoid process of ulna
 431860009,Y534,Y53.4 Approach to organ under fluoroscopic control
 51683002,C493,C49.3 Radial keratotomy
 433856004,L895,L89.5 Endovascular placement of one drug-eluting stent
@@ -40327,7 +40002,6 @@ snomed,opcs,opcs_term
 89432003,F038,F03.8 Other specified correction of deformity of lip
 35757004,U209,U20.9 Unspecified diagnostic Echocardiography
 448565003,W292,W29.2 Adjustment to skeletal traction of bone
-112934001,V553,V55.3 Greater than two levels of spine
 1010694004,F114,F11.4 Vestibuloplasty of mouth
 447936000,J275,J27.5 Excision of extrahepatic bile ducts HFQ
 178534000,V551,V55.1 One level of spine
@@ -40421,7 +40095,6 @@ snomed,opcs,opcs_term
 446801005,A736,A73.6 Transfer and reimplantation of peripheral nerve NEC
 439634007,T673,T67.3 Primary repair of tendon using permanent prosthesis
 271406004,A091,A09.1 Implantation of neurostimulator into brain
-431337005,Z388,Z38.8 Specified terminal branch of aorta NEC
 230886007,A208,A20.8 Other specified other operations on ventricle of brain
 72599001,Z704,Z70.4 Styloid process of radius
 49834007,W162,W16.2 Multiple osteotomy and external fixation HFQ
@@ -40791,7 +40464,6 @@ snomed,opcs,opcs_term
 178572005,V553,V55.3 Greater than two levels of spine
 300976007,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 446481000,N066,N06.6 Inguinal orchidectomy NEC
-14477007,Z694,Z69.4 Mid shaft of humerus
 700196009,J024,J02.4 Wedge excision of liver
 440341003,W246,W24.6 Closed reduction of fracture of bone and fixation using nail or screw
 431617002,U148,U14.8 Other specified nuclear bone scan
@@ -40836,7 +40508,6 @@ snomed,opcs,opcs_term
 432880008,Y173,Y17.3 Lithotripsy of lesion of organ NOC
 702601001,Q553,Q55.3 Papanicolau smear NEC
 764681008,Y948,Y94.8 Other specified radiopharmaceutical imaging
-178686002,V559,V55.9 Unspecified levels of spine
 450863009,C352,C35.2 Lengthening of muscle of eye by muscle slide
 172264003,C201,C20.1 Complete protective suture of eyelid
 49825002,Y421,Y42.1 External manipulation of organ NOC
@@ -41188,7 +40859,6 @@ snomed,opcs,opcs_term
 708651002,V551,V55.1 One level of spine
 5121005,W161,W16.1 Multiple osteotomy and internal fixation HFQ
 236886002,R251,R25.1 Caesarean hysterectomy
-444688002,H358,H35.8 Other specified fixation of rectum for prolapse
 440437003,W264,W26.4 Remanipulation of fracture of bone NEC
 446938009,C571,C57.1 Biopsy of lesion of sclera
 64628007,W082,W08.2 Excision of overgrowth of bone
@@ -41213,7 +40883,6 @@ snomed,opcs,opcs_term
 230907002,Y069,Y06.9 Unspecified excision of lesion of organ NOC
 288014001,M582,M58.2 Dilation of outlet of female bladder
 359672006,Y741,Y74.1 Thoracoscopically assisted approach to thoracic cavity
-225231007,X429,X42.9 Unspecified placement of other apparatus for compensation for renal failure
 232614009,Y209,Y20.9 Unspecified biopsy of organ NOC
 174969001,K313,K31.3 Open tricuspid valvotomy
 432642009,W902,W90.2 Arthrography
@@ -41370,7 +41039,6 @@ snomed,opcs,opcs_term
 6295005,Z758,Z75.8 Specified bone of pelvis NEC
 88420009,A631,A63.1 Primary graft to peripheral nerve NEC
 88349000,Y016,Y01.6 Alloreplacement of organ from cadaver NOC
-176929000,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 719081007,L893,L89.3 Endovascular placement of three or more drug-eluting stents
 445843006,A624,A62.4 Primary microsurgical repair of peripheral nerve NEC
 173259008,F049,F04.9 Unspecified other reconstruction of lip
@@ -41396,7 +41064,6 @@ snomed,opcs,opcs_term
 313020008,A839,A83.9 Unspecified electroconvulsive therapy
 265668004,S264,S26.4 Random pattern local subcutaneous pedicle flap of skin NEC
 430872006,W654,W65.4 Primary open reduction of fracture dislocation of joint and internal fixation NEC
-310603006,R299,R29.9 Unspecified manual removal of products of conception from delivered uterus
 431410007,M062,M06.2 Drainage of kidney NEC
 446183009,Z507,Z50.7 Skin of ankle
 232154007,D021,D02.1 Excision of lesion of external ear
@@ -41494,7 +41161,6 @@ snomed,opcs,opcs_term
 735028003,Z942,Z94.2 Right sided operation
 28555002,Z702,Z70.2 Neck of radius
 3060007,Z942,Z94.2 Right sided operation
-178894007,W059,W05.9 Unspecified prosthetic replacement of bone
 22623003,C464,C46.4 Insertion of prosthesis into cornea
 1119007,Z861,Z86.1 Midtarsal joint
 20234004,W288,W28.8 Other specified other internal fixation of bone
@@ -41555,7 +41221,6 @@ snomed,opcs,opcs_term
 174928005,K343,K34.3 Annuloplasty of valve of heart NEC
 72185009,Z578,Z57.8 Specified muscle of hip or thigh NEC
 609234009,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
-110474005,E874,E87.4 Diagnostic assessment of circulatory oxygenation using reduced oxygen air
 172595006,D028,D02.8 Other specified extirpation of lesion of external ear
 450342000,A765,A76.5 Chemical destruction of splanchnic sympathetic nerve
 359618004,E545,E54.5 Partial lobectomy of lung NEC
@@ -41686,7 +41351,6 @@ snomed,opcs,opcs_term
 239427003,W733,W73.3 Primary prosthetic reinforcement of intra-articular ligament NEC
 6439004,A611,A61.1 Excision of lesion of peripheral nerve
 5121005,Z755,Z75.5 Ramus of pubis
-23316000,W333,W33.3 Suture of periosteum
 12744005,M779,M77.9 Unspecified diagnostic endoscopic examination of urethra
 446071005,Z638,Z63.8 Specified bone of cranium NEC
 171709008,A395,A39.5 Repair of dura of vault of cranium
@@ -41717,7 +41381,6 @@ snomed,opcs,opcs_term
 273996005,V322,V32.2 Revisional anterolateral excision of thoracic intervertebral disc NEC
 386691001,A443,A44.3 Excision of lesion of intradural intramedullary spinal cord
 770606008,W391,W39.1 Primary total prosthetic replacement of hip joint NEC
-81333007,Z754,Z75.4 Ischium
 179162008,W677,W67.7 Secondary open reduction of fracture dislocation of joint and internal fixation NEC
 239247009,T648,T64.8 Other specified transposition of tendon
 52855003,S066,S06.6 Re-excision of skin margins of head or neck
@@ -41773,7 +41436,6 @@ snomed,opcs,opcs_term
 56195000,V073,V07.3 Excision of lesion of bone of face
 40362001,Z126,Z12.6 Peripheral nerve of leg NEC
 290034004,W641,W64.1 Conversion to arthrodesis and internal fixation NEC
-177200004,R288,R28.8 Other specified instrumental removal of products of conception from delivered uterus
 1266002,D149,D14.9 Unspecified repair of eardrum
 119614000,W479,W47.9 Unspecified prosthetic replacement of head of femur not using cement
 445843006,A643,A64.3 Secondary repair of peripheral nerve and mobilisation of peripheral nerve
@@ -41803,7 +41465,6 @@ snomed,opcs,opcs_term
 447866006,W125,W12.5 Biosseus angulation periarticular osteotomy NEC
 710316007,U216,U21.6 Ultrasound scan NEC
 232947002,Y038,Y03.8 Other specified attention to prosthesis in organ NOC
-367411006,Z576,Z57.6 Biceps femoris
 12314005,W317,W31.7 Bone tendon autograft of bone
 231393008,A761,A76.1 Chemical destruction of cervical sympathetic nerve
 173834007,W067,W06.7 Total excision of pelvic bones
@@ -42052,7 +41713,6 @@ snomed,opcs,opcs_term
 6976007,V374,V37.4 Fusion of atlanto-occipital joint
 699141008,Z901,Z90.1 Buttock NEC
 176693006,P214,P21.4 Vaginoplasty in presence of uterus for absent vagina
-178894007,W054,W05.4 Attention to massive endoprosthesis of bone
 313006001,Y951,Y95.1 Over 20 weeks gestational age
 699160001,W234,W23.4 Secondary open reduction of fracture of bone and skeletal traction HFQ
 23147004,Z689,Z68.9 Bone of shoulder girdle NEC
@@ -42194,7 +41854,6 @@ snomed,opcs,opcs_term
 241199004,Z631,Z63.1 Frontal bone
 441715004,V394,V39.4 Revisional posterior fusion of joint of lumbar spine NEC
 42050001,E298,E29.8 Other specified excision of larynx
-88362001,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 303648002,S063,S06.3 Shave excision of lesion of skin of head or neck
 429741000,V571,V57.1 Revisional laser foraminoplasty of cervical spine
 21810005,N012,N01.2 Excision of lesion of scrotum
@@ -42309,7 +41968,6 @@ snomed,opcs,opcs_term
 69188006,F589,F58.9 Unspecified other operations on salivary duct
 29517004,A605,A60.5 Injection of destructive substance into peripheral nerve
 709408000,V378,V37.8 Other specified primary fusion of joint of cervical spine
-11686006,Z702,Z70.2 Neck of radius
 241404007,Y938,Y93.8 Other specified gallium-67 imaging
 46485008,W759,W75.9 Unspecified other open repair of ligament
 446307000,A381,A38.1 Extirpation of lesion of meninges of cortex of brain
@@ -42581,7 +42239,6 @@ snomed,opcs,opcs_term
 241354002,U125,U12.5 Static renogram
 57746002,Z769,Z76.9 Femur NEC
 232470004,E028,E02.8 Other specified plastic operations on nose
-698973009,A128,A12.8 Other specified creation of connection from ventricle of brain
 764579002,Y971,Y97.1 Radiology with pre and post contrast
 439424008,O172,O17.2 Remanipulation of fracture of long bone and rigid internal fixation NEC
 40007000,Z712,Z71.2 Shaft of ulna NEC
@@ -42602,7 +42259,6 @@ snomed,opcs,opcs_term
 302401004,S234,S23.4 W plasty NEC
 303995001,F431,F43.1 Smear of buccal mucosa
 23518000,A314,A31.4 Intracranial stereotactic neurolysis of facial nerve (vii)
-420231008,Y534,Y53.4 Approach to organ under fluoroscopic control
 232956005,K292,K29.2 Xenograft replacement of valve of heart NEC
 90681004,Y259,Y25.9 Unspecified suture of organ NOC
 112925006,R324,R32.4 Repair of minor obstetric laceration
@@ -42640,7 +42296,6 @@ snomed,opcs,opcs_term
 8920006,C844,C84.4 Retinal vascular sheathotomy
 231651000,C358,C35.8 Other specified other adjustment to muscle of eye
 60128004,N036,N03.6 Reconstruction of scrotum
-11686006,Z701,Z70.1 Head of radius
 447873001,Z791,Z79.1 Talus
 172727008,D221,D22.1 Graft to eustachian canal
 440686006,Y942,Y94.2 Octreotide imaging
@@ -42651,7 +42306,6 @@ snomed,opcs,opcs_term
 76518007,M251,M25.1 Excision of ureterocele
 120090001,C209,C20.9 Unspecified protective suture of eyelid
 77187005,Z752,Z75.2 Ala of sacrum
-310604000,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 698979008,Z472,Z47.2 Skin of temple
 391131000119106,Y959,Y95.9 Unspecified gestational age
 232501001,V131,V13.1 Reconstruction of bone of face
@@ -42758,7 +42412,6 @@ snomed,opcs,opcs_term
 175733009,L658,L65.8 Other specified revision of reconstruction of artery
 450440007,S562,S56.2 Removal of slough from skin of head or neck NEC
 234653001,F042,F04.2 Reconstruction of lip using skin flap
-700073007,Y958,Y95.8 Other specified gestational age
 119772003,Y255,Y25.5 Other attention to suture of organ NOC
 310394000,E571,E57.1 Repair of lung
 449311007,W304,W30.4 Application of external ring fixation to bone NEC
@@ -42776,7 +42429,6 @@ snomed,opcs,opcs_term
 82287001,V548,V54.8 Other specified other operations on spine
 79518006,Y058,Y05.8 Other specified excision of organ NOC
 307289006,V178,V17.8 Other specified fixation of mandible
-73341009,Y292,Y29.2 Manipulative removal of foreign body from organ NOC
 389059002,E211,E21.1 Pharyngoplasty using posterior pharyngeal implant
 302388008,S052,S05.2 Microscopically controlled excision of lesion of skin using fresh tissue technique NEC
 239283000,O172,O17.2 Remanipulation of fracture of long bone and rigid internal fixation NEC
@@ -42899,7 +42551,6 @@ snomed,opcs,opcs_term
 439988004,W252,W25.2 Closed reduction of fracture of bone and fixation using functional bracing system
 827098001,A398,A39.8 Other specified repair of dura
 67954006,Y668,Y66.8 Other specified harvest of bone
-112934001,V552,V55.2 Two levels of spine
 287215007,V432,V43.2 Excision of lesion of thoracic vertebra
 448751003,V551,V55.1 One level of spine
 16531004,Z594,Z59.4 Short sole muscle
@@ -42979,7 +42630,6 @@ snomed,opcs,opcs_term
 168655007,Z724,Z72.4 Carpal bone
 176693006,S188,S18.8 Other specified distant flap of skin and fascia
 71956000,H503,H50.3 Cutback of covered anus
-225231007,X411,X41.1 Insertion of ambulatory peritoneal dialysis catheter
 443304000,Z482,Z48.2 Skin of neck
 54114002,Y821,Y82.1 Local anaesthetic nerve block
 50887005,K141,K14.1 Open enlargement of defect of atrial septum
@@ -43037,7 +42687,6 @@ snomed,opcs,opcs_term
 233077002,Z943,Z94.3 Left sided operation
 432953000,Y973,Y97.3 Radiology with post contrast
 178734002,V551,V55.1 One level of spine
-178686002,V553,V55.3 Greater than two levels of spine
 13666002,A032,A03.2 Stereotactic ablation of tissue of thalamus
 387821004,V428,V42.8 Other specified other correction of deformity of spine
 241457008,Y973,Y97.3 Radiology with post contrast
@@ -43212,7 +42861,6 @@ snomed,opcs,opcs_term
 26294005,M341,M34.1 Cystoprostatectomy
 21484004,L585,L58.5 Emergency bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC
 108116000,A442,A44.2 Extirpation of lesion of spinal cord NEC
-450640001,Y954,Y95.4 Under 9 weeks gestational age
 86962004,W104,W10.4 Open osteoclasis and internal fixation NEC
 448942003,V388,V38.8 Other specified primary fusion of other joint of spine
 443050007,W209,W20.9 Unspecified primary open reduction of fracture of bone and extramedullary fixation
@@ -43243,7 +42891,6 @@ snomed,opcs,opcs_term
 24298005,S031,S03.1 Buttock lift
 239295000,V452,V45.2 Open reduction of fracture of spine NEC
 725868009,Z038,Z03.8 Specified upper cranial nerve NEC
-37120004,V552,V55.2 Two levels of spine
 13666002,A034,A03.4 Stereotactic ablation of tissue of brain stem
 241046008,Y973,Y97.3 Radiology with post contrast
 446938009,C373,C37.3 Biopsy of lesion of muscle of eye
@@ -43407,7 +43054,6 @@ snomed,opcs,opcs_term
 234742001,F172,F17.2 Creation of impression of tooth for dental crown
 9993006,T179,T17.9 Unspecified other operations on diaphragm
 448924008,Z784,Z78.4 Lateral malleolus
-225230008,X402,X40.2 Peritoneal dialysis NEC
 773411001,Y971,Y97.1 Radiology with pre and post contrast
 252833009,C518,C51.8 Other specified other operations on cornea
 168858007,U217,U21.7 Plain x-ray NEC
@@ -43464,7 +43110,6 @@ snomed,opcs,opcs_term
 420161006,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 449879007,Y973,Y97.3 Radiology with post contrast
 6563005,T761,T76.1 Microvascular free tissue transfer of flap of muscle
-387615001,Y959,Y95.9 Unspecified gestational age
 57746002,W333,W33.3 Suture of periosteum
 87083001,W088,W08.8 Other specified other excision of bone
 239628002,X228,X22.8 Other specified correction of congenital deformity of hip
@@ -43638,7 +43283,6 @@ snomed,opcs,opcs_term
 116218007,Y204,Y20.4 Fine needle aspiration NOC
 236266008,Y716,Y71.6 Second revisional operation NOC
 432582008,Y532,Y53.2 Approach to organ under ultrasonic control
-310602001,R302,R30.2 Expression of placenta
 386827007,Z568,Z56.8 Specified muscle of hand NEC
 230957005,A281,A28.1 Extracranial transection of trigeminal nerve (v) NEC
 49834007,W129,W12.9 Unspecified angulation periarticular division of bone
@@ -43776,7 +43420,6 @@ snomed,opcs,opcs_term
 72293004,Y139,Y13.9 Unspecified other destruction of lesion of organ NOC
 260643004,V058,V05.8 Other specified other operations on cranium
 239307000,W146,W14.6 Rotation diaphyseal osteotomy NEC
-440235008,Z351,Z35.1 Anterior cerebral artery
 66950009,A618,A61.8 Other specified extirpation of lesion of peripheral nerve
 171946003,B013,B01.3 Trans-septal hypophysectomy
 440559004,W245,W24.5 Closed reduction of fragment of bone and fixation using screw
@@ -43847,7 +43490,6 @@ snomed,opcs,opcs_term
 175166003,Y535,Y53.5 Approach to organ under image intensifier
 25150004,A298,A29.8 Excision of lesion of specified cranial nerve NEC
 172707007,D152,D15.2 Suction clearance of middle ear
-440235008,Z352,Z35.2 Ophthalmic artery
 440376001,W251,W25.1 Closed reduction of fracture of bone and fixation to skeleton HFQ
 4531000087105,Y973,Y97.3 Radiology with post contrast
 386682000,W601,W60.1 Primary arthrodesis and extra-articular bone graft NEC
@@ -44093,7 +43735,6 @@ snomed,opcs,opcs_term
 725933005,V559,V55.9 Unspecified levels of spine
 450489002,Z261,Z26.1 Parotid gland
 265649002,S053,S05.3 Microscopically controlled excision of lesion of skin of head or neck using chemosurgical technique
-181021005,W165,W16.5 Osteotomy and external fixation NEC
 401107009,N071,N07.1 Excision of lesion of testis
 23881007,V551,V55.1 One level of spine
 360515001,V083,V08.3 Closed reduction of fracture of maxilla NEC
@@ -44193,7 +43834,6 @@ snomed,opcs,opcs_term
 51265002,E198,E19.8 Other specified excision of pharynx
 178993000,W138,W13.8 Other specified other periarticular division of bone
 709193007,S065,S06.5 Excision of lesion of skin of head or neck NEC
-419470007,K578,K57.8 Other specified other therapeutic transluminal operations on heart
 299696006,W879,W87.9 Unspecified diagnostic endoscopic examination of knee joint
 54786002,T132,T13.2 Introduction of sclerosing substance into pleural cavity NEC
 232166001,D081,D08.1 Extirpation of lesion of external auditory canal
@@ -44264,7 +43904,6 @@ snomed,opcs,opcs_term
 6670003,E438,E43.8 Other specified other open operations on trachea
 763331002,F031,F03.1 Primary closure of cleft lip
 19029000,Y075,Y07.5 Occlusion of organ NOC
-81333007,Z751,Z75.1 Body of sacrum
 443184009,W318,W31.8 Other specified other autograft of bone
 119713001,E218,E21.8 Other specified repair of pharynx
 58968004,F442,F44.2 Partial excision of parotid gland
@@ -44412,7 +44051,6 @@ snomed,opcs,opcs_term
 239422009,W649,W64.9 Unspecified conversion to fusion of other joint
 179160000,W661,W66.1 Primary closed reduction of fracture dislocation of joint and skeletal traction HFQ
 438768001,W321,W32.1 Prepared graft of bone
-46415000,Z719,Z71.9 Ulna NEC
 405301008,T832,T83.2 Division of muscle
 180833009,Y663,Y66.3 Harvest of bone from iliac crest
 360341006,W618,W61.8 Other specified fusion of other joint and other articular bone graft
@@ -44574,7 +44212,6 @@ snomed,opcs,opcs_term
 178624002,V559,V55.9 Unspecified levels of spine
 75582008,W655,W65.5 Primary open reduction of fracture dislocation of joint and combined internal and external fixation
 119704003,E192,E19.2 Partial pharyngectomy
-81333007,Z753,Z75.3 Wing of ilium
 3130004,U341,U34.1 Cardiac provocation test
 14572004,Q452,Q45.2 Fixation of ovary NEC
 30025009,A648,A64.8 Other specified other repair of peripheral nerve
@@ -44623,7 +44260,6 @@ snomed,opcs,opcs_term
 119745006,Y421,Y42.1 External manipulation of organ NOC
 284403001,W923,W92.3 Examination of joint under image intensifier
 173184003,E572,E57.2 Ligation of bulla of lung
-181021005,W164,W16.4 Osteotomy and internal fixation NEC
 303868005,Y942,Y94.2 Octreotide imaging
 3778007,Y428,Y42.8 Other specified manipulation of organ NOC
 418170009,Y083,Y08.3 Laser destruction of organ NOC
@@ -44790,7 +44426,6 @@ snomed,opcs,opcs_term
 55506005,K295,K29.5 Repair of valve of heart NEC
 231069008,A731,A73.1 Biopsy of lesion of peripheral nerve
 63016009,M349,M34.9 Unspecified total excision of bladder
-703985001,E898,E89.8 Other specified other respiratory support
 708923008,Z711,Z71.1 Olecranon process of ulna
 392238003,W426,W42.6 Arthrolysis of total prosthetic replacement of knee joint
 448505001,W234,W23.4 Secondary open reduction of fracture of bone and skeletal traction HFQ
@@ -44807,7 +44442,6 @@ snomed,opcs,opcs_term
 29613008,R214,R21.4 Mid forceps cephalic delivery NEC
 702495006,Y973,Y97.3 Radiology with post contrast
 119614000,W472,W47.2 Conversion to prosthetic replacement of head of femur not using cement
-77570000,T093,T09.3 Mechanical open pleurodesis
 87428000,V131,V13.1 Reconstruction of bone of face
 432426006,Z386,Z38.6 Popliteal artery
 67800005,A289,A28.9 Unspecified extracranial extirpation of other cranial nerve
@@ -44921,7 +44555,6 @@ snomed,opcs,opcs_term
 260648008,V311,V31.1 Primary anterolateral excision of thoracic intervertebral disc and graft HFQ
 174809002,K024,K02.4 Piggyback transplantation of heart
 24600000,H568,H56.8 Other specified other operations on anus
-238318009,X406,X40.6 Continuous ambulatory peritoneal dialysis
 284021008,U198,U19.8 Other specified diagnostic electrocardiography
 236982004,R202,R20.2 Assisted breech delivery
 14331000087103,Y971,Y97.1 Radiology with pre and post contrast
@@ -45080,7 +44713,6 @@ snomed,opcs,opcs_term
 25662004,S063,S06.3 Shave excision of lesion of skin of head or neck
 450588007,Z479,Z47.9 Skin of face NEC
 265475009,K343,K34.3 Annuloplasty of valve of heart NEC
-178894007,O098,O09.8 Other specified placement of bone prosthesis
 698977005,S243,S24.3 Local myocutaneous flap to head or neck NEC
 440686006,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 171849009,A683,A68.3 Neurolysis of peripheral nerve and transposition of peripheral nerve NEC
@@ -45097,7 +44729,6 @@ snomed,opcs,opcs_term
 712738001,Y973,Y97.3 Radiology with post contrast
 30923004,A578,A57.8 Other specified operations on spinal nerve root
 31844009,Y071,Y07.1 Ligation of organ NOC
-420231008,Y228,Y22.8 Other specified drainage of organ NOC
 31797009,Q202,Q20.2 Biopsy of lesion of uterus NEC
 178573000,V551,V55.1 One level of spine
 450624004,S141,S14.1 Shave biopsy of lesion of skin of head or neck
@@ -45314,7 +44945,6 @@ snomed,opcs,opcs_term
 175063009,K484,K48.4 Exploration of coronary artery
 11995001,F483,F48.3 Repair of salivary gland NEC
 120014006,N011,N01.1 Excision of scrotum
-271415006,Y959,Y95.9 Unspecified gestational age
 439989007,W259,W25.9 Unspecified closed reduction of fracture of bone and external fixation
 434365006,L635,L63.5 Percutaneous transluminal insertion of stent into femoral artery
 419673001,Y971,Y97.1 Radiology with pre and post contrast
@@ -45326,7 +44956,6 @@ snomed,opcs,opcs_term
 171510000,A128,A12.8 Other specified creation of connection from ventricle of brain
 447865005,W164,W16.4 Osteotomy and internal fixation NEC
 447699006,Y393,Y39.3 Injection of inert substance into organ NOC
-225231007,X418,X41.8 Other specified placement of ambulatory apparatus for compensation for renal failure
 432904000,Y971,Y97.1 Radiology with pre and post contrast
 713158000,Y538,Y53.8 Other specified approach to organ under image control
 69455007,T169,T16.9 Unspecified other repair of diaphragm
@@ -45508,7 +45137,6 @@ snomed,opcs,opcs_term
 8896007,W148,W14.8 Other specified diaphyseal division of bone
 119769005,K298,K29.8 Other specified plastic repair of unspecified valve of heart
 178541006,V402,V40.2 Posterior instrumented fusion of cervical spine NEC
-47329006,Y258,Y25.8 Other specified suture of organ NOC
 18816008,O084,O08.4 Attention to hybrid prosthetic replacement of shoulder joint using cement NEC
 76038002,S474,S47.4 Incision of lesion of skin NEC
 239545000,V551,V55.1 One level of spine
@@ -45599,7 +45227,6 @@ snomed,opcs,opcs_term
 62562000,Z763,Z76.3 Trochanter of femur
 57703000,F094,F09.4 Surgical removal of tooth NEC
 23084000,C011,C01.1 Exenteration of orbit
-176929000,Y951,Y95.1 Over 20 weeks gestational age
 448781006,Y532,Y53.2 Approach to organ under ultrasonic control
 73764009,W582,W58.2 Revision of resurfacing arthroplasty of joint
 10658007,A629,A62.9 Unspecified microsurgical repair of peripheral nerve
@@ -45619,12 +45246,10 @@ snomed,opcs,opcs_term
 429863001,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 387663003,M083,M08.3 Exploration of kidney
 386827007,Z564,Z56.4 Flexor digitorum profundus
-367411006,Z573,Z57.3 Quadriceps
 432368007,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 449449005,E301,E30.1 Excision of lesion of larynx using thyrotomy as approach
 609191008,H489,H48.9 Unspecified excision of lesion of anus
 431047004,Z224,Z22.4 Internal nose
-239625004,X228,X22.8 Other specified correction of congenital deformity of hip
 709549003,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 440440003,O179,O17.9 Unspecified secondary closed reduction of fracture of bone and internal fixation
 308020001,Y069,Y06.9 Unspecified excision of lesion of organ NOC
@@ -45954,7 +45579,6 @@ snomed,opcs,opcs_term
 238199006,T274,T27.4 Removal of prosthetic material from previous repair of ventral hernia
 265656008,S091,S09.1 Laser destruction of lesion of skin of head or neck
 119991007,M373,M37.3 Repair of rupture of bladder
-26500007,Z681,Z68.1 Clavicle
 87083001,W084,W08.4 Excision of fragment of bone
 55705006,V391,V39.1 Revisional fusion of joint of cervical spine NEC
 233159005,K576,K57.6 Percutaneous transluminal ablation of ventricular wall
@@ -46065,7 +45689,6 @@ snomed,opcs,opcs_term
 9754005,C405,C40.5 Suture of conjunctiva
 233288002,Y532,Y53.2 Approach to organ under ultrasonic control
 708925001,W229,W22.9 Unspecified other primary open reduction of fracture of bone
-711430006,Y222,Y22.2 Aspiration of other lesion of organ NOC
 172243002,C162,C16.2 Lateral tarsorrhaphy
 72865008,W326,W32.6 Bulk allograft of bone
 432231006,E591,E59.1 Needle biopsy of lesion of lung
@@ -46240,7 +45863,6 @@ snomed,opcs,opcs_term
 2508002,M301,M30.1 Endoscopic retrograde pyelography
 59428000,A691,A69.1 Revision of neurolysis of peripheral nerve and transposition of peripheral nerve
 3841000087104,Y971,Y97.1 Radiology with pre and post contrast
-420231008,Y221,Y22.1 Aspiration of haematoma of organ NOC
 447873001,W155,W15.5 Osteotomy of midfoot tarsal bone
 172266001,C202,C20.2 Central protective suture of eyelid
 303884006,W592,W59.2 Fusion of first metatarsophalangeal joint and excision of lesser metatarsophalangeal joint
@@ -46293,7 +45915,6 @@ snomed,opcs,opcs_term
 230843007,A088,A08.8 Other specified other biopsy of lesion of tissue of brain
 1119400004,Z942,Z94.2 Right sided operation
 25983007,P254,P25.4 Repair of uterovaginal fistula
-367411006,T649,T64.9 Unspecified transposition of tendon
 442204006,Y942,Y94.2 Octreotide imaging
 34444003,K128,K12.8 Other specified repair of defect of unspecified septum of heart
 54535009,Q038,Q03.8 Other specified biopsy of cervix uteri
@@ -46380,7 +46001,6 @@ snomed,opcs,opcs_term
 25789004,V383,V38.3 Primary posterior fusion of joint of lumbar spine NEC
 446922003,Y066,Y06.6 Vacuum excision of lesion of organ NOC
 239305008,W149,W14.9 Unspecified diaphyseal division of bone
-420231008,Y229,Y22.9 Unspecified drainage of organ NOC
 1010432009,Q319,Q31.9 Unspecified incision of fallopian tube
 709522003,Y971,Y97.1 Radiology with pre and post contrast
 231703002,C418,C41.8 Other specified incision of conjunctiva
@@ -46408,7 +46028,6 @@ snomed,opcs,opcs_term
 78824001,G234,G23.4 Repair of diaphragmatic hernia using abdominal approach NEC
 39602002,Z564,Z56.4 Flexor digitorum profundus
 288013007,M359,M35.9 Unspecified partial excision of bladder
-10090001,V109,V10.9 Unspecified division of bone of face
 302397007,S114,S11.4 Electrolysis to lesion of skin NEC
 72362002,S055,S05.5 Microscopically controlled excision of lesion of skin of head or neck NEC
 233460006,L875,L87.5 Local excision of varicose vein of leg
@@ -46466,7 +46085,6 @@ snomed,opcs,opcs_term
 448243002,W234,W23.4 Secondary open reduction of fracture of bone and skeletal traction HFQ
 87971000,W261,W26.1 Manipulation of fracture of bone and skeletal traction NEC
 445726003,Y766,Y76.6 Endonasal endoscopic approach to other body cavity
-110474005,E873,E87.3 Ambulatory oxygen assessment
 60749009,A304,A30.4 Repair of facial nerve (vii)
 70061005,S261,S26.1 Axial pattern local subcutaneous pedicle flap of skin to head or neck
 702491002,U136,U13.6 Computed tomography of bone
@@ -46562,8 +46180,6 @@ snomed,opcs,opcs_term
 307281009,A273,A27.3 Selective extracranial vagotomy NEC
 446070006,Y203,Y20.3 Biopsy of lesion of organ NOC
 172599000,Y131,Y13.1 Cauterisation of lesion of organ NOC
-700073007,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
-225231007,X428,X42.8 Other specified placement of other apparatus for compensation for renal failure
 169238009,Y973,Y97.3 Radiology with post contrast
 67768005,T525,T52.5 Digital fasciectomy
 359593004,W638,W63.8 Other specified revisional fusion of other joint
@@ -46813,7 +46429,6 @@ snomed,opcs,opcs_term
 431625000,Y971,Y97.1 Radiology with pre and post contrast
 39647001,A639,A63.9 Unspecified other graft to peripheral nerve
 20516002,A478,A47.8 Other specified other destruction of spinal cord
-431612008,Y534,Y53.4 Approach to organ under fluoroscopic control
 425816006,C865,C86.5 Fluorescein angiography of eye
 449311007,W291,W29.1 Application of skeletal traction to bone NEC
 34585005,Z396,Z39.6 Hepatic vein
@@ -46879,7 +46494,6 @@ snomed,opcs,opcs_term
 241604000,Y973,Y97.3 Radiology with post contrast
 3165004,T834,T83.4 Exploration of muscle
 19864005,M734,M73.4 Reconstruction of urethra
-10455003,Q058,Q05.8 Other specified other operations on cervix uteri
 439424008,O179,O17.9 Unspecified secondary closed reduction of fracture of bone and internal fixation
 764449007,Z942,Z94.2 Right sided operation
 68306006,Y971,Y97.1 Radiology with pre and post contrast
@@ -47237,7 +46851,6 @@ snomed,opcs,opcs_term
 23331009,S444,S44.4 Removal of glass from skin NEC
 472191000119101,Z359,Z35.9 Cerebral artery NEC
 699178006,W281,W28.1 Application of internal fixation to bone NEC
-73341009,Q478,Q47.8 Other specified other open operations on ovary
 47571006,W274,W27.4 Removal of staple from epiphysis
 274986006,W281,W28.1 Application of internal fixation to bone NEC
 89759005,Z587,Z58.7 Infrapatellar tendon
@@ -47264,7 +46877,6 @@ snomed,opcs,opcs_term
 439995008,W242,W24.2 Closed reduction of fracture of long bone and rigid internal fixation NEC
 86053003,W263,W26.3 Remanipulation of fracture of bone and skeletal traction NEC
 54342005,S118,S11.8 Other specified other destruction of lesion of skin of other site
-431337005,L716,L71.6 Percutaneous transluminal thrombolysis of artery
 77187005,W269,W26.9 Unspecified other closed reduction of fracture of bone
 702420007,Y971,Y97.1 Radiology with pre and post contrast
 10847001,E519,E51.9 Unspecified diagnostic endoscopic examination of lower respiratory tract using rigid bronchoscope
@@ -47288,7 +46900,6 @@ snomed,opcs,opcs_term
 25131004,W133,W13.3 Cuneiform osteotomy NEC
 18816008,O072,O07.2 Conversion to hybrid prosthetic replacement of shoulder joint using cemented glenoid component
 19864005,Y251,Y25.1 Suture of laceration of organ NOC
-47329006,V548,V54.8 Other specified other operations on spine
 74096002,A428,A42.8 Other specified other operations on meninges of brain
 274485004,V553,V55.3 Greater than two levels of spine
 229467006,W918,W91.8 Other specified other manipulation of joint
@@ -47332,7 +46943,6 @@ snomed,opcs,opcs_term
 241127009,Y973,Y97.3 Radiology with post contrast
 178571003,V559,V55.9 Unspecified levels of spine
 758667000,A399,A39.9 Unspecified repair of dura
-711430006,Y533,Y53.3 Approach to organ under computed tomography scan control
 75455003,A315,A31.5 Intracranial stereotactic neurolysis of acoustic nerve (viii)
 235517002,A788,A78.8 Other specified radiofrequency controlled thermal destruction of sympathetic nerve
 168982001,Y531,Y53.1 Approach to organ under radiological control
@@ -47415,7 +47025,6 @@ snomed,opcs,opcs_term
 442456000,Y539,Y53.9 Unspecified approach to organ under image control
 31197001,Q023,Q02.3 Cauterisation of lesion of cervix uteri
 765474002,Z943,Z94.3 Left sided operation
-178894007,W051,W05.1 Articulated prosthetic replacement of bone
 274474001,X483,X48.3 Removal of plaster cast
 179160000,W678,W67.8 Other specified secondary reduction of traumatic dislocation of joint
 174927000,K343,K34.3 Annuloplasty of valve of heart NEC
@@ -47550,11 +47159,9 @@ snomed,opcs,opcs_term
 7664003,D084,D08.4 Incision of external auditory canal
 443681002,W419,W41.9 Unspecified total prosthetic replacement of knee joint not using cement
 2696004,Z393,Z39.3 Portal vein
-110474005,X581,X58.1 Extracorporeal membrane oxygenation
 119773008,K494,K49.4 Percutaneous transluminal cutting balloon angioplasty of coronary artery
 433007004,Y971,Y97.1 Radiology with pre and post contrast
 807005,A063,A06.3 Excision of syncipital encephalocele
-81333007,W333,W33.3 Suture of periosteum
 265542003,L851,L85.1 Ligation of long saphenous vein
 3551000087104,Y973,Y97.3 Radiology with post contrast
 179169004,W259,W25.9 Unspecified closed reduction of fracture of bone and external fixation
@@ -47654,7 +47261,6 @@ snomed,opcs,opcs_term
 69081002,W101,W10.1 Open osteoclasis and angular correction and internal fixation HFQ
 59703009,V377,V37.7 Fusion of occipitocervical junction NEC
 231773003,C809,C80.9 Unspecified operations on retinal membrane
-450640001,Y959,Y95.9 Unspecified gestational age
 239568009,V551,V55.1 One level of spine
 23979009,T079,T07.9 Unspecified open excision of pleura
 241653000,Y536,Y53.6 Approach to organ under video control
@@ -47773,7 +47379,6 @@ snomed,opcs,opcs_term
 432404005,Y973,Y97.3 Radiology with post contrast
 83152002,Q243,Q24.3 Oophorectomy NEC
 119614000,W481,W48.1 Primary prosthetic replacement of head of femur NEC
-387616000,Y959,Y95.9 Unspecified gestational age
 61206002,V559,V55.9 Unspecified levels of spine
 78830001,W069,W06.9 Unspecified total excision of bone
 46485008,W733,W73.3 Primary prosthetic reinforcement of intra-articular ligament NEC
@@ -48031,7 +47636,6 @@ snomed,opcs,opcs_term
 390935004,Z354,Z35.4 Middle cerebral artery
 17324008,V553,V55.3 Greater than two levels of spine
 714030004,V559,V55.9 Unspecified levels of spine
-367411006,Z575,Z57.5 Tensor fasciae latae
 119755005,E579,E57.9 Unspecified other open operations on lung
 175690001,L601,L60.1 Endarterectomy of femoral artery and patch repair of femoral artery
 9730000,W640,W64.0 Conversion from previous arthrodesis NEC
@@ -48057,7 +47661,6 @@ snomed,opcs,opcs_term
 448924008,W161,W16.1 Multiple osteotomy and internal fixation HFQ
 241368009,Y948,Y94.8 Other specified radiopharmaceutical imaging
 447980000,Y058,Y05.8 Other specified excision of organ NOC
-431612008,A521,A52.1 Therapeutic lumbar epidural injection
 440304004,W262,W26.2 Manipulation of fracture of bone NEC
 265232001,A553,A55.3 Spinal manometry
 176307007,M672,M67.2 Endoscopic destruction of lesion of prostate NEC
@@ -48210,7 +47813,6 @@ snomed,opcs,opcs_term
 21557003,W318,W31.8 Other specified other autograft of bone
 232717009,K422,K42.2 Allograft replacement of two coronary arteries
 432665004,Y971,Y97.1 Radiology with pre and post contrast
-178894007,W068,W06.8 Other specified total excision of bone
 432850003,Y938,Y93.8 Other specified gallium-67 imaging
 450782005,V312,V31.2 Primary anterolateral excision of thoracic intervertebral disc NEC
 295001,C678,C67.8 Other specified other operations on ciliary body
@@ -48257,7 +47859,6 @@ snomed,opcs,opcs_term
 119838003,Z489,Z48.9 Skin of head NEC
 440708003,W264,W26.4 Remanipulation of fracture of bone NEC
 450655005,W683,W68.3 Open reduction of injury to growth plate NEC
-276921001,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 39585008,Z787,Z78.7 Patella
 178572005,Y713,Y71.3 Revisional operations NOC
 39706009,Z697,Z69.7 Lower end of humerus NEC
@@ -48369,13 +47970,11 @@ snomed,opcs,opcs_term
 13490005,E048,E04.8 Other specified operations on turbinate of nose
 80646003,C228,C22.8 Other specified other operations on eyelid
 257839001,W304,W30.4 Application of external ring fixation to bone NEC
-419470007,Y204,Y20.4 Fine needle aspiration NOC
 19246009,Y052,Y05.2 Partial excision of organ NOC
 265531007,Y535,Y53.5 Approach to organ under image intensifier
 119957008,E202,E20.2 Biopsy of adenoid
 176616002,S249,S24.9 Unspecified local flap of skin and muscle
 175406006,Y534,Y53.4 Approach to organ under fluoroscopic control
-77570000,T091,T09.1 Open destruction of lesion of pleura
 739127002,A751,A75.1 Excision of cervical sympathetic nerve
 265305009,D109,D10.9 Unspecified exenteration of mastoid air cells
 448515007,V375,V37.5 Posterior fusion of atlantoaxial joint using transarticular screw
@@ -48451,7 +48050,6 @@ snomed,opcs,opcs_term
 216082006,Z865,Z86.5 Metatarsophalangeal joint of toe NEC
 43493002,W229,W22.9 Unspecified other primary open reduction of fracture of bone
 288013007,M349,M34.9 Unspecified total excision of bladder
-450640001,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 448189002,O058,O05.8 Other specified operations on dural arteriovenous fistula
 431852008,U208,U20.8 Other specified diagnostic Echocardiography
 234742001,F176,F17.6 Preparation of teeth for bridge
@@ -48461,7 +48059,6 @@ snomed,opcs,opcs_term
 176692001,S259,S25.9 Unspecified local flap of skin and fascia
 448855001,Z697,Z69.7 Lower end of humerus NEC
 230841009,A061,A06.1 Excision of basal encephalocele
-387616000,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 69003002,T839,T83.9 Unspecified other operations on muscle
 446571001,Y461,Y46.1 Trans-sphenoidal open approach to contents of cranium
 171728001,A441,A44.1 Chordectomy of spinal cord
@@ -48839,7 +48436,6 @@ snomed,opcs,opcs_term
 5992009,W638,W63.8 Other specified revisional fusion of other joint
 22768003,Y252,Y25.2 Resuture of organ NOC
 241534004,Z266,Z26.6 Submandibular duct
-238323009,X402,X40.2 Peritoneal dialysis NEC
 236836008,P068,P06.8 Other specified extirpation of lesion of vulva
 89355001,V337,V33.7 Primary microdiscectomy of lumbar intervertebral disc
 783282005,Z489,Z48.9 Skin of head NEC
@@ -48860,7 +48456,6 @@ snomed,opcs,opcs_term
 119711004,Y262,Y26.2 Plastic repair of organ NOC
 450342000,A783,A78.3 Radiofrequency controlled thermal destruction of lumbar sympathetic nerve
 239546004,V383,V38.3 Primary posterior fusion of joint of lumbar spine NEC
-71192002,X411,X41.1 Insertion of ambulatory peritoneal dialysis catheter
 3130004,U192,U19.2 24 hour ambulatory electrocardiography
 405390004,L638,L63.8 Other specified transluminal operations on femoral artery
 60921006,W928,W92.8 Other specified other operations on joint
@@ -48999,7 +48594,6 @@ snomed,opcs,opcs_term
 699792009,A649,A64.9 Unspecified other repair of peripheral nerve
 706951006,Y931,Y93.1 Gallium-67 imaging scan
 309876004,Q031,Q03.1 Knife cone biopsy of cervix uteri
-77570000,Y299,Y29.9 Unspecified removal of foreign body from organ NOC
 236168003,M303,M30.3 Endoscopic ureteric urine sampling
 2386002,Z844,Z84.4 Patellofemoral joint
 4904006,H548,H54.8 Other specified dilation of anal sphincter
@@ -49232,14 +48826,12 @@ snomed,opcs,opcs_term
 16174006,Z756,Z75.6 Acetabulum
 265060005,Q171,Q17.1 Endoscopic resection of lesion of uterus
 171465003,A043,A04.3 Open biopsy of lesion of tissue of parietal lobe of brain
-699234008,O262,O26.2 Conversion to prosthetic replacement of head of radius NEC
 26262000,Y532,Y53.2 Approach to organ under ultrasonic control
 241575006,Y973,Y97.3 Radiology with post contrast
 264991006,T643,T64.3 Multiple insertion of tendons into bone
 281002001,F061,F06.1 Division of adhesions of lip
 42115006,W651,W65.1 Primary open reduction of fracture dislocation of joint and skeletal traction HFQ
 174359003,H524,H52.4 Rubber band ligation of haemorrhoid
-77570000,T092,T09.2 Open biopsy of lesion of pleura
 405385002,L728,L72.8 Other specified diagnostic transluminal operations on other artery
 13580001000004101,J035,J03.5 Excision of multiple lesions of liver
 65360004,Y276,Y27.6 Prosthetic graft NOC
@@ -49401,7 +48993,6 @@ snomed,opcs,opcs_term
 86101008,Y502,Y50.2 Laparotomy approach NEC
 1052353005,X494,X49.4 Skin traction
 449374009,W304,W30.4 Application of external ring fixation to bone NEC
-81130000,Q528,Q52.8 Other specified operations on broad ligament of uterus
 40485001,C443,C44.3 Endothelial graft to cornea
 430828008,Y948,Y94.8 Other specified radiopharmaceutical imaging
 807005,A024,A02.4 Excision of lesion of tissue of occipital lobe of brain
@@ -49502,7 +49093,6 @@ snomed,opcs,opcs_term
 450666003,S053,S05.3 Microscopically controlled excision of lesion of skin of head or neck using chemosurgical technique
 5121005,Z758,Z75.8 Specified bone of pelvis NEC
 73924003,A693,A69.3 Revision of tarsal tunnel release
-112934001,V501,V50.1 Manipulation of spine using traction
 178074004,T555,T55.5 Release fasciotomy of posterior compartment of lower leg
 230842002,A046,A04.6 Open biopsy of lesion of tissue of brain stem
 47242009,Y063,Y06.3 Enucleation of lesion of organ NOC
@@ -50191,7 +49781,6 @@ snomed,opcs,opcs_term
 42115006,W654,W65.4 Primary open reduction of fracture dislocation of joint and internal fixation NEC
 119685007,Z856,Z85.6 Ankle joint
 171462000,A044,A04.4 Open biopsy of lesion of tissue of occipital lobe of brain
-178894007,W067,W06.7 Total excision of pelvic bones
 897280004,Z388,Z38.8 Specified terminal branch of aorta NEC
 231598000,C141,C14.1 Flap of skin to eyelid
 52917009,G234,G23.4 Repair of diaphragmatic hernia using abdominal approach NEC
@@ -50228,8 +49817,6 @@ snomed,opcs,opcs_term
 35642000,K129,K12.9 Unspecified repair of defect of unspecified septum of heart
 6704000,G238,G23.8 Other specified repair of diaphragmatic hernia
 88450001,L713,L71.3 Percutaneous transluminal embolisation of artery
-88362001,Y954,Y95.4 Under 9 weeks gestational age
-225231007,X412,X41.2 Removal of ambulatory peritoneal dialysis catheter
 449858007,W162,W16.2 Multiple osteotomy and external fixation HFQ
 239564006,V553,V55.3 Greater than two levels of spine
 449093001,W235,W23.5 Secondary open reduction of fracture of bone and external fixation HFQ
@@ -50629,7 +50216,6 @@ snomed,opcs,opcs_term
 116141005,Q074,Q07.4 Total abdominal hysterectomy NEC
 360515001,W247,W24.7 Closed reduction of fracture of bone and fixation using plate
 234798001,F131,F13.1 Full restoration of crown of tooth
-233585000,X404,X40.4 Haemofiltration
 81250006,S059,S05.9 Unspecified microscopically controlled excision of lesion of skin
 47242009,Y065,Y06.5 Gamma wave excision of lesion of organ NOC
 85419002,N091,N09.1 Microvascular transfer of testis to scrotum NEC
@@ -50712,8 +50298,6 @@ snomed,opcs,opcs_term
 229820001,W676,W67.6 Remanipulation of traumatic dislocation of joint
 440440003,W268,W26.8 Other specified other closed reduction of fracture of bone
 448507009,Z714,Z71.4 Head of ulna
-225230008,X421,X42.1 Insertion of temporary peritoneal dialysis catheter
-47329006,V542,V54.2 Graft of bone to spine NEC
 175905003,M022,M02.2 Nephroureterectomy NEC
 43668008,Y053,Y05.3 Excision of sinus track from organ NOC
 260648008,V328,V32.8 Other specified revisional excision of thoracic intervertebral disc
@@ -50748,7 +50332,6 @@ snomed,opcs,opcs_term
 230833009,A391,A39.1 Repair of meningoencephalocele
 275054006,L602,L60.2 Endarterectomy of femoral artery NEC
 172166005,C058,C05.8 Other specified plastic repair of orbit
-310602001,Q113,Q11.3 Evacuation of products of conception from uterus NEC
 62324004,N352,N35.2 Dermatological non-operative interventions involving the penis
 703073006,K602,K60.2 Resiting of lead of intravenous cardiac pacemaker system
 425594003,V363,V36.3 Prosthetic replacement of lumbar intervertebral disc

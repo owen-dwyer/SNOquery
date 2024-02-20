@@ -134,27 +134,27 @@
 6806,H25,Diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope,H25
 6807,H27,Other therapeutic endoscopic operations on sigmoid colon using rigid sigmoidoscope,H27
 7134,H29.4,Subtotal excision of colon and creation of colonic pouch NEC,H294
-7376,H34.5,Open destruction of lesion of rectum NEC,H345
-7495,H14.3,Closure of caecostomy,H143
-7537,H19.2,Fixation of colon,H192
-8341,H44.8,Other specified manipulation of rectum,H448
-8342,H44.9,Unspecified manipulation of rectum,H449
-8343,H44,Manipulation of rectum,H44
-8354,H36.8,Other specified other abdominal operations for prolapse of rectum,H368
-8355,H36.9,Unspecified other abdominal operations for prolapse of rectum,H369
-8467,H20.7,Fibreoptic endoscopic mucosal resection of lesion of colon,H207
-8688,H09.8,Other specified excision of left hemicolon,H098
-8689,H09.9,Unspecified excision of left hemicolon,H099
-8692,H09,Excision of left hemicolon,H09
-8790,H10.5,Sigmoid colectomy and exteriorisation of bowel NEC,H105
-8791,H10.8,Other specified excision of sigmoid colon,H108
-8792,H10.9,Unspecified excision of sigmoid colon,H109
-8796,H10,Excision of sigmoid colon,H10
-8884,H12.2,Excision of lesion of colon NEC,H122
-8955,H33.8,Other specified excision of rectum,H338
-8956,H33.9,Unspecified excision of rectum,H339
-8959,H33,Excision of rectum,H33
-9056,H16.3,Colotomy,H163
-9057,H16.8,Other specified incision of colon,H168
-9058,H16.9,Unspecified incision of colon,H169
-9059,H16,Incision of colon,H16
+7361,H34.5,Open destruction of lesion of rectum NEC,H345
+7480,H14.3,Closure of caecostomy,H143
+7522,H19.2,Fixation of colon,H192
+8326,H44.8,Other specified manipulation of rectum,H448
+8327,H44.9,Unspecified manipulation of rectum,H449
+8328,H44,Manipulation of rectum,H44
+8339,H36.8,Other specified other abdominal operations for prolapse of rectum,H368
+8340,H36.9,Unspecified other abdominal operations for prolapse of rectum,H369
+8452,H20.7,Fibreoptic endoscopic mucosal resection of lesion of colon,H207
+8673,H09.8,Other specified excision of left hemicolon,H098
+8674,H09.9,Unspecified excision of left hemicolon,H099
+8677,H09,Excision of left hemicolon,H09
+8775,H10.5,Sigmoid colectomy and exteriorisation of bowel NEC,H105
+8776,H10.8,Other specified excision of sigmoid colon,H108
+8777,H10.9,Unspecified excision of sigmoid colon,H109
+8781,H10,Excision of sigmoid colon,H10
+8869,H12.2,Excision of lesion of colon NEC,H122
+8940,H33.8,Other specified excision of rectum,H338
+8941,H33.9,Unspecified excision of rectum,H339
+8944,H33,Excision of rectum,H33
+9041,H16.3,Colotomy,H163
+9042,H16.8,Other specified incision of colon,H168
+9043,H16.9,Unspecified incision of colon,H169
+9044,H16,Incision of colon,H16

@@ -47,7 +47,6 @@ snomed,opcs,opcs_term
 174651007,J452,J45.2 Endoscopic retrograde pancreatography and collection of pancreatic juice
 571921000119104,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 397112000,C452,C45.2 Excision of lesion of cornea NEC
-236883005,R281,R28.1 Curettage of delivered uterus
 88930008,M026,M02.6 Excision of rejected transplanted kidney
 277520001,Z358,Z35.8 Specified cerebral artery NEC
 69685005,K272,K27.2 Xenograft replacement of tricuspid valve
@@ -59,7 +58,6 @@ snomed,opcs,opcs_term
 447363009,Y466,Y46.6 Infratentorial open approach to contents of cranium
 241519005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 236216002,Y703,Y70.3 First stage of staged operations NOC
-1870001,V058,V05.8 Other specified other operations on cranium
 303673002,Y973,Y97.3 Radiology with post contrast
 444083005,M027,M02.7 Excision of transplanted kidney NEC
 446693001,Y069,Y06.9 Unspecified excision of lesion of organ NOC
@@ -152,9 +150,7 @@ snomed,opcs,opcs_term
 91160008,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 241393006,U218,U21.8 Other specified diagnostic imaging procedures
 119913009,J041,J04.1 Removal of lacerated fragment of liver
-73257006,Y031,Y03.1 Maintenance of prosthesis in organ NOC
 169003001,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
-276921001,Y536,Y53.6 Approach to organ under video control
 74193008,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 168854009,Z421,Z42.1 Bladder NEC
 12827003,H411,H41.1 Rectosigmoidectomy and peranal anastomosis
@@ -183,7 +179,6 @@ snomed,opcs,opcs_term
 359583006,Y512,Y51.2 Approach to organ through gastrostomy
 235149006,G791,G79.1 Endoscopic extirpation of lesion of ileum
 447979003,H232,H23.2 Endoscopic cauterisation of lesion of lower bowel using fibreoptic sigmoidoscope
-232977008,K228,K22.8 Other specified other operations on wall of atrium
 418294002,U215,U21.5 Contrast fluoroscopy NEC
 281627009,B239,B23.9 Unspecified operations on aberrant adrenal tissue
 433235006,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
@@ -322,7 +317,6 @@ snomed,opcs,opcs_term
 169055000,U217,U21.7 Plain x-ray NEC
 235197007,G214,G21.4 Intubation of oesophagus NEC
 79346009,Y531,Y53.1 Approach to organ under radiological control
-176929000,Y959,Y95.9 Unspecified gestational age
 54496005,C118,C11.8 Other specified operations on canthus
 116141005,Q072,Q07.2 Abdominal hysterectomy and excision of periuterine tissue NEC
 363115007,Y319,Y31.9 Unspecified exploration of organ NOC
@@ -354,7 +348,6 @@ snomed,opcs,opcs_term
 287528001,Y521,Y52.1 Approach to organ through tracheostomy
 359969002,T095,T09.5 Open pleurodesis NEC
 169021003,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
-446743009,G437,G43.7 Fibreoptic endoscopic rubber band ligation of upper gastrointestinal tract varices
 48387007,E424,E42.4 Revision of tracheostomy
 80823002,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 448042001,Y539,Y53.9 Unspecified approach to organ under image control
@@ -365,7 +358,6 @@ snomed,opcs,opcs_term
 312740003,A081,A08.1 Biopsy of lesion of tissue of frontal lobe of brain NEC
 53442002,G288,G28.8 Other specified partial excision of stomach
 431493005,G475,G47.5 Insertion of nasogastric tube
-88362001,Q311,Q31.1 Removal of products of conception from fallopian tube
 173330006,F162,F16.2 Surgical arrest of postoperative bleeding from tooth socket
 414088005,K401,K40.1 Saphenous vein graft replacement of one coronary artery
 232592002,E498,E49.8 Other specified diagnostic fibreoptic endoscopic examination of lower respiratory tract
@@ -399,7 +391,6 @@ snomed,opcs,opcs_term
 451029002,K323,K32.3 Closed tricuspid valvotomy
 173018005,E349,E34.9 Unspecified microtherapeutic endoscopic operations on larynx
 77018005,L343,L34.3 Open embolectomy of cerebral artery
-473216000,Y252,Y25.2 Resuture of organ NOC
 231581000,C151,C15.1 Correction of ectropion NEC
 236198005,M324,M32.4 Endoscopic dilation of ureteric orifice
 172565003,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
@@ -742,7 +733,6 @@ snomed,opcs,opcs_term
 172158001,S178,S17.8 Other specified distant flap of skin and muscle
 709656002,Z301,Z30.1 Liver
 168997003,U215,U21.5 Contrast fluoroscopy NEC
-773821000,X108,X10.8 Other specified amputation of foot
 241316002,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 247394006,K133,K13.3 Percutaneous transluminal repair of defect of interatrial septum using prosthesis
 287696002,K601,K60.1 Implantation of intravenous cardiac pacemaker system NEC
@@ -954,7 +944,6 @@ snomed,opcs,opcs_term
 241480000,U216,U21.6 Ultrasound scan NEC
 718004009,Z921,Z92.1 Head NEC
 16549151000119108,Z942,Z94.2 Right sided operation
-63633003,M231,M23.1 Open ureterolithotomy
 445864005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 419997008,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 57632009,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
@@ -1016,7 +1005,6 @@ snomed,opcs,opcs_term
 75992007,M388,M38.8 Other specified open drainage of bladder
 5722009,H131,H13.1 Bypass of colon by anastomosis of ileum to colon
 726489004,Z942,Z94.2 Right sided operation
-700073007,Y959,Y95.9 Unspecified gestational age
 398006009,D161,D16.1 Prosthetic replacement of ossicular chain
 442442002,Z321,Z32.1 Mitral valve
 32788008,Y021,Y02.1 Implantation of prosthesis into organ NOC
@@ -1129,7 +1117,6 @@ snomed,opcs,opcs_term
 432660009,Y534,Y53.4 Approach to organ under fluoroscopic control
 73610000,Y308,Y30.8 Other specified incision of organ NOC
 120053002,Q251,Q25.1 Excision of lesion of fallopian tube
-225230008,X428,X42.8 Other specified placement of other apparatus for compensation for renal failure
 82027008,C592,C59.2 Surgical iridectomy
 708884000,E552,E55.2 Open excision of lesion of lung
 287558007,Y209,Y20.9 Unspecified biopsy of organ NOC
@@ -1164,7 +1151,6 @@ snomed,opcs,opcs_term
 384091000119108,Y971,Y97.1 Radiology with pre and post contrast
 723311002,Z943,Z94.3 Left sided operation
 33367005,Y535,Y53.5 Approach to organ under image intensifier
-28233006,R291,R29.1 Manual removal of placenta from delivered uterus
 1241000087104,U216,U21.6 Ultrasound scan NEC
 231413006,A473,A47.3 Percutaneous chordotomy of spinal cord
 360754002,Y712,Y71.2 Secondary operations NOC
@@ -1176,7 +1162,6 @@ snomed,opcs,opcs_term
 172524003,C721,C72.1 Forceps extraction of lens
 287271009,K464,K46.4 Implantation of thoracic artery into heart NEC
 265407000,H269,H26.9 Unspecified endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope
-110474005,X521,X52.1 Hyperbaric therapy
 265475009,K288,K28.8 Other specified plastic repair of pulmonary valve
 300020002,Q351,Q35.1 Endoscopic bilateral cauterisation of fallopian tubes
 83656000,G764,G76.4 Plication of ileum
@@ -1206,7 +1191,6 @@ snomed,opcs,opcs_term
 446548003,C732,C73.2 Capsulotomy of anterior lens capsule
 2711000087100,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 234545002,F322,F32.2 Removal of foreign body from palate
-62820003,K091,K09.1 Repair of defect of atrioventricular septum using dual prosthetic patches
 172231003,C141,C14.1 Flap of skin to eyelid
 81913003,T162,T16.2 Plication of diaphragm
 61601001,S475,S47.5 Incision of skin of head or neck
@@ -1413,7 +1397,6 @@ snomed,opcs,opcs_term
 309424005,Z474,Z47.4 Skin of nasolabial area
 425654008,K172,K17.2 Total cavopulmonary connection with lateral atrial tunnel
 19961003,Z253,Z25.3 Tooth NEC
-225230008,X429,X42.9 Unspecified placement of other apparatus for compensation for renal failure
 386691001,A444,A44.4 Excision of lesion of extradural spinal cord
 48859006,G078,G07.8 Other specified repair of oesophagus
 1162813001,D033,D03.3 Pinnaplasty
@@ -1569,7 +1552,6 @@ snomed,opcs,opcs_term
 310810003,Z258,Z25.8 Specified mouth NEC
 241628003,Z463,Z46.3 Ovary
 41515001,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
-62820003,K092,K09.2 Repair of defect of atrioventricular septum using prosthetic patch NEC
 239338004,Z944,Z94.4 Unilateral operation
 718337003,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 233159005,K521,K52.1 Open ablation of atrioventricular node
@@ -1799,7 +1781,6 @@ snomed,opcs,opcs_term
 3691000087105,Z787,Z78.7 Patella
 68141001,T382,T38.2 Destruction of lesion of mesentery of colon
 84952009,H114,H11.4 Colectomy and ileostomy NEC
-473215001,Y258,Y25.8 Other specified suture of organ NOC
 428391009,Y531,Y53.1 Approach to organ under radiological control
 451026009,K313,K31.3 Open tricuspid valvotomy
 15461002,J132,J13.2 Percutaneous biopsy of lesion of liver NEC
@@ -1832,7 +1813,6 @@ snomed,opcs,opcs_term
 764666002,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 72293004,Y138,Y13.8 Other specified other destruction of lesion of organ NOC
 38083004,E212,E21.2 Pharyngoplasty using posterior pharyngeal flap
-62820003,K043,K04.3 Repair of tetralogy of Fallot using transannular patch
 432845009,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 172571009,C802,C80.2 Peel of internal limiting membrane
 79378001,V073,V07.3 Excision of lesion of bone of face
@@ -1855,7 +1835,6 @@ snomed,opcs,opcs_term
 71140006,Y189,Y18.9 Unspecified release of organ NOC
 718324001,Z652,Z65.2 Temporomandibular joint
 1010295006,Q282,Q28.2 Open ligation of fallopian tube NEC
-71192002,X406,X40.6 Continuous ambulatory peritoneal dialysis
 443516005,Y973,Y97.3 Radiology with post contrast
 172984006,E243,E24.3 Endoscopic operations on pharyngeal pouch
 446736003,G154,G15.4 Fibreoptic endoscopic insertion of tubal prosthesis into oesophagus
@@ -1872,7 +1851,6 @@ snomed,opcs,opcs_term
 441491005,U364,U36.4 Ultrasound elastography
 172523009,C728,C72.8 Other specified intracapsular extraction of lens
 446279000,C456,C45.6 Destruction of lesion of cornea NEC
-773821000,Z943,Z94.3 Left sided operation
 265484009,Y533,Y53.3 Approach to organ under computed tomography scan control
 23726005,B181,B18.1 Trans-sternal thymectomy
 439783004,V104,V10.4 Low level osteotomy of maxilla
@@ -2050,7 +2028,6 @@ snomed,opcs,opcs_term
 416708003,Y052,Y05.2 Partial excision of organ NOC
 446070006,Y209,Y20.9 Unspecified biopsy of organ NOC
 764581000,Z418,Z41.8 Specified upper urinary tract NEC
-387617009,Y954,Y95.4 Under 9 weeks gestational age
 341729004,H176,H17.6 Open relief of obstruction of colon NEC
 307554005,E021,E02.1 Total reconstruction of nose
 6650009,Y943,Y94.3 Metaiodobenzylguanidine imaging
@@ -2113,7 +2090,6 @@ snomed,opcs,opcs_term
 426817008,Z943,Z94.3 Left sided operation
 51081001,Y131,Y13.1 Cauterisation of lesion of organ NOC
 720364002,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
-310604000,Y954,Y95.4 Under 9 weeks gestational age
 418824004,K421,K42.1 Allograft replacement of one coronary artery
 119953007,E202,E20.2 Biopsy of adenoid
 287271009,K469,K46.9 Unspecified other bypass of coronary artery
@@ -2299,7 +2275,6 @@ snomed,opcs,opcs_term
 172353003,C344,C34.4 Tenotomy of inferior rectus muscle of eye
 265318001,F031,F03.1 Primary closure of cleft lip
 715188006,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
-236883005,Q112,Q11.2 Dilation of cervix uteri and evacuation of products of conception from uterus NEC
 414088005,K422,K42.2 Allograft replacement of two coronary arteries
 25570002,E649,E64.9 Unspecified
 87594008,G768,G76.8 Other specified intra-abdominal manipulation of ileum
@@ -2395,7 +2370,6 @@ snomed,opcs,opcs_term
 718324001,U134,U13.4 Plain x-ray of joint
 35965008,H308,H30.8 Other specified other operations on colon
 447115003,A063,A06.3 Excision of syncipital encephalocele
-112934001,V509,V50.9 Unspecified manipulation of spine
 386668000,F405,F40.5 Removal of suture from mouth NEC
 88218008,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 372082006,U218,U21.8 Other specified diagnostic imaging procedures
@@ -2407,7 +2381,6 @@ snomed,opcs,opcs_term
 38071001,V051,V05.1 Extirpation of lesion of cranium
 418988002,Z261,Z26.1 Parotid gland
 234759006,F151,F15.1 Creation of orthodontic impression
-440235008,L661,L66.1 Percutaneous transluminal arterial thrombolysis and reconstruction
 85357001,F382,F38.2 Excision of lesion of mouth NEC
 33302002,A841,A84.1 Electroencephalography NEC
 6231003,Y278,Y27.8 Other specified graft to organ NOC
@@ -2557,13 +2530,9 @@ snomed,opcs,opcs_term
 232826002,K348,K34.8 Other specified other open operations on valve of heart
 174815002,K096,K09.6 Revision of repair of defect of atrioventricular septum
 265334003,F291,F29.1 Primary repair of cleft palate
-37120004,V559,V55.9 Unspecified levels of spine
 12827003,H336,H33.6 Anterior resection of rectum and exteriorisation of bowel
-37120004,V553,V55.3 Greater than two levels of spine
 56087001,Y973,Y97.3 Radiology with post contrast
-446332003,G441,G44.1 Fibreoptic endoscopic insertion of prosthesis into upper gastrointestinal tract
 443681002,W426,W42.6 Arthrolysis of total prosthetic replacement of knee joint
-176929000,Y958,Y95.8 Other specified gestational age
 241304008,Y931,Y93.1 Gallium-67 imaging scan
 25212003,C201,C20.1 Complete protective suture of eyelid
 703698008,Q352,Q35.2 Endoscopic bilateral clipping of fallopian tubes
@@ -2795,7 +2764,6 @@ snomed,opcs,opcs_term
 34645006,A168,A16.8 Other specified other open operations on ventricle of brain
 233025008,K221,K22.1 Excision of lesion of atrium
 232613003,E426,E42.6 Replacement of tracheostomy tube
-251643008,A844,A84.4 Evoked potential recording
 173958005,G714,G71.4 Bypass of ileum by anastomosis of ileum to transverse colon
 174815002,K091,K09.1 Repair of defect of atrioventricular septum using dual prosthetic patches
 303395008,Y131,Y13.1 Cauterisation of lesion of organ NOC
@@ -2848,7 +2816,6 @@ snomed,opcs,opcs_term
 78191003,C775,C77.5 Magnetic extraction of foreign body from lens
 387643005,Q081,Q08.1 Vaginal hysterocolpectomy and excision of periuterine tissue
 901000087105,Z942,Z94.2 Right sided operation
-431612008,A529,A52.9 Unspecified therapeutic epidural injection
 38432009,Y254,Y25.4 Removal of other suture from organ NOC
 398194002,E473,E47.3 Repair of bronchus NEC
 233322001,Z359,Z35.9 Cerebral artery NEC
@@ -2879,7 +2846,6 @@ snomed,opcs,opcs_term
 66890006,C141,C14.1 Flap of skin to eyelid
 287528001,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 74373008,G781,G78.1 Open biopsy of lesion of ileum
-450640001,Y951,Y95.1 Over 20 weeks gestational age
 16545811000119100,Y939,Y93.9 Unspecified gallium-67 imaging
 271996001,G501,G50.1 Excision of lesion of duodenum
 32044008,H093,H09.3 Left hemicolectomy and anastomosis NEC
@@ -2927,7 +2893,6 @@ snomed,opcs,opcs_term
 116140006,Q074,Q07.4 Total abdominal hysterectomy NEC
 174197008,H241,H24.1 Endoscopic dilation of lower bowel using fibreoptic sigmoidoscope
 64562004,Q012,Q01.2 Wedge excision of cervix uteri and suture HFQ
-420231008,Y223,Y22.3 Irrigation of organ NOC
 19651000087101,Y538,Y53.8 Other specified approach to organ under image control
 26925005,H085,H08.5 Transverse colectomy and exteriorisation of bowel NEC
 281416002,M379,M37.9 Unspecified other repair of bladder
@@ -2963,7 +2928,6 @@ snomed,opcs,opcs_term
 83557003,E381,E38.1 Injection into larynx
 420137004,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 718326004,U212,U21.2 Computed tomography NEC
-176929000,Q311,Q31.1 Removal of products of conception from fallopian tube
 783286008,Z489,Z48.9 Skin of head NEC
 174603004,J362,J36.2 Biopsy of lesion of ampulla of Vater using duodenal approach
 866220000,Z652,Z65.2 Temporomandibular joint
@@ -3172,7 +3136,6 @@ snomed,opcs,opcs_term
 31118007,L931,L93.1 Excision of vein NEC
 107944001,H071,H07.1 Right hemicolectomy and end to end anastomosis of ileum to colon
 230841009,A063,A06.3 Excision of syncipital encephalocele
-73341009,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 300030006,C121,C12.1 Excision of lesion of eyelid NEC
 287465001,Y534,Y53.4 Approach to organ under fluoroscopic control
 69769008,C185,C18.5 Tarsomullerectomy
@@ -3212,7 +3175,6 @@ snomed,opcs,opcs_term
 1775004,Z482,Z48.2 Skin of neck
 719888000,U341,U34.1 Cardiac provocation test
 425813003,Y954,Y95.4 Under 9 weeks gestational age
-90463006,M323,M32.3 Endoscopic injection of inert substance around ureteric orifice
 232717009,K414,K41.4 Autograft replacement of four or more coronary arteries NEC
 386745004,M453,M45.3 Diagnostic endoscopic examination of bladder and biopsy of lesion of bladder using rigid cystoscope
 6291000087101,Z989,Z98.9 Vein of lower limb NEC
@@ -3384,7 +3346,6 @@ snomed,opcs,opcs_term
 445959007,Y973,Y97.3 Radiology with post contrast
 446343006,Y069,Y06.9 Unspecified excision of lesion of organ NOC
 303643006,A512,A51.2 Freeing of adhesions of meninges of spinal cord
-37120004,V551,V55.1 One level of spine
 29063004,A078,A07.8 Other specified other open operations on tissue of brain
 43344006,G282,G28.2 Partial gastrectomy and anastomosis of stomach to transposed jejunum
 241325008,Y949,Y94.9 Unspecified radiopharmaceutical imaging
@@ -3401,7 +3362,6 @@ snomed,opcs,opcs_term
 287848004,J575,J57.5 Excision of tail of pancreas NEC
 450783000,K101,K10.1 Repair of defect of interatrial septum using prosthetic patch
 34574008,Y139,Y13.9 Unspecified other destruction of lesion of organ NOC
-473216000,Y251,Y25.1 Suture of laceration of organ NOC
 74373008,Y332,Y33.2 Drilling of organ NOC
 75792002,Y016,Y01.6 Alloreplacement of organ from cadaver NOC
 58074001,E473,E47.3 Repair of bronchus NEC
@@ -3409,7 +3369,6 @@ snomed,opcs,opcs_term
 235578001,Y211,Y21.1 Brush cytology of organ NOC
 39824000,C335,C33.5 Resection of superior oblique muscle of eye
 440198000,V161,V16.1 Osteotomy of mandible and advancement of mandible
-473214002,Y259,Y25.9 Unspecified suture of organ NOC
 442979007,Y533,Y53.3 Approach to organ under computed tomography scan control
 169005008,Z271,Z27.1 Oesophagus
 38083004,E211,E21.1 Pharyngoplasty using posterior pharyngeal implant
@@ -3503,7 +3462,6 @@ snomed,opcs,opcs_term
 786917009,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 29374002,E439,E43.9 Unspecified other open operations on trachea
 386607008,C622,C62.2 Surgical iridotomy
-446018005,G442,G44.2 Fibreoptic endoscopic removal of foreign body from upper gastrointestinal tract
 432004002,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 241527001,Y973,Y97.3 Radiology with post contrast
 765252005,Y941,Y94.1 Dopamine transporter scan
@@ -3518,7 +3476,6 @@ snomed,opcs,opcs_term
 234739007,F174,F17.4 Adjustment of dental crown on tooth
 24429008,Y716,Y71.6 Second revisional operation NOC
 758601001,Y281,Y28.1 Insertion of synthetic mesh into organ NOC
-235398007,G768,G76.8 Other specified intra-abdominal manipulation of ileum
 433714008,K604,K60.4 Removal of intravenous cardiac pacemaker system
 314632001,G351,G35.1 Closure of perforated ulcer of stomach
 396321000119104,U214,U21.4 Single photon emission computed tomography NEC
@@ -3691,7 +3648,6 @@ snomed,opcs,opcs_term
 241475009,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 709187004,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 275218004,M079,M07.9 Unspecified therapeutic ureteroscopic operations on kidney
-37120004,V501,V50.1 Manipulation of spine using traction
 413650000,E095,E09.5 Biopsy of lesion of external nose
 711507002,U202,U20.2 Transoesophageal echocardiography
 426100003,Z943,Z94.3 Left sided operation
@@ -3729,7 +3685,6 @@ snomed,opcs,opcs_term
 708744003,K583,K58.3 Percutaneous transluminal right ventricular biopsy
 429863001,Z261,Z26.1 Parotid gland
 119285001,Q181,Q18.1 Diagnostic endoscopic examination of uterus and biopsy of lesion of uterus
-709787009,T123,T12.3 Aspiration of pleural cavity
 252821004,C865,C86.5 Fluorescein angiography of eye
 429801001,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 446734000,Y491,Y49.1 Median sternotomy approach
@@ -3774,7 +3729,6 @@ snomed,opcs,opcs_term
 241393006,Y942,Y94.2 Octreotide imaging
 119724004,Y265,Y26.5 Other attention to repair of organ NOC
 112958002,C184,C18.4 Correction of ptosis of eyelid using superior rectus muscle technique
-310604000,Q115,Q11.5 Vacuum aspiration of products of conception from uterus using rigid cannula
 6846004,B044,B04.4 Exploration of pituitary gland
 445725004,Q174,Q17.4 Endoscopic destruction of lesion of uterus NEC
 241323001,Z271,Z27.1 Oesophagus
@@ -3801,7 +3755,6 @@ snomed,opcs,opcs_term
 78711007,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 82619000,H099,H09.9 Unspecified excision of left hemicolon
 418797005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
-91573000,U248,U24.8 Other specified diagnostic audiology
 174757003,J651,J65.1 Open biopsy of lesion of pancreas
 54872009,A389,A38.9 Unspecified extirpation of lesion of meninges of brain
 439536004,L893,L89.3 Endovascular placement of three or more drug-eluting stents
@@ -3817,7 +3770,6 @@ snomed,opcs,opcs_term
 88632002,J724,J72.4 Repair of spleen
 234894007,F304,F30.4 Plastic repair of palate using graft of skin
 427282009,Y223,Y22.3 Irrigation of organ NOC
-473276009,Y259,Y25.9 Unspecified suture of organ NOC
 134245004,Q175,Q17.5 Endoscopic metroplasty
 232870006,Y088,Y08.8 Other specified laser therapy to organ NOC
 46825001,U196,U19.6 Cardiomemo electrocardiographic monitoring
@@ -3854,7 +3806,6 @@ snomed,opcs,opcs_term
 419992002,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 119256007,E541,E54.1 Total pneumonectomy
 473197003,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
-71192002,X405,X40.5 Automated peritoneal dialysis
 232621009,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
 112809000,K382,K38.2 Operations on chordae tendineae
 119727006,E318,E31.8 Other specified reconstruction of larynx
@@ -3887,7 +3838,6 @@ snomed,opcs,opcs_term
 431627008,U211,U21.1 Magnetic resonance imaging NEC
 440335005,Y948,Y94.8 Other specified radiopharmaceutical imaging
 49870005,H262,H26.2 Endoscopic cauterisation of lesion of sigmoid colon using rigid sigmoidoscope
-112934001,V559,V55.9 Unspecified levels of spine
 83371007,Y758,Y75.8 Other specified minimal access to abdominal cavity
 709101001,Z258,Z25.8 Specified mouth NEC
 448307005,Y973,Y97.3 Radiology with post contrast
@@ -3924,7 +3874,6 @@ snomed,opcs,opcs_term
 433232009,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 448306001,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 432406007,A523,A52.3 Epidural blood patch
-446744003,G437,G43.7 Fibreoptic endoscopic rubber band ligation of upper gastrointestinal tract varices
 277546002,Z398,Z39.8 Specified vein NEC
 51994001,H412,H41.2 Peranal excision of lesion of rectum
 431214001,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
@@ -3998,7 +3947,6 @@ snomed,opcs,opcs_term
 829831000000100,Y361,Y36.1 Introduction of gold seeds into organ NOC
 8151003,U208,U20.8 Other specified diagnostic Echocardiography
 51507009,E301,E30.1 Excision of lesion of larynx using thyrotomy as approach
-446742004,G436,G43.6 Fibreoptic endoscopic injection therapy to lesion of upper gastrointestinal tract NEC
 9754005,C572,C57.2 Repair of sclera
 112849008,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 174197008,Z286,Z28.6 Sigmoid colon
@@ -4086,7 +4034,6 @@ snomed,opcs,opcs_term
 112793004,E178,E17.8 Other specified operations on unspecified nasal sinus
 40371005,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 419523009,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
-310603006,Q113,Q11.3 Evacuation of products of conception from uterus NEC
 86688004,U198,U19.8 Other specified diagnostic electrocardiography
 26212005,K263,K26.3 Prosthetic replacement of aortic valve
 14480008,C199,C19.9 Unspecified incision of eyelid
@@ -4195,7 +4142,6 @@ snomed,opcs,opcs_term
 359591002,G531,G53.1 Open biopsy of lesion of duodenum
 176117005,M361,M36.1 Caecocystoplasty
 65942005,E137,E13.7 Neurectomy of vidian nerve NEC
-231384007,A541,A54.1 Injection of destructive substance into cerebrospinal fluid
 310803009,H138,H13.8 Other specified bypass of colon
 75745001,C264,C26.4 Incision of lacrimal sac
 241559008,Z463,Z46.3 Ovary
@@ -4246,7 +4192,6 @@ snomed,opcs,opcs_term
 764677008,Y534,Y53.4 Approach to organ under fluoroscopic control
 429923003,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 171692002,A386,A38.6 Extirpation of lesion of tentorium cerebelli
-110474005,E871,E87.1 Home oxygen support
 419132001,K442,K44.2 Revision of replacement of coronary artery
 386745004,M455,M45.5 Diagnostic endoscopic examination of bladder using rigid cystoscope
 450802002,Z488,Z48.8 Skin of specified part of head NEC
@@ -4289,7 +4234,6 @@ snomed,opcs,opcs_term
 16436161000119108,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 385111000119104,Z649,Z64.9 Bone of face NEC
 709591001,J121,J12.1 Percutaneous drainage of liver
-90463006,M813,M81.3 External meatotomy of urethral orifice
 173028001,E353,E35.3 Endoscopic destruction of lesion of larynx
 241164003,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 473240008,V071,V07.1 Extensive excision of bone of face
@@ -4305,7 +4249,6 @@ snomed,opcs,opcs_term
 75149001,C062,C06.2 Drainage of orbit
 173264007,F051,F05.1 Excision of excess mucosa from lip
 20885004,C059,C05.9 Unspecified plastic repair of orbit
-440235008,Z357,Z35.7 Artery of circle of Willis
 86620009,Y074,Y07.4 Obliteration of diverticulum of organ NOC
 16534201000119102,Y938,Y93.8 Other specified gallium-67 imaging
 77950003,C889,C88.9 Unspecified destruction of subretinal lesion
@@ -4449,7 +4392,6 @@ snomed,opcs,opcs_term
 19740002,C718,C71.8 Other specified extracapsular extraction of lens
 234931000,Y223,Y22.3 Irrigation of organ NOC
 79583008,G472,G47.2 Intubation of stomach for pressure manometry
-230825008,A141,A14.1 Renewal of cerebroventricular shunt
 168729000,Z255,Z25.5 Tongue
 431066004,E334,E33.4 Open biopsy of lesion of larynx
 21151000087104,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
@@ -4491,7 +4433,6 @@ snomed,opcs,opcs_term
 175930000,M052,M05.2 Open revision of pyeloplasty
 451013005,Z651,Z65.1 Mandible
 287223009,Y318,Y31.8 Other specified exploration of organ NOC
-62820003,K048,K04.8 Other specified repair of tetralogy of Fallot
 235153008,H267,H26.7 Endoscopic resection of lesion of sigmoid colon using rigid sigmoidoscope NEC
 232741007,K531,K53.1 Inspection of valve of heart
 280458007,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
@@ -4707,7 +4648,6 @@ snomed,opcs,opcs_term
 265674004,S332,S33.2 Hair bearing strip graft to scalp for male pattern baldness
 173382008,F282,F28.2 Destruction of lesion of palate
 445419002,Z337,Z33.7 Ventricle of heart
-419470007,Y534,Y53.4 Approach to organ under fluoroscopic control
 172951006,S208,S20.8 Other specified other distant flap of skin
 257904000,V093,V09.3 Reduction of fracture of zygomatic complex of bones
 128392000,D028,D02.8 Other specified extirpation of lesion of external ear
@@ -4835,7 +4775,6 @@ snomed,opcs,opcs_term
 288013007,M341,M34.1 Cystoprostatectomy
 45900003,G021,G02.1 Total oesophagectomy and anastomosis of pharynx to stomach
 445746008,Y465,Y46.5 Supratentorial open approach to contents of cranium
-276921001,Y532,Y53.2 Approach to organ under ultrasonic control
 64265001,A398,A39.8 Other specified repair of dura
 361249003,M021,M02.1 Nephrectomy and excision of perirenal tissue
 192703003,F324,F32.4 Operations on uvula NEC
@@ -5001,7 +4940,6 @@ snomed,opcs,opcs_term
 265472007,K253,K25.3 Prosthetic replacement of mitral valve
 84077007,C572,C57.2 Repair of sclera
 718285000,Y971,Y97.1 Radiology with pre and post contrast
-271415006,Y958,Y95.8 Other specified gestational age
 444795004,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 759005,A841,A84.1 Electroencephalography NEC
 169021003,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
@@ -5087,7 +5025,6 @@ snomed,opcs,opcs_term
 119711004,Y268,Y26.8 Other specified other repair of organ NOC
 274031008,H344,H34.4 Open laser destruction of lesion of rectum
 446693001,Y067,Y06.7 Radiofrequency excision of lesion of organ NOC
-700073007,Q311,Q31.1 Removal of products of conception from fallopian tube
 431846007,K743,K74.3 Renewal of biventricular cardiac pacemaker NEC
 310442001,K043,K04.3 Repair of tetralogy of Fallot using transannular patch
 420108003,U215,U21.5 Contrast fluoroscopy NEC
@@ -5145,7 +5082,6 @@ snomed,opcs,opcs_term
 438888005,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 112875007,H414,H41.4 Peranal mucosal proctectomy and endoanal anastomosis
 231702007,C373,C37.3 Biopsy of lesion of muscle of eye
-71192002,X421,X42.1 Insertion of temporary peritoneal dialysis catheter
 447752008,E301,E30.1 Excision of lesion of larynx using thyrotomy as approach
 234742001,F175,F17.5 Removal of dental crown from tooth
 33422004,M068,M06.8 Other specified incision of kidney
@@ -5216,7 +5152,6 @@ snomed,opcs,opcs_term
 446138008,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 235590004,Y139,Y13.9 Unspecified other destruction of lesion of organ NOC
 446865003,Y468,Y46.8 Other specified open approach to contents of cranium
-225230008,X411,X41.1 Insertion of ambulatory peritoneal dialysis catheter
 231005000,S209,S20.9 Unspecified other distant flap of skin
 1010433004,Q431,Q43.1 Excision of wedge of ovary
 446821006,M429,M42.9 Unspecified endoscopic extirpation of lesion of bladder
@@ -5311,7 +5246,6 @@ snomed,opcs,opcs_term
 241395004,Y943,Y94.3 Metaiodobenzylguanidine imaging
 74193008,K585,K58.5 Transluminal intracardiac echocardiography
 773408002,U217,U21.7 Plain x-ray NEC
-236883005,Q091,Q09.1 Open removal of products of conception from uterus
 312090008,F201,F20.1 Excision of gingiva
 62990005,Y255,Y25.5 Other attention to suture of organ NOC
 30374004,Y055,Y05.5 Debridement of organ NOC
@@ -5325,7 +5259,6 @@ snomed,opcs,opcs_term
 42010004,Q171,Q17.1 Endoscopic resection of lesion of uterus
 241283001,Y941,Y94.1 Dopamine transporter scan
 447149006,Y069,Y06.9 Unspecified excision of lesion of organ NOC
-473276009,Y252,Y25.2 Resuture of organ NOC
 172157006,S252,S25.2 Local fasciocutaneous subcutaneous pedicle flap NEC
 56087001,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 53941002,K104,K10.4 Primary repair of defect of interatrial septum NEC
@@ -5458,7 +5391,6 @@ snomed,opcs,opcs_term
 445884009,H122,H12.2 Excision of lesion of colon NEC
 6274000,D191,D19.1 Excision of lesion of middle ear
 414170000,C334,C33.4 Resection of inferior rectus muscle of eye
-233580005,X403,X40.3 Haemodialysis NEC
 300976007,X659,X65.9 Unspecified radiotherapy delivery
 3051000087109,U211,U21.1 Magnetic resonance imaging NEC
 698977005,Z489,Z48.9 Skin of head NEC
@@ -5509,7 +5441,6 @@ snomed,opcs,opcs_term
 168560003,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 169140007,Y942,Y94.2 Octreotide imaging
 175387000,L332,L33.2 Clipping of aneurysm of cerebral artery
-473214002,Z272,Z27.2 Stomach
 307830009,E243,E24.3 Endoscopic operations on pharyngeal pouch
 52712005,Q093,Q09.3 Open excision of lesion of uterus NEC
 55586007,G056,G05.6 Bypass of oesophagus by interposition of colon NEC
@@ -5589,7 +5520,6 @@ snomed,opcs,opcs_term
 85849005,H159,H15.9 Unspecified other exteriorisation of colon
 450863009,C332,C33.2 Resection of lateral rectus muscle of eye NEC
 241477001,Z299,Z29.9 Bowel NEC
-62820003,K093,K09.3 Repair of defect of atrioventricular septum using tissue graft
 235153008,H262,H26.2 Endoscopic cauterisation of lesion of sigmoid colon using rigid sigmoidoscope
 116236007,H489,H48.9 Unspecified excision of lesion of anus
 387643005,Q088,Q08.8 Other specified vaginal excision of uterus
@@ -5632,7 +5562,6 @@ snomed,opcs,opcs_term
 440198000,V168,V16.8 Other specified division of mandible
 4520009,G055,G05.5 Bypass of oesophagus by interposition of microvascularly attached colon
 230834003,A392,A39.2 Repair of dura of anterior fossa of cranium
-235398007,G769,G76.9 Unspecified intra-abdominal manipulation of ileum
 173307000,F132,F13.2 Partial restoration of crown of tooth
 16558721000119108,T624,T62.4 Aspiration of bursa
 69769008,C181,C18.1 Correction of ptosis of eyelid using levator muscle technique
@@ -5745,14 +5674,12 @@ snomed,opcs,opcs_term
 16156002,J613,J61.3 Drainage of cyst of pancreas into jejunum NEC
 9121000,H129,H12.9 Unspecified extirpation of lesion of colon
 386206008,Y938,Y93.8 Other specified gallium-67 imaging
-236883005,R288,R28.8 Other specified instrumental removal of products of conception from delivered uterus
 241252000,Y536,Y53.6 Approach to organ under video control
 232647000,E473,E47.3 Repair of bronchus NEC
 34044009,Y265,Y26.5 Other attention to repair of organ NOC
 108119007,A448,A44.8 Other specified partial extirpation of spinal cord
 252939009,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 287215007,V438,V43.8 Other specified extirpation of lesion of spine
-473276009,H468,H46.8 Other specified other operations on rectum
 287306002,E499,E49.9 Unspecified diagnostic fibreoptic endoscopic examination of lower respiratory tract
 172150008,C049,C04.9 Unspecified attention to prosthesis of eye
 22623003,C468,C46.8 Other specified plastic operations on cornea
@@ -5804,14 +5731,12 @@ snomed,opcs,opcs_term
 88315008,Y064,Y06.4 Excision of scar tissue NOC
 231586005,C115,C11.5 Graft of skin to canthus
 56078005,Y068,Y06.8 Other specified excision of lesion of organ NOC
-440235008,Z354,Z35.4 Middle cerebral artery
 45474001,Y713,Y71.3 Revisional operations NOC
 16410231000119101,U211,U21.1 Magnetic resonance imaging NEC
 1119241007,L951,L95.1 Venography
 45900003,G032,G03.2 Partial oesophagectomy and interposition of microvascularly attached jejunum
 450665004,S063,S06.3 Shave excision of lesion of skin of head or neck
 65308008,S066,S06.6 Re-excision of skin margins of head or neck
-20504008,H154,H15.4 Closure of colostomy
 232622002,E463,E46.3 Excision of lesion of bronchus NEC
 34905004,Y015,Y01.5 Alloreplacement of organ from cadaver heart non-beating NOC
 38436007,G214,G21.4 Intubation of oesophagus NEC
@@ -5985,7 +5910,6 @@ snomed,opcs,opcs_term
 61553000,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 18274005,Y712,Y71.2 Secondary operations NOC
 765130008,Z989,Z98.9 Vein of lower limb NEC
-428648006,X405,X40.5 Automated peritoneal dialysis
 39655008,Y499,Y49.9 Unspecified approach through thoracic cavity
 386668000,F403,F40.3 Graft of mucosa to mouth NEC
 444783004,H281,H28.1 Diagnostic endoscopic examination of sigmoid colon and biopsy of lesion of sigmoid colon using rigid sigmoidoscope
@@ -6013,7 +5937,6 @@ snomed,opcs,opcs_term
 108119007,A471,A47.1 Needle destruction of substantia gelatinosa of cervical spinal cord
 236222006,M388,M38.8 Other specified open drainage of bladder
 50980006,M451,M45.1 Diagnostic endoscopic examination of bladder and biopsy of lesion of bladder NEC
-177200004,R289,R28.9 Unspecified instrumental removal of products of conception from delivered uterus
 765043005,Y533,Y53.3 Approach to organ under computed tomography scan control
 265636007,Y954,Y95.4 Under 9 weeks gestational age
 397521009,Y973,Y97.3 Radiology with post contrast
@@ -6080,7 +6003,6 @@ snomed,opcs,opcs_term
 76930006,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 447376003,A511,A51.1 Extirpation of lesion of meninges of spinal cord
 85830006,K269,K26.9 Unspecified plastic repair of aortic valve
-225230008,X419,X41.9 Unspecified placement of ambulatory apparatus for compensation for renal failure
 449880005,Y973,Y97.3 Radiology with post contrast
 112872005,H194,H19.4 Open removal of foreign body from colon
 312707007,Y292,Y29.2 Manipulative removal of foreign body from organ NOC
@@ -6367,7 +6289,6 @@ snomed,opcs,opcs_term
 891000087109,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 248352005,G741,G74.1 Creation of continent ileostomy
 718286004,Z649,Z64.9 Bone of face NEC
-448699008,K604,K60.4 Removal of intravenous cardiac pacemaker system
 431648005,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 830147001,Z161,Z16.1 Orbit
 287726000,M411,M41.1 Open extirpation of lesion of bladder
@@ -6616,7 +6537,6 @@ snomed,opcs,opcs_term
 120067006,Y428,Y42.8 Other specified manipulation of organ NOC
 60664002,E278,E27.8 Other specified other operations on pharynx
 438617006,A255,A25.5 Intracranial transection of acoustic nerve (viii)
-310604000,Q111,Q11.1 Vacuum aspiration of products of conception from uterus NEC
 726418000,Z845,Z84.5 Tibiofemoral joint
 31852007,Y268,Y26.8 Other specified other repair of organ NOC
 16437531000119105,Y959,Y95.9 Unspecified gestational age
@@ -6651,7 +6571,6 @@ snomed,opcs,opcs_term
 172158001,S204,S20.4 Random pattern distant flap of skin NEC
 445935002,H262,H26.2 Endoscopic cauterisation of lesion of sigmoid colon using rigid sigmoidoscope
 234913001,F401,F40.1 Revision of repair of mouth NEC
-446727002,Z272,Z27.2 Stomach
 26786002,C548,C54.8 Other specified buckling operations for attachment of retina
 367448002,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 287206000,L933,L93.3 Ligation of vein NEC
@@ -6692,7 +6611,6 @@ snomed,opcs,opcs_term
 443435007,W371,W37.1 Primary total prosthetic replacement of hip joint using cement
 235342007,H234,H23.4 Endoscopic destruction of lesion of lower bowel using fibreoptic sigmoidoscope NEC
 309876004,Q012,Q01.2 Wedge excision of cervix uteri and suture HFQ
-236883005,R291,R29.1 Manual removal of placenta from delivered uterus
 57113004,U152,U15.2 Lung ventilation scanning NEC
 48007004,M368,M36.8 Other specified enlargement of bladder
 239385005,V088,V08.8 Other specified reduction of fracture of maxilla
@@ -6700,7 +6618,6 @@ snomed,opcs,opcs_term
 89562006,K714,K71.4 Exploration of pericardium
 238298006,H341,H34.1 Open excision of lesion of rectum
 315294004,U174,U17.4 Barium enema
-62820003,K042,K04.2 Repair of tetralogy of Fallot using right ventricular outflow conduit NEC
 431999000,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 450506009,Y971,Y97.1 Radiology with pre and post contrast
 85830006,K308,K30.8 Other specified revision of plastic repair of valve of heart
@@ -6741,7 +6658,6 @@ snomed,opcs,opcs_term
 82651004,E571,E57.1 Repair of lung
 765130008,Y539,Y53.9 Unspecified approach to organ under image control
 83061004,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
-62820003,K094,K09.4 Repair of persistent ostium primum
 443916000,Y531,Y53.1 Approach to organ under radiological control
 44589002,A029,A02.9 Unspecified excision of lesion of tissue of brain
 36812006,C599,C59.9 Unspecified excision of iris
@@ -6791,7 +6707,6 @@ snomed,opcs,opcs_term
 1010434005,Q431,Q43.1 Excision of wedge of ovary
 172158001,S201,S20.1 Axial pattern distant flap of skin to head or neck
 173035009,E379,E37.9 Unspecified diagnostic microendoscopic examination of larynx
-473215001,Y259,Y25.9 Unspecified suture of organ NOC
 232470004,E073,E07.3 Septorhinoplasty NEC
 419992002,Y971,Y97.1 Radiology with pre and post contrast
 59893009,K276,K27.6 Tricuspid valve repair NEC
@@ -6811,7 +6726,6 @@ snomed,opcs,opcs_term
 450863009,C311,C31.1 Recession of medial rectus muscle and resection of lateral rectus muscle of eye
 419595006,Y971,Y97.1 Radiology with pre and post contrast
 386196007,H341,H34.1 Open excision of lesion of rectum
-450640001,Q091,Q09.1 Open removal of products of conception from uterus
 171706001,A395,A39.5 Repair of dura of vault of cranium
 119874007,F268,F26.8 Other specified other operations on tongue
 241627008,Y971,Y97.1 Radiology with pre and post contrast
@@ -6862,7 +6776,6 @@ snomed,opcs,opcs_term
 449449005,E308,E30.8 Other specified open extirpation of lesion of larynx
 239377001,Z644,Z64.4 Maxilla
 420137004,U211,U21.1 Magnetic resonance imaging NEC
-236883005,Y959,Y95.9 Unspecified gestational age
 235349003,H403,H40.3 Trans-sphincteric destruction of lesion of rectum
 287239002,B179,B17.9 Unspecified transplantation of thymus gland
 429801001,Y949,Y94.9 Unspecified radiopharmaceutical imaging
@@ -6887,7 +6800,6 @@ snomed,opcs,opcs_term
 275161007,C128,C12.8 Other specified extirpation of lesion of eyelid
 360411008,C732,C73.2 Capsulotomy of anterior lens capsule
 275168001,R215,R21.5 Low forceps cephalic delivery
-387617009,Y959,Y95.9 Unspecified gestational age
 8903007,T291,T29.1 Excision of umbilicus
 174790003,J723,J72.3 Biopsy of lesion of spleen
 44198008,M109,M10.9 Unspecified other therapeutic endoscopic operations on kidney
@@ -7181,7 +7093,6 @@ snomed,opcs,opcs_term
 62990005,K382,K38.2 Operations on chordae tendineae
 241049001,U043,U04.3 Occlusal radiology
 33187003,G098,G09.8 Other specified incision of oesophagus
-244608001,K198,K19.8 Other specified creation of other cardiac conduit
 56657006,E278,E27.8 Other specified other operations on pharynx
 75992007,M389,M38.9 Unspecified open drainage of bladder
 235523007,J232,J23.2 Open biopsy of lesion of gall bladder
@@ -7191,7 +7102,6 @@ snomed,opcs,opcs_term
 265295001,C711,C71.1 Simple linear extraction of lens
 235589008,J433,J43.3 Endoscopic retrograde cholangiopancreatography and collection of bile
 75732000,C792,C79.2 Vitrectomy using pars plana approach
-112934001,V558,V55.8 Other specified levels of spine
 315294004,Y971,Y97.1 Radiology with pre and post contrast
 473240008,V073,V07.3 Excision of lesion of bone of face
 70942009,K671,K67.1 Excision of lesion of pericardium
@@ -7222,7 +7132,6 @@ snomed,opcs,opcs_term
 4520009,G111,G11.1 Insertion of tubal prosthesis into oesophagus through stomach
 450588007,Z478,Z47.8 Specified skin of face NEC
 44498002,T103,T10.3 Endoscopic pleurodesis NEC
-62820003,K049,K04.9 Unspecified repair of tetralogy of Fallot
 718314009,Y144,Y14.4 Insertion of plastic stent into organ NOC
 25353009,V037,V03.7 Decompressive craniectomy
 241471000,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
@@ -7323,7 +7232,6 @@ snomed,opcs,opcs_term
 35757004,U206,U20.6 Fetal echocardiography
 235342007,H236,H23.6 Endoscopic resection of lesion of lower bowel using fibreoptic sigmoidoscope NEC
 427800005,E578,E57.8 Other specified other open operations on lung
-473276009,Y251,Y25.1 Suture of laceration of organ NOC
 38487005,C462,C46.2 Lamellar graft to cornea NEC
 446816008,A054,A05.4 Evacuation of intracerebral haematoma NEC
 241674004,H258,H25.8 Other specified diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope
@@ -7349,7 +7257,6 @@ snomed,opcs,opcs_term
 265636007,Y958,Y95.8 Other specified gestational age
 16327691000119101,U052,U05.2 Magnetic resonance imaging of head
 450636005,Q281,Q28.1 Open ligation of remaining solitary fallopian tube
-20504008,H158,H15.8 Other specified other exteriorisation of colon
 62539002,H179,H17.9 Unspecified intra-abdominal manipulation of colon
 119256007,E398,E39.8 Other specified partial excision of trachea
 397926008,D153,D15.3 Incision of ear drum NEC
@@ -7361,13 +7268,11 @@ snomed,opcs,opcs_term
 128392000,D022,D02.2 Destruction of lesion of external ear
 241163009,U174,U17.4 Barium enema
 440148001,Q071,Q07.1 Abdominal hysterocolpectomy and excision of periuterine tissue
-271410001,H541,H54.1 Anorectal stretch
 235523007,J251,J25.1 Percutaneous biopsy of lesion of gall bladder
 410554002,E641,E64.1 Endoscopic extirpation of lesion of nasal cavity
 231658006,C315,C31.5 Bilateral resection of lateral recti muscles of eyes
 287871002,G451,G45.1 Fibreoptic endoscopic examination of upper gastrointestinal tract and biopsy of lesion of upper gastrointestinal tract
 120038005,Q014,Q01.4 Large loop excision of transformation zone
-177204008,R291,R29.1 Manual removal of placenta from delivered uterus
 239388007,V113,V11.3 Extraoral fixation of maxilla
 3041000087106,Z909,Z90.9 Leg region NEC
 241440009,Y948,Y94.8 Other specified radiopharmaceutical imaging
@@ -7377,7 +7282,6 @@ snomed,opcs,opcs_term
 446170008,H206,H20.6 Fibreoptic endoscopic resection of lesion of colon NEC
 174839007,K044,K04.4 Revision of repair of tetralogy of Fallot
 274336008,C432,C43.2 Biopsy of lesion of conjunctiva
-77570000,T098,T09.8 Other specified other open operations on pleura
 45693007,V051,V05.1 Extirpation of lesion of cranium
 446920006,Y951,Y95.1 Over 20 weeks gestational age
 765311003,U178,U17.8 Other specified diagnostic imaging of digestive tract
@@ -7386,15 +7290,12 @@ snomed,opcs,opcs_term
 307271005,E051,E05.1 Cauterisation of internal nose
 431722009,Y534,Y53.4 Approach to organ under fluoroscopic control
 386745004,M451,M45.1 Diagnostic endoscopic examination of bladder and biopsy of lesion of bladder NEC
-276921001,Y533,Y53.3 Approach to organ under computed tomography scan control
 765476000,U372,U37.2 Computed tomography of kidneys
 230890009,A168,A16.8 Other specified other open operations on ventricle of brain
 11581000087109,Y971,Y97.1 Radiology with pre and post contrast
-450640001,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 67134009,Y264,Y26.4 Removal of other repair material from organ NOC
 232565008,E341,E34.1 Microtherapeutic endoscopic extirpation of lesion of larynx using laser
 446693001,Y061,Y06.1 Marsupialisation of organ NOC
-473215001,G352,G35.2 Closure of ulcer of stomach NEC
 174116003,H122,H12.2 Excision of lesion of colon NEC
 86823009,E173,E17.3 Biopsy of lesion of nasal sinus NEC
 54315009,K308,K30.8 Other specified revision of plastic repair of valve of heart
@@ -7408,7 +7309,6 @@ snomed,opcs,opcs_term
 31415001,K142,K14.2 Open atrial septostomy
 241293008,U158,U15.8 Other specified diagnostic imaging of respiratory system
 709980001,Q413,Q41.3 Dye test of fallopian tube
-473216000,Z274,Z27.4 Duodenum
 234739007,F176,F17.6 Preparation of teeth for bridge
 168713008,Z922,Z92.2 Face NEC
 108147006,Y309,Y30.9 Unspecified incision of organ NOC
@@ -7425,7 +7325,6 @@ snomed,opcs,opcs_term
 252735006,A841,A84.1 Electroencephalography NEC
 838278005,X629,X62.9 Unspecified assessment
 37593003,G693,G69.3 Ileectomy and anastomosis of ileum to ileum
-88362001,Y951,Y95.1 Over 20 weeks gestational age
 235151005,H221,H22.1 Diagnostic fibreoptic endoscopic examination of colon and biopsy of lesion of colon
 241324007,Y941,Y94.1 Dopamine transporter scan
 6639006,A134,A13.4 Renewal of valve of cerebroventricular shunt
@@ -7494,7 +7393,6 @@ snomed,opcs,opcs_term
 397840008,Y259,Y25.9 Unspecified suture of organ NOC
 172951006,S204,S20.4 Random pattern distant flap of skin NEC
 68188002,H168,H16.8 Other specified incision of colon
-63633003,M238,M23.8 Other specified incision of ureter
 265360002,G244,G24.4 Antireflux gastropexy
 128392000,D013,D01.3 Excision of preauricular abnormality
 359890009,G249,G24.9 Unspecified antireflux operations
@@ -7544,7 +7442,6 @@ snomed,opcs,opcs_term
 173393005,F298,F29.8 Other specified correction of deformity of palate
 446286008,F121,F12.1 Apicectomy of tooth
 286780001,G558,G55.8 Other specified diagnostic endoscopic examination of duodenum
-236883005,R299,R29.9 Unspecified manual removal of products of conception from delivered uterus
 443602007,Y973,Y97.3 Radiology with post contrast
 274360007,M301,M30.1 Endoscopic retrograde pyelography
 438888005,Z262,Z26.2 Submandibular gland
@@ -7676,7 +7573,6 @@ snomed,opcs,opcs_term
 28760000,E369,E36.9 Unspecified diagnostic endoscopic examination of larynx
 34585005,L939,L93.9 Unspecified other open operations on vein
 75255001,D022,D02.2 Destruction of lesion of external ear
-49404006,A605,A60.5 Injection of destructive substance into peripheral nerve
 62220006,Y171,Y17.1 Electrocauterisation of lesion of organ NOC
 241325008,Y948,Y94.8 Other specified radiopharmaceutical imaging
 287319003,Y338,Y33.8 Other specified puncture of organ NOC
@@ -7891,7 +7787,6 @@ snomed,opcs,opcs_term
 235468001,J573,J57.3 Left pancreatectomy NEC
 308721008,Y228,Y22.8 Other specified drainage of organ NOC
 235337004,H211,H21.1 Fibreoptic endoscopic dilation of colon
-62820003,K046,K04.6 Repair of Fallot-type pulmonary atresia with aortopulmonary collaterals
 1172770002,F121,F12.1 Apicectomy of tooth
 450863009,C349,C34.9 Unspecified partial division of tendon of muscle of eye
 22324003,G582,G58.2 Total jejunectomy and anastomosis of duodenum to ileum
@@ -7957,7 +7852,6 @@ snomed,opcs,opcs_term
 233026009,Z943,Z94.3 Left sided operation
 232611001,E403,E40.3 Reconstruction of trachea NEC
 13391000087100,M136,M13.6 Percutaneous insertion of nephrostomy tube
-445839007,Y763,Y76.3 Endoscopic approach to other body cavity
 715966005,Y223,Y22.3 Irrigation of organ NOC
 241286009,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 449883007,Y973,Y97.3 Radiology with post contrast
@@ -7966,7 +7860,6 @@ snomed,opcs,opcs_term
 387865007,Y331,Y33.1 Acupuncture of organ NOC
 392157001,J673,J67.3 Percutaneous biopsy of lesion of pancreas
 438491001,Y971,Y97.1 Radiology with pre and post contrast
-176928008,Q438,Q43.8 Other specified partial excision of ovary
 438491001,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 287309009,E552,E55.2 Open excision of lesion of lung
 9292007,G238,G23.8 Other specified repair of diaphragmatic hernia
@@ -8152,7 +8045,6 @@ snomed,opcs,opcs_term
 230933005,Y536,Y53.6 Approach to organ under video control
 231586005,C091,C09.1 Replacement of lateral canthal tendon using tarsal strip
 726108003,Z943,Z94.3 Left sided operation
-73257006,X402,X40.2 Peritoneal dialysis NEC
 232660006,E538,E53.8 Other specified transplantation of lung
 13183007,M413,M41.3 Open transection of bladder
 419132001,K403,K40.3 Saphenous vein graft replacement of three coronary arteries
@@ -8312,7 +8204,6 @@ snomed,opcs,opcs_term
 31904001,B222,B22.2 Bilateral adrenalectomy NEC
 68538002,E038,E03.8 Other specified operations on septum of nose
 234729001,F168,F16.8 Other specified other operations on tooth
-276921001,Y538,Y53.8 Other specified approach to organ under image control
 307193005,H075,H07.5 Right hemicolectomy and end to side anastomosis
 307245006,H271,H27.1 Endoscopic dilation of sigmoid colon using rigid sigmoidoscope
 120051000,R302,R30.2 Expression of placenta
@@ -8605,7 +8496,6 @@ snomed,opcs,opcs_term
 174425003,J015,J01.5 Orthotopic transplantation of whole liver
 11236009,J572,J57.2 Left pancreatectomy and drainage of pancreatic duct
 176890006,Q208,Q20.8 Other specified other operations on uterus
-309729004,V498,V49.8 Other specified exploration of spine
 870252007,K572,K57.2 Percutaneous transluminal ablation of conducting system of heart NEC
 37153009,Y271,Y27.1 Autograft to organ NOC
 6241000087108,Z942,Z94.2 Right sided operation
@@ -8667,9 +8557,7 @@ snomed,opcs,opcs_term
 172351001,C342,C34.2 Tenotomy of lateral rectus muscle of eye
 25316003,C459,C45.9 Unspecified extirpation of lesion of cornea
 422851000119101,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
-387615001,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 3063009,G441,G44.1 Fibreoptic endoscopic insertion of prosthesis into upper gastrointestinal tract
-225231007,X419,X41.9 Unspecified placement of ambulatory apparatus for compensation for renal failure
 236198005,M328,M32.8 Other specified operations on ureteric orifice
 7833003,J423,J42.3 Endoscopic retrograde removal of calculus from pancreatic duct
 75157003,Z291,Z29.1 Rectum
@@ -8823,10 +8711,8 @@ snomed,opcs,opcs_term
 20885004,C053,C05.3 Enlargement of cavity of orbit
 447363009,V033,V03.3 Reopening of cranium and re-exploration of intracranial operation site NEC
 20221000087106,W902,W90.2 Arthrography
-446723003,Y401,Y40.1 Dilation of stricture of organ NOC
 45220009,H334,H33.4 Anterior resection of rectum and anastomosis NEC
 29303009,U191,U19.1 Implantation of electrocardiography loop recorder
-62820003,K044,K04.4 Revision of repair of tetralogy of Fallot
 427037000,A076,A07.6 Complete callosotomy
 7776005,C118,C11.8 Other specified operations on canthus
 119723005,E179,E17.9 Unspecified operations on unspecified nasal sinus
@@ -8909,7 +8795,6 @@ snomed,opcs,opcs_term
 47909001,D268,D26.8 Other specified operations on vestibular apparatus
 173357008,F231,F23.1 Excision of lesion of tongue
 397110008,C444,C44.4 Photorefractive keratectomy
-62820003,K095,K09.5 Primary repair of defect of atrioventricular septum NEC
 53352004,D081,D08.1 Extirpation of lesion of external auditory canal
 239391007,Z643,Z64.3 Zygomatic complex of bones
 448156002,H401,H40.1 Trans-sphincteric excision of mucosa of rectum
@@ -8974,7 +8859,6 @@ snomed,opcs,opcs_term
 87123001,K361,K36.1 Tricuspid valvectomy
 241541005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 67116005,E408,E40.8 Other specified plastic operations on trachea
-77570000,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 233092001,K248,K24.8 Other specified other operations on ventricles of heart
 1041000087105,Y971,Y97.1 Radiology with pre and post contrast
 445974009,D288,D28.8 Other specified other operations on ear
@@ -9039,7 +8923,6 @@ snomed,opcs,opcs_term
 119954001,E201,E20.1 Total adenoidectomy
 90243001,C882,C88.2 Photodynamic therapy to subretinal lesion
 277534001,Y534,Y53.4 Approach to organ under fluoroscopic control
-438999008,Y534,Y53.4 Approach to organ under fluoroscopic control
 1001000087107,U216,U21.6 Ultrasound scan NEC
 428290007,K623,K62.3 Percutaneous transluminal ablation of conducting system of heart for atrial flutter NEC
 830079008,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
@@ -9080,7 +8963,6 @@ snomed,opcs,opcs_term
 71093009,J452,J45.2 Endoscopic retrograde pancreatography and collection of pancreatic juice
 65291007,H052,H05.2 Total colectomy and ileostomy and creation of rectal fistula HFQ
 51346007,G693,G69.3 Ileectomy and anastomosis of ileum to ileum
-21789005,K471,K47.1 Endarterectomy of coronary artery
 265439007,J112,J11.2 Transjugular intrahepatic thrombectomy of portal vein
 931021000000101,Y973,Y97.3 Radiology with post contrast
 2598006,K559,K55.9 Unspecified other open operations on heart
@@ -9130,7 +9012,6 @@ snomed,opcs,opcs_term
 307723009,E032,E03.2 Excision of lesion of septum of nose
 81214004,Y082,Y08.2 Laser excision of lesion of organ NOC
 287871002,G458,G45.8 Other specified diagnostic fibreoptic endoscopic examination of upper gastrointestinal tract
-233590002,X408,X40.8 Other specified compensation for renal failure
 359603000,G608,G60.8 Other specified artificial opening into jejunum
 431670008,G604,G60.4 Attention to jejunostomy tube
 52166007,T094,T09.4 Chemical open pleurodesis
@@ -9274,7 +9155,6 @@ snomed,opcs,opcs_term
 84952009,H063,H06.3 Extended right hemicolectomy and anastomosis NEC
 397930006,Y532,Y53.2 Approach to organ under ultrasonic control
 168821007,U173,U17.3 Barium swallow
-88362001,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 241606003,Z218,Z21.8 Specified part of ear NEC
 446318000,Q474,Q47.4 Open drainage of cyst of ovary
 174288000,H422,H42.2 Perineal plication of levator ani muscles and anal sphincters
@@ -9298,7 +9178,6 @@ snomed,opcs,opcs_term
 699726001,A108,A10.8 Other specified other operations on tissue of brain
 718290002,U216,U21.6 Ultrasound scan NEC
 303868005,Y939,Y93.9 Unspecified gallium-67 imaging
-387615001,Q311,Q31.1 Removal of products of conception from fallopian tube
 447156000,Y476,Y47.6 Infratentorial burrhole approach to contents of cranium
 77368008,Y012,Y01.2 Alloreplacement of organ NOC
 22891007,O361,O36.1 Multiple teeth NEC
@@ -9324,7 +9203,6 @@ snomed,opcs,opcs_term
 230925009,Z357,Z35.7 Artery of circle of Willis
 19971000087103,Y535,Y53.5 Approach to organ under image intensifier
 54085006,Y298,Y29.8 Other specified removal of foreign body from organ NOC
-387616000,Y954,Y95.4 Under 9 weeks gestational age
 232560003,E341,E34.1 Microtherapeutic endoscopic extirpation of lesion of larynx using laser
 107931006,Y429,Y42.9 Unspecified manipulation of organ NOC
 443435007,W941,W94.1 Primary hybrid prosthetic replacement of hip joint using cemented femoral component
@@ -9443,7 +9321,6 @@ snomed,opcs,opcs_term
 432549005,U211,U21.1 Magnetic resonance imaging NEC
 302130002,V553,V55.3 Greater than two levels of spine
 241452002,U216,U21.6 Ultrasound scan NEC
-55230008,K463,K46.3 Implantation of mammary artery into heart NEC
 446733006,Y258,Y25.8 Other specified suture of organ NOC
 419132001,K429,K42.9 Unspecified allograft replacement of coronary artery
 84572006,T093,T09.3 Mechanical open pleurodesis
@@ -9516,7 +9393,6 @@ snomed,opcs,opcs_term
 418824004,K441,K44.1 Replacement of coronary arteries using multiple methods
 241175004,X311,X31.1 Intravenous cholecystography
 232773001,K341,K34.1 Annuloplasty of mitral valve
-773821000,X103,X10.3 Disarticulation of metatarsal bones
 26977004,K253,K25.3 Prosthetic replacement of mitral valve
 265354002,G184,G18.4 Endoscopic insertion of tubal prosthesis into oesophagus using rigid oesophagoscope
 443918004,G278,G27.8 Other specified total excision of stomach
@@ -9566,7 +9442,6 @@ snomed,opcs,opcs_term
 235348006,H348,H34.8 Other specified open extirpation of lesion of rectum
 53442002,G272,G27.2 Total gastrectomy and anastomosis of oesophagus to duodenum
 16547871000119103,M133,M13.3 Percutaneous aspiration of kidney NEC
-310604000,Y959,Y95.9 Unspecified gestational age
 62990005,Y253,Y25.3 Removal of retained suture from organ NOC
 881000087107,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 172951006,E214,E21.4 Plastic repair of pharynx NEC
@@ -9698,7 +9573,6 @@ snomed,opcs,opcs_term
 43831007,E595,E59.5 Percutaneous radiofrequency ablation of lesion of lung
 310474008,K276,K27.6 Tricuspid valve repair NEC
 446590009,C723,C72.3 Cryoextraction of lens
-110474005,E879,E87.9 Unspecified oxygen therapy support
 25291006,C065,C06.5 Exploration of orbit
 287533002,E505,E50.5 Endoscopic removal of foreign body from lower respiratory tract using rigid bronchoscope
 67864003,Y475,Y47.5 Supratentorial burrhole approach to contents of cranium
@@ -9731,7 +9605,6 @@ snomed,opcs,opcs_term
 119982008,M055,M05.5 Repair of laceration of kidney
 120053002,Q233,Q23.3 Unilateral salpingectomy NEC
 231576009,C118,C11.8 Other specified operations on canthus
-90463006,M328,M32.8 Other specified operations on ureteric orifice
 433154003,K659,K65.9 Unspecified catheterisation of heart
 22737002,C133,C13.3 Blepharoplasty of lower eyelid
 236198005,M326,M32.6 Endoscopic transurethral resection of ureteric orifice
@@ -9920,7 +9793,6 @@ snomed,opcs,opcs_term
 1055301006,Z943,Z94.3 Left sided operation
 65942005,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 45495006,Y308,Y30.8 Other specified incision of organ NOC
-440235008,L716,L71.6 Percutaneous transluminal thrombolysis of artery
 241348003,U161,U16.1 Hepatobiliary nuclear scan
 276184008,F306,F30.6 Plastic repair of palate using graft of mucosa
 21291000087102,Y973,Y97.3 Radiology with post contrast
@@ -9963,7 +9835,6 @@ snomed,opcs,opcs_term
 53662004,C298,C29.8 Other specified other operations on lacrimal apparatus
 176239003,F231,F23.1 Excision of lesion of tongue
 78283003,G036,G03.6 Partial oesophagectomy and interposition of colon NEC
-446739005,G437,G43.7 Fibreoptic endoscopic rubber band ligation of upper gastrointestinal tract varices
 433132000,U133,U13.3 Magnetic resonance imaging of bone
 128399009,J194,J19.4 Anastomosis of gall bladder to intestine NEC
 715966005,Y228,Y22.8 Other specified drainage of organ NOC
@@ -10078,7 +9949,6 @@ snomed,opcs,opcs_term
 709549003,Y941,Y94.1 Dopamine transporter scan
 35009002,C826,C82.6 Laser photocoagulation to lesion of retina NEC
 48185007,M412,M41.2 Creation of vesicovaginal fistula
-446743009,Z272,Z27.2 Stomach
 277534001,Y536,Y53.6 Approach to organ under video control
 252429005,Y948,Y94.8 Other specified radiopharmaceutical imaging
 128399009,J191,J19.1 Anastomosis of gall bladder to stomach
@@ -10139,7 +10009,6 @@ snomed,opcs,opcs_term
 713188009,E199,E19.9 Unspecified excision of pharynx
 90249002,E591,E59.1 Needle biopsy of lesion of lung
 2644002,J032,J03.2 Destruction of lesion of liver NEC
-90463006,M325,M32.5 Endoscopic incision of ureterocele
 77543007,Q282,Q28.2 Open ligation of fallopian tube NEC
 174973003,K322,K32.2 Closed aortic valvotomy
 765294008,Y931,Y93.1 Gallium-67 imaging scan
@@ -10159,7 +10028,6 @@ snomed,opcs,opcs_term
 64289008,G295,G29.5 Cryotherapy to lesion of stomach
 241628003,Y973,Y97.3 Radiology with post contrast
 172929003,E178,E17.8 Other specified operations on unspecified nasal sinus
-432941004,Z396,Z39.6 Hepatic vein
 387740003,Q432,Q43.2 Excision of lesion of ovary
 448759001,A114,A11.4 Cortical mapping
 302453007,Y206,Y20.6 Plugged biopsy NOC
@@ -10331,7 +10199,6 @@ snomed,opcs,opcs_term
 41939004,G648,G64.8 Other specified therapeutic endoscopic operations on jejunum
 446114009,E641,E64.1 Endoscopic extirpation of lesion of nasal cavity
 36239005,C128,C12.8 Other specified extirpation of lesion of eyelid
-387616000,Q311,Q31.1 Removal of products of conception from fallopian tube
 41339005,K494,K49.4 Percutaneous transluminal cutting balloon angioplasty of coronary artery
 307944004,E301,E30.1 Excision of lesion of larynx using thyrotomy as approach
 6291000087101,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
@@ -10467,7 +10334,6 @@ snomed,opcs,opcs_term
 64971001,C821,C82.1 Cauterisation of lesion of retina
 35812000,Y065,Y06.5 Gamma wave excision of lesion of organ NOC
 27492002,F041,F04.1 Reconstruction of lip using tongue flap
-446739005,Z271,Z27.1 Oesophagus
 36239005,C123,C12.3 Cryotherapy to lesion of eyelid
 709665009,Y973,Y97.3 Radiology with post contrast
 86371000,T078,T07.8 Other specified open excision of pleura
@@ -10486,7 +10352,6 @@ snomed,opcs,opcs_term
 426580006,C796,C79.6 Internal tamponade of retina using liquid
 231568007,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 233108009,K148,K14.8 Other specified other open operations on septum of heart
-225230008,X418,X41.8 Other specified placement of ambulatory apparatus for compensation for renal failure
 230921000,Z012,Z01.2 Tissue of temporal lobe of brain
 119729009,E388,E38.8 Other specified other operations on larynx
 173476009,F438,F43.8 Other specified other examinations of mouth
@@ -10503,7 +10368,6 @@ snomed,opcs,opcs_term
 119931005,J268,J26.8 Other specified other operations on gall bladder
 431476005,Y973,Y97.3 Radiology with post contrast
 107948003,H175,H17.5 Open relief of strangulation of colon
-387615001,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 231744001,C729,C72.9 Unspecified intracapsular extraction of lens
 4261000087101,Z905,Z90.5 Foot NEC
 783295000,S363,S36.3 Composite autograft of skin to head or neck
@@ -10515,7 +10379,6 @@ snomed,opcs,opcs_term
 38102005,J181,J18.1 Total cholecystectomy and excision of surrounding tissue
 88908007,H445,H44.5 Massage of rectum
 61000087103,Z942,Z94.2 Right sided operation
-174365003,H532,H53.2 Forced manual dilation of anus for haemorrhoid
 386206008,Y948,Y94.8 Other specified radiopharmaceutical imaging
 107963000,J023,J02.3 Resection of segment of liver
 1162474008,Y533,Y53.3 Approach to organ under computed tomography scan control
@@ -10574,7 +10437,6 @@ snomed,opcs,opcs_term
 66359001,C751,C75.1 Insertion of prosthetic replacement for lens NEC
 433246009,Y938,Y93.8 Other specified gallium-67 imaging
 63816008,J022,J02.2 Left hemihepatectomy NEC
-276921001,Y534,Y53.4 Approach to organ under fluoroscopic control
 235145000,G179,G17.9 Unspecified endoscopic extirpation of lesion of oesophagus using rigid oesophagoscope
 231550009,C058,C05.8 Other specified plastic repair of orbit
 446772005,O331,O33.1 Skull base
@@ -10621,7 +10483,6 @@ snomed,opcs,opcs_term
 174841008,K045,K04.5 Repair of tetralogy of Fallot with absent pulmonary valve
 169394006,Y354,Y35.4 Introduction of radioactive substance into organ for brachytherapy NOC
 443682009,W425,W42.5 Revision of one component of total prosthetic replacement of knee joint NEC
-14684005,X402,X40.2 Peritoneal dialysis NEC
 5119000,E356,E35.6 Endoscopic partial laryngectomy
 44291006,Y111,Y11.1 Cauterisation of organ NOC
 107938000,G694,G69.4 Ileectomy and anastomosis of ileum to colon
@@ -10663,7 +10524,6 @@ snomed,opcs,opcs_term
 53736000,E319,E31.9 Unspecified reconstruction of larynx
 40485001,C468,C46.8 Other specified plastic operations on cornea
 231003007,S209,S20.9 Unspecified other distant flap of skin
-77570000,T099,T09.9 Unspecified other open operations on pleura
 1331000087102,Z843,Z84.3 Hip joint
 80800000,Y112,Y11.2 Cryotherapy to organ NOC
 1001000087107,Z904,Z90.4 Lower leg NEC
@@ -10721,7 +10581,6 @@ snomed,opcs,opcs_term
 26262000,Y535,Y53.5 Approach to organ under image intensifier
 172244008,C209,C20.9 Unspecified protective suture of eyelid
 44198008,M055,M05.5 Repair of laceration of kidney
-440549000,Y228,Y22.8 Other specified drainage of organ NOC
 6567006,K354,K35.4 Percutaneous transluminal pulmonary valvotomy
 447067001,A442,A44.2 Extirpation of lesion of spinal cord NEC
 232920007,K294,K29.4 Replacement of valve of heart NEC
@@ -10752,7 +10611,6 @@ snomed,opcs,opcs_term
 721056006,X093,X09.3 Amputation of leg above knee
 439396000,U125,U12.5 Static renogram
 43401008,F368,F36.8 Other specified other operations on tonsil
-473214002,G438,G43.8 Other specified fibreoptic endoscopic extirpation of lesion of upper gastrointestinal tract
 32934009,Y221,Y22.1 Aspiration of haematoma of organ NOC
 119876009,E219,E21.9 Unspecified repair of pharynx
 241337005,Y938,Y93.8 Other specified gallium-67 imaging
@@ -10969,7 +10827,6 @@ snomed,opcs,opcs_term
 13844007,E144,E14.4 Transantral ethmoidectomy
 85765000,E482,E48.2 Fibreoptic endoscopic laser destruction of lesion of lower respiratory tract
 235504000,J632,J63.2 Open pancreatography through papilla of Vater
-473214002,Y258,Y25.8 Other specified suture of organ NOC
 440467009,Y973,Y97.3 Radiology with post contrast
 715728004,U365,U36.5 Cone beam computed tomography NEC
 15256002,Y081,Y08.1 Laser excision of organ NOC
@@ -10997,7 +10854,6 @@ snomed,opcs,opcs_term
 6211000087107,Y973,Y97.3 Radiology with post contrast
 40330004,Y264,Y26.4 Removal of other repair material from organ NOC
 265407000,H265,H26.5 Endoscopic destruction of lesion of sigmoid colon using rigid sigmoidoscope NEC
-446723003,Y409,Y40.9 Unspecified dilation of organ NOC
 1054002,J359,J35.9 Unspecified incision of sphincter of Oddi using duodenal approach
 241372008,Y931,Y93.1 Gallium-67 imaging scan
 288012002,M421,M42.1 Endoscopic resection of lesion of bladder
@@ -11150,7 +11006,6 @@ snomed,opcs,opcs_term
 700196009,J025,J02.5 Marsupialisation of lesion of liver
 232724005,K421,K42.1 Allograft replacement of one coronary artery
 313298003,A578,A57.8 Other specified operations on spinal nerve root
-252582001,U241,U24.1 Pure tone audiometry
 20816008,G211,G21.1 Intubation of oesophagus for pH manometry
 765130008,Y535,Y53.5 Approach to organ under image intensifier
 442117004,V203,V20.3 Intra-articular arthroplasty of temporomandibular joint
@@ -11175,7 +11030,6 @@ snomed,opcs,opcs_term
 698320000,G548,G54.8 Other specified therapeutic endoscopic operations on duodenum
 45693007,Z631,Z63.1 Frontal bone
 168831000,U173,U17.3 Barium swallow
-387617009,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 36239005,C121,C12.1 Excision of lesion of eyelid NEC
 241283001,Y942,Y94.2 Octreotide imaging
 65060007,A389,A38.9 Unspecified extirpation of lesion of meninges of brain
@@ -11183,7 +11037,6 @@ snomed,opcs,opcs_term
 64145001,Y763,Y76.3 Endoscopic approach to other body cavity
 80733000,K042,K04.2 Repair of tetralogy of Fallot using right ventricular outflow conduit NEC
 764666002,Y939,Y93.9 Unspecified gallium-67 imaging
-387616000,Y958,Y95.8 Other specified gestational age
 429594006,C331,C33.1 Resection of medial rectus muscle of eye NEC
 119745006,Y428,Y42.8 Other specified manipulation of organ NOC
 87910007,Y204,Y20.4 Fine needle aspiration NOC
@@ -11264,7 +11117,6 @@ snomed,opcs,opcs_term
 715970002,Y973,Y97.3 Radiology with post contrast
 271406004,A099,A09.9 Unspecified neurostimulation of brain
 447985005,Y082,Y08.2 Laser excision of lesion of organ NOC
-450640001,Y958,Y95.8 Other specified gestational age
 70627009,Y068,Y06.8 Other specified excision of lesion of organ NOC
 307511000,G528,G52.8 Other specified operations on ulcer of duodenum
 302612008,S201,S20.1 Axial pattern distant flap of skin to head or neck
@@ -11357,7 +11209,6 @@ snomed,opcs,opcs_term
 443869003,M029,M02.9 Unspecified total excision of kidney
 428917000,C831,C83.1 Pigment epithelium translocation of retina
 13327002,H088,H08.8 Other specified excision of transverse colon
-10455003,Y441,Y44.1 Evacuation of contents of organ NOC
 241393006,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 449148006,Q545,Q54.5 Sacrohysteropexy
 176795006,Q242,Q24.2 Salpingectomy NEC
@@ -11385,7 +11236,6 @@ snomed,opcs,opcs_term
 261000087102,Z942,Z94.2 Right sided operation
 46545004,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 1854003,Y301,Y30.1 Incision of lesion of organ NOC
-236883005,R289,R28.9 Unspecified instrumental removal of products of conception from delivered uterus
 88218008,Y751,Y75.1 Laparoscopically assisted approach to abdominal cavity
 119789006,Y252,Y25.2 Resuture of organ NOC
 450698009,C544,C54.4 Buckling of sclera and local or encircling explant HFQ
@@ -11503,7 +11353,6 @@ snomed,opcs,opcs_term
 41687007,Y264,Y26.4 Removal of other repair material from organ NOC
 172408001,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 5216004,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
-230829002,A143,A14.3 Removal of cerebroventricular shunt
 16841000087107,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 232670008,E369,E36.9 Unspecified diagnostic endoscopic examination of larynx
 409710009,K668,K66.8 Other specified other operations on heart
@@ -11567,7 +11416,6 @@ snomed,opcs,opcs_term
 235147008,G541,G54.1 Endoscopic extirpation of lesion of duodenum
 16437531000119105,R382,R38.2 Liquor volume scan
 447936000,J273,J27.3 Partial excision of bile duct and anastomosis of bile duct to jejunum
-236883005,Y958,Y95.8 Other specified gestational age
 430294007,K608,K60.8 Other specified cardiac pacemaker system introduced through vein
 31501000,E144,E14.4 Transantral ethmoidectomy
 13844007,E149,E14.9 Unspecified operations on frontal sinus
@@ -11621,7 +11469,6 @@ snomed,opcs,opcs_term
 235299002,G592,G59.2 Open destruction of lesion of jejunum
 116143008,Q234,Q23.4 Salpingectomy of remaining solitary fallopian tube NEC
 2511000087109,Z909,Z90.9 Leg region NEC
-30391000,M813,M81.3 External meatotomy of urethral orifice
 53683005,Y538,Y53.8 Other specified approach to organ under image control
 241623007,Z144,Z14.4 Adrenal gland
 429823002,Y942,Y94.2 Octreotide imaging
@@ -11634,7 +11481,6 @@ snomed,opcs,opcs_term
 61327009,Y229,Y22.9 Unspecified drainage of organ NOC
 172600002,S066,S06.6 Re-excision of skin margins of head or neck
 231586005,C151,C15.1 Correction of ectropion NEC
-700073007,Y954,Y95.4 Under 9 weeks gestational age
 360789000,M042,M04.2 Open excision of lesion of kidney NEC
 720364002,Y973,Y97.3 Radiology with post contrast
 439781002,J688,J68.8 Other specified other operations on pancreas
@@ -11660,7 +11506,6 @@ snomed,opcs,opcs_term
 16319561000119105,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 307569006,J574,J57.4 Excision of tail of pancreas and drainage of pancreatic duct
 429884006,U201,U20.1 Transthoracic echocardiography
-387617009,Q311,Q31.1 Removal of products of conception from fallopian tube
 1683003,C405,C40.5 Suture of conjunctiva
 71145001,G078,G07.8 Other specified repair of oesophagus
 4371000087103,Y534,Y53.4 Approach to organ under fluoroscopic control
@@ -11957,7 +11802,6 @@ snomed,opcs,opcs_term
 702372001,S361,S36.1 Full thickness autograft of skin to head or neck
 265439007,J062,J06.2 Transjugular intrahepatic insertion of stent graft into portal vein
 42481001,Y052,Y05.2 Partial excision of organ NOC
-238321006,X402,X40.2 Peritoneal dialysis NEC
 445959007,Y971,Y97.1 Radiology with pre and post contrast
 169146001,Y931,Y93.1 Gallium-67 imaging scan
 178384006,V052,V05.2 Biopsy of lesion of cranium
@@ -12044,7 +11888,6 @@ snomed,opcs,opcs_term
 232613003,Y037,Y03.7 Removal of prosthesis from organ NOC
 69788001,A101,A10.1 Leucotomy NEC
 473229000,K621,K62.1 Percutaneous transluminal ablation of pulmonary vein to left atrium conducting system
-62820003,K098,K09.8 Other specified repair of defect of atrioventricular septum
 23167008,G091,G09.1 Cardiomyotomy
 174507008,J201,J20.1 Closure of fistula of gall bladder
 2491000087104,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
@@ -12054,7 +11897,6 @@ snomed,opcs,opcs_term
 119779007,Y308,Y30.8 Other specified incision of organ NOC
 397396006,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 232717009,K434,K43.4 Prosthetic replacement of four or more coronary arteries
-20504008,H156,H15.6 Reduction of prolapse of colostomy
 52247003,K343,K34.3 Annuloplasty of valve of heart NEC
 71102008,G334,G33.4 Open reduction of intussusception of gastroenterostomy
 173941000,G638,G63.8 Other specified other open operations on jejunum
@@ -12065,7 +11907,6 @@ snomed,opcs,opcs_term
 736614003,A049,A04.9 Unspecified open biopsy of lesion of tissue of brain
 4371000087103,Z856,Z85.6 Ankle joint
 816996009,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
-271415006,Y954,Y95.4 Under 9 weeks gestational age
 233346008,L452,L45.2 Replantation of visceral branch of abdominal aorta NEC
 391131000119106,R382,R38.2 Liquor volume scan
 446733006,Y508,Y50.8 Other specified approach through abdominal cavity
@@ -12124,7 +11965,6 @@ snomed,opcs,opcs_term
 416708003,Z633,Z63.3 Temporal bone
 287824008,G632,G63.2 Incision of jejunum
 232913000,Z328,Z32.8 Specified valve of heart NEC
-236883005,Q113,Q11.3 Evacuation of products of conception from uterus NEC
 42621009,Y717,Y71.7 Third or greater revisional operation NOC
 440649005,M454,M45.4 Diagnostic endoscopic examination of bladder and biopsy of lesion of prostate using rigid cystoscope
 3063009,G454,G45.4 Fibreoptic endoscopic examination of upper gastrointestinal tract and staining of gastric mucosa
@@ -12151,7 +11991,6 @@ snomed,opcs,opcs_term
 24058001,U209,U20.9 Unspecified diagnostic Echocardiography
 241395004,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 41687007,Y263,Y26.3 Stapling of organ NOC
-235398007,G763,G76.3 Open relief of obstruction of ileum NEC
 45220009,H336,H33.6 Anterior resection of rectum and exteriorisation of bowel
 39166002,Y078,Y07.8 Other specified obliteration of cavity of organ NOC
 361247001,E309,E30.9 Unspecified open extirpation of lesion of larynx
@@ -12270,7 +12109,6 @@ snomed,opcs,opcs_term
 5722009,Y713,Y71.3 Revisional operations NOC
 429510003,A075,A07.5 Multiple subpial transections
 257627006,D038,D03.8 Other specified plastic operations on external ear
-773819005,X108,X10.8 Other specified amputation of foot
 278540006,A493,A49.3 Closure of spinal meningocele
 230916003,Y538,Y53.8 Other specified approach to organ under image control
 773144004,Y973,Y97.3 Radiology with post contrast
@@ -12429,7 +12267,6 @@ snomed,opcs,opcs_term
 1041000087105,Z905,Z90.5 Foot NEC
 413633002,Y409,Y40.9 Unspecified dilation of organ NOC
 440649005,M458,M45.8 Other specified diagnostic endoscopic examination of bladder
-251641005,A844,A84.4 Evoked potential recording
 709187004,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 4171000087101,U136,U13.6 Computed tomography of bone
 172205000,C118,C11.8 Other specified operations on canthus
@@ -12629,7 +12466,6 @@ snomed,opcs,opcs_term
 1153549003,H305,H30.5 Irrigation of colon
 241477001,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 172996004,E309,E30.9 Unspecified open extirpation of lesion of larynx
-236883005,Q111,Q11.1 Vacuum aspiration of products of conception from uterus NEC
 231747008,C734,C73.4 Capsulotomy of lens NEC
 265407000,H371,H37.1 Endoscopic mucosal resection of lesion of sigmoid colon using rigid sigmoidoscope
 708684002,Y534,Y53.4 Approach to organ under fluoroscopic control
@@ -12747,7 +12583,6 @@ snomed,opcs,opcs_term
 177161009,R219,R21.9 Unspecified forceps cephalic delivery
 233317001,Z352,Z35.2 Ophthalmic artery
 303868005,Y938,Y93.8 Other specified gallium-67 imaging
-440235008,O281,O28.1 Basilar artery
 472818003,T109,T10.9 Unspecified therapeutic endoscopic operations on pleura
 173051001,E441,E44.1 Excision of carina
 25411007,U217,U21.7 Plain x-ray NEC
@@ -12840,7 +12675,6 @@ snomed,opcs,opcs_term
 235187003,G249,G24.9 Unspecified antireflux operations
 236142005,M051,M05.1 Open pyeloplasty
 699502000,A492,A49.2 Closure of spinal myelomeningocele
-446744003,Z274,Z27.4 Duodenum
 16319081000119105,Y973,Y97.3 Radiology with post contrast
 67399008,Y073,Y07.3 Obliteration of sinus track from organ NOC
 172367007,C373,C37.3 Biopsy of lesion of muscle of eye
@@ -12892,7 +12726,6 @@ snomed,opcs,opcs_term
 235150006,H181,H18.1 Open colonoscopy
 241629006,Y971,Y97.1 Radiology with pre and post contrast
 359543003,Y309,Y30.9 Unspecified incision of organ NOC
-431612008,A528,A52.8 Other specified therapeutic epidural injection
 241552004,U212,U21.2 Computed tomography NEC
 773143005,Z161,Z16.1 Orbit
 239348002,V051,V05.1 Extirpation of lesion of cranium
@@ -13018,7 +12851,6 @@ snomed,opcs,opcs_term
 241129007,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 309882001,G433,G43.3 Fibreoptic endoscopic cauterisation of lesion of upper gastrointestinal tract
 85815002,Y973,Y97.3 Radiology with post contrast
-49404006,Z128,Z12.8 Specified nerve NEC
 38071001,V056,V05.6 Transpetrous excision of lesion of jugular foramen
 281413005,G538,G53.8 Other specified other open operations on duodenum
 438491001,Z921,Z92.1 Head NEC
@@ -13068,7 +12900,6 @@ snomed,opcs,opcs_term
 173521004,F502,F50.2 Transposition of submandibular duct
 719169005,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 432842007,Z398,Z39.8 Specified vein NEC
-236883005,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 287478001,Q181,Q18.1 Diagnostic endoscopic examination of uterus and biopsy of lesion of uterus
 241494004,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 410371000119105,U136,U13.6 Computed tomography of bone
@@ -13179,7 +13010,6 @@ snomed,opcs,opcs_term
 43750003,Y069,Y06.9 Unspecified excision of lesion of organ NOC
 274020000,E302,E30.2 Excision of lesion of larynx using lateral pharyngotomy as approach
 21423008,H258,H25.8 Other specified diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope
-235398007,H172,H17.2 Open reduction of volvulus of caecum
 173259008,S224,S22.4 Local sensory flap of skin NEC
 241337005,Y939,Y93.9 Unspecified gallium-67 imaging
 35139005,M068,M06.8 Other specified incision of kidney
@@ -13331,7 +13161,6 @@ snomed,opcs,opcs_term
 55506005,K297,K29.7 Replacement of truncal valve
 47029003,F582,F58.2 Operations on submandibular duct NEC
 448173000,E484,E48.4 Fibreoptic endoscopic aspiration of lower respiratory tract
-271415006,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 120125004,Y269,Y26.9 Unspecified other repair of organ NOC
 232721002,K403,K40.3 Saphenous vein graft replacement of three coronary arteries
 261501006,A545,A54.5 Removal of intrathecal drug delivery device adjacent to spinal cord
@@ -13352,7 +13181,6 @@ snomed,opcs,opcs_term
 397521009,Y971,Y97.1 Radiology with pre and post contrast
 2598006,K552,K55.2 Open chest massage of heart
 398243002,P231,P23.1 Anterior and posterior colporrhaphy NEC
-49404006,A601,A60.1 Enucleation of peripheral nerve
 108119007,A473,A47.3 Percutaneous chordotomy of spinal cord
 172598008,D022,D02.2 Destruction of lesion of external ear
 234757008,F151,F15.1 Creation of orthodontic impression
@@ -13387,7 +13215,6 @@ snomed,opcs,opcs_term
 173586007,G051,G05.1 Bypass of oesophagus by anastomosis of oesophagus to oesophagus
 82311008,F483,F48.3 Repair of salivary gland NEC
 781527008,Y971,Y97.1 Radiology with pre and post contrast
-448699008,K614,K61.4 Removal of cardiac pacemaker system NEC
 230844001,A181,A18.1 Diagnostic endoscopic examination of ventricle of brain and biopsy of lesion of ventricle of brain
 37412006,H135,H13.5 Bypass of colon by anastomosis of colon to rectum NEC
 445746008,Y466,Y46.6 Infratentorial open approach to contents of cranium
@@ -13449,7 +13276,6 @@ snomed,opcs,opcs_term
 360411008,C739,C73.9 Unspecified incision of capsule of lens
 67484007,V109,V10.9 Unspecified division of bone of face
 817000,J709,J70.9 Unspecified other excision of spleen
-177200004,R281,R28.1 Curettage of delivered uterus
 12341000,Y938,Y93.8 Other specified gallium-67 imaging
 426723009,E153,E15.3 Repair of sphenoidal sinus
 54786002,T103,T10.3 Endoscopic pleurodesis NEC
@@ -13514,7 +13340,6 @@ snomed,opcs,opcs_term
 60775008,H418,H41.8 Other specified other operations on rectum through anus
 40916003,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
 1031000087104,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
-473216000,G438,G43.8 Other specified fibreoptic endoscopic extirpation of lesion of upper gastrointestinal tract
 450665004,S055,S05.5 Microscopically controlled excision of lesion of skin of head or neck NEC
 8561003,Y139,Y13.9 Unspecified other destruction of lesion of organ NOC
 232153001,D018,D01.8 Other specified excision of external ear
@@ -13612,7 +13437,6 @@ snomed,opcs,opcs_term
 28760000,E368,E36.8 Other specified diagnostic endoscopic examination of larynx
 419545005,Y971,Y97.1 Radiology with pre and post contrast
 235145000,G199,G19.9 Unspecified diagnostic endoscopic examination of oesophagus using rigid oesophagoscope
-387616000,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 232920007,K297,K29.7 Replacement of truncal valve
 432368007,Z239,Z23.9 Nasal sinus NEC
 709531003,Y392,Y39.2 Other injection of radiocontrast substance into organ NOC
@@ -13723,7 +13547,6 @@ snomed,opcs,opcs_term
 172600002,S069,S06.9 Unspecified other excision of lesion of skin
 235187003,G246,G24.6 Insertion of Angelchick prosthesis
 447411003,V218,V21.8 Other specified other operations on temporomandibular joint
-302605004,H532,H53.2 Forced manual dilation of anus for haemorrhoid
 359597003,K453,K45.3 Anastomosis of mammary artery to left anterior descending coronary artery
 13183007,M411,M41.1 Open extirpation of lesion of bladder
 52355007,F145,F14.5 Surgical exposure of tooth
@@ -13804,7 +13627,6 @@ snomed,opcs,opcs_term
 113136009,F208,F20.8 Other specified operations on gingiva
 64943007,C848,C84.8 Other specified other operations on retina
 78136005,V104,V10.4 Low level osteotomy of maxilla
-310604000,Y958,Y95.8 Other specified gestational age
 16881002,M082,M08.2 Open denervation of kidney
 432155006,Y939,Y93.9 Unspecified gallium-67 imaging
 359552007,Y319,Y31.9 Unspecified exploration of organ NOC
@@ -13835,7 +13657,6 @@ snomed,opcs,opcs_term
 420005003,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 232571002,E361,E36.1 Diagnostic endoscopic examination of larynx and biopsy of lesion of larynx
 82917000,V034,V03.4 Reopening of cranium NEC
-178686002,V551,V55.1 One level of spine
 25084003,A542,A54.2 Injection of therapeutic substance into cerebrospinal fluid
 35009002,C829,C82.9 Unspecified destruction of lesion of retina
 418592002,U211,U21.1 Magnetic resonance imaging NEC
@@ -13886,7 +13707,6 @@ snomed,opcs,opcs_term
 119752008,Y264,Y26.4 Removal of other repair material from organ NOC
 265455000,J433,J43.3 Endoscopic retrograde cholangiopancreatography and collection of bile
 447650007,Z651,Z65.1 Mandible
-700073007,Y951,Y95.1 Over 20 weeks gestational age
 19621000087108,Y539,Y53.9 Unspecified approach to organ under image control
 206175003,C013,C01.3 Evisceration of eye
 174651007,J453,J45.3 Endoscopic retrograde pancreatography through accessory ampulla of Vater
@@ -13897,7 +13717,6 @@ snomed,opcs,opcs_term
 418491007,Z356,Z35.6 Posterior communicating artery
 81000087109,Z942,Z94.2 Right sided operation
 699135001,K611,K61.1 Implantation of cardiac pacemaker system NEC
-20504008,H159,H15.9 Unspecified other exteriorisation of colon
 235325001,H098,H09.8 Other specified excision of left hemicolon
 67399008,Y079,Y07.9 Unspecified obliteration of cavity of organ NOC
 105376000,Y971,Y97.1 Radiology with pre and post contrast
@@ -13945,7 +13764,6 @@ snomed,opcs,opcs_term
 241321004,U178,U17.8 Other specified diagnostic imaging of digestive tract
 235151005,H189,H18.9 Unspecified open endoscopic operations on colon
 119779007,L702,L70.2 Open embolisation of artery NEC
-90463006,M321,M32.1 Endoscopic extirpation of lesion of ureteric orifice
 108156003,Y059,Y05.9 Unspecified excision of organ NOC
 36984000,G782,G78.2 Strictureplasty of ileum
 265439007,Y531,Y53.1 Approach to organ under radiological control
@@ -14062,13 +13880,11 @@ snomed,opcs,opcs_term
 48007004,M361,M36.1 Caecocystoplasty
 120167008,T168,T16.8 Other specified other repair of diaphragm
 398248006,C169,C16.9 Unspecified other plastic repair of eyelid
-63077009,K234,K23.4 Revascularisation of wall of heart
 119727006,E315,E31.5 Attention to artificial voice box in larynx
 2914003,C558,C55.8 Other specified incision of sclera
 19054000,A492,A49.2 Closure of spinal myelomeningocele
 432026001,U104,U10.4 Myocardial positron emission tomography
 39166002,Y071,Y07.1 Ligation of organ NOC
-699796007,A128,A12.8 Other specified creation of connection from ventricle of brain
 312849006,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
 233049006,K092,K09.2 Repair of defect of atrioventricular septum using prosthetic patch NEC
 1689004,Q433,Q43.3 Marsupialisation of lesion of ovary
@@ -14095,7 +13911,6 @@ snomed,opcs,opcs_term
 23968004,H115,H11.5 Colectomy and exteriorisation of bowel NEC
 405268002,D088,D08.8 Other specified other operations on external auditory canal
 177835007,T152,T15.2 Repair of postoperative rupture of diaphragm
-77570000,T094,T09.4 Chemical open pleurodesis
 73610000,Y309,Y30.9 Unspecified incision of organ NOC
 394681000119101,Z019,Z01.9 Tissue of brain NEC
 50216001,K251,K25.1 Allograft replacement of mitral valve
@@ -14281,7 +14096,6 @@ snomed,opcs,opcs_term
 174848002,K134,K13.4 Percutaneous transluminal repair of defect of interatrial septum NEC
 397396006,Z243,Z24.3 Trachea
 287600003,K639,K63.9 Unspecified contrast radiology of heart
-440235008,Z356,Z35.6 Posterior communicating artery
 287707008,M651,M65.1 Endoscopic resection of prostate using electrotome
 699135001,K591,K59.1 Implantation of cardioverter defibrillator using one electrode lead
 450668002,Z471,Z47.1 Skin of forehead
@@ -14313,7 +14127,6 @@ snomed,opcs,opcs_term
 429639007,Y534,Y53.4 Approach to organ under fluoroscopic control
 770699008,Y534,Y53.4 Approach to organ under fluoroscopic control
 64289008,G293,G29.3 Open laser destruction of lesion of stomach
-236883005,Q101,Q10.1 Dilation of cervix uteri and curettage of products of conception from uterus
 235147008,G792,G79.2 Endoscopic dilation of ileum
 307193005,G693,G69.3 Ileectomy and anastomosis of ileum to ileum
 4691000087107,Y533,Y53.3 Approach to organ under computed tomography scan control
@@ -14371,7 +14184,6 @@ snomed,opcs,opcs_term
 287576000,Z942,Z94.2 Right sided operation
 20816008,G218,G21.8 Other specified other operations on oesophagus
 431648005,Y971,Y97.1 Radiology with pre and post contrast
-419470007,Y222,Y22.2 Aspiration of other lesion of organ NOC
 41284009,Y072,Y07.2 Clipping of organ NOC
 5216004,Y971,Y97.1 Radiology with pre and post contrast
 60892005,G584,G58.4 Partial jejunectomy and anastomosis of jejunum to ileum
@@ -14466,7 +14278,6 @@ snomed,opcs,opcs_term
 384091000119108,Y973,Y97.3 Radiology with post contrast
 44061005,Y519,Y51.9 Unspecified approach to organ through artificial opening into gastrointestinal tract
 302362005,M302,M30.2 Endoscopic catheterisation of ureter
-431612008,A522,A52.2 Therapeutic sacral epidural injection
 234670009,F093,F09.3 Surgical removal of wisdom tooth NEC
 418982001,Y534,Y53.4 Approach to organ under fluoroscopic control
 176795006,Q228,Q22.8 Other specified bilateral excision of adnexa of uterus
@@ -14479,7 +14290,6 @@ snomed,opcs,opcs_term
 446548003,C722,C72.2 Suction extraction of lens
 174171002,H201,H20.1 Fibreoptic endoscopic snare resection of lesion of colon
 765476000,Y973,Y97.3 Radiology with post contrast
-446742004,G434,G43.4 Fibreoptic endoscopic sclerotherapy to lesion of upper gastrointestinal tract
 51265002,E192,E19.2 Partial pharyngectomy
 72821000,L671,L67.1 Biopsy of artery NEC
 25353009,V035,V03.5 Trephine of cranium
@@ -14513,13 +14323,11 @@ snomed,opcs,opcs_term
 241611001,Z264,Z26.4 Salivary gland
 5216004,U202,U20.2 Transoesophageal echocardiography
 174527009,J243,J24.3 Percutaneous dissolution therapy to calculus in gall bladder
-387617009,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 17537007,Y066,Y06.6 Vacuum excision of lesion of organ NOC
 252803002,Y442,Y44.2 Monitoring of pressure in organ NOC
 386800008,M432,M43.2 Endoscopic hydrostatic distension of bladder
 116228003,Y755,Y75.5 Laparoscopic ultrasonic approach to abdominal cavity
 16545191000119100,U106,U10.6 Myocardial perfusion scan
-445839007,G475,G47.5 Insertion of nasogastric tube
 446922003,Y061,Y06.1 Marsupialisation of organ NOC
 12511000087107,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 192461000,J398,J39.8 Other specified other therapeutic endoscopic operations on ampulla of Vater
@@ -14576,7 +14384,6 @@ snomed,opcs,opcs_term
 65239007,M414,M41.4 Open biopsy of lesion of bladder
 2945004,M351,M35.1 Diverticulectomy of bladder
 473197003,Y973,Y97.3 Radiology with post contrast
-473216000,G523,G52.3 Oversew of blood vessel of duodenal ulcer
 443516005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 431756003,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 49870005,H371,H37.1 Endoscopic mucosal resection of lesion of sigmoid colon using rigid sigmoidoscope
@@ -14713,8 +14520,6 @@ snomed,opcs,opcs_term
 182622002,A086,A08.6 Biopsy of lesion of tissue of brain stem NEC
 830034009,E091,E09.1 Excision of lesion of external nose
 241349006,Z313,Z31.3 Spleen
-110474005,E878,E87.8 Other specified oxygen therapy support
-440235008,Z358,Z35.8 Specified cerebral artery NEC
 37364004,K342,K34.2 Annuloplasty of tricuspid valve
 440456008,Y973,Y97.3 Radiology with post contrast
 396221000,V013,V01.3 Opening of suture of cranium
@@ -14743,7 +14548,6 @@ snomed,opcs,opcs_term
 1337002,H157,H15.7 Percutaneous endoscopic sigmoid colostomy
 236946009,R121,R12.1 Cerclage of cervix of gravid uterus
 38530004,Y421,Y42.1 External manipulation of organ NOC
-235398007,H178,H17.8 Other specified intra-abdominal manipulation of colon
 19651000087101,Y539,Y53.9 Unspecified approach to organ under image control
 440332008,K631,K63.1 Angiocardiography of combination of right and left side of heart
 447981001,Y015,Y01.5 Alloreplacement of organ from cadaver heart non-beating NOC
@@ -14833,7 +14637,6 @@ snomed,opcs,opcs_term
 447363009,Y464,Y46.4 Transmastoid open approach to contents of cranium
 172768004,S271,S27.1 Axial pattern local flap of skin to head or neck NEC
 44119001,G693,G69.3 Ileectomy and anastomosis of ileum to ileum
-238319001,X402,X40.2 Peritoneal dialysis NEC
 232624001,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
 27660008,E381,E38.1 Injection into larynx
 53698007,C791,C79.1 Vitrectomy using anterior approach
@@ -15171,7 +14974,6 @@ snomed,opcs,opcs_term
 1156740009,J132,J13.2 Percutaneous biopsy of lesion of liver NEC
 235216005,G281,G28.1 Partial gastrectomy and anastomosis of stomach to duodenum
 13769001,C347,C34.7 Tenotomy of combinations of muscles of eye
-225230008,X412,X41.2 Removal of ambulatory peritoneal dialysis catheter
 24058001,U208,U20.8 Other specified diagnostic Echocardiography
 65839000,Y973,Y97.3 Radiology with post contrast
 241473002,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
@@ -15183,7 +14985,6 @@ snomed,opcs,opcs_term
 443435007,W954,W95.4 Attention to hybrid prosthetic replacement of hip joint using cement NEC
 235333000,H335,H33.5 Rectosigmoidectomy and closure of rectal stump and exteriorisation of bowel
 446922003,Y065,Y06.5 Gamma wave excision of lesion of organ NOC
-62820003,K041,K04.1 Repair of tetralogy of Fallot using valved right ventricular outflow conduit
 447594008,A389,A38.9 Unspecified extirpation of lesion of meninges of brain
 119769005,Y261,Y26.1 Reconstruction of organ NOC
 32495000,V017,V01.7 Strip craniectomy with remodelling of cranial bones HFQ
@@ -15208,7 +15009,6 @@ snomed,opcs,opcs_term
 31746001,Y055,Y05.5 Debridement of organ NOC
 235589008,J368,J36.8 Other specified other operations on ampulla of Vater using duodenal approach
 84072001,C458,C45.8 Other specified extirpation of lesion of cornea
-49404006,A602,A60.2 Avulsion of peripheral nerve
 408754009,Y973,Y97.3 Radiology with post contrast
 307944004,E302,E30.2 Excision of lesion of larynx using lateral pharyngotomy as approach
 76930006,Z199,Z19.9 Eye NEC
@@ -15312,7 +15112,6 @@ snomed,opcs,opcs_term
 173911002,G619,G61.9 Unspecified bypass of jejunum
 307288003,V081,V08.1 Reduction of fracture of alveolus of maxilla
 235153008,H278,H27.8 Other specified other therapeutic endoscopic operations on sigmoid colon using rigid sigmoidoscope
-287286003,K678,K67.8 Other specified excision of pericardium
 431756003,Y973,Y97.3 Radiology with post contrast
 433875009,U212,U21.2 Computed tomography NEC
 85830006,K294,K29.4 Replacement of valve of heart NEC
@@ -15360,7 +15159,6 @@ snomed,opcs,opcs_term
 5081000087102,Z943,Z94.3 Left sided operation
 46282009,E388,E38.8 Other specified other operations on larynx
 719893002,Z029,Z02.9 Ventricle of brain NEC
-443627000,K202,K20.2 Correction of partial anomalous pulmonary venous drainage
 40916003,E489,E48.9 Unspecified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 6778001,Y201,Y20.1 Stereotactic biopsy of lesion of organ NOC
 7833003,Y064,Y06.4 Excision of scar tissue NOC
@@ -15425,7 +15223,6 @@ snomed,opcs,opcs_term
 176101004,Y401,Y40.1 Dilation of stricture of organ NOC
 840722006,D178,D17.8 Other specified other operations on ossicle of ear
 88961004,E241,E24.1 Endoscopic extirpation of lesion of nasopharynx
-225231007,X421,X42.1 Insertion of temporary peritoneal dialysis catheter
 172796005,Y713,Y71.3 Revisional operations NOC
 63003009,H448,H44.8 Other specified manipulation of rectum
 38375002,Y309,Y30.9 Unspecified incision of organ NOC
@@ -15472,7 +15269,6 @@ snomed,opcs,opcs_term
 169146001,Y948,Y94.8 Other specified radiopharmaceutical imaging
 6411000087106,Y534,Y53.4 Approach to organ under fluoroscopic control
 75078003,K093,K09.3 Repair of defect of atrioventricular septum using tissue graft
-473215001,G438,G43.8 Other specified fibreoptic endoscopic extirpation of lesion of upper gastrointestinal tract
 4701000087107,L634,L63.4 Arteriography of femoral artery
 61193006,Y323,Y32.3 Re-exploration of organ and packing of organ NOC
 232903008,K295,K29.5 Repair of valve of heart NEC
@@ -15530,7 +15326,6 @@ snomed,opcs,opcs_term
 4539004,E441,E44.1 Excision of carina
 419949007,Z359,Z35.9 Cerebral artery NEC
 359969002,T094,T09.4 Chemical open pleurodesis
-271415006,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 396207002,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 232882002,Z328,Z32.8 Specified valve of heart NEC
 698977005,Z479,Z47.9 Skin of face NEC
@@ -15582,7 +15377,6 @@ snomed,opcs,opcs_term
 113113000,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 4323007,C532,C53.2 Excision of lesion of sclera NEC
 45560006,Y135,Y13.5 Ultrasonic destruction of lesion of organ NOC
-473276009,Y258,Y25.8 Other specified suture of organ NOC
 241627008,U211,U21.1 Magnetic resonance imaging NEC
 287784004,H049,H04.9 Unspecified total excision of colon and rectum
 241044006,Y973,Y97.3 Radiology with post contrast
@@ -15756,7 +15550,6 @@ snomed,opcs,opcs_term
 169148000,Y942,Y94.2 Octreotide imaging
 173874001,G542,G54.2 Endoscopic dilation of duodenum
 287993008,H176,H17.6 Open relief of obstruction of colon NEC
-438999008,Z918,Z91.8 Specified vein of upper body NEC
 713499001,E132,E13.2 Excision of lesion of maxillary antrum
 232525009,E218,E21.8 Other specified repair of pharynx
 387865007,G483,G48.3 Induction of emesis
@@ -15840,7 +15633,6 @@ snomed,opcs,opcs_term
 418824004,K413,K41.3 Autograft replacement of three coronary arteries NEC
 174702000,J561,J56.1 Pancreaticoduodenectomy and excision of surrounding tissue
 445954002,U175,U17.5 Computed tomography of colon
-173985003,G751,G75.1 Refashioning of ileostomy
 702520005,Y971,Y97.1 Radiology with pre and post contrast
 64265001,A393,A39.3 Repair of dura of middle fossa of cranium
 178422006,V069,V06.9 Unspecified excision of maxilla
@@ -15903,7 +15695,6 @@ snomed,opcs,opcs_term
 234737009,F175,F17.5 Removal of dental crown from tooth
 173581002,G042,G04.2 Open laser destruction of lesion of oesophagus
 414088005,K413,K41.3 Autograft replacement of three coronary arteries NEC
-49404006,A609,A60.9 Unspecified destruction of peripheral nerve
 30226002,E192,E19.2 Partial pharyngectomy
 418824004,K423,K42.3 Allograft replacement of three coronary arteries
 39258002,T389,T38.9 Unspecified operations on mesentery of colon
@@ -15988,7 +15779,6 @@ snomed,opcs,opcs_term
 17481000087102,Z909,Z90.9 Leg region NEC
 241477001,Y971,Y97.1 Radiology with pre and post contrast
 61000087103,U215,U21.5 Contrast fluoroscopy NEC
-178686002,V058,V05.8 Other specified other operations on cranium
 303621003,E191,E19.1 Total pharyngectomy
 251016004,Y062,Y06.2 Deroofing of cyst of organ NOC
 230916003,Y532,Y53.2 Approach to organ under ultrasonic control
@@ -16090,7 +15880,6 @@ snomed,opcs,opcs_term
 446061008,Y971,Y97.1 Radiology with pre and post contrast
 447983003,E352,E35.2 Endoscopic resection of lesion of larynx
 236975003,R212,R21.2 High forceps cephalic delivery NEC
-176929000,Y954,Y95.4 Under 9 weeks gestational age
 314617008,Y092,Y09.2 Injection of other destructive substance into organ NOC
 232800007,K342,K34.2 Annuloplasty of tricuspid valve
 6019008,H258,H25.8 Other specified diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope
@@ -16137,7 +15926,6 @@ snomed,opcs,opcs_term
 442921007,Y971,Y97.1 Radiology with pre and post contrast
 236947000,R121,R12.1 Cerclage of cervix of gravid uterus
 445891007,Y255,Y25.5 Other attention to suture of organ NOC
-420231008,K578,K57.8 Other specified other therapeutic transluminal operations on heart
 119838003,S105,S10.5 Electrodessication of lesion of skin of head or neck
 11491000087105,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 14331000087103,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
@@ -16378,7 +16166,6 @@ snomed,opcs,opcs_term
 274354007,J451,J45.1 Endoscopic retrograde pancreatography and biopsy of lesion of pancreas
 445891007,G788,G78.8 Other specified other open operations on ileum
 172996004,E308,E30.8 Other specified open extirpation of lesion of larynx
-112934001,V551,V55.1 One level of spine
 43135000,C108,C10.8 Other specified operations on eyebrow
 274354007,Y752,Y75.2 Laparoscopic approach to abdominal cavity NEC
 440519002,Y943,Y94.3 Metaiodobenzylguanidine imaging
@@ -16434,7 +16221,6 @@ snomed,opcs,opcs_term
 773411001,Y973,Y97.3 Radiology with post contrast
 418903008,K633,K63.3 Angiocardiography of left side of heart NEC
 241532000,U212,U21.2 Computed tomography NEC
-440549000,G601,G60.1 Creation of jejunostomy
 169238009,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 709087001,Y228,Y22.8 Other specified drainage of organ NOC
 174988008,K352,K35.2 Percutaneous transluminal aortic valvotomy
@@ -16444,7 +16230,6 @@ snomed,opcs,opcs_term
 359596007,G632,G63.2 Incision of jejunum
 448034002,E352,E35.2 Endoscopic resection of lesion of larynx
 431462009,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
-473214002,Y252,Y25.2 Resuture of organ NOC
 50445001,D106,D10.6 Revision of mastoidectomy
 431757007,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 310475009,K276,K27.6 Tricuspid valve repair NEC
@@ -16453,7 +16238,6 @@ snomed,opcs,opcs_term
 48007004,M369,M36.9 Unspecified enlargement of bladder
 765049009,Y539,Y53.9 Unspecified approach to organ under image control
 241316002,Y942,Y94.2 Octreotide imaging
-387616000,Y951,Y95.1 Over 20 weeks gestational age
 439490005,C848,C84.8 Other specified other operations on retina
 431675003,Y534,Y53.4 Approach to organ under fluoroscopic control
 11617005,K343,K34.3 Annuloplasty of valve of heart NEC
@@ -16579,7 +16363,6 @@ snomed,opcs,opcs_term
 43344006,G281,G28.1 Partial gastrectomy and anastomosis of stomach to duodenum
 721059004,X093,X09.3 Amputation of leg above knee
 241141000,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
-440235008,Z355,Z35.5 Posterior cerebral artery
 442921007,Y973,Y97.3 Radiology with post contrast
 1329005,E313,E31.3 Division of stenosis of larynx and insertion of prosthesis into larynx
 69538006,Y054,Y05.4 Ex vivo resection of organ NOC
@@ -16588,7 +16371,6 @@ snomed,opcs,opcs_term
 32325005,G789,G78.9 Unspecified other open operations on ileum
 443232007,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 55162003,F104,F10.4 Extraction of multiple teeth NEC
-431612008,A523,A52.3 Epidural blood patch
 38722003,C452,C45.2 Excision of lesion of cornea NEC
 2166008,K265,K26.5 Aortic valve repair NEC
 5243009,Y258,Y25.8 Other specified suture of organ NOC
@@ -16876,7 +16658,6 @@ snomed,opcs,opcs_term
 432814005,Y973,Y97.3 Radiology with post contrast
 698520001,Z479,Z47.9 Skin of face NEC
 1891000087105,Y971,Y97.1 Radiology with pre and post contrast
-408818004,R141,R14.1 Forewater rupture of amniotic membrane
 13392003,E388,E38.8 Other specified other operations on larynx
 450608000,Z246,Z24.6 Lung
 69220007,K222,K22.2 Repair of atrium NEC
@@ -16886,7 +16667,6 @@ snomed,opcs,opcs_term
 174164007,H193,H19.3 Enterorrhaphy of colon
 310395004,K255,K25.5 Mitral valve repair NEC
 49194008,C118,C11.8 Other specified operations on canthus
-236883005,R298,R29.8 Other specified manual removal of products of conception from delivered uterus
 105377009,Y973,Y97.3 Radiology with post contrast
 203644001,C552,C55.2 Corneoscleral trephine
 65812008,C743,C74.3 Mechanical lensectomy
@@ -16902,7 +16682,6 @@ snomed,opcs,opcs_term
 445891007,Y259,Y25.9 Unspecified suture of organ NOC
 12350003,H189,H18.9 Unspecified open endoscopic operations on colon
 85910008,Y263,Y26.3 Stapling of organ NOC
-90463006,M326,M32.6 Endoscopic transurethral resection of ureteric orifice
 772769004,S291,S29.1 Distant osteocutaneous pedicle flap to head or neck
 265475009,K282,K28.2 Xenograft replacement of pulmonary valve
 431942008,Y939,Y93.9 Unspecified gallium-67 imaging
@@ -16928,7 +16707,6 @@ snomed,opcs,opcs_term
 448173000,E498,E49.8 Other specified diagnostic fibreoptic endoscopic examination of lower respiratory tract
 48387007,E427,E42.7 Removal of tracheostomy tube
 425946008,C227,C22.7 Denervation of nerve of eyelid
-446723003,G348,G34.8 Other specified artificial opening into stomach
 62658002,U211,U21.1 Magnetic resonance imaging NEC
 232628003,E593,E59.3 Biopsy of lesion of lung NEC
 85849005,H156,H15.6 Reduction of prolapse of colostomy
@@ -16961,7 +16739,6 @@ snomed,opcs,opcs_term
 69852004,F588,F58.8 Other specified other operations on salivary duct
 768972009,U058,U05.8 Other specified diagnostic imaging of central nervous system
 233085006,K248,K24.8 Other specified other operations on ventricles of heart
-235398007,H173,H17.3 Open reduction of volvulus of sigmoid colon
 16508004,E273,E27.3 Incision of pharynx NEC
 234662004,F118,F11.8 Other specified preprosthetic oral surgery
 431488007,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
@@ -17002,7 +16779,6 @@ snomed,opcs,opcs_term
 120176001,T383,T38.3 Biopsy of lesion of mesentery of colon
 307265004,V074,V07.4 Excision of lesion of infratemporal fossa
 718007002,U365,U36.5 Cone beam computed tomography NEC
-73341009,Y298,Y29.8 Other specified removal of foreign body from organ NOC
 11981000087102,Y531,Y53.1 Approach to organ under radiological control
 429651009,Y954,Y95.4 Under 9 weeks gestational age
 443509009,V163,V16.3 Osteotomy of alveolar segment of mandible
@@ -17014,7 +16790,6 @@ snomed,opcs,opcs_term
 239648009,Z631,Z63.1 Frontal bone
 58388006,C401,C40.1 Mucosal graft to conjunctiva
 410351000119101,Z905,Z90.5 Foot NEC
-387615001,Y951,Y95.1 Over 20 weeks gestational age
 307583008,H061,H06.1 Extended right hemicolectomy and end to end anastomosis
 397112000,C391,C39.1 Excision of lesion of conjunctiva
 37793001,Y261,Y26.1 Reconstruction of organ NOC
@@ -17044,7 +16819,6 @@ snomed,opcs,opcs_term
 430440000,Y973,Y97.3 Radiology with post contrast
 20142006,E542,E54.2 Bilobectomy of lung
 235148003,G643,G64.3 Endoscopic insertion of tubal prosthesis into jejunum
-473214002,G461,G46.1 Fibreoptic endoscopic endoluminal plication of gastro-oesophageal junction
 241037002,Y971,Y97.1 Radiology with pre and post contrast
 13401000087102,M062,M06.2 Drainage of kidney NEC
 86809007,Y102,Y10.2 Electrocauterisation of organ NOC
@@ -17092,7 +16866,6 @@ snomed,opcs,opcs_term
 1161000087107,Y973,Y97.3 Radiology with post contrast
 311888006,Q151,Q15.1 Introduction of radioactive substance into uterine cavity
 431599006,Y534,Y53.4 Approach to organ under fluoroscopic control
-446332003,Z271,Z27.1 Oesophagus
 236941004,Q399,Q39.9 Unspecified diagnostic endoscopic examination of fallopian tube
 840542000,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 432406007,A521,A52.1 Therapeutic lumbar epidural injection
@@ -17133,8 +16906,6 @@ snomed,opcs,opcs_term
 446414002,H259,H25.9 Unspecified diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope
 45474001,E024,E02.4 Septorhinoplasty using graft
 265333009,F291,F29.1 Primary repair of cleft palate
-773819005,X103,X10.3 Disarticulation of metatarsal bones
-440235008,Y534,Y53.4 Approach to organ under fluoroscopic control
 387747000,Y131,Y13.1 Cauterisation of lesion of organ NOC
 12317003,Y071,Y07.1 Ligation of organ NOC
 174809002,K026,K02.6 Revision of transplantation of heart NEC
@@ -17196,7 +16967,6 @@ snomed,opcs,opcs_term
 448035001,E301,E30.1 Excision of lesion of larynx using thyrotomy as approach
 241252000,L473,L47.3 Arteriography of visceral branch of abdominal aorta NEC
 30683004,F323,F32.3 Incision of palate
-265574005,M531,M53.1 Vaginal buttressing of urethra
 432404005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 232155008,D021,D02.1 Excision of lesion of external ear
 2231000087101,Y973,Y97.3 Radiology with post contrast
@@ -17268,7 +17038,6 @@ snomed,opcs,opcs_term
 232721002,K433,K43.3 Prosthetic replacement of three coronary arteries
 710165007,Y951,Y95.1 Over 20 weeks gestational age
 36508007,G433,G43.3 Fibreoptic endoscopic cauterisation of lesion of upper gastrointestinal tract
-176929000,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 54747001,H086,H08.6 Transverse colectomy and end to side anastomosis
 426506002,K049,K04.9 Unspecified repair of tetralogy of Fallot
 84604002,H104,H10.4 Sigmoid colectomy and ileostomy HFQ
@@ -17286,7 +17055,6 @@ snomed,opcs,opcs_term
 62553002,C133,C13.3 Blepharoplasty of lower eyelid
 440335005,U115,U11.5 Thallium stress test
 77018005,L348,L34.8 Other specified other open operations on cerebral artery
-178686002,V558,V55.8 Other specified levels of spine
 183579007,Y469,Y46.9 Unspecified open approach to contents of cranium
 438345008,Y532,Y53.2 Approach to organ under ultrasonic control
 440372004,Y534,Y53.4 Approach to organ under fluoroscopic control
@@ -17294,7 +17062,6 @@ snomed,opcs,opcs_term
 302612008,S203,S20.3 Random pattern distant flap of skin to head or neck
 708679008,M133,M13.3 Percutaneous aspiration of kidney NEC
 28890002,G234,G23.4 Repair of diaphragmatic hernia using abdominal approach NEC
-51767009,X373,X37.3 Intramuscular chemotherapy
 37026007,A028,A02.8 Other specified excision of lesion of tissue of brain
 28658009,T162,T16.2 Plication of diaphragm
 55771003,Q319,Q31.9 Unspecified incision of fallopian tube
@@ -17429,7 +17196,6 @@ snomed,opcs,opcs_term
 119256007,E468,E46.8 Other specified partial extirpation of bronchus
 174937005,K273,K27.3 Prosthetic replacement of tricuspid valve
 172157006,S248,S24.8 Other specified local flap of skin and muscle
-51767009,C378,C37.8 Other specified other operations on muscle of eye
 431757007,Z522,Z52.2 Pleural cavity
 397396006,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
 168854009,Y973,Y97.3 Radiology with post contrast
@@ -17557,7 +17323,6 @@ snomed,opcs,opcs_term
 527231000119104,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 232722009,K414,K41.4 Autograft replacement of four or more coronary arteries NEC
 3541000087102,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
-271415006,Q311,Q31.1 Removal of products of conception from fallopian tube
 75078003,K096,K09.6 Revision of repair of defect of atrioventricular septum
 233163003,Y134,Y13.4 Radiofrequency controlled thermal destruction of lesion of organ NOC
 19999005,C298,C29.8 Other specified other operations on lacrimal apparatus
@@ -17597,7 +17362,6 @@ snomed,opcs,opcs_term
 274336008,C843,C84.3 Biopsy of lesion of retina
 702759004,Y942,Y94.2 Octreotide imaging
 173730009,G295,G29.5 Cryotherapy to lesion of stomach
-387615001,Y954,Y95.4 Under 9 weeks gestational age
 31468007,J728,J72.8 Other specified other operations on spleen
 315029007,C128,C12.8 Other specified extirpation of lesion of eyelid
 36606003,Y261,Y26.1 Reconstruction of organ NOC
@@ -17744,7 +17508,6 @@ snomed,opcs,opcs_term
 13852005,G198,G19.8 Other specified diagnostic endoscopic examination of oesophagus using rigid oesophagoscope
 432933004,Y534,Y53.4 Approach to organ under fluoroscopic control
 46936007,G282,G28.2 Partial gastrectomy and anastomosis of stomach to transposed jejunum
-387615001,Y958,Y95.8 Other specified gestational age
 59200008,Z471,Z47.1 Skin of forehead
 120127007,Y015,Y01.5 Alloreplacement of organ from cadaver heart non-beating NOC
 36606003,Y265,Y26.5 Other attention to repair of organ NOC
@@ -17886,7 +17649,6 @@ snomed,opcs,opcs_term
 25048005,A031,A03.1 Stereotactic leucotomy
 79121003,G451,G45.1 Fibreoptic endoscopic examination of upper gastrointestinal tract and biopsy of lesion of upper gastrointestinal tract
 119991007,M378,M37.8 Other specified other repair of bladder
-177789001,T081,T08.1 Resection of rib and open drainage of pleural cavity
 80362002,Y067,Y06.7 Radiofrequency excision of lesion of organ NOC
 439089009,Z261,Z26.1 Parotid gland
 412541000119105,Z218,Z21.8 Specified part of ear NEC
@@ -17939,7 +17701,6 @@ snomed,opcs,opcs_term
 609279008,H071,H07.1 Right hemicolectomy and end to end anastomosis of ileum to colon
 445864005,Y973,Y97.3 Radiology with post contrast
 174837009,K041,K04.1 Repair of tetralogy of Fallot using valved right ventricular outflow conduit
-235398007,H174,H17.4 Open reduction of volvulus of colon NEC
 443916000,Y539,Y53.9 Unspecified approach to organ under image control
 231002002,A492,A49.2 Closure of spinal myelomeningocele
 32956007,Y016,Y01.6 Alloreplacement of organ from cadaver NOC
@@ -17951,7 +17712,6 @@ snomed,opcs,opcs_term
 431627008,Z277,Z27.7 Small intestine
 40227009,Y204,Y20.4 Fine needle aspiration NOC
 241286009,Y939,Y93.9 Unspecified gallium-67 imaging
-440549000,J688,J68.8 Other specified other operations on pancreas
 1010696002,Z943,Z94.3 Left sided operation
 37412006,H133,H13.3 Bypass of colon by anastomosis of transverse colon to sigmoid colon
 74539002,H174,H17.4 Open reduction of volvulus of colon NEC
@@ -18004,7 +17764,6 @@ snomed,opcs,opcs_term
 359632002,C181,C18.1 Correction of ptosis of eyelid using levator muscle technique
 112811009,K104,K10.4 Primary repair of defect of interatrial septum NEC
 29567006,U052,U05.2 Magnetic resonance imaging of head
-310604000,Y951,Y95.1 Over 20 weeks gestational age
 40485001,C462,C46.2 Lamellar graft to cornea NEC
 6889000,C543,C54.3 Buckling of sclera and implant HFQ
 54737004,V153,V15.3 Closed reduction of fracture of mandible NEC
@@ -18106,7 +17865,6 @@ snomed,opcs,opcs_term
 84604002,H106,H10.6 Sigmoid colectomy and end to side anastomosis
 241163009,Y513,Y51.3 Approach to organ through ileostomy
 446548003,C713,C71.3 Aspiration of lens
-473216000,Y258,Y25.8 Other specified suture of organ NOC
 240920002,K356,K35.6 Percutaneous transluminal pulmonary valve perforation and dilation
 8920006,C841,C84.1 Epiretinal dissection
 284468008,A838,A83.8 Other specified electroconvulsive therapy
@@ -18317,7 +18075,6 @@ snomed,opcs,opcs_term
 69727009,D103,D10.3 Cortical mastoidectomy
 116243001,M119,M11.9 Unspecified diagnostic endoscopic examination of kidney
 387861003,H401,H40.1 Trans-sphincteric excision of mucosa of rectum
-20504008,H157,H15.7 Percutaneous endoscopic sigmoid colostomy
 46825001,U198,U19.8 Other specified diagnostic electrocardiography
 168559008,U217,U21.7 Plain x-ray NEC
 233068009,Z942,Z94.2 Right sided operation
@@ -18350,7 +18107,6 @@ snomed,opcs,opcs_term
 55447006,U217,U21.7 Plain x-ray NEC
 173373002,S265,S26.5 Local subcutaneous pedicle flap of skin to head or neck NEC
 71273005,J022,J02.2 Left hemihepatectomy NEC
-419470007,Y221,Y22.1 Aspiration of haematoma of organ NOC
 174036004,H018,H01.8 Other specified emergency excision of appendix
 340926007,K247,K24.7 Myotomy of left ventricular outflow tract
 397574004,C811,C81.1 Xenon photocoagulation of retina for detachment
@@ -18459,7 +18215,6 @@ snomed,opcs,opcs_term
 42191001,A061,A06.1 Excision of basal encephalocele
 709690006,M389,M38.9 Unspecified open drainage of bladder
 62692004,Q258,Q25.8 Other specified partial excision of fallopian tube
-277304005,U241,U24.1 Pure tone audiometry
 27191003,Y259,Y25.9 Unspecified suture of organ NOC
 5105000,M093,M09.3 Endoscopic laser fragmentation of calculus of kidney
 447411003,Y534,Y53.4 Approach to organ under fluoroscopic control
@@ -18475,7 +18230,6 @@ snomed,opcs,opcs_term
 22588001,V379,V37.9 Unspecified primary fusion of joint of cervical spine
 15256002,Y088,Y08.8 Other specified laser therapy to organ NOC
 447067001,A443,A44.3 Excision of lesion of intradural intramedullary spinal cord
-77570000,Y298,Y29.8 Other specified removal of foreign body from organ NOC
 32555004,F134,F13.4 Restoration of part of tooth using inlay NEC
 3063009,G435,G43.5 Fibreoptic endoscopic destruction of lesion of upper gastrointestinal tract NEC
 765254006,Y943,Y94.3 Metaiodobenzylguanidine imaging
@@ -18492,7 +18246,6 @@ snomed,opcs,opcs_term
 301700004,H231,H23.1 Endoscopic snare resection of lesion of lower bowel using fibreoptic sigmoidoscope
 85133005,M418,M41.8 Other specified other open operations on bladder
 450668002,S063,S06.3 Shave excision of lesion of skin of head or neck
-271415006,Y951,Y95.1 Over 20 weeks gestational age
 359583006,G642,G64.2 Endoscopic dilation of jejunum
 231657001,C314,C31.4 Bilateral recession of lateral recti muscles of eyes
 24058001,Y973,Y97.3 Radiology with post contrast
@@ -18513,7 +18266,6 @@ snomed,opcs,opcs_term
 438617006,Y468,Y46.8 Other specified open approach to contents of cranium
 451027000,K318,K31.8 Other specified open incision of valve of heart
 1891000087105,Z909,Z90.9 Leg region NEC
-265082003,Q483,Q48.3 Laparoscopic oocyte recovery
 197076005,Y069,Y06.9 Unspecified excision of lesion of organ NOC
 173496001,F461,F46.1 Incision of parotid gland
 431476005,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
@@ -18610,7 +18362,6 @@ snomed,opcs,opcs_term
 85830006,K253,K25.3 Prosthetic replacement of mitral valve
 698355003,Y971,Y97.1 Radiology with pre and post contrast
 4363008,E518,E51.8 Other specified diagnostic endoscopic examination of lower respiratory tract using rigid bronchoscope
-446723003,Y403,Y40.3 Balloon dilation of organ NOC
 234656009,F118,F11.8 Other specified preprosthetic oral surgery
 237021000,R301,R30.1 Repositioning of inverted delivered uterus
 418982001,K758,K75.8 Other specified percutaneous transluminal balloon angioplasty and insertion of stent into coronary artery
@@ -18655,7 +18406,6 @@ snomed,opcs,opcs_term
 107963000,J024,J02.4 Wedge excision of liver
 702685007,U371,U37.1 Magnetic resonance imaging of kidneys
 363113000,Y311,Y31.1 Exploration of sinus track from organ NOC
-20504008,H152,H15.2 End colostomy
 79583008,G473,G47.3 Irrigation of stomach
 91250009,E146,E14.6 Trephine of frontal sinus
 10106002,M131,M13.1 Percutaneous needle biopsy of lesion of kidney
@@ -18968,7 +18718,6 @@ snomed,opcs,opcs_term
 107931006,G218,G21.8 Other specified other operations on oesophagus
 710165007,R374,R37.4 Nuchal translucency scan
 14572004,Q459,Q45.9 Unspecified repair of ovary
-20504008,H155,H15.5 Dilation of colostomy
 72915000,H623,H62.3 Dilation of bowel NEC
 16437531000119105,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 119887001,Y255,Y25.5 Other attention to suture of organ NOC
@@ -18999,7 +18748,6 @@ snomed,opcs,opcs_term
 231605001,C204,C20.4 Medial protective suture of eyelid
 107944001,H078,H07.8 Other specified other excision of right hemicolon
 78121007,E361,E36.1 Diagnostic endoscopic examination of larynx and biopsy of lesion of larynx
-420231008,Y222,Y22.2 Aspiration of other lesion of organ NOC
 241293008,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 241494004,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 236142005,M059,M05.9 Unspecified open repair of kidney
@@ -19031,7 +18779,6 @@ snomed,opcs,opcs_term
 439941003,A484,A48.4 Attention to neurostimulator adjacent to spinal cord NEC
 53941002,K114,K11.4 Primary repair of defect of interventricular septum NEC
 699325000,D238,D23.8 Other specified operations on inner ear
-90463006,M324,M32.4 Endoscopic dilation of ureteric orifice
 37026007,A024,A02.4 Excision of lesion of tissue of occipital lobe of brain
 172246005,C165,C16.5 Revision of tarsorrhaphy
 310400003,K101,K10.1 Repair of defect of interatrial septum using prosthetic patch
@@ -19158,7 +18905,6 @@ snomed,opcs,opcs_term
 232893000,K382,K38.2 Operations on chordae tendineae
 241555002,Z421,Z42.1 Bladder NEC
 31852007,D228,D22.8 Other specified operations on eustachian canal
-231384007,Z079,Z07.9 Spinal nerve root NEC
 235202000,G148,G14.8 Other specified fibreoptic endoscopic extirpation of lesion of oesophagus
 230810008,A384,A38.4 Extirpation of lesion of meninges of parasagittal region of brain
 265076001,Q284,Q28.4 Open clipping of fallopian tube NEC
@@ -19309,7 +19055,6 @@ snomed,opcs,opcs_term
 450783000,K115,K11.5 Revision of repair of defect of interventricular septum
 252647006,Z272,Z27.2 Stomach
 308675007,K293,K29.3 Prosthetic replacement of valve of heart NEC
-236883005,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 174125009,H133,H13.3 Bypass of colon by anastomosis of transverse colon to sigmoid colon
 232888003,K381,K38.1 Operations on papillary muscle
 233066008,K378,K37.8 Other specified removal of obstruction from structure adjacent to valve of heart
@@ -19507,8 +19252,6 @@ snomed,opcs,opcs_term
 29453004,G632,G63.2 Incision of jejunum
 235149006,G793,G79.3 Endoscopic insertion of tubal prosthesis into ileum
 425712000,J111,J11.1 Transjugular intrahepatic angioplasty of portal vein
-446723003,Y402,Y40.2 Stretching of organ NOC
-709787009,Y533,Y53.3 Approach to organ under computed tomography scan control
 432660009,G793,G79.3 Endoscopic insertion of tubal prosthesis into ileum
 48185007,M414,M41.4 Open biopsy of lesion of bladder
 310396003,K253,K25.3 Prosthetic replacement of mitral valve
@@ -19679,9 +19422,7 @@ snomed,opcs,opcs_term
 5041000087107,Y534,Y53.4 Approach to organ under fluoroscopic control
 265776009,Y581,Y58.1 Harvest of full thickness skin from post auricular region
 178446004,V083,V08.3 Closed reduction of fracture of maxilla NEC
-276921001,Y535,Y53.5 Approach to organ under image intensifier
 444783004,H288,H28.8 Other specified diagnostic endoscopic examination of sigmoid colon using rigid sigmoidoscope
-244608001,K188,K18.8 Other specified creation of valved cardiac conduit
 284468008,Z941,Z94.1 Bilateral operation
 440563006,V168,V16.8 Other specified division of mandible
 62658002,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
@@ -19694,7 +19435,6 @@ snomed,opcs,opcs_term
 175406006,Y535,Y53.5 Approach to organ under image intensifier
 7012008,Y131,Y13.1 Cauterisation of lesion of organ NOC
 447518007,A381,A38.1 Extirpation of lesion of meninges of cortex of brain
-432941004,J106,J10.6 Percutaneous transluminal thrombolysis of blood vessel of liver
 235313004,H021,H02.1 Interval appendicectomy
 429867000,Y973,Y97.3 Radiology with post contrast
 20816008,G215,G21.5 Insertion of stent into oesophagus NEC
@@ -19857,7 +19597,6 @@ snomed,opcs,opcs_term
 232748001,K381,K38.1 Operations on papillary muscle
 174880000,K182,K18.2 Creation of valved conduit between right atrium and pulmonary artery
 172196000,C091,C09.1 Replacement of lateral canthal tendon using tarsal strip
-62820003,K045,K04.5 Repair of tetralogy of Fallot with absent pulmonary valve
 120065003,Y011,Y01.1 Autoreplacement of organ NOC
 450508005,E052,E05.2 Ligation of artery of internal nose
 108116000,A445,A44.5 Excision of lesion of intradural extramedullary spinal cord
@@ -19932,9 +19671,7 @@ snomed,opcs,opcs_term
 1689004,Q431,Q43.1 Excision of wedge of ovary
 2391000087105,Y971,Y97.1 Radiology with pre and post contrast
 88722002,K603,K60.3 Renewal of intravenous cardiac pacemaker system
-276921001,Y539,Y53.9 Unspecified approach to organ under image control
 414170000,C336,C33.6 Resection of inferior oblique muscle of eye
-310603006,R298,R29.8 Other specified manual removal of products of conception from delivered uterus
 46423003,Q278,Q27.8 Other specified open bilateral occlusion of fallopian tubes
 18830003,D151,D15.1 Myringotomy with insertion of ventilation tube through tympanic membrane
 709093009,Y766,Y76.6 Endonasal endoscopic approach to other body cavity
@@ -20053,7 +19790,6 @@ snomed,opcs,opcs_term
 12796008,Q288,Q28.8 Other specified other open occlusion of fallopian tube
 230921000,L978,L97.8 Other specified other operations on blood vessel
 432814005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
-235398007,H171,H17.1 Open reduction of intussusception of colon
 175130004,K581,K58.1 Percutaneous transluminal mapping of conducting system of heart NEC
 766746001,Z942,Z94.2 Right sided operation
 7177008,V168,V16.8 Other specified division of mandible
@@ -20070,7 +19806,6 @@ snomed,opcs,opcs_term
 169146001,Y938,Y93.8 Other specified gallium-67 imaging
 20101008,M089,M08.9 Unspecified other open operations on kidney
 446415001,H259,H25.9 Unspecified diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope
-238322004,X402,X40.2 Peritoneal dialysis NEC
 427952005,C825,C82.5 Panretinal laser photocoagulation to lesion of retina
 232557005,E333,E33.3 Operations on cartilage of larynx NEC
 723726002,Z943,Z94.3 Left sided operation
@@ -20099,7 +19834,6 @@ snomed,opcs,opcs_term
 763097008,C862,C86.2 Repair of globe
 2598006,K551,K55.1 Ligation of sinus of Valsalva
 24611008,E381,E38.1 Injection into larynx
-77570000,Y292,Y29.2 Manipulative removal of foreign body from organ NOC
 265439007,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 1337002,H153,H15.3 Refashioning of colostomy
 232717009,K458,K45.8 Other specified connection of thoracic artery to coronary artery
@@ -20213,7 +19947,6 @@ snomed,opcs,opcs_term
 231544004,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 425779004,M326,M32.6 Endoscopic transurethral resection of ureteric orifice
 418354002,Y971,Y97.1 Radiology with pre and post contrast
-37120004,V558,V55.8 Other specified levels of spine
 89610000,M053,M05.3 Nephropexy
 398072007,C226,C22.6 Epilation of eyelash
 2471000087103,Z846,Z84.6 Knee joint
@@ -20386,7 +20119,6 @@ snomed,opcs,opcs_term
 6801000,T372,T37.2 Destruction of lesion of mesentery of small intestine
 287528001,E492,E49.2 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and lavage of lesion of lower respiratory tract
 79227006,Y111,Y11.1 Cauterisation of organ NOC
-71192002,X402,X40.2 Peritoneal dialysis NEC
 51000087101,Z943,Z94.3 Left sided operation
 428412000,X657,X65.7 Delivery of radionuclide therapy NEC
 3980006,G031,G03.1 Partial oesophagectomy and end to end anastomosis of oesophagus
@@ -20459,7 +20191,6 @@ snomed,opcs,opcs_term
 702420007,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 53000009,Y015,Y01.5 Alloreplacement of organ from cadaver heart non-beating NOC
 11933006,K043,K04.3 Repair of tetralogy of Fallot using transannular patch
-174899009,K201,K20.1 Correction of persistent sinus venosus
 65239007,M416,M41.6 Detrusor myotomy
 175952009,M092,M09.2 Endoscopic electrohydraulic shockwave fragmentation of calculus of kidney
 445751002,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
@@ -20476,7 +20207,6 @@ snomed,opcs,opcs_term
 709531003,Y389,Y38.9 Unspecified injection of therapeutic substance into organ NOC
 386690000,A511,A51.1 Extirpation of lesion of meninges of spinal cord
 446307000,A388,A38.8 Other specified extirpation of lesion of meninges of brain
-174789007,J722,J72.2 Embolisation of spleen
 241333009,Y942,Y94.2 Octreotide imaging
 288013007,M348,M34.8 Other specified total excision of bladder
 265425007,H412,H41.2 Peranal excision of lesion of rectum
@@ -20674,12 +20404,10 @@ snomed,opcs,opcs_term
 36242004,T769,T76.9 Unspecified transplantation of muscle
 119830005,Z472,Z47.2 Skin of temple
 83639008,C063,C06.3 Decompression of orbit
-90463006,M322,M32.2 Endoscopic meatotomy of ureteric orifice
 32413006,K026,K02.6 Revision of transplantation of heart NEC
 88930008,M023,M02.3 Bilateral nephrectomy
 817000,Y062,Y06.2 Deroofing of cyst of organ NOC
 76930006,Y971,Y97.1 Radiology with pre and post contrast
-440549000,J668,J66.8 Other specified therapeutic percutaneous operations on pancreas
 233128008,K084,K08.4 Repair of double outlet left ventricle
 174848002,K105,K10.5 Revision of repair of defect of interatrial septum
 4271000087105,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
@@ -20720,7 +20448,6 @@ snomed,opcs,opcs_term
 119755005,E574,E57.4 Incision of lung NEC
 90410003,G284,G28.4 Sleeve gastrectomy and duodenal switch
 41284009,E171,E17.1 Excision of nasal sinus NEC
-236883005,Y951,Y95.1 Over 20 weeks gestational age
 35157006,M061,M06.1 Open removal of calculus from kidney
 265551006,M054,M05.4 Plication of kidney
 27967008,E029,E02.9 Unspecified plastic operations on nose
@@ -20747,7 +20474,6 @@ snomed,opcs,opcs_term
 231647002,C312,C31.2 Bilateral recession of medial recti muscles of eyes
 233318006,L344,L34.4 Open embolisation of cerebral artery
 307550001,C322,C32.2 Recession of lateral rectus muscle of eye NEC
-62820003,K096,K09.6 Revision of repair of defect of atrioventricular septum
 241042005,Y971,Y97.1 Radiology with pre and post contrast
 232724005,K431,K43.1 Prosthetic replacement of one coronary artery
 446976003,E242,E24.2 Endoscopic extirpation of lesion of pharynx NEC
@@ -20792,7 +20518,6 @@ snomed,opcs,opcs_term
 33412005,C511,C51.1 Biopsy of lesion of cornea
 391000087100,Z943,Z94.3 Left sided operation
 172996004,E302,E30.2 Excision of lesion of larynx using lateral pharyngotomy as approach
-110474005,E872,E87.2 Long term oxygen assessment
 173171007,E545,E54.5 Partial lobectomy of lung NEC
 17881005,Y131,Y13.1 Cauterisation of lesion of organ NOC
 171462000,A043,A04.3 Open biopsy of lesion of tissue of parietal lobe of brain
@@ -20844,7 +20569,6 @@ snomed,opcs,opcs_term
 18551005,Y301,Y30.1 Incision of lesion of organ NOC
 408763006,C651,C65.1 Needling of bleb
 65546002,F109,F10.9 Unspecified simple extraction of tooth
-302605004,H541,H54.1 Anorectal stretch
 446976003,E249,E24.9 Unspecified therapeutic endoscopic operations on pharynx
 231586005,C118,C11.8 Other specified operations on canthus
 75227000,C748,C74.8 Other specified other extraction of lens
@@ -21104,7 +20828,6 @@ snomed,opcs,opcs_term
 107944001,H052,H05.2 Total colectomy and ileostomy and creation of rectal fistula HFQ
 431798000,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 286780001,Y514,Y51.4 Approach to organ through colostomy
-310604000,Q116,Q11.6 Vacuum aspiration of products of conception from uterus using flexible cannula
 233047008,K049,K04.9 Unspecified repair of tetralogy of Fallot
 36870006,U216,U21.6 Ultrasound scan NEC
 81532003,O121,O12.1 Superficial temporal artery
@@ -21180,7 +20903,6 @@ snomed,opcs,opcs_term
 10768005,Y207,Y20.7 Vacuum biopsy of lesion of organ NOC
 89610000,M052,M05.2 Open revision of pyeloplasty
 398031005,C032,C03.2 Insertion of prosthetic replacement for eyeball
-310603006,R291,R29.1 Manual removal of placenta from delivered uterus
 5722009,Y716,Y71.6 Second revisional operation NOC
 232838006,K264,K26.4 Replacement of aortic valve NEC
 314117007,C601,C60.1 Trabeculectomy
@@ -21189,7 +20911,6 @@ snomed,opcs,opcs_term
 446490007,C719,C71.9 Unspecified extracapsular extraction of lens
 241127009,Y971,Y97.1 Radiology with pre and post contrast
 427107006,Q248,Q24.8 Other specified other excision of adnexa of uterus
-49404006,A606,A60.6 Selective denervation of peripheral nerve
 387598008,M458,M45.8 Other specified diagnostic endoscopic examination of bladder
 2491000087104,Y973,Y97.3 Radiology with post contrast
 232724005,K434,K43.4 Prosthetic replacement of four or more coronary arteries
@@ -21356,7 +21077,6 @@ snomed,opcs,opcs_term
 173635005,G149,G14.9 Unspecified fibreoptic endoscopic extirpation of lesion of oesophagus
 309731008,D223,D22.3 Insufflation of eustachian canal
 431627008,Y971,Y97.1 Radiology with pre and post contrast
-310604000,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 783289001,S365,S36.5 Pinch graft of skin to head or neck
 16547921000119107,M133,M13.3 Percutaneous aspiration of kidney NEC
 765049009,Z375,Z37.5 Suprarenal artery
@@ -21380,7 +21100,6 @@ snomed,opcs,opcs_term
 715966005,Y222,Y22.2 Aspiration of other lesion of organ NOC
 116218007,K232,K23.2 Biopsy of lesion of wall of heart
 172386004,C395,C39.5 Radiotherapy to lesion of conjunctiva
-112934001,V508,V50.8 Other specified manipulation of spine
 13852005,G453,G45.3 Fibreoptic endoscopic insertion of Bravo pH capsule into upper gastrointestinal tract
 762809009,Q259,Q25.9 Unspecified partial excision of fallopian tube
 17521000087102,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
@@ -21479,11 +21198,9 @@ snomed,opcs,opcs_term
 30524000,B201,B20.1 Biopsy of lesion of thymus gland
 241049001,Z644,Z64.4 Maxilla
 363113000,Y323,Y32.3 Re-exploration of organ and packing of organ NOC
-236883005,Y954,Y95.4 Under 9 weeks gestational age
 1299000,H021,H02.1 Interval appendicectomy
 359969002,T091,T09.1 Open destruction of lesion of pleura
 232900006,Z328,Z32.8 Specified valve of heart NEC
-473215001,Z272,Z27.2 Stomach
 287958001,Y419,Y41.9 Unspecified examination of organ NOC
 176795006,Q238,Q23.8 Other specified unilateral excision of adnexa of uterus
 68141001,T374,T37.4 Repair of mesentery of small intestine
@@ -21609,7 +21326,6 @@ snomed,opcs,opcs_term
 171727006,A449,A44.9 Unspecified partial extirpation of spinal cord
 168997003,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 7824000,K141,K14.1 Open enlargement of defect of atrial septum
-235398007,G762,G76.2 Open relief of strangulation of ileum
 231747008,Y086,Y08.6 Laser incision of organ NOC
 359571009,H073,H07.3 Right hemicolectomy and anastomosis NEC
 119838003,Z473,Z47.3 Skin of cheek
@@ -21661,7 +21377,6 @@ snomed,opcs,opcs_term
 61561005,E338,E33.8 Other specified other open operations on larynx
 177808003,Y744,Y74.4 Thoracoscopic video-assisted approach to thoracic cavity
 9280007,H463,H46.3 Intubation of rectum for pressure manometry
-700073007,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 235149006,G803,G80.3 Diagnostic endoscopic balloon examination of ileum
 119887001,Y259,Y25.9 Unspecified suture of organ NOC
 425632006,G436,G43.6 Fibreoptic endoscopic injection therapy to lesion of upper gastrointestinal tract NEC
@@ -21670,7 +21385,6 @@ snomed,opcs,opcs_term
 174071004,H063,H06.3 Extended right hemicolectomy and anastomosis NEC
 231624003,C178,C17.8 Other specified other repair of eyelid
 265305009,D122,D12.2 Atticotomy
-432941004,Y534,Y53.4 Approach to organ under fluoroscopic control
 90410003,G288,G28.8 Other specified partial excision of stomach
 441985002,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 241440009,Y931,Y93.1 Gallium-67 imaging scan
@@ -21693,7 +21407,6 @@ snomed,opcs,opcs_term
 40173000,M383,M38.3 Cystostomy NEC
 571921000119104,Y938,Y93.8 Other specified gallium-67 imaging
 241163009,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
-178686002,V552,V55.2 Two levels of spine
 29613008,R215,R21.5 Low forceps cephalic delivery
 119725003,Y013,Y01.3 Xenoreplacement of organ NOC
 69086007,A108,A10.8 Other specified other operations on tissue of brain
@@ -21830,7 +21543,6 @@ snomed,opcs,opcs_term
 13433005,A022,A02.2 Excision of lesion of tissue of temporal lobe of brain
 234937001,F441,F44.1 Total excision of parotid gland
 6370006,G178,G17.8 Other specified endoscopic extirpation of lesion of oesophagus using rigid oesophagoscope
-438999008,L994,L99.4 Percutaneous transluminal venous thrombolysis NEC
 609154002,K754,K75.4 Percutaneous transluminal balloon angioplasty and insertion of 3 or more stents into coronary artery NEC
 284063007,F421,F42.1 Biopsy of lesion of mouth NEC
 277546002,L941,L94.1 Percutaneous transluminal embolisation of vein
@@ -21894,7 +21606,6 @@ snomed,opcs,opcs_term
 445942002,Z012,Z01.2 Tissue of temporal lobe of brain
 450698009,C545,C54.5 Buckling of sclera NEC
 171947007,B041,B04.1 Excision of lesion of pituitary gland
-310603006,R302,R30.2 Expression of placenta
 442171009,Z262,Z26.2 Submandibular gland
 307289006,V174,V17.4 Removal of fixation from mandible
 446343006,A388,A38.8 Other specified extirpation of lesion of meninges of brain
@@ -21964,7 +21675,6 @@ snomed,opcs,opcs_term
 11973000,J693,J69.3 Excision of accessory spleen
 28813001,E139,E13.9 Unspecified other operations on maxillary antrum
 278539009,S252,S25.2 Local fasciocutaneous subcutaneous pedicle flap NEC
-37120004,V509,V50.9 Unspecified manipulation of spine
 74184007,Y086,Y08.6 Laser incision of organ NOC
 450348001,E591,E59.1 Needle biopsy of lesion of lung
 69556006,Y058,Y05.8 Other specified excision of organ NOC
@@ -22183,7 +21893,6 @@ snomed,opcs,opcs_term
 12868007,C918,C91.8 Other specified operations on anterior segment of eye
 398006009,D162,D16.2 Graft replacement of ossicular chain
 6019008,H228,H22.8 Other specified diagnostic endoscopic examination of colon
-88362001,Y959,Y95.9 Unspecified gestational age
 445974009,D282,D28.2 Examination of ear under anaesthetic
 261515008,K148,K14.8 Other specified other open operations on septum of heart
 716846008,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
@@ -22254,7 +21963,6 @@ snomed,opcs,opcs_term
 21622006,M811,M81.1 Extirpation of lesion of meatus of urethra
 77018005,Y062,Y06.2 Deroofing of cyst of organ NOC
 72767005,E026,E02.6 Rhinoplasty NEC
-725959008,M683,M68.3 Endoscopic insertion of prosthesis to compress lobe of prostate
 232826002,Z322,Z32.2 Aortic valve
 119913009,J048,J04.8 Other specified repair of liver
 175095005,K521,K52.1 Open ablation of atrioventricular node
@@ -22311,7 +22019,6 @@ snomed,opcs,opcs_term
 446821006,M455,M45.5 Diagnostic endoscopic examination of bladder using rigid cystoscope
 76970004,Y273,Y27.3 Xenograft to organ NOC
 5212002,Y064,Y06.4 Excision of scar tissue NOC
-73341009,Y299,Y29.9 Unspecified removal of foreign body from organ NOC
 406571000119104,Z238,Z23.8 Specified nasal sinus NEC
 642006,Y973,Y97.3 Radiology with post contrast
 236247008,M542,M54.2 Reconstruction of neck of female bladder NEC
@@ -22335,7 +22042,6 @@ snomed,opcs,opcs_term
 397241003,J042,J04.2 Repair of laceration of liver
 431225005,U211,U21.1 Magnetic resonance imaging NEC
 450582008,Z475,Z47.5 Skin of chin
-773821000,X104,X10.4 Amputation through metatarsal bones
 3551000087104,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 307511000,G529,G52.9 Unspecified operations on ulcer of duodenum
 232918009,Y038,Y03.8 Other specified attention to prosthesis in organ NOC
@@ -22370,7 +22076,6 @@ snomed,opcs,opcs_term
 13327002,H108,H10.8 Other specified excision of sigmoid colon
 447024009,S081,S08.1 Curettage and cauterisation of lesion of skin of head or neck
 168843004,U174,U17.4 Barium enema
-446727002,G436,G43.6 Fibreoptic endoscopic injection therapy to lesion of upper gastrointestinal tract NEC
 21151000087104,U216,U21.6 Ultrasound scan NEC
 61601001,S471,S47.1 Drainage of lesion of skin of head or neck
 234740009,F138,F13.8 Other specified restoration of tooth
@@ -22445,7 +22150,6 @@ snomed,opcs,opcs_term
 315327002,H105,H10.5 Sigmoid colectomy and exteriorisation of bowel NEC
 25806002,C105,C10.5 Incision of lesion of eyebrow
 119287009,H221,H22.1 Diagnostic fibreoptic endoscopic examination of colon and biopsy of lesion of colon
-63633003,M239,M23.9 Unspecified incision of ureter
 4862007,H132,H13.2 Bypass of colon by anastomosis of caecum to sigmoid colon
 19971000087103,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 26212005,K302,K30.2 Revision of plastic repair of aortic valve
@@ -22583,7 +22287,6 @@ snomed,opcs,opcs_term
 431599006,Z375,Z37.5 Suprarenal artery
 241524008,U051,U05.1 Computed tomography of head
 4387005,K048,K04.8 Other specified repair of tetralogy of Fallot
-446018005,Z271,Z27.1 Oesophagus
 232722009,K448,K44.8 Other specified other replacement of coronary artery
 265232001,A551,A55.1 Radiculography
 232916008,Z328,Z32.8 Specified valve of heart NEC
@@ -22603,7 +22306,6 @@ snomed,opcs,opcs_term
 48032002,E509,E50.9 Unspecified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
 119975009,Y254,Y25.4 Removal of other suture from organ NOC
 718314009,Y143,Y14.3 Insertion of metal stent into organ NOC
-235398007,G764,G76.4 Plication of ileum
 13666002,A101,A10.1 Leucotomy NEC
 431066004,E361,E36.1 Diagnostic endoscopic examination of larynx and biopsy of lesion of larynx
 32327002,G292,G29.2 Open excision of lesion of stomach NEC
@@ -22688,7 +22390,6 @@ snomed,opcs,opcs_term
 237479005,B041,B04.1 Excision of lesion of pituitary gland
 235471009,J576,J57.6 Pancreatic necrosectomy
 386607008,C624,C62.4 Correction iridodialysis NEC
-473215001,Y251,Y25.1 Suture of laceration of organ NOC
 303394007,G294,G29.4 Diathermy to lesion of stomach
 241371001,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 46767000,J251,J25.1 Percutaneous biopsy of lesion of gall bladder
@@ -22699,7 +22400,6 @@ snomed,opcs,opcs_term
 79107000,C545,C54.5 Buckling of sclera NEC
 13852005,G192,G19.2 Diagnostic endoscopic insertion of Bravo pH capsule using rigid oesophagoscope
 10768005,Y201,Y20.1 Stereotactic biopsy of lesion of organ NOC
-473216000,G522,G52.2 Suture of ulcer of duodenum NEC
 446848007,A054,A05.4 Evacuation of intracerebral haematoma NEC
 48450000,Y971,Y97.1 Radiology with pre and post contrast
 257925000,Z245,Z24.5 Bronchus
@@ -22861,7 +22561,6 @@ snomed,opcs,opcs_term
 312713003,C811,C81.1 Xenon photocoagulation of retina for detachment
 765049009,Z942,Z94.2 Right sided operation
 418824004,K438,K43.8 Other specified prosthetic replacement of coronary artery
-276921001,Y531,Y53.1 Approach to organ under radiological control
 26925005,H083,H08.3 Transverse colectomy and anastomosis NEC
 287587008,Y081,Y08.1 Laser excision of organ NOC
 53858008,E271,E27.1 Open biopsy of lesion of pharynx
@@ -22918,7 +22617,6 @@ snomed,opcs,opcs_term
 233319003,L351,L35.1 Percutaneous transluminal embolisation of cerebral artery
 37593003,G691,G69.1 Ileectomy and anastomosis of stomach to ileum
 172661001,Z633,Z63.3 Temporal bone
-387617009,Y958,Y95.8 Other specified gestational age
 439878001,G288,G28.8 Other specified partial excision of stomach
 171692002,A382,A38.2 Extirpation of lesion of meninges of sphenoidal ridge of cranium
 60060005,Z177,Z17.7 Combinations of muscles of eye
@@ -22969,7 +22667,6 @@ snomed,opcs,opcs_term
 235148003,G792,G79.2 Endoscopic dilation of ileum
 440148001,Q081,Q08.1 Vaginal hysterocolpectomy and excision of periuterine tissue
 234734002,F173,F17.3 Fitting of dental crown on tooth
-387617009,Y951,Y95.1 Over 20 weeks gestational age
 65886001,Y058,Y05.8 Other specified excision of organ NOC
 451008006,Z644,Z64.4 Maxilla
 120127007,Y011,Y01.1 Autoreplacement of organ NOC
@@ -23035,7 +22732,6 @@ snomed,opcs,opcs_term
 241035005,U217,U21.7 Plain x-ray NEC
 231544004,X658,X65.8 Other specified radiotherapy delivery
 61327009,Y228,Y22.8 Other specified drainage of organ NOC
-440235008,Z353,Z35.3 Anterior communicating artery
 312497000,H338,H33.8 Other specified excision of rectum
 342746004,Y271,Y27.1 Autograft to organ NOC
 176786003,P273,P27.3 Colposcopy of vagina
@@ -23070,7 +22766,6 @@ snomed,opcs,opcs_term
 44291006,C228,C22.8 Other specified other operations on eyelid
 79121003,G199,G19.9 Unspecified diagnostic endoscopic examination of oesophagus using rigid oesophagoscope
 442912006,Y716,Y71.6 Second revisional operation NOC
-178686002,V501,V50.1 Manipulation of spine using traction
 41500002,U173,U17.3 Barium swallow
 448360009,H262,H26.2 Endoscopic cauterisation of lesion of sigmoid colon using rigid sigmoidoscope
 231581000,C093,C09.3 Replacement of medial canthal tendon using periosteal strip
@@ -23127,7 +22822,6 @@ snomed,opcs,opcs_term
 53457009,U203,U20.3 Intravascular echocardiography
 1119345001,Y973,Y97.3 Radiology with post contrast
 80632003,C792,C79.2 Vitrectomy using pars plana approach
-88362001,Y958,Y95.8 Other specified gestational age
 15051002,Y251,Y25.1 Suture of laceration of organ NOC
 447518007,A388,A38.8 Other specified extirpation of lesion of meninges of brain
 1161000087107,Y971,Y97.1 Radiology with pre and post contrast
@@ -23156,7 +22850,6 @@ snomed,opcs,opcs_term
 40330004,Y253,Y25.3 Removal of retained suture from organ NOC
 289060008,H401,H40.1 Trans-sphincteric excision of mucosa of rectum
 241040002,Y971,Y97.1 Radiology with pre and post contrast
-49404006,A603,A60.3 Transection of peripheral nerve
 236247008,M554,M55.4 Maintenance of prosthetic collar around outlet of female bladder
 699721006,Y751,Y75.1 Laparoscopically assisted approach to abdominal cavity
 432115009,Y941,Y94.1 Dopamine transporter scan
@@ -23291,7 +22984,6 @@ snomed,opcs,opcs_term
 232621009,E549,E54.9 Unspecified excision of lung
 609153008,Y534,Y53.4 Approach to organ under fluoroscopic control
 609152003,K753,K75.3 Percutaneous transluminal balloon angioplasty and insertion of 1-2 stents into coronary artery
-473214002,Y251,Y25.1 Suture of laceration of organ NOC
 398324004,D152,D15.2 Suction clearance of middle ear
 231652007,Z171,Z17.1 Medial rectus muscle of eye
 426697007,M137,M13.7 Percutaneous radiofrequency ablation of lesion of kidney
@@ -23348,7 +23040,6 @@ snomed,opcs,opcs_term
 10371000132109,H261,H26.1 Endoscopic snare resection of lesion of sigmoid colon using rigid sigmoidoscope
 75903006,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
 302612008,S172,S17.2 Distant myocutaneous subcutaneous pedicle flap NEC
-440235008,Z359,Z35.9 Cerebral artery NEC
 386608003,C629,C62.9 Unspecified incision of iris
 35887003,Q432,Q43.2 Excision of lesion of ovary
 76081004,V051,V05.1 Extirpation of lesion of cranium
@@ -23519,7 +23210,6 @@ snomed,opcs,opcs_term
 446730009,G049,G04.9 Unspecified open extirpation of lesion of oesophagus
 1010292009,Q289,Q28.9 Unspecified other open occlusion of fallopian tube
 61561005,E342,E34.2 Microtherapeutic endoscopic resection of lesion of larynx NEC
-62820003,K099,K09.9 Unspecified repair of defect of atrioventricular septum
 14521000087106,Y973,Y97.3 Radiology with post contrast
 234736000,F174,F17.4 Adjustment of dental crown on tooth
 10768005,Y205,Y20.5 Percutaneous biopsy NOC
@@ -23588,7 +23278,6 @@ snomed,opcs,opcs_term
 230839008,A022,A02.2 Excision of lesion of tissue of temporal lobe of brain
 420137004,Y973,Y97.3 Radiology with post contrast
 16831000087101,Z903,Z90.3 Upper leg NEC
-446727002,G434,G43.4 Fibreoptic endoscopic sclerotherapy to lesion of upper gastrointestinal tract
 439783004,V103,V10.3 Osteotomy of maxilla involving nasal complex
 241439007,Y938,Y93.8 Other specified gallium-67 imaging
 6231003,F303,F30.3 Plastic repair of palate using flap of tongue
@@ -23616,7 +23305,6 @@ snomed,opcs,opcs_term
 241335002,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 78790009,A345,A34.5 Exploration of acoustic nerve (viii)
 704053009,E025,E02.5 Reduction rhinoplasty
-77570000,T095,T09.5 Open pleurodesis NEC
 28813001,E134,E13.4 Biopsy of lesion of maxillary antrum
 277519007,Y531,Y53.1 Approach to organ under radiological control
 232745003,K341,K34.1 Annuloplasty of mitral valve
@@ -23716,7 +23404,6 @@ snomed,opcs,opcs_term
 708683008,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 6670003,E432,E43.2 Tracheorrhaphy
 37679001,Z475,Z47.5 Skin of chin
-276921001,L358,L35.8 Other specified transluminal operations on cerebral artery
 9774003,V195,V19.5 Manipulation of mandible NEC
 236899004,Y132,Y13.2 Cryotherapy to lesion of organ NOC
 5243009,Y259,Y25.9 Unspecified suture of organ NOC
@@ -23740,7 +23427,6 @@ snomed,opcs,opcs_term
 65233008,E333,E33.3 Operations on cartilage of larynx NEC
 65812008,C741,C74.1 Curettage of lens
 173259008,S222,S22.2 Neurovascular island sensory flap of skin NEC
-37120004,V508,V50.8 Other specified manipulation of spine
 359860002,H191,H19.1 Open biopsy of lesion of colon
 446599005,E121,E12.1 Ligation of maxillary artery using sublabial approach
 231773003,C803,C80.3 Delamination of epiretinal fibrovascular membrane
@@ -24073,7 +23759,6 @@ snomed,opcs,opcs_term
 287597004,Y535,Y53.5 Approach to organ under image intensifier
 89432003,F038,F03.8 Other specified correction of deformity of lip
 35757004,U209,U20.9 Unspecified diagnostic Echocardiography
-112934001,V553,V55.3 Greater than two levels of spine
 1010694004,F114,F11.4 Vestibuloplasty of mouth
 15051002,Y252,Y25.2 Resuture of organ NOC
 447936000,J275,J27.5 Excision of extrahepatic bile ducts HFQ
@@ -24313,7 +23998,6 @@ snomed,opcs,opcs_term
 80632003,C795,C79.5 Internal tamponade of retina using gas
 119931005,Y019,Y01.9 Unspecified replacement of organ NOC
 439783004,V106,V10.6 Osteotomy of bones of face and translocation of orbit
-773819005,Z942,Z94.2 Right sided operation
 119976005,Y261,Y26.1 Reconstruction of organ NOC
 233105007,K148,K14.8 Other specified other open operations on septum of heart
 1351000087106,Y971,Y97.1 Radiology with pre and post contrast
@@ -24352,7 +24036,6 @@ snomed,opcs,opcs_term
 2511000087109,Y971,Y97.1 Radiology with pre and post contrast
 174854001,K046,K04.6 Repair of Fallot-type pulmonary atresia with aortopulmonary collaterals
 432880008,Y173,Y17.3 Lithotripsy of lesion of organ NOC
-178686002,V559,V55.9 Unspecified levels of spine
 450863009,C352,C35.2 Lengthening of muscle of eye by muscle slide
 172264003,C201,C20.1 Complete protective suture of eyelid
 49825002,Y421,Y42.1 External manipulation of organ NOC
@@ -24534,7 +24217,6 @@ snomed,opcs,opcs_term
 274980000,Q283,Q28.3 Open clipping of remaining solitary fallopian tube
 241166001,Y971,Y97.1 Radiology with pre and post contrast
 232717009,K408,K40.8 Other specified saphenous vein graft replacement of coronary artery
-446742004,Z271,Z27.1 Oesophagus
 38018001,D208,D20.8 Other specified other operations on middle ear
 2598006,K525,K52.5 Open division of conducting system of heart NEC
 232594001,E484,E48.4 Fibreoptic endoscopic aspiration of lower respiratory tract
@@ -24549,7 +24231,6 @@ snomed,opcs,opcs_term
 397160002,H158,H15.8 Other specified other exteriorisation of colon
 43519002,G592,G59.2 Open destruction of lesion of jejunum
 86730009,K231,K23.1 Excision of lesion of wall of heart NEC
-90463006,M329,M32.9 Unspecified operations on ureteric orifice
 9372002,Y229,Y22.9 Unspecified drainage of organ NOC
 265439007,J103,J10.3 Percutaneous transluminal injection of therapeutic substance into liver
 13852005,G458,G45.8 Other specified diagnostic fibreoptic endoscopic examination of upper gastrointestinal tract
@@ -24580,7 +24261,6 @@ snomed,opcs,opcs_term
 174190005,Z291,Z29.1 Rectum
 230907002,Y069,Y06.9 Unspecified excision of lesion of organ NOC
 288014001,M582,M58.2 Dilation of outlet of female bladder
-225231007,X429,X42.9 Unspecified placement of other apparatus for compensation for renal failure
 232614009,Y209,Y20.9 Unspecified biopsy of organ NOC
 174969001,K313,K31.3 Open tricuspid valvotomy
 65745000,B014,B01.4 Transcranial hypophysectomy
@@ -24678,7 +24358,6 @@ snomed,opcs,opcs_term
 241549007,Y971,Y97.1 Radiology with pre and post contrast
 361152000,H151,H15.1 Loop colostomy
 274355008,J091,J09.1 Diagnostic endoscopic examination of liver and biopsy of lesion of liver using laparoscope
-176929000,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 14352005,J612,J61.2 Drainage of cyst of pancreas into transposed jejunum
 173259008,F049,F04.9 Unspecified other reconstruction of lip
 1421000087109,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
@@ -24692,7 +24371,6 @@ snomed,opcs,opcs_term
 313020008,A839,A83.9 Unspecified electroconvulsive therapy
 449194009,H235,H23.5 Endoscopic submucosal resection of lesion of lower bowel using fibreoptic sigmoidoscope
 64772004,T379,T37.9 Unspecified operations on mesentery of small intestine
-310603006,R299,R29.9 Unspecified manual removal of products of conception from delivered uterus
 431410007,M062,M06.2 Drainage of kidney NEC
 232154007,D021,D02.1 Excision of lesion of external ear
 440036001,U113,U11.3 Vascular ultrasound NEC
@@ -24789,7 +24467,6 @@ snomed,opcs,opcs_term
 174928005,K343,K34.3 Annuloplasty of valve of heart NEC
 609234009,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 287821000,G282,G28.2 Partial gastrectomy and anastomosis of stomach to transposed jejunum
-110474005,E874,E87.4 Diagnostic assessment of circulatory oxygenation using reduced oxygen air
 172595006,D028,D02.8 Other specified extirpation of lesion of external ear
 359618004,E545,E54.5 Partial lobectomy of lung NEC
 4521000087108,Z414,Z41.4 Renal pelvis NEC
@@ -24909,7 +24586,6 @@ snomed,opcs,opcs_term
 425813003,Y959,Y95.9 Unspecified gestational age
 15257006,J026,J02.6 Extended right hemihepatectomy
 56195000,V073,V07.3 Excision of lesion of bone of face
-177200004,R288,R28.8 Other specified instrumental removal of products of conception from delivered uterus
 1266002,D149,D14.9 Unspecified repair of eardrum
 235153008,H289,H28.9 Unspecified diagnostic endoscopic examination of sigmoid colon using rigid sigmoidoscope
 448350000,Q206,Q20.6 Focused ultrasound to lesion of uterus
@@ -25165,7 +24841,6 @@ snomed,opcs,opcs_term
 446062001,A381,A38.1 Extirpation of lesion of meninges of cortex of brain
 42050001,E298,E29.8 Other specified excision of larynx
 13171005,G185,G18.5 Dilation of web of oesophagus using rigid oesophagoscope
-88362001,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 429741000,V571,V57.1 Revisional laser foraminoplasty of cervical spine
 36503003,M455,M45.5 Diagnostic endoscopic examination of bladder using rigid cystoscope
 609281005,G281,G28.1 Partial gastrectomy and anastomosis of stomach to duodenum
@@ -25287,7 +24962,6 @@ snomed,opcs,opcs_term
 429113008,Y531,Y53.1 Approach to organ under radiological control
 8180007,H201,H20.1 Fibreoptic endoscopic snare resection of lesion of colon
 429801001,Y938,Y93.8 Other specified gallium-67 imaging
-235398007,H175,H17.5 Open relief of strangulation of colon
 231055008,Y039,Y03.9 Unspecified attention to prosthesis in organ NOC
 718475004,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 116243001,M089,M08.9 Unspecified other open operations on kidney
@@ -25380,7 +25054,6 @@ snomed,opcs,opcs_term
 241354002,U125,U12.5 Static renogram
 307583008,H075,H07.5 Right hemicolectomy and end to side anastomosis
 232470004,E028,E02.8 Other specified plastic operations on nose
-698973009,A128,A12.8 Other specified creation of connection from ventricle of brain
 444783004,H221,H22.1 Diagnostic fibreoptic endoscopic examination of colon and biopsy of lesion of colon
 429820004,Y973,Y97.3 Radiology with post contrast
 764579002,Y971,Y97.1 Radiology with pre and post contrast
@@ -25394,7 +25067,6 @@ snomed,opcs,opcs_term
 172243002,C208,C20.8 Other specified protective suture of eyelid
 65291007,H043,H04.3 Panproctocolectomy and anastomosis of ileum to anus NEC
 303995001,F431,F43.1 Smear of buccal mucosa
-420231008,Y534,Y53.4 Approach to organ under fluoroscopic control
 232956005,K292,K29.2 Xenograft replacement of valve of heart NEC
 90681004,Y259,Y25.9 Unspecified suture of organ NOC
 736281008,Y534,Y53.4 Approach to organ under fluoroscopic control
@@ -25419,7 +25091,6 @@ snomed,opcs,opcs_term
 119726002,Y263,Y26.3 Stapling of organ NOC
 73921006,H353,H35.3 Posterior fixation of rectum NEC
 120090001,C209,C20.9 Unspecified protective suture of eyelid
-310604000,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 698979008,Z472,Z47.2 Skin of temple
 391131000119106,Y959,Y95.9 Unspecified gestational age
 232501001,V131,V13.1 Reconstruction of bone of face
@@ -25440,7 +25111,6 @@ snomed,opcs,opcs_term
 241042005,Y973,Y97.3 Radiology with post contrast
 65291007,H058,H05.8 Other specified total excision of colon
 173379003,F281,F28.1 Excision of lesion of palate
-440549000,J658,J65.8 Other specified other open operations on pancreas
 66648003,F108,F10.8 Other specified simple extraction of tooth
 765253000,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 764677008,Y539,Y53.9 Unspecified approach to organ under image control
@@ -25482,7 +25152,6 @@ snomed,opcs,opcs_term
 442830000,H267,H26.7 Endoscopic resection of lesion of sigmoid colon using rigid sigmoidoscope NEC
 235145000,G171,G17.1 Endoscopic snare resection of lesion of oesophagus using rigid oesophagoscope
 234653001,F042,F04.2 Reconstruction of lip using skin flap
-700073007,Y958,Y95.8 Other specified gestational age
 119772003,Y255,Y25.5 Other attention to suture of organ NOC
 310394000,E571,E57.1 Repair of lung
 234728009,F168,F16.8 Other specified other operations on tooth
@@ -25492,7 +25161,6 @@ snomed,opcs,opcs_term
 265297009,C882,C88.2 Photodynamic therapy to subretinal lesion
 79518006,Y058,Y05.8 Other specified excision of organ NOC
 307289006,V178,V17.8 Other specified fixation of mandible
-73341009,Y292,Y29.2 Manipulative removal of foreign body from organ NOC
 389059002,E211,E21.1 Pharyngoplasty using posterior pharyngeal implant
 173259008,S179,S17.9 Unspecified distant flap of skin and muscle
 171442008,A012,A01.2 Total lobectomy of brain
@@ -25561,7 +25229,6 @@ snomed,opcs,opcs_term
 287696002,K618,K61.8 Other specified other cardiac pacemaker system
 361257000,M362,M36.2 Ileocystoplasty
 827098001,A398,A39.8 Other specified repair of dura
-112934001,V552,V55.2 Two levels of spine
 287215007,V432,V43.2 Excision of lesion of thoracic vertebra
 2701000087102,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 239532004,V218,V21.8 Other specified other operations on temporomandibular joint
@@ -25598,7 +25265,6 @@ snomed,opcs,opcs_term
 83340003,Y065,Y06.5 Gamma wave excision of lesion of organ NOC
 236906003,X161,X16.1 Excision of Mullerian duct remnant
 171464004,A042,A04.2 Open biopsy of lesion of tissue of temporal lobe of brain
-225231007,X411,X41.1 Insertion of ambulatory peritoneal dialysis catheter
 50887005,K141,K14.1 Open enlargement of defect of atrial septum
 450863009,C329,C32.9 Unspecified recession of muscle of eye
 233011007,K221,K22.1 Excision of lesion of atrium
@@ -25635,12 +25301,10 @@ snomed,opcs,opcs_term
 397800002,C031,C03.1 Insertion of prosthetic replacement for orbit
 233077002,Z943,Z94.3 Left sided operation
 432953000,Y973,Y97.3 Radiology with post contrast
-178686002,V553,V55.3 Greater than two levels of spine
 13666002,A032,A03.2 Stereotactic ablation of tissue of thalamus
 241457008,Y973,Y97.3 Radiology with post contrast
 609234009,Y532,Y53.2 Approach to organ under ultrasonic control
 235343002,H207,H20.7 Fibreoptic endoscopic mucosal resection of lesion of colon
-20504008,H151,H15.1 Loop colostomy
 234734002,F174,F17.4 Adjustment of dental crown on tooth
 265439007,J101,J10.1 Percutaneous transluminal embolisation of hepatic artery
 50518004,C798,C79.8 Other specified operations on vitreous body
@@ -25726,7 +25390,6 @@ snomed,opcs,opcs_term
 234740009,F136,F13.6 Bleaching of teeth
 108150009,Y418,Y41.8 Other specified examination of organ NOC
 108116000,A442,A44.2 Extirpation of lesion of spinal cord NEC
-450640001,Y954,Y95.4 Under 9 weeks gestational age
 235145000,G191,G19.1 Diagnostic endoscopic examination of oesophagus and biopsy of lesion of oesophagus using rigid oesophagoscope
 10768005,Y209,Y20.9 Unspecified biopsy of organ NOC
 233155004,K526,K52.6 Incision of tissue in atria
@@ -25747,7 +25410,6 @@ snomed,opcs,opcs_term
 736531000,C479,C47.9 Unspecified closure of cornea
 450863009,C331,C33.1 Resection of medial rectus muscle of eye NEC
 725868009,Z038,Z03.8 Specified upper cranial nerve NEC
-37120004,V552,V55.2 Two levels of spine
 13666002,A034,A03.4 Stereotactic ablation of tissue of brain stem
 241046008,Y973,Y97.3 Radiology with post contrast
 446938009,C373,C37.3 Biopsy of lesion of muscle of eye
@@ -25835,7 +25497,6 @@ snomed,opcs,opcs_term
 172415009,C464,C46.4 Insertion of prosthesis into cornea
 234742001,F172,F17.2 Creation of impression of tooth for dental crown
 9993006,T179,T17.9 Unspecified other operations on diaphragm
-225230008,X402,X40.2 Peritoneal dialysis NEC
 773411001,Y971,Y97.1 Radiology with pre and post contrast
 252833009,C518,C51.8 Other specified other operations on cornea
 168858007,U217,U21.7 Plain x-ray NEC
@@ -25870,7 +25531,6 @@ snomed,opcs,opcs_term
 241534004,Y971,Y97.1 Radiology with pre and post contrast
 75396001,C402,C40.2 Amniotic graft to conjunctiva
 449879007,Y973,Y97.3 Radiology with post contrast
-387615001,Y959,Y95.9 Unspecified gestational age
 426585001,Y535,Y53.5 Approach to organ under image intensifier
 384643000,K271,K27.1 Allograft replacement of tricuspid valve
 232613003,Y036,Y03.6 Adjustment to prosthesis in organ NOC
@@ -25954,7 +25614,6 @@ snomed,opcs,opcs_term
 1299000,H029,H02.9 Unspecified other excision of appendix
 116218007,Y204,Y20.4 Fine needle aspiration NOC
 432582008,Y532,Y53.2 Approach to organ under ultrasonic control
-310602001,R302,R30.2 Expression of placenta
 60775008,H413,H41.3 Peranal destruction of lesion of rectum
 108116000,A448,A44.8 Other specified partial extirpation of spinal cord
 241534004,U212,U21.2 Computed tomography NEC
@@ -26039,7 +25698,6 @@ snomed,opcs,opcs_term
 233319003,L344,L34.4 Open embolisation of cerebral artery
 72293004,Y139,Y13.9 Unspecified other destruction of lesion of organ NOC
 260643004,V058,V05.8 Other specified other operations on cranium
-440235008,Z351,Z35.1 Anterior cerebral artery
 171946003,B013,B01.3 Trans-septal hypophysectomy
 426580006,C797,C79.7 Removal of internal tamponade agent from vitreous body
 24611008,Y258,Y25.8 Other specified suture of organ NOC
@@ -26081,7 +25739,6 @@ snomed,opcs,opcs_term
 175166003,Y535,Y53.5 Approach to organ under image intensifier
 79121003,G411,G41.1 Open biopsy of lesion of pylorus
 172707007,D152,D15.2 Suction clearance of middle ear
-440235008,Z352,Z35.2 Ophthalmic artery
 4531000087105,Y973,Y97.3 Radiology with post contrast
 265330007,F299,F29.9 Unspecified correction of deformity of palate
 782437002,D021,D02.1 Excision of lesion of external ear
@@ -26260,7 +25917,6 @@ snomed,opcs,opcs_term
 232850000,K196,K19.6 Revision of cardiac conduit NEC
 51265002,E198,E19.8 Other specified excision of pharynx
 401004,J572,J57.2 Left pancreatectomy and drainage of pancreatic duct
-419470007,K578,K57.8 Other specified other therapeutic transluminal operations on heart
 54786002,T132,T13.2 Introduction of sclerosing substance into pleural cavity NEC
 232166001,D081,D08.1 Extirpation of lesion of external auditory canal
 174837009,K042,K04.2 Repair of tetralogy of Fallot using right ventricular outflow conduit NEC
@@ -26619,7 +26275,6 @@ snomed,opcs,opcs_term
 429926006,Y973,Y97.3 Radiology with post contrast
 55506005,K295,K29.5 Repair of valve of heart NEC
 63016009,M349,M34.9 Unspecified total excision of bladder
-703985001,E898,E89.8 Other specified other respiratory support
 235590004,J398,J39.8 Other specified other therapeutic endoscopic operations on ampulla of Vater
 709580008,U211,U21.1 Magnetic resonance imaging NEC
 709020001,J034,J03.4 Thermal ablation of multiple lesions of liver
@@ -26630,7 +26285,6 @@ snomed,opcs,opcs_term
 302612008,S171,S17.1 Distant myocutaneous subcutaneous pedicle flap to head or neck
 55810002,E051,E05.1 Cauterisation of internal nose
 29613008,R214,R21.4 Mid forceps cephalic delivery NEC
-77570000,T093,T09.3 Mechanical open pleurodesis
 87428000,V131,V13.1 Reconstruction of bone of face
 174758008,Y251,Y25.1 Suture of laceration of organ NOC
 445986007,G423,G42.3 Fibreoptic endoscopic mucosal resection of lesion of upper gastrointestinal tract
@@ -26696,7 +26350,6 @@ snomed,opcs,opcs_term
 8773000,Y012,Y01.2 Alloreplacement of organ NOC
 448811007,H278,H27.8 Other specified other therapeutic endoscopic operations on sigmoid colon using rigid sigmoidoscope
 174809002,K024,K02.4 Piggyback transplantation of heart
-238318009,X406,X40.6 Continuous ambulatory peritoneal dialysis
 284021008,U198,U19.8 Other specified diagnostic electrocardiography
 609192001,J572,J57.2 Left pancreatectomy and drainage of pancreatic duct
 14331000087103,Y971,Y97.1 Radiology with pre and post contrast
@@ -26800,7 +26453,6 @@ snomed,opcs,opcs_term
 19621000087108,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 169165009,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 31844009,Y071,Y07.1 Ligation of organ NOC
-420231008,Y228,Y22.8 Other specified drainage of organ NOC
 447979003,H413,H41.3 Peranal destruction of lesion of rectum
 277662000,G182,G18.2 Endoscopic balloon dilation of oesophagus using rigid oesophagoscope
 31797009,Q202,Q20.2 Biopsy of lesion of uterus NEC
@@ -26924,13 +26576,11 @@ snomed,opcs,opcs_term
 57780004,U128,U12.8 Other specified diagnostic imaging of genitourinary system
 175063009,K484,K48.4 Exploration of coronary artery
 11995001,F483,F48.3 Repair of salivary gland NEC
-271415006,Y959,Y95.9 Unspecified gestational age
 419673001,Y971,Y97.1 Radiology with pre and post contrast
 89643001,V191,V19.1 Reconstruction of mandible
 174207007,H261,H26.1 Endoscopic snare resection of lesion of sigmoid colon using rigid sigmoidoscope
 241049001,Y973,Y97.3 Radiology with post contrast
 171510000,A128,A12.8 Other specified creation of connection from ventricle of brain
-225231007,X418,X41.8 Other specified placement of ambulatory apparatus for compensation for renal failure
 432904000,Y971,Y97.1 Radiology with pre and post contrast
 69455007,T169,T16.9 Unspecified other repair of diaphragm
 21291000087102,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
@@ -27064,7 +26714,6 @@ snomed,opcs,opcs_term
 47792009,H281,H28.1 Diagnostic endoscopic examination of sigmoid colon and biopsy of lesion of sigmoid colon using rigid sigmoidoscope
 397238007,Y255,Y25.5 Other attention to suture of organ NOC
 277762005,A544,A54.4 Attention to intrathecal drug delivery device adjacent to spinal cord
-20504008,H153,H15.3 Refashioning of colostomy
 287784004,H339,H33.9 Unspecified excision of rectum
 287993008,G761,G76.1 Open reduction of intussusception of ileum
 85798005,M454,M45.4 Diagnostic endoscopic examination of bladder and biopsy of lesion of prostate using rigid cystoscope
@@ -27094,13 +26743,11 @@ snomed,opcs,opcs_term
 391994008,Q378,Q37.8 Other specified endoscopic reversal of female sterilisation
 57703000,F094,F09.4 Surgical removal of tooth NEC
 23084000,C011,C01.1 Exenteration of orbit
-176929000,Y951,Y95.1 Over 20 weeks gestational age
 448781006,Y532,Y53.2 Approach to organ under ultrasonic control
 303398005,G703,G70.3 Open destruction of lesion of ileum
 34455003,U198,U19.8 Other specified diagnostic electrocardiography
 38805005,Y018,Y01.8 Other specified replacement of organ NOC
 265473002,K261,K26.1 Allograft replacement of aortic valve
-235398007,H179,H17.9 Unspecified intra-abdominal manipulation of colon
 75157003,H413,H41.3 Peranal destruction of lesion of rectum
 387643005,Q075,Q07.5 Subtotal abdominal hysterectomy
 38507005,J209,J20.9 Unspecified repair of gall bladder
@@ -27136,7 +26783,6 @@ snomed,opcs,opcs_term
 60362005,Y251,Y25.1 Suture of laceration of organ NOC
 287291002,K668,K66.8 Other specified other operations on heart
 360411008,Y086,Y08.6 Laser incision of organ NOC
-400950006,C224,C22.4 Injection into eyelid
 6231003,F307,F30.7 Suture of palate
 83340003,Y068,Y06.8 Other specified excision of lesion of organ NOC
 72811008,H154,H15.4 Closure of colostomy
@@ -27188,7 +26834,6 @@ snomed,opcs,opcs_term
 39366009,Y073,Y07.3 Obliteration of sinus track from organ NOC
 58490006,Y035,Y03.5 Conversion to prosthesis in organ NOC
 9372002,Y223,Y22.3 Irrigation of organ NOC
-235398007,H176,H17.6 Open relief of obstruction of colon NEC
 278539009,S251,S25.1 Local fasciocutaneous subcutaneous pedicle flap to head or neck
 172649009,D104,D10.4 Simple mastoidectomy
 235341000,H344,H34.4 Open laser destruction of lesion of rectum
@@ -27343,7 +26988,6 @@ snomed,opcs,opcs_term
 87101000,E462,E46.2 Excision of cyst of bronchus
 107962005,Y429,Y42.9 Unspecified manipulation of organ NOC
 16156002,Y169,Y16.9 Unspecified connection of organ NOC
-473215001,G461,G46.1 Fibreoptic endoscopic endoluminal plication of gastro-oesophageal junction
 673005,E361,E36.1 Diagnostic endoscopic examination of larynx and biopsy of lesion of larynx
 233317001,O281,O28.1 Basilar artery
 2344008,Y258,Y25.8 Other specified suture of organ NOC
@@ -27489,7 +27133,6 @@ snomed,opcs,opcs_term
 1421000087109,Y971,Y97.1 Radiology with pre and post contrast
 2508002,M301,M30.1 Endoscopic retrograde pyelography
 235148003,G791,G79.1 Endoscopic extirpation of lesion of ileum
-420231008,Y221,Y22.1 Aspiration of haematoma of organ NOC
 172266001,C202,C20.2 Central protective suture of eyelid
 303585000,H402,H40.2 Trans-sphincteric excision of lesion of rectum
 119726002,Y265,Y26.5 Other attention to repair of organ NOC
@@ -27571,7 +27214,6 @@ snomed,opcs,opcs_term
 785831002,C468,C46.8 Other specified plastic operations on cornea
 765477009,U372,U37.2 Computed tomography of kidneys
 446922003,Y066,Y06.6 Vacuum excision of lesion of organ NOC
-420231008,Y229,Y22.9 Unspecified drainage of organ NOC
 1010432009,Q319,Q31.9 Unspecified incision of fallopian tube
 709522003,Y971,Y97.1 Radiology with pre and post contrast
 231703002,C418,C41.8 Other specified incision of conjunctiva
@@ -27585,7 +27227,6 @@ snomed,opcs,opcs_term
 178500001,V198,V19.8 Other specified other operations on mandible
 78824001,G234,G23.4 Repair of diaphragmatic hernia using abdominal approach NEC
 288013007,M359,M35.9 Unspecified partial excision of bladder
-10090001,V109,V10.9 Unspecified division of bone of face
 45900003,G022,G02.2 Total oesophagectomy and interposition of microvascularly attached jejunum
 232543008,E231,E23.1 Open excision of lesion of pharynx
 891000087109,Y973,Y97.3 Radiology with post contrast
@@ -27621,7 +27262,6 @@ snomed,opcs,opcs_term
 30374004,Y054,Y05.4 Ex vivo resection of organ NOC
 70018007,B258,B25.8 Other specified other operations on adrenal gland
 445726003,Y766,Y76.6 Endonasal endoscopic approach to other body cavity
-110474005,E873,E87.3 Ambulatory oxygen assessment
 169019008,Z339,Z33.9 Heart NEC
 446440008,A028,A02.8 Other specified excision of lesion of tissue of brain
 19741000087109,Y539,Y53.9 Unspecified approach to organ under image control
@@ -27669,9 +27309,7 @@ snomed,opcs,opcs_term
 26400009,D268,D26.8 Other specified operations on vestibular apparatus
 446070006,Y203,Y20.3 Biopsy of lesion of organ NOC
 172599000,Y131,Y13.1 Cauterisation of lesion of organ NOC
-700073007,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 174010006,G791,G79.1 Endoscopic extirpation of lesion of ileum
-225231007,X428,X42.8 Other specified placement of other apparatus for compensation for renal failure
 44061005,Y511,Y51.1 Approach to organ through oesophagostomy
 21423008,H251,H25.1 Diagnostic endoscopic examination of lower bowel and biopsy of lesion of lower bowel using fibreoptic sigmoidoscope
 169238009,Y973,Y97.3 Radiology with post contrast
@@ -27818,7 +27456,6 @@ snomed,opcs,opcs_term
 450637001,Q272,Q27.2 Open bilateral clipping of fallopian tubes
 431625000,Y971,Y97.1 Radiology with pre and post contrast
 20516002,A478,A47.8 Other specified other destruction of spinal cord
-431612008,Y534,Y53.4 Approach to organ under fluoroscopic control
 425816006,C865,C86.5 Fluorescein angiography of eye
 34585005,Z396,Z39.6 Hepatic vein
 173645007,G151,G15.1 Fibreoptic endoscopic removal of foreign body from oesophagus
@@ -27854,7 +27491,6 @@ snomed,opcs,opcs_term
 15282006,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
 16548901000119104,Z411,Z41.1 Kidney
 241604000,Y973,Y97.3 Radiology with post contrast
-10455003,Q058,Q05.8 Other specified other operations on cervix uteri
 764449007,Z942,Z94.2 Right sided operation
 68306006,Y971,Y97.1 Radiology with pre and post contrast
 359591002,G533,G53.3 Open removal of foreign body from duodenum
@@ -27946,7 +27582,6 @@ snomed,opcs,opcs_term
 2322003,C171,C17.1 Suture of eyelid
 119927004,Y263,Y26.3 Stapling of organ NOC
 287725001,M411,M41.1 Open extirpation of lesion of bladder
-49404006,A608,A60.8 Other specified destruction of peripheral nerve
 233162008,K521,K52.1 Open ablation of atrioventricular node
 234792000,F133,F13.3 Restoration of crown of tooth NEC
 32597005,Y491,Y49.1 Median sternotomy approach
@@ -28044,7 +27679,6 @@ snomed,opcs,opcs_term
 42213007,E085,E08.5 Removal of foreign body from cavity of nose
 46718002,Y171,Y17.1 Electrocauterisation of lesion of organ NOC
 472191000119101,Z359,Z35.9 Cerebral artery NEC
-73341009,Q478,Q47.8 Other specified other open operations on ovary
 431397007,G341,G34.1 Creation of permanent gastrostomy
 70299008,A325,A32.5 Decompression of acoustic nerve (viii)
 75227000,C733,C73.3 Capsulotomy of posterior lens capsule
@@ -28162,7 +27796,6 @@ snomed,opcs,opcs_term
 172884005,E143,E14.3 External ethmoidectomy
 172982005,E248,E24.8 Other specified therapeutic endoscopic operations on pharynx
 386206008,Y949,Y94.9 Unspecified radiopharmaceutical imaging
-446723003,Y763,Y76.3 Endoscopic approach to other body cavity
 48007004,M362,M36.2 Ileocystoplasty
 360789000,M101,M10.1 Endoscopic extirpation of lesion of kidney NEC
 79518006,Y051,Y05.1 Total excision of organ NOC
@@ -28240,7 +27873,6 @@ snomed,opcs,opcs_term
 7664003,D084,D08.4 Incision of external auditory canal
 443681002,W419,W41.9 Unspecified total prosthetic replacement of knee joint not using cement
 2696004,Z393,Z39.3 Portal vein
-110474005,X581,X58.1 Extracorporeal membrane oxygenation
 119773008,K494,K49.4 Percutaneous transluminal cutting balloon angioplasty of coronary artery
 807005,A063,A06.3 Excision of syncipital encephalocele
 3551000087104,Y973,Y97.3 Radiology with post contrast
@@ -28308,7 +27940,6 @@ snomed,opcs,opcs_term
 307822008,Z243,Z24.3 Trachea
 433246009,U178,U17.8 Other specified diagnostic imaging of digestive tract
 231773003,C809,C80.9 Unspecified operations on retinal membrane
-450640001,Y959,Y95.9 Unspecified gestational age
 23979009,T079,T07.9 Unspecified open excision of pleura
 386196007,H129,H12.9 Unspecified extirpation of lesion of colon
 89522007,H092,H09.2 Left hemicolectomy and end to end anastomosis of colon to colon
@@ -28343,7 +27974,6 @@ snomed,opcs,opcs_term
 14869003,G422,G42.2 Fibreoptic endoscopic photodynamic therapy of lesion of upper gastrointestinal tract
 16548901000119104,Y939,Y93.9 Unspecified gallium-67 imaging
 67497009,Q501,Q50.1 Diagnostic endoscopic examination of ovary and biopsy of lesion of ovary
-473216000,Y259,Y25.9 Unspecified suture of organ NOC
 175385008,L331,L33.1 Excision of aneurysm of cerebral artery
 72202003,Y221,Y22.1 Aspiration of haematoma of organ NOC
 173422009,F347,F34.7 Bilateral coblation tonsillectomy
@@ -28355,7 +27985,6 @@ snomed,opcs,opcs_term
 4451000087100,Z652,Z65.2 Temporomandibular joint
 726108003,F441,F44.1 Total excision of parotid gland
 709087001,Y223,Y22.3 Irrigation of organ NOC
-49404006,A604,A60.4 Radiofrequency controlled thermal destruction of peripheral nerve
 763444008,F031,F03.1 Primary closure of cleft lip
 473229000,K574,K57.4 Percutaneous transluminal ablation of accessory pathway
 230891008,A208,A20.8 Other specified other operations on ventricle of brain
@@ -28380,7 +28009,6 @@ snomed,opcs,opcs_term
 174815002,K092,K09.2 Repair of defect of atrioventricular septum using prosthetic patch NEC
 432404005,Y973,Y97.3 Radiology with post contrast
 83152002,Q243,Q24.3 Oophorectomy NEC
-387616000,Y959,Y95.9 Unspecified gestational age
 446650001,G284,G28.4 Sleeve gastrectomy and duodenal switch
 49700001,E091,E09.1 Excision of lesion of external nose
 282370004,F281,F28.1 Excision of lesion of palate
@@ -28554,7 +28182,6 @@ snomed,opcs,opcs_term
 698520001,Z471,Z47.1 Skin of forehead
 173337009,F181,F18.1 Enucleation of dental cyst of jaw
 14690009,Y163,Y16.3 Bypass of organ NOC
-431612008,A521,A52.1 Therapeutic lumbar epidural injection
 49870005,H269,H26.9 Unspecified endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope
 265232001,A553,A55.3 Spinal manometry
 706951006,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
@@ -28682,7 +28309,6 @@ snomed,opcs,opcs_term
 287548008,Y535,Y53.5 Approach to organ under image intensifier
 119838003,Z489,Z48.9 Skin of head NEC
 287847009,J564,J56.4 Subtotal excision of head of pancreas with preservation of duodenum and drainage HFQ
-276921001,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 274352006,H402,H40.2 Trans-sphincteric excision of lesion of rectum
 1299000,H022,H02.2 Planned delayed appendicectomy NEC
 71212008,B258,B25.8 Other specified other operations on adrenal gland
@@ -28709,7 +28335,6 @@ snomed,opcs,opcs_term
 37301005,M642,M64.2 Implantation of artificial urinary sphincter into outlet of male bladder
 65942005,E132,E13.2 Excision of lesion of maxillary antrum
 112898004,M068,M06.8 Other specified incision of kidney
-235398007,G761,G76.1 Open reduction of intussusception of ileum
 265229004,A422,A42.2 Biopsy of lesion of meninges of brain
 43504003,C186,C18.6 Correction of ptosis of eyelid using aponeurosis technique
 46082001,C062,C06.2 Drainage of orbit
@@ -28760,10 +28385,8 @@ snomed,opcs,opcs_term
 254952003,C228,C22.8 Other specified other operations on eyelid
 13490005,E048,E04.8 Other specified operations on turbinate of nose
 80646003,C228,C22.8 Other specified other operations on eyelid
-419470007,Y204,Y20.4 Fine needle aspiration NOC
 119957008,E202,E20.2 Biopsy of adenoid
 175406006,Y534,Y53.4 Approach to organ under fluoroscopic control
-77570000,T091,T09.1 Open destruction of lesion of pleura
 265305009,D109,D10.9 Unspecified exenteration of mastoid air cells
 386206008,Y943,Y94.3 Metaiodobenzylguanidine imaging
 252786001,A846,A84.6 Pattern electroretinography
@@ -28800,7 +28423,6 @@ snomed,opcs,opcs_term
 171693007,A381,A38.1 Extirpation of lesion of meninges of cortex of brain
 36239005,C129,C12.9 Unspecified extirpation of lesion of eyelid
 288013007,M349,M34.9 Unspecified total excision of bladder
-450640001,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
 448189002,O058,O05.8 Other specified operations on dural arteriovenous fistula
 431852008,U208,U20.8 Other specified diagnostic Echocardiography
 116231002,J729,J72.9 Unspecified other operations on spleen
@@ -28809,8 +28431,6 @@ snomed,opcs,opcs_term
 287717003,M421,M42.1 Endoscopic resection of lesion of bladder
 230841009,A061,A06.1 Excision of basal encephalocele
 241333009,Y943,Y94.3 Metaiodobenzylguanidine imaging
-387616000,Y953,Y95.3 From 9 weeks to < 14 weeks gestational age
-446723003,Y408,Y40.8 Other specified dilation of organ NOC
 446571001,Y461,Y46.1 Trans-sphenoidal open approach to contents of cranium
 360377004,G352,G35.2 Closure of ulcer of stomach NEC
 171728001,A441,A44.1 Chordectomy of spinal cord
@@ -29056,7 +28676,6 @@ snomed,opcs,opcs_term
 195487005,C121,C12.1 Excision of lesion of eyelid NEC
 22768003,Y252,Y25.2 Resuture of organ NOC
 241534004,Z266,Z26.6 Submandibular duct
-238323009,X402,X40.2 Peritoneal dialysis NEC
 783282005,Z489,Z48.9 Skin of head NEC
 30670000,K452,K45.2 Double anastomosis of thoracic arteries to coronary arteries NEC
 1645004,J389,J38.9 Unspecified endoscopic incision of sphincter of Oddi
@@ -29069,7 +28688,6 @@ snomed,opcs,opcs_term
 713830006,Y134,Y13.4 Radiofrequency controlled thermal destruction of lesion of organ NOC
 40234006,G285,G28.5 Sleeve gastrectomy NEC
 119711004,Y262,Y26.2 Plastic repair of organ NOC
-71192002,X411,X41.1 Insertion of ambulatory peritoneal dialysis catheter
 107944001,H069,H06.9 Unspecified extended excision of right hemicolon
 3130004,U192,U19.2 24 hour ambulatory electrocardiography
 418592002,Y971,Y97.1 Radiology with pre and post contrast
@@ -29147,7 +28765,6 @@ snomed,opcs,opcs_term
 44089008,H442,H44.2 Manual reduction of prolapse of rectum
 706951006,Y931,Y93.1 Gallium-67 imaging scan
 309876004,Q031,Q03.1 Knife cone biopsy of cervix uteri
-77570000,Y299,Y29.9 Unspecified removal of foreign body from organ NOC
 38375002,E173,E17.3 Biopsy of lesion of nasal sinus NEC
 233183002,K595,K59.5 Removal of cardioverter defibrillator
 90410003,G289,G28.9 Unspecified partial excision of stomach
@@ -29292,7 +28909,6 @@ snomed,opcs,opcs_term
 26262000,Y532,Y53.2 Approach to organ under ultrasonic control
 281002001,F061,F06.1 Division of adhesions of lip
 9102008,Y744,Y74.4 Thoracoscopic video-assisted approach to thoracic cavity
-77570000,T092,T09.2 Open biopsy of lesion of pleura
 13580001000004101,J035,J03.5 Excision of multiple lesions of liver
 173656007,G179,G17.9 Unspecified endoscopic extirpation of lesion of oesophagus using rigid oesophagoscope
 32597005,Y493,Y49.3 Thoracotomy approach NEC
@@ -29436,7 +29052,6 @@ snomed,opcs,opcs_term
 75601006,A208,A20.8 Other specified other operations on ventricle of brain
 53736000,E318,E31.8 Other specified reconstruction of larynx
 17537007,Y052,Y05.2 Partial excision of organ NOC
-112934001,V501,V50.1 Manipulation of spine using traction
 230842002,A046,A04.6 Open biopsy of lesion of tissue of brain stem
 47242009,Y063,Y06.3 Enucleation of lesion of organ NOC
 230933005,Y539,Y53.9 Unspecified approach to organ under image control
@@ -29812,7 +29427,6 @@ snomed,opcs,opcs_term
 52917009,G234,G23.4 Repair of diaphragmatic hernia using abdominal approach NEC
 173734000,G303,G30.3 Partitioning of stomach using band
 443232007,Y952,Y95.2 From 14 weeks to 20 weeks gestational age
-473215001,Y252,Y25.2 Resuture of organ NOC
 119782002,L671,L67.1 Biopsy of artery NEC
 446731008,Y509,Y50.9 Unspecified approach through abdominal cavity
 45102007,Y261,Y26.1 Reconstruction of organ NOC
@@ -29828,9 +29442,7 @@ snomed,opcs,opcs_term
 6704000,G238,G23.8 Other specified repair of diaphragmatic hernia
 88450001,L713,L71.3 Percutaneous transluminal embolisation of artery
 765043005,Y535,Y53.5 Approach to organ under image intensifier
-88362001,Y954,Y95.4 Under 9 weeks gestational age
 386786006,G152,G15.2 Fibreoptic endoscopic balloon dilation of oesophagus
-225231007,X412,X41.2 Removal of ambulatory peritoneal dialysis catheter
 1186731003,E856,E85.6 Continuous positive airway pressure
 278540006,S203,S20.3 Random pattern distant flap of skin to head or neck
 119838003,S108,S10.8 Other specified other destruction of lesion of skin of head or neck
@@ -30060,7 +29672,6 @@ snomed,opcs,opcs_term
 36384005,Q013,Q01.3 Excision of lesion of cervix uteri
 116141005,Q074,Q07.4 Total abdominal hysterectomy NEC
 234798001,F131,F13.1 Full restoration of crown of tooth
-233585000,X404,X40.4 Haemofiltration
 241473002,Y971,Y97.1 Radiology with pre and post contrast
 47242009,Y065,Y06.5 Gamma wave excision of lesion of organ NOC
 234325009,Y253,Y25.3 Removal of retained suture from organ NOC
@@ -30086,7 +29697,6 @@ snomed,opcs,opcs_term
 119713001,E213,E21.3 Pharyngoplasty using lateral pharyngeal flap
 233085006,Y088,Y08.8 Other specified laser therapy to organ NOC
 88722002,K608,K60.8 Other specified cardiac pacemaker system introduced through vein
-773819005,X104,X10.4 Amputation through metatarsal bones
 1162557005,E309,E30.9 Unspecified open extirpation of lesion of larynx
 52621004,M108,M10.8 Other specified other therapeutic endoscopic operations on kidney
 234917000,Y704,Y70.4 Primary operations NOC
@@ -30103,7 +29713,6 @@ snomed,opcs,opcs_term
 85472003,T372,T37.2 Destruction of lesion of mesentery of small intestine
 448168006,Z226,Z22.6 Nasopharynx
 75601006,A168,A16.8 Other specified other open operations on ventricle of brain
-225230008,X421,X42.1 Insertion of temporary peritoneal dialysis catheter
 175905003,M022,M02.2 Nephroureterectomy NEC
 43668008,Y053,Y05.3 Excision of sinus track from organ NOC
 44337006,J218,J21.8 Other specified incision of gall bladder
@@ -30124,7 +29733,6 @@ snomed,opcs,opcs_term
 230833009,A391,A39.1 Repair of meningoencephalocele
 172166005,C058,C05.8 Other specified plastic repair of orbit
 442912006,Y717,Y71.7 Third or greater revisional operation NOC
-310602001,Q113,Q11.3 Evacuation of products of conception from uterus NEC
 703073006,K602,K60.2 Resiting of lead of intravenous cardiac pacemaker system
 35086006,K103,K10.3 Repair of defect of interatrial septum using tissue graft NEC
 238833008,C173,C17.3 Recession of lower eyelid HFQ

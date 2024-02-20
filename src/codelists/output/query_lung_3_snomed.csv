@@ -21,7 +21,6 @@ conceptId,idAndFsnTerm
 450348001,450348001 | Biopsy of lesion of lung (procedure) |
 448538005,448538005 | Harvesting of lobe of lung from donor (procedure) |
 448523009,448523009 | Endoscopic ultrasonography of lung (procedure) |
-448134000,448134000 | Continuous positive airway pressure to nonventilated lung (regime/therapy) |
 443396005,443396005 | Pneumonostomy with open drainage of abscess of lung using computed tomography guidance (procedure) |
 442303003,442303003 | Deflation of lung (procedure) |
 442226007,442226007 | Partial reinflation of lung (procedure) |
@@ -92,7 +91,6 @@ conceptId,idAndFsnTerm
 232632009,232632009 | Wedge excision of lung (procedure) |
 232631002,232631002 | Enucleation of lung lesion (procedure) |
 232628003,232628003 | Open biopsy of lung (procedure) |
-177784006,177784006 | Decortication of lung (procedure) |
 173191000,173191000 | Aspiration biopsy of lesion of lung (procedure) |
 173190004,173190004 | Needle biopsy of lesion of lung (procedure) |
 173185002,173185002 | Deflation of bulla of lung (procedure) |
@@ -130,8 +128,6 @@ conceptId,idAndFsnTerm
 57113004,57113004 | Pulmonary ventilation study (procedure) |
 49795001,49795001 | Total pneumonectomy (procedure) |
 49528005,49528005 | Local destruction of lesion of lung (procedure) |
-49404006,49404006 | Surgical collapse of lung by destruction of phrenic nerve (procedure) |
-47806007,47806007 | Bronchoscopy with drainage of lung abscess (procedure) |
 46412002,46412002 | Apicectomy lung (procedure) |
 45558009,45558009 | Incision of lung (procedure) |
 43831007,43831007 | Percutaneous core needle biopsy of lung (procedure) |

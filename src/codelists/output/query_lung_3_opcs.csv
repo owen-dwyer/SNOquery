@@ -35,7 +35,6 @@ snomed,opcs,opcs_term
 88039007,K012,K01.2 Revision of transplantation of heart and lung
 169021003,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 90249002,E598,E59.8 Other specified other operations on lung
-177784006,T071,T07.1 Decortication of pleura
 232632009,E548,E54.8 Other specified excision of lung
 450608000,E482,E48.2 Fibreoptic endoscopic laser destruction of lesion of lower respiratory tract
 82651004,Y258,Y25.8 Other specified suture of organ NOC
@@ -51,7 +50,6 @@ snomed,opcs,opcs_term
 736974006,E543,E54.3 Lobectomy of lung
 241304008,Y931,Y93.1 Gallium-67 imaging scan
 261566003,L128,L12.8 Other specified other open operations on pulmonary artery
-47806007,Y229,Y22.9 Unspecified drainage of organ NOC
 241297009,U152,U15.2 Lung ventilation scanning NEC
 726426008,E543,E54.3 Lobectomy of lung
 169057008,Z246,Z24.6 Lung
@@ -122,7 +120,6 @@ snomed,opcs,opcs_term
 57113004,U152,U15.2 Lung ventilation scanning NEC
 287465001,Y533,Y53.3 Approach to organ under computed tomography scan control
 82651004,E571,E57.1 Repair of lung
-47806007,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
 232647000,E541,E54.1 Total pneumonectomy
 708812005,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 241540006,Z941,Z94.1 Bilateral operation
@@ -133,7 +130,6 @@ snomed,opcs,opcs_term
 169115000,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 173176002,E554,E55.4 Open destruction of lesion of lung NEC
 241303002,Y949,Y94.9 Unspecified radiopharmaceutical imaging
-49404006,A605,A60.5 Injection of destructive substance into peripheral nerve
 20142006,E548,E54.8 Other specified excision of lung
 49528005,E551,E55.1 Open decortication of lesion of lung
 173172000,E544,E54.4 Excision of segment of lung
@@ -198,7 +194,6 @@ snomed,opcs,opcs_term
 241540006,U212,U21.2 Computed tomography NEC
 450608000,E554,E55.4 Open destruction of lesion of lung NEC
 440466000,Y939,Y93.9 Unspecified gallium-67 imaging
-47806007,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 241293008,Y941,Y94.1 Dopamine transporter scan
 870380006,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 441624004,Z246,Z24.6 Lung
@@ -224,12 +219,10 @@ snomed,opcs,opcs_term
 440466000,Y942,Y94.2 Octreotide imaging
 169057008,Y973,Y97.3 Radiology with post contrast
 173176002,E552,E55.2 Open excision of lesion of lung
-49404006,Z128,Z12.8 Specified nerve NEC
 232638008,Z943,Z94.3 Left sided operation
 359618004,E544,E54.4 Excision of segment of lung
 35295005,E591,E59.1 Needle biopsy of lesion of lung
 241542003,Z246,Z24.6 Lung
-49404006,A601,A60.1 Enucleation of peripheral nerve
 735015005,Z943,Z94.3 Left sided operation
 82651004,Y259,Y25.9 Unspecified suture of organ NOC
 232638008,E544,E54.4 Excision of segment of lung
@@ -256,7 +249,6 @@ snomed,opcs,opcs_term
 450873006,E598,E59.8 Other specified other operations on lung
 432231006,Y204,Y20.4 Fine needle aspiration NOC
 169021003,Z246,Z24.6 Lung
-49404006,A602,A60.2 Avulsion of peripheral nerve
 78603008,E593,E59.3 Biopsy of lesion of lung NEC
 708812005,Y539,Y53.9 Unspecified approach to organ under image control
 765041007,Y534,Y53.4 Approach to organ under fluoroscopic control
@@ -268,7 +260,6 @@ snomed,opcs,opcs_term
 119746007,E543,E54.3 Lobectomy of lung
 241303002,Y943,Y94.3 Metaiodobenzylguanidine imaging
 57113004,Y939,Y93.9 Unspecified gallium-67 imaging
-49404006,A609,A60.9 Unspecified destruction of peripheral nerve
 359615001,E545,E54.5 Partial lobectomy of lung NEC
 287309009,Y498,Y49.8 Other specified approach through thoracic cavity
 829831000000100,Y533,Y53.3 Approach to organ under computed tomography scan control
@@ -341,7 +332,6 @@ snomed,opcs,opcs_term
 441677009,U159,U15.9 Unspecified diagnostic imaging of respiratory system
 12986006,E552,E55.2 Open excision of lesion of lung
 441677009,Z246,Z24.6 Lung
-49404006,A606,A60.6 Selective denervation of peripheral nerve
 232644007,E441,E44.1 Excision of carina
 431430006,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 448523009,Y764,Y76.4 Endoscopic ultrasonic approach to other body cavity
@@ -366,7 +356,6 @@ snomed,opcs,opcs_term
 35295005,Y534,Y53.4 Approach to organ under fluoroscopic control
 287465001,Y536,Y53.6 Approach to organ under video control
 43831007,Y539,Y53.9 Unspecified approach to organ under image control
-49404006,A603,A60.3 Transection of peripheral nerve
 337877003,E552,E55.2 Open excision of lesion of lung
 241303002,Y942,Y94.2 Octreotide imaging
 431430006,U158,U15.8 Other specified diagnostic imaging of respiratory system
@@ -417,7 +406,6 @@ snomed,opcs,opcs_term
 241293008,Z246,Z24.6 Lung
 708812005,Y534,Y53.4 Approach to organ under fluoroscopic control
 765041007,L133,L13.3 Arteriography of pulmonary artery
-448134000,E856,E85.6 Continuous positive airway pressure
 241302007,U152,U15.2 Lung ventilation scanning NEC
 765041007,Y538,Y53.8 Other specified approach to organ under image control
 232632009,Y052,Y05.2 Partial excision of organ NOC
@@ -436,10 +424,8 @@ snomed,opcs,opcs_term
 62843007,Y429,Y42.9 Unspecified manipulation of organ NOC
 119755005,E573,E57.3 Deflation of bulla of lung
 387747000,E598,E59.8 Other specified other operations on lung
-49404006,A608,A60.8 Other specified destruction of peripheral nerve
 78603008,E592,E59.2 Aspiration biopsy of lesion of lung
 441624004,Y938,Y93.8 Other specified gallium-67 imaging
-49404006,A604,A60.4 Radiofrequency controlled thermal destruction of peripheral nerve
 173185002,E573,E57.3 Deflation of bulla of lung
 765042000,L133,L13.3 Arteriography of pulmonary artery
 440466000,U214,U21.4 Single photon emission computed tomography NEC

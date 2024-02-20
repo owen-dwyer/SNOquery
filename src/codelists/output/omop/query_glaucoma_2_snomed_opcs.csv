@@ -1,0 +1,205 @@
+,concept_code_y,concept_name_y,opcs
+17,C81.1,Xenon photocoagulation of retina for detachment,C811
+71,C57.3,Graft to sclera,C573
+368,C01.8,Other specified excision of eye,C018
+369,C01.9,Unspecified excision of eye,C019
+371,C01,Excision of eye,C01
+418,C47.8,Other specified closure of cornea,C478
+419,C47.9,Unspecified closure of cornea,C479
+420,C47,Closure of cornea,C47
+606,C71.8,Other specified extracapsular extraction of lens,C718
+607,C71.9,Unspecified extracapsular extraction of lens,C719
+608,C71,Extracapsular extraction of lens,C71
+700,C66.1,Excision of ciliary body,C661
+727,C39.8,Other specified extirpation of lesion of conjunctiva,C398
+728,C39.9,Unspecified extirpation of lesion of conjunctiva,C399
+729,C39,Extirpation of lesion of conjunctiva,C39
+856,C46.1,Refractive keratoplasty,C461
+885,C01.2,Enucleation of eye,C012
+895,C39.3,Cryotherapy to lesion of conjunctiva,C393
+907,C39.4,Curettage of lesion of conjunctiva,C394
+916,C39.5,Radiotherapy to lesion of conjunctiva,C395
+924,C40.1,Mucosal graft to conjunctiva,C401
+932,C40.2,Amniotic graft to conjunctiva,C402
+941,C40.3,Sliding graft to conjunctiva,C403
+952,C43.2,Biopsy of lesion of conjunctiva,C432
+963,C43.5,Exploration of conjunctiva,C435
+975,C43.6,Creation of hood of conjunctiva,C436
+989,C45.1,Superficial keratectomy,C451
+1006,C45.3,Cauterisation of lesion of cornea,C453
+1018,C45.5,Radiotherapy to lesion of cornea,C455
+1028,C45.7,Debridement of lesion of cornea,C457
+1044,C44.8,Other specified other plastic operations on cornea,C448
+1045,C44.9,Unspecified other plastic operations on cornea,C449
+1046,C44,Other plastic operations on cornea,C44
+1047,C46,Plastic operations on cornea,C46
+1055,C49.1,Section of cornea,C491
+1066,C49.2,Trephine of cornea,C492
+1076,C51.1,Biopsy of lesion of cornea,C511
+1085,C51.3,Exploration of cornea,C513
+1095,C53.1,Punch resection of sclera,C531
+1105,C53.3,Cauterisation of lesion of sclera,C533
+1118,C54.1,Overlay scleroplasty,C541
+1128,C54.2,Imbrication of sclera,C542
+1163,C55.8,Other specified incision of sclera,C558
+1164,C55.9,Unspecified incision of sclera,C559
+1165,C60.2,Inclusion of iris,C602
+1166,C55,Incision of sclera,C55
+1176,C57.1,Biopsy of lesion of sclera,C571
+1189,C57.4,Suture of sclera,C574
+1199,C60.3,Fixation of iris,C603
+1215,C61.1,Laser trabeculoplasty,C611
+1225,C64.4,Biopsy of lesion of iris,C644
+1237,C64.6,Stretching of iris,C646
+1266,C66.5,Destruction of ciliary body NEC,C665
+1267,C66.8,Other specified extirpation of ciliary body,C668
+1268,C66.9,Unspecified extirpation of ciliary body,C669
+1269,C66,Extirpation of ciliary body,C66
+1278,C66.2,Cauterisation of ciliary body,C662
+1287,C69.1,Reformation of anterior chamber of eye,C691
+1312,C72.8,Other specified intracapsular extraction of lens,C728
+1313,C72.9,Unspecified intracapsular extraction of lens,C729
+1314,C72,Intracapsular extraction of lens,C72
+1328,C72.1,Forceps extraction of lens,C721
+1342,C72.3,Cryoextraction of lens,C723
+1353,C73.2,Capsulotomy of anterior lens capsule,C732
+1363,C73.3,Capsulotomy of posterior lens capsule,C733
+1386,C74.3,Mechanical lensectomy,C743
+1399,C75.2,Revision of prosthetic replacement for lens,C752
+1409,C77.3,Biopsy of lesion of lens,C773
+1438,C79.1,Vitrectomy using anterior approach,C791
+1448,C82.2,Cryotherapy to lesion of retina,C822
+1457,C84.1,Epiretinal dissection,C841
+1472,C84.2,Excision of lesion of retina NEC,C842
+1482,C84.3,Biopsy of lesion of retina,C843
+1517,C54.3,Buckling of sclera and implant HFQ,C543
+1559,C52.8,Other specified excision of sclera,C528
+1560,C52.9,Unspecified excision of sclera,C529
+1561,C52,Excision of sclera,C52
+1778,C59.1,Iridocyclectomy,C591
+2215,C62.4,Correction iridodialysis NEC,C624
+2449,C81.8,Other specified photocoagulation of retina for detachment,C818
+2450,C81.9,Unspecified photocoagulation of retina for detachment,C819
+2529,C80.6,Removal of subretinal membrane NEC,C806
+2541,C84.6,Retinotomy NEC,C846
+3063,C45.6,Destruction of lesion of cornea NEC,C456
+3064,C45,Extirpation of lesion of cornea,C45
+3109,C59.2,Surgical iridectomy,C592
+3126,C61.3,Goniotomy,C613
+3140,C61.4,Goniopuncture,C614
+3151,C62.2,Surgical iridotomy,C622
+3160,C71.1,Simple linear extraction of lens,C711
+3172,C82.1,Cauterisation of lesion of retina,C821
+3208,C54.5,Buckling of sclera NEC,C545
+3209,C54.8,Other specified buckling operations for attachment of retina,C548
+3210,C54.9,Unspecified buckling operations for attachment of retina,C549
+3211,C54,Buckling operations for attachment of retina,C54
+3446,C44.3,Endothelial graft to cornea,C443
+3497,C60.4,Iridoplasty NEC,C604
+3760,C54.4,Buckling of sclera and local or encircling explant HFQ,C544
+3786,C80.3,Delamination of epiretinal fibrovascular membrane,C803
+3802,C80.4,Segmentation of epiretinal fibrovascular membrane,C804
+3845,C69.2,Paracentesis of anterior chamber of eye,C692
+3935,C44.2,Laser in situ keratomileusis,C442
+4255,C82.8,Other specified destruction of lesion of retina,C828
+4256,C82.9,Unspecified destruction of lesion of retina,C829
+4257,C82,Destruction of lesion of retina,C82
+4268,C66.4,Laser photocoagulation of ciliary body,C664
+4542,C59.8,Other specified excision of iris,C598
+4543,C59.9,Unspecified excision of iris,C599
+4544,C59,Excision of iris,C59
+4566,C72.2,Suction extraction of lens,C722
+4592,C62.3,Laser iridotomy,C623
+4673,C01.3,Evisceration of eye,C013
+4711,C86.3,Suture of eye NEC,C863
+4841,C62.8,Other specified incision of iris,C628
+4842,C62.9,Unspecified incision of iris,C629
+4843,C62,Incision of iris,C62
+5072,C39.1,Excision of lesion of conjunctiva,C391
+5185,C44.4,Photorefractive keratectomy,C444
+5292,C46.7,Transplant of corneal limbal cells,C467
+5469,C82.6,Laser photocoagulation to lesion of retina NEC,C826
+5980,C44.5,Laser subepithelial keratomileusis,C445
+6315,C46.5,Deep lamellar graft to cornea,C465
+6430,C46.3,Penetrating graft to cornea,C463
+6624,C88.8,Other specified destruction of subretinal lesion,C888
+6625,C88.9,Unspecified destruction of subretinal lesion,C889
+6626,C88,Destruction of subretinal lesion,C88
+6657,C83.8,Other specified translocation of retina,C838
+6658,C83.9,Unspecified translocation of retina,C839
+6660,C83,Translocation of retina,C83
+6671,C87.4,Ultrasonic evaluation of retina,C874
+6686,C47.4,Gluing of cornea,C474
+6696,C52.2,Deep sclerectomy without spacer,C522
+6711,C79.5,Internal tamponade of retina using gas,C795
+6728,C82.3,External beam radiotherapy to lesion of retina,C823
+6760,C43.7,Transplantation of conjunctiva,C437
+6772,C52.1,Deep sclerectomy with spacer,C521
+6782,C83.3,Limited macular translocation,C833
+6808,C85.5,Retinopexy NEC,C855
+6809,C85.8,Other specified fixation of retina,C858
+6810,C85.9,Unspecified fixation of retina,C859
+6813,C85,Fixation of retina,C85
+6842,C79.6,Internal tamponade of retina using liquid,C796
+6864,C87.8,Other specified evaluation of retina,C878
+6865,C87.9,Unspecified evaluation of retina,C879
+6868,C87,Evaluation of retina,C87
+6891,C85.3,Retinopexy using mechanical tacks,C853
+6906,C85.1,Retinopexy using cryotherapy,C851
+6922,C65.2,Injection of bleb,C652
+6934,C85.4,Retinopexy using tissue adhesive,C854
+6947,C88.2,Photodynamic therapy to subretinal lesion,C882
+6959,C83.1,Pigment epithelium translocation of retina,C831
+6982,C84.4,Retinal vascular sheathotomy,C844
+7024,C53.4,Destruction of lesion of sclera NEC,C534
+7025,C53,Extirpation of lesion of sclera,C53
+7156,C64.1,Excision of prolapsed iris,C641
+7385,C86.1,Biopsy of lesion of eye NEC,C861
+7698,C64.2,Excision of lesion of iris,C642
+7766,C69.4,Irrigation of anterior chamber of eye,C694
+7868,C49.3,Radial keratotomy,C493
+7898,C55.2,Corneoscleral trephine,C552
+8253,C86.2,Repair of globe,C862
+8285,C39.2,Cauterisation of lesion of conjunctiva,C392
+8342,C53.2,Excision of lesion of sclera NEC,C532
+8343,C53.8,Other specified extirpation of lesion of sclera,C538
+8344,C53.9,Unspecified extirpation of lesion of sclera,C539
+8431,C47.1,Suture of cornea,C471
+8455,C49.8,Other specified incision of cornea,C498
+8456,C49.9,Unspecified incision of cornea,C499
+8457,C49,Incision of cornea,C49
+8483,C73.1,Membranectomy of lens,C731
+8484,C77.1,Capsulectomy,C771
+8507,C41.1,Peritomy,C411
+8574,C71.3,Aspiration of lens,C713
+8652,A84.5,Electroretinography NEC,A845
+8867,C85.2,Retinopexy using diathermy,C852
+8941,C66.3,Cryotherapy to ciliary body,C663
+9063,C57.2,Repair of sclera,C572
+9090,C41.8,Other specified incision of conjunctiva,C418
+9091,C41.9,Unspecified incision of conjunctiva,C419
+9092,C41,Incision of conjunctiva,C41
+9141,C64.3,Destruction of lesion of iris,C643
+9151,C73,Incision of capsule of lens,C73
+9200,C74.8,Other specified other extraction of lens,C748
+9201,C74.9,Unspecified other extraction of lens,C749
+9202,C74,Other extraction of lens,C74
+9273,C45.2,Excision of lesion of cornea NEC,C452
+9274,C45.8,Other specified extirpation of lesion of cornea,C458
+9275,C45.9,Unspecified extirpation of lesion of cornea,C459
+9392,C40.8,Other specified repair of conjunctiva,C408
+9393,C40.9,Unspecified repair of conjunctiva,C409
+9394,C40,Repair of conjunctiva,C40
+9604,C81,Photocoagulation of retina for detachment,C81
+9660,C25.2,Conjunctivodacryocystorhinostomy,C252
+9807,C40.5,Suture of conjunctiva,C405
+9821,C61.2,Trabeculotomy,C612
+9887,C46.2,Lamellar graft to cornea NEC,C462
+10000,C81.2,Laser photocoagulation of retina for detachment,C812
+10063,C73.4,Capsulotomy of lens NEC,C734
+10064,C73.8,Other specified incision of capsule of lens,C738
+10065,C73.9,Unspecified incision of capsule of lens,C739
+10142,C79.2,Vitrectomy using pars plana approach,C792
+10187,C62.1,Iridosclerotomy,C621
+10228,C67.1,Separation of ciliary body,C671
+10365,C65.3,Revision of bleb NEC,C653

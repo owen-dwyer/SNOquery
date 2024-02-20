@@ -117,7 +117,6 @@ snomed,opcs,opcs_term
 32578005,H039,H03.9 Unspecified other operations on appendix
 54080001,Q522,Q52.2 Destruction of lesion of broad ligament of uterus
 708680006,Y534,Y53.4 Approach to organ under fluoroscopic control
-287853009,T413,T41.3 Freeing of adhesions of peritoneum
 35083003,T374,T37.4 Repair of mesentery of small intestine
 87102007,Y059,Y05.9 Unspecified excision of organ NOC
 250073009,Y254,Y25.4 Removal of other suture from organ NOC
@@ -569,7 +568,6 @@ snomed,opcs,opcs_term
 71192002,X411,X41.1 Insertion of ambulatory peritoneal dialysis catheter
 68141001,T371,T37.1 Excision of lesion of mesentery of small intestine
 116233004,Q528,Q52.8 Other specified operations on broad ligament of uterus
-81130000,Q528,Q52.8 Other specified operations on broad ligament of uterus
 33989004,Y048,Y04.8 Other specified replantation of organ NOC
 66513002,T364,T36.4 Biopsy of lesion of omentum
 66513002,T361,T36.1 Omentectomy

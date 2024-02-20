@@ -434,7 +434,6 @@ conceptId,idAndFsnTerm
 1237579002,1237579002 | Excision of spleen using robotic assistance (procedure) |
 1237138006,1237138006 | Dental photography (procedure) |
 1237112006,1237112006 | Excision of neoplasm of parotid gland following previous partial parotidectomy (procedure) |
-1236985008,1236985008 | Injection of botulinum toxin into vocalis muscle using electromyography guidance (procedure) |
 1236983001,1236983001 | Repair of choanal atresia (procedure) |
 1236959009,1236959009 | Excision of cyst of liver (procedure) |
 1236933006,1236933006 | Restoration of deciduous tooth using Hall technique with prefabricated stainless steel dental crown (procedure) |
@@ -626,8 +625,6 @@ conceptId,idAndFsnTerm
 880071007,880071007 | Thermal pulsation treatment of meibomian gland (procedure) |
 880069007,880069007 | Diamond burr superficial keratectomy (procedure) |
 879785009,879785009 | Mechanical dilation of pupil (procedure) |
-879781000,879781000 | Telehealth monitoring for ischemic heart disease (regime/therapy) |
-879780004,879780004 | Telehealth monitoring for chronic heart failure (regime/therapy) |
 876852007,876852007 | Phonosurgery (procedure) |
 870627004,870627004 | Migraine therapy caloric vestibular stimulation (procedure) |
 870574002,870574002 | Adaptive-rate cardiac pacing (procedure) |
@@ -695,8 +692,6 @@ conceptId,idAndFsnTerm
 782437002,782437002 | Deroofing of pseudocyst of pinna of ear (procedure) |
 781528003,781528003 | Magnetic resonance imaging of left external auditory meatus with contrast (procedure) |
 781527008,781527008 | Magnetic resonance imaging of right external auditory meatus with contrast (procedure) |
-773821000,773821000 | Amputation of left forefoot (procedure) |
-773819005,773819005 | Amputation of right forefoot (procedure) |
 773411001,773411001 | Fluoroscopic cisternography with contrast (procedure) |
 773410000,773410000 | Computed tomography of cisterna magna (procedure) |
 773409005,773409005 | Radiographic imaging of cisterna magna with contrast (procedure) |
@@ -897,7 +892,6 @@ conceptId,idAndFsnTerm
 726096009,726096009 | Imaging of small intestine (procedure) |
 726016005,726016005 | External drainage of ventricle of brain using fluoroscopic guidance (procedure) |
 726011000,726011000 | Placement of stent in coronary artery bypass graft (procedure) |
-725959008,725959008 | Insertion of prostatic urethral lift by transurethral cystoscopic approach using prostatic retraction implant (procedure) |
 725868009,725868009 | Transcutaneous electrical stimulation of supraorbital nerve (regime/therapy) |
 725466004,725466004 | Irreversible electroporation ablation of neoplasm of pancreas (procedure) |
 724218001,724218001 | X-ray tomography of left lower limb (procedure) |
@@ -1021,7 +1015,6 @@ conceptId,idAndFsnTerm
 710165007,710165007 | Ultrasonography of fetal head (procedure) |
 709981002,709981002 | Coronary artery atherectomy using fluoroscopic guidance with contrast (procedure) |
 709980001,709980001 | Procedure on fallopian tube using fluoroscopic guidance (procedure) |
-709787009,709787009 | Thoracentesis using computed tomography guidance (procedure) |
 709699007,709699007 | Computed tomography of tooth (procedure) |
 709690006,709690006 | Drainage of urinary bladder using fluoroscopic guidance (procedure) |
 709665009,709665009 | Computed tomography of stomach (procedure) |
@@ -1100,7 +1093,6 @@ conceptId,idAndFsnTerm
 704131005,704131005 | Allograft of skin to skin of head (procedure) |
 704115002,704115002 | Revision of cardiac pacemaker electrode using fluoroscopic guidance (procedure) |
 704053009,704053009 | Closed rhinoplasty (procedure) |
-703985001,703985001 | Chest thrust (procedure) |
 703984002,703984002 | Monophasic cardioversion procedure (procedure) |
 703698008,703698008 | Transcervical sterilization (procedure) |
 703099004,703099004 | Tracheal stent procedure using fluoroscopic guidance (procedure) |
@@ -1129,9 +1121,7 @@ conceptId,idAndFsnTerm
 700373001,700373001 | Repair of hole of macula lutea (procedure) |
 700246004,700246004 | Computed tomography of temporal bone with contrast (procedure) |
 700196009,700196009 | Extracorporeal resection of liver (procedure) |
-700073007,700073007 | Aspiration of ectopic pregnancy from cornu of fallopian tube (procedure) |
 700070005,700070005 | Optical coherence tomography of retina (procedure) |
-699796007,699796007 | Creation of cystoperitoneal shunt (procedure) |
 699736009,699736009 | Orthotopic repair of urinary bladder (procedure) |
 699730003,699730003 | Encephalo-duro-arterio-myo-synangiosis (procedure) |
 699729008,699729008 | Encephalo-duro-arterio-synangiosis (procedure) |
@@ -1150,7 +1140,6 @@ conceptId,idAndFsnTerm
 698981005,698981005 | Local flap of skin to head (procedure) |
 698979008,698979008 | Local fasciocutaneous flap to head (procedure) |
 698977005,698977005 | Local myocutaneous flap to head (procedure) |
-698973009,698973009 | Creation of programmable cystoperitoneal shunt of brain (procedure) |
 698959000,698959000 | Endoscopic control of small intestine bleeding by clipping (procedure) |
 698878001,698878001 | Open biopsy of tongue (procedure) |
 698853000,698853000 | Plastic operation on pharynx (procedure) |
@@ -1196,15 +1185,11 @@ conceptId,idAndFsnTerm
 609151005,609151005 | Percutaneous removal of calculus from renal pelvis using fluoroscopic guidance (procedure) |
 608867005,608867005 | Open reduction of fracture of orbit with insertion of implant into bone of orbit (procedure) |
 473381003,473381003 | Transthoracic echocardiography for congenital heart disease (procedure) |
-473276009,473276009 | Suture plication of artery for control of rectal hemorrhage (procedure) |
 473275008,473275008 | Endoscopic control of hemorrhage of pharynx (procedure) |
 473241007,473241007 | Sequestrectomy of facial bone for infection (procedure) |
 473240008,473240008 | Sequestrectomy of facial bone for osteoradionecrosis (procedure) |
 473238003,473238003 | Endoscopic decompression of orbit for exophthalmos (procedure) |
 473229000,473229000 | Catheter ablation of arrhythmogenic focus (procedure) |
-473216000,473216000 | Suture plication of artery for control of duodenal ulcer hemorrhage (procedure) |
-473215001,473215001 | Suture plication of artery for control of gastric ulcer hemorrhage (procedure) |
-473214002,473214002 | Suture plication of artery for control of gastric hemorrhage (procedure) |
 473198008,473198008 | Gated computed tomography of heart with contrast for congenital heart disease (procedure) |
 473197003,473197003 | Transesophageal echocardiography for congenital heart disease (procedure) |
 473196007,473196007 | Transluminal intracardiac echocardiography for congenital heart disease (procedure) |
@@ -1246,7 +1231,6 @@ conceptId,idAndFsnTerm
 450668002,450668002 | Excision of lipoma of subcutaneous tissue of head (procedure) |
 450665004,450665004 | Excision of lesion of skin of head (procedure) |
 450653003,450653003 | Open embolization of suprarenal artery (procedure) |
-450640001,450640001 | Open removal of products of conception from uterus (procedure) |
 450638006,450638006 | Open ringing of fallopian tube (procedure) |
 450637001,450637001 | Open clipping of fallopian tube (procedure) |
 450636005,450636005 | Open ligation of fallopian tube (procedure) |
@@ -1331,7 +1315,6 @@ conceptId,idAndFsnTerm
 448759001,448759001 | Mapping of cerebral cortex (procedure) |
 448752005,448752005 | Magnetic resonance imaging of cervix using endocavity radiofrequency coil (procedure) |
 448704000,448704000 | Magnetic resonance imaging of esophagus (procedure) |
-448699008,448699008 | Thoracotomy and removal of cardiac pacemaker electrodes (procedure) |
 448677000,448677000 | Computed tomography perfusion study of liver (procedure) |
 448596007,448596007 | Excision of rectal stump (procedure) |
 448592009,448592009 | Sigmoidoscopic excision of mucosa of rectum (procedure) |
@@ -1460,10 +1443,6 @@ conceptId,idAndFsnTerm
 446798004,446798004 | Biopsy of bony palate (procedure) |
 446772005,446772005 | Magnetic resonance imaging of base of skull (procedure) |
 446746001,446746001 | Excision of mucosa of duodenum (procedure) |
-446744003,446744003 | Endoscopy of upper gastrointestinal tract and ligation of varix of duodenum (procedure) |
-446743009,446743009 | Endoscopy of upper gastrointestinal tract and banding of varix of stomach (procedure) |
-446742004,446742004 | Endoscopy of upper gastrointestinal tract and injection of varix of esophagus (procedure) |
-446739005,446739005 | Endoscopy of upper gastrointestinal tract and banding of varix of esophagus (procedure) |
 446736003,446736003 | Endoscopic dilation and insertion of tube into esophagus (procedure) |
 446734000,446734000 | Suturing of laceration of esophagus by transthoracic approach (procedure) |
 446733006,446733006 | Suturing of laceration of esophagus by transabdominal approach (procedure) |
@@ -1471,8 +1450,6 @@ conceptId,idAndFsnTerm
 446731008,446731008 | Destruction of lesion of esophagus by abdominal approach (procedure) |
 446730009,446730009 | Destruction of lesion of esophagus by cervical approach (procedure) |
 446729004,446729004 | Photoablation of esophagus using laser (procedure) |
-446727002,446727002 | Endoscopy of upper gastrointestinal tract and injection of varix of stomach (procedure) |
-446723003,446723003 | Endoscopy of upper gastrointestinal tract and dilation of gastric stoma (procedure) |
 446716004,446716004 | Cystoscopic laser photocoagulation of hemorrhage of urinary bladder (procedure) |
 446705006,446705006 | Trephination of cranium and drainage of chronic hematoma from subdural space (procedure) |
 446696009,446696009 | Fluoroscopy of heart for checking of position of cardiac monitoring implant position (procedure) |
@@ -1511,7 +1488,6 @@ conceptId,idAndFsnTerm
 446344000,446344000 | Excision of lesion of anterior cranial fossa extradural space (procedure) |
 446343006,446343006 | Excision of lesion of middle cranial fossa extradural space (procedure) |
 446342001,446342001 | Excision of neoplasm from spinal extradural space (procedure) |
-446332003,446332003 | Endoscopy of upper gastrointestinal tract and insertion of esophageal stent (procedure) |
 446318000,446318000 | Incision of cyst of ovary (procedure) |
 446309002,446309002 | Partial excision of meningioma (procedure) |
 446307000,446307000 | Total excision of meningioma (procedure) |
@@ -1537,7 +1513,6 @@ conceptId,idAndFsnTerm
 446062001,446062001 | Excision of lesion of meninges (procedure) |
 446061008,446061008 | Magnetic resonance imaging of pancreas with contrast (procedure) |
 446024004,446024004 | Endoscopic excision of polyp of small intestine (procedure) |
-446018005,446018005 | Endoscopy of upper gastrointestinal tract and removal of foreign body from esophagus (procedure) |
 445986007,445986007 | Endoscopic excision of mucosa of duodenum (procedure) |
 445983004,445983004 | Endoscopic excision of mucosa of stomach (procedure) |
 445975005,445975005 | Excision of polyp of duodenum (procedure) |
@@ -1565,7 +1540,6 @@ conceptId,idAndFsnTerm
 445864005,445864005 | Three dimensional transesophageal ultrasonography of heart (procedure) |
 445863004,445863004 | Loopogram of colon (procedure) |
 445844000,445844000 | X-ray of cochlear implant (procedure) |
-445839007,445839007 | Insertion of nasogastric feeding tube using endoscopy for upper gastrointestinal tract guidance (procedure) |
 445758008,445758008 | Balloon compression of trigeminal ganglion (procedure) |
 445751002,445751002 | Doppler ultrasonography of temporal artery (procedure) |
 445750001,445750001 | Endoscopic removal of neoplasm from cranium (procedure) |
@@ -1601,7 +1575,6 @@ conceptId,idAndFsnTerm
 443681002,443681002 | Total replacement of left knee joint (procedure) |
 443665007,443665007 | Transanal disk excision of rectum (procedure) |
 443630007,443630007 | Ultrasonography of liver with contrast (procedure) |
-443627000,443627000 | Repair of partial anomalous pulmonary venous connection by insertion of interatrial baffle to left atrium (procedure) |
 443605009,443605009 | Mobilization of splenic flexure of colon (procedure) |
 443603002,443603002 | Magnetic resonance imaging of brain with contrast using isotropic resolution (procedure) |
 443602007,443602007 | Magnetic resonance imaging of brain using isotropic resolution (procedure) |
@@ -1678,7 +1651,6 @@ conceptId,idAndFsnTerm
 440603001,440603001 | Reduction of masseter muscle by intraoral approach (procedure) |
 440578004,440578004 | Photocoagulation of macular drusen (procedure) |
 440563006,440563006 | Division of mandible (procedure) |
-440549000,440549000 | Insertion of peripancreatic drain with jejunostomy (procedure) |
 440519002,440519002 | Radionuclide imaging of perfusion of myocardium under exercise stress (procedure) |
 440514007,440514007 | Computed tomography dual phase study of pancreas (procedure) |
 440470008,440470008 | Creation of lesion of gasserian ganglion with neurolytic agent using stereotactic method (procedure) |
@@ -1691,7 +1663,6 @@ conceptId,idAndFsnTerm
 440332008,440332008 | Fluoroscopic angiography of left ventricle and coronary artery bypass graft with contrast (procedure) |
 440330000,440330000 | Computed tomography of esophagus with contrast (procedure) |
 440303005,440303005 | Suture of tongue to lip for micrognathia (procedure) |
-440235008,440235008 | Percutaneous thrombolysis of cerebral artery using fluoroscopic guidance (procedure) |
 440231004,440231004 | Hysteroscopy and cannulation of bilateral fallopian tubes (procedure) |
 440222004,440222004 | Destruction of malignant neoplasm of rectum using cryosurgery (procedure) |
 440198000,440198000 | Osteotomy of jaw (procedure) |
@@ -1748,7 +1719,6 @@ conceptId,idAndFsnTerm
 439061006,439061006 | Excision of lesion of dentoalveolar structure (procedure) |
 439024002,439024002 | Reconstruction of supraorbital margin using autograft (procedure) |
 439016007,439016007 | Augmentation of mandible using prosthesis (procedure) |
-438999008,438999008 | Percutaneous thrombolysis of cerebral venous sinus using fluoroscopic guidance (procedure) |
 438888005,438888005 | Fluoroscopic submandibular sialogram (procedure) |
 438826006,438826006 | Percutaneous sampling of blood of cerebral venous sinus using fluoroscopic guidance with contrast (procedure) |
 438818003,438818003 | Ultrasonography of uterus with saline infusion (procedure) |
@@ -1808,7 +1778,6 @@ conceptId,idAndFsnTerm
 433006008,433006008 | Magnetic resonance imaging of mandible (procedure) |
 432953000,432953000 | Fluoroscopy of heart for checking of cardiac pacemaker electrode position (procedure) |
 432943001,432943001 | Positron emission tomography electrocardiography gated myocardial rest study using N13 ammonia (procedure) |
-432941004,432941004 | Percutaneous thrombolysis of hepatic vein using fluoroscopic guidance (procedure) |
 432934005,432934005 | Epidural injection of thoracic spine using fluoroscopic guidance (procedure) |
 432933004,432933004 | Epidural injection of sacral spine using fluoroscopic guidance (procedure) |
 432904000,432904000 | Computed tomography of head for cranioplasty planning (procedure) |
@@ -1893,7 +1862,6 @@ conceptId,idAndFsnTerm
 431625000,431625000 | Magnetic resonance imaging of internal auditory meatus with contrast (procedure) |
 431619004,431619004 | Computed tomography of base of skull with contrast (procedure) |
 431615005,431615005 | Endoscopic insertion of esophageal stent using fluoroscopic guidance (procedure) |
-431612008,431612008 | Epidural injection using fluoroscopic guidance (procedure) |
 431609005,431609005 | Magnetic resonance imaging stress study of cardiac function (procedure) |
 431602001,431602001 | Fluoroscopic venography of hepatic vein with contrast and insertion of stent graft (procedure) |
 431599006,431599006 | Fluoroscopic angiography of adrenal artery using contrast (procedure) |
@@ -2019,7 +1987,6 @@ conceptId,idAndFsnTerm
 428679005,428679005 | Partial excision of left ventricle of heart (procedure) |
 428663009,428663009 | Ablation of atrioventricular node (procedure) |
 428652006,428652006 | Transcervical resection of leiomyoma of uterus (procedure) |
-428648006,428648006 | Automated peritoneal dialysis (procedure) |
 428581004,428581004 | Percutaneous transluminal ablation of accessory pathway (procedure) |
 428562007,428562007 | Surgical reopening of anterior nares (procedure) |
 428560004,428560004 | Fixation of retina using tissue adhesive (procedure) |
@@ -2159,7 +2126,6 @@ conceptId,idAndFsnTerm
 420679009,420679009 | Cross-cylinder refraction (procedure) |
 420424006,420424006 | Cryotherapy of ocular surface (procedure) |
 420355001,420355001 | Random dot stereo depth perception testing (procedure) |
-420231008,420231008 | Fluoroscopic angiography with contrast and drainage of heart (procedure) |
 420137004,420137004 | Magnetic resonance imaging of parotid gland (procedure) |
 420108003,420108003 | Fluoroscopy of bowel (procedure) |
 420088004,420088004 | Fluoroscopy of salivary glands (procedure) |
@@ -2184,7 +2150,6 @@ conceptId,idAndFsnTerm
 419535008,419535008 | Magnetic resonance imaging perfusion study of heart (procedure) |
 419523009,419523009 | Ultrasonography of esophagus (procedure) |
 419480006,419480006 | Fluoroscopic cardiac ventriculography (procedure) |
-419470007,419470007 | Fluoroscopic angiography with contrast and aspiration of heart (procedure) |
 419467008,419467008 | Ultrasound scan and drainage of kidney (procedure) |
 419424000,419424000 | Destructive procedure of lacrimal drainage structure (procedure) |
 419416005,419416005 | Fluoroscopic angiography of coronary artery with contrast (procedure) |
@@ -2245,7 +2210,6 @@ conceptId,idAndFsnTerm
 417117000,417117000 | Incision of lacrimal drainage structure (procedure) |
 417016007,417016007 | Compression of the fourth ventricle - technique (procedure) |
 416899006,416899006 | Cranial osteopathic manipulation (procedure) |
-416720006,416720006 | Hepatic pump technique (procedure) |
 416708003,416708003 | Lateral temporal bone resection (procedure) |
 416100002,416100002 | Ciliary body ablation (procedure) |
 415850001,415850001 | Worth four-dot test (procedure) |
@@ -2303,7 +2267,6 @@ conceptId,idAndFsnTerm
 410007005,410007005 | Rectal examination (procedure) |
 410006001,410006001 | Digital examination of rectum (procedure) |
 409710009,409710009 | Cardiorrhaphy (procedure) |
-408818004,408818004 | Induction of labor by artificial rupture of membranes (procedure) |
 408810006,408810006 | Uterine contraction monitoring using intrauterine pressure catheter (regime/therapy) |
 408763006,408763006 | Needle revision of failed filtering bleb (procedure) |
 408754009,408754009 | Computed tomography of entire head (procedure) |
@@ -2327,7 +2290,6 @@ conceptId,idAndFsnTerm
 404196006,404196006 | Extraction of single deciduous tooth (procedure) |
 401306006,401306006 | Phacoemulsification of lens and insertion of prosthetic replacement (procedure) |
 400988008,400988008 | High anterior resection of rectum (procedure) |
-400950006,400950006 | Chemodenervation of orbicularis oculi (procedure) |
 400928005,400928005 | Stereotests - Titmus (procedure) |
 399867007,399867007 | Laser photocoagulation to retina (procedure) |
 399750009,399750009 | Excision of thymus (procedure) |
@@ -2469,9 +2431,6 @@ conceptId,idAndFsnTerm
 387642000,387642000 | Repair of mitral valve without replacement (procedure) |
 387631009,387631009 | Partial supraglottic laryngectomy (procedure) |
 387626007,387626007 | Amputation of cervix (procedure) |
-387617009,387617009 | Aspiration of ectopic pregnancy from fallopian tube (procedure) |
-387616000,387616000 | Fimbrial extraction of tubal pregnancy (procedure) |
-387615001,387615001 | Removal of ectopic pregnancy from fallopian tube (procedure) |
 387598008,387598008 | Cystourethroscopy with ureteral catheterization (procedure) |
 386802000,386802000 | Endometrial biopsy (procedure) |
 386801007,386801007 | Endometrial scraping (procedure) |
@@ -2573,8 +2532,6 @@ conceptId,idAndFsnTerm
 361248006,361248006 | Excision of intubation granuloma of larynx (procedure) |
 361247001,361247001 | Excision of contact ulcer of vocal cord (procedure) |
 361223008,361223008 | Wertheim operation (procedure) |
-361219000,"361219000 | Pure tone audiometry, extended, impedance testing (procedure) |"
-361218008,"361218008 | Pure tone audiometry, extended, sensitivity index (procedure) |"
 361177004,361177004 | Denervation of paracervical uterine nerves (procedure) |
 361175007,361175007 | Doyle operation for paracervical uterine denervation (procedure) |
 361173000,361173000 | Destruction of lesion of rectum by fulguration (procedure) |
@@ -2754,9 +2711,6 @@ conceptId,idAndFsnTerm
 310662003,310662003 | Laser destruction of lesion of retina (procedure) |
 310658009,310658009 | Intravascular ultrasound of coronary artery (procedure) |
 310615005,310615005 | Patching of left ventricle (procedure) |
-310604000,310604000 | Suction evacuation of retained products of conception (procedure) |
-310603006,310603006 | Digital evacuation of retained products of conception (procedure) |
-310602001,310602001 | Expression of retained products of conception (procedure) |
 310561004,310561004 | Preretinal membranectomy by hydrodelamination (procedure) |
 310560003,310560003 | Preretinal membranectomy by segmentation (procedure) |
 310559008,310559008 | Preretinal membranectomy by delamination (procedure) |
@@ -2799,7 +2753,6 @@ conceptId,idAndFsnTerm
 309873007,309873007 | Lateral rectus recession (procedure) |
 309872002,309872002 | Medial rectus recession (procedure) |
 309731008,309731008 | Insufflation of eustachian tube to examine patency (procedure) |
-309729004,309729004 | Spinal probing (procedure) |
 309727002,309727002 | Lateral pharyngotomy (procedure) |
 309556000,309556000 | Yttrium-aluminum-garnet laser posterior capsulotomy (procedure) |
 309424005,309424005 | Graft of skin to skin of nasolabial fold (procedure) |
@@ -2972,7 +2925,6 @@ conceptId,idAndFsnTerm
 302798000,302798000 | Gallbladder X-ray (procedure) |
 302621009,302621009 | Closed tricuspid commissurotomy (procedure) |
 302612008,302612008 | Pharyngeal reconstruction with distant flap (procedure) |
-302605004,302605004 | Forced manual dilation of anus (procedure) |
 302477001,302477001 | Osteotomy of maxilla (procedure) |
 302476005,302476005 | Fixation of maxilla - internal (procedure) |
 302475009,302475009 | Fixation of mandible - internal (procedure) |
@@ -3167,7 +3119,6 @@ conceptId,idAndFsnTerm
 287291002,287291002 | Heart ligation (procedure) |
 287290001,287290001 | Heart suturing (procedure) |
 287289005,287289005 | Ruptured heart aneurysm repair (procedure) |
-287286003,287286003 | Pericardial decortication (procedure) |
 287277008,287277008 | Indirect heart revascularization (procedure) |
 287271009,287271009 | Heart - arterial implant (procedure) |
 287242008,287242008 | Posterior chamber of eye foreign body removal by incision (procedure) |
@@ -3266,13 +3217,10 @@ conceptId,idAndFsnTerm
 277451006,277451006 | Part organ pancreatic transplant (procedure) |
 277437006,277437006 | Bronchial revascularization (procedure) |
 277404009,277404009 | High frequency tympanometry (procedure) |
-277336003,277336003 | Stenger test using audiometer (procedure) |
-277304005,277304005 | Pure tone audiometry using attention raising techniques (procedure) |
 277263004,277263004 | Nasal decrusting (procedure) |
 277237009,277237009 | Transillumination of maxillary sinus (procedure) |
 277192005,277192005 | Coronary artery graft placement (procedure) |
 277065002,277065002 | C mandibular osteotomy (procedure) |
-276921001,276921001 | Percutaneous endarterectomy of intracranial artery (procedure) |
 276747001,276747001 | Uncinectomy and polypectomy (procedure) |
 276737004,276737004 | Domiciliary ventilation (regime/therapy) |
 276455007,276455007 | File root canal (procedure) |
@@ -3405,9 +3353,7 @@ conceptId,idAndFsnTerm
 271457000,271457000 | Dynamic non-imaging isotope study: heart (procedure) |
 271455008,271455008 | Dynamic non-imaging isotope study: brain (procedure) |
 271416007,271416007 | Reconstruction of cranial defect (procedure) |
-271415006,271415006 | Removal of products of conception from fallopian tube (procedure) |
 271411002,271411002 | Transluminal balloon atrial septostomy (procedure) |
-271410001,271410001 | Anorectal stretch (procedure) |
 271408003,271408003 | Open biopsy of lesion of pharynx (procedure) |
 271406004,271406004 | Neurostimulation procedure of brain tissue (procedure) |
 271318007,271318007 | Isotope static scan heart (procedure) |
@@ -3436,7 +3382,6 @@ conceptId,idAndFsnTerm
 265639000,265639000 | Midforceps delivery without rotation (procedure) |
 265636007,265636007 | Cerclage of cervix (procedure) |
 265618007,265618007 | Complete colpocleisis (procedure) |
-265574005,265574005 | Vaginal buttress operation (procedure) |
 265556001,265556001 | Percutaneous needle puncture operation on kidney or renal pelvis (procedure) |
 265554003,265554003 | Percutaneous pyelolysis (procedure) |
 265551006,265551006 | Open repair of kidney (procedure) |
@@ -3496,7 +3441,6 @@ conceptId,idAndFsnTerm
 265231008,265231008 | Biopsy of lesion of spinal cord meninges (procedure) |
 265230009,265230009 | Needle destruction of substantia gelatinosa of cervical spinal cord (procedure) |
 265229004,265229004 | Biopsy of lesion of meninges of brain (procedure) |
-265082003,265082003 | Laparoscopic oocyte recovery (procedure) |
 265076001,265076001 | Open clipping of left fallopian tube (procedure) |
 265075002,265075002 | Open clipping of right fallopian tube (procedure) |
 265069006,265069006 | Biopsy of lesion of uterus (procedure) |
@@ -3555,12 +3499,10 @@ conceptId,idAndFsnTerm
 252966009,252966009 | Stycar letter test (procedure) |
 252965008,252965008 | Stycar graded rolling balls test (procedure) |
 252964007,252964007 | Stycar graded mounted balls test (procedure) |
-252958000,252958000 | Stycar word discrimination test (procedure) |
 252939009,252939009 | Ultrasound scan for follicle monitoring (procedure) |
 252915004,252915004 | Urinary bladder cooling test (procedure) |
 252913006,252913006 | Evaluation test of neck of urinary bladder (procedure) |
 252893006,252893006 | Desferioxamine test (procedure) |
-252892001,252892001 | Peritoneal equilibration test (procedure) |
 252890009,252890009 | Refraction assessment - referred to cornea (procedure) |
 252889000,252889000 | Refraction assessment - intermediate distance (procedure) |
 252888008,252888008 | Refraction assessment - near (procedure) |
@@ -3652,7 +3594,6 @@ conceptId,idAndFsnTerm
 252646002,252646002 | Radionuclide liquid phase gastric emptying study (procedure) |
 252642000,252642000 | Barium coated food gastric transit study (procedure) |
 252635000,252635000 | Barostat study of stomach (procedure) |
-252582001,252582001 | Rudmose audiometry (procedure) |
 252573007,252573007 | Taub test (procedure) |
 252572002,252572002 | Laryngeal stroboscopy (procedure) |
 252549004,252549004 | Isosorbide test (procedure) |
@@ -3680,9 +3621,7 @@ conceptId,idAndFsnTerm
 252417001,252417001 | 24 Hour electrocardiogram (procedure) |
 252053007,252053007 | Excision of cyst of kidney (procedure) |
 251966007,251966007 | Simple excision of nasal polyps (procedure) |
-251643008,251643008 | Somatosensory evoked magnetic fields (procedure) |
 251642003,251642003 | Brainstem auditory evoked magnetic fields (procedure) |
-251641005,251641005 | Auditory evoked magnetic fields (procedure) |
 251640006,251640006 | Visual evoked magnetic fields - partial field pattern reversal (procedure) |
 251639009,251639009 | Visual evoked magnetic fields - full field pattern reversal (procedure) |
 251638001,251638001 | Visual evoked magnetic fields - flash (procedure) |
@@ -3697,7 +3636,6 @@ conceptId,idAndFsnTerm
 246525005,246525005 | Insertion of atrial septal umbrella (procedure) |
 245667003,"245667003 | Paul operation, temporary ileostomy (procedure) |"
 245203008,245203008 | Total excision of mandible (procedure) |
-244608001,"244608001 | Formation of pericardial baffle, interatrial (procedure) |"
 244021007,244021007 | Irrigation of lacrimal punctum (procedure) |
 243775002,243775002 | Construction of cutaneous ureteroileostomy (procedure) |
 243521005,243521005 | Probing of lacrimal punctum with irrigation (procedure) |
@@ -3942,11 +3880,6 @@ conceptId,idAndFsnTerm
 238350004,238350004 | Procedure to obliterate the pleural space (procedure) |
 238347002,238347002 | Open procedure for pleural lesion (procedure) |
 238346006,238346006 | Open pleural procedure (procedure) |
-238323009,238323009 | Night-time intermittent peritoneal dialysis (procedure) |
-238322004,238322004 | Tidal peritoneal dialysis (procedure) |
-238321006,238321006 | Intermittent peritoneal dialysis (procedure) |
-238319001,238319001 | Continuous cycling peritoneal dialysis (procedure) |
-238318009,238318009 | Continuous ambulatory peritoneal dialysis (procedure) |
 238299003,238299003 | Excision of cyst of mesentery (procedure) |
 238298006,238298006 | Fistulectomy of rectum (procedure) |
 238236007,238236007 | Excision of vitelline fistula (procedure) |
@@ -3990,7 +3923,6 @@ conceptId,idAndFsnTerm
 236897002,236897002 | Endometrial resection (procedure) |
 236886002,236886002 | Hysterectomy (procedure) |
 236884004,236884004 | Excision of uterine polyp (procedure) |
-236883005,236883005 | Evacuation of retained product of conception (procedure) |
 236882000,236882000 | Endometrial washing (procedure) |
 236879005,236879005 | Morcellation of cervix (procedure) |
 236877007,236877007 | Lash repair of internal os of cervix (procedure) |
@@ -4075,7 +4007,6 @@ conceptId,idAndFsnTerm
 235407009,235407009 | Gastrointestinal tract anastomosis - intestine (procedure) |
 235406000,235406000 | Removal of ileostomy bridge (procedure) |
 235399004,235399004 | Manual reduction of bowel volvulus (procedure) |
-235398007,235398007 | Intra-abdominal manipulation of gastrointestinal tract (procedure) |
 235379005,235379005 | Lateral ligament suspension (procedure) |
 235378002,235378002 | Mesh rectopexy (procedure) |
 235377007,235377007 | Posterior fixation of rectum (procedure) |
@@ -4308,9 +4239,6 @@ conceptId,idAndFsnTerm
 234324008,234324008 | Fine needle aspiration of lesion of spleen (procedure) |
 234319005,234319005 | Splenectomy (procedure) |
 233912002,"233912002 | Replacement of heart valve poppet, prosthetic (procedure) |"
-233590002,233590002 | Continuous venovenous hemodiafiltration (procedure) |
-233585000,233585000 | Continuous venovenous hemofiltration (procedure) |
-233580005,233580005 | Continuous venovenous hemodialysis (procedure) |
 233545006,233545006 | Hysteroscopy (procedure) |
 233427008,233427008 | Embolization of vein of Galen (procedure) |
 233426004,233426004 | Embolization of cavernous sinus (procedure) |
@@ -4401,7 +4329,6 @@ conceptId,idAndFsnTerm
 233008006,233008006 | Relief of coronary sinus obstruction (procedure) |
 233007001,233007001 | Closure of coronary sinus atrial septal defect (procedure) |
 233006005,233006005 | Repair of unroofed coronary sinus to create tunnel (procedure) |
-232977008,232977008 | Relief of anastomotic stricture between pulmonary venous confluence and left atrium (procedure) |
 232975000,232975000 | Removal of heart from donor (procedure) |
 232974001,232974001 | Orthotopic allotransplant of heart (procedure) |
 232973007,232973007 | Allotransplant of heart (procedure) |
@@ -4480,7 +4407,6 @@ conceptId,idAndFsnTerm
 232853003,232853003 | Placement of left ventricular outflow tract transannular patch (procedure) |
 232851001,232851001 | Konno aortoventriculoplasty (procedure) |
 232850000,232850000 | Aortoventriculoplasty (procedure) |
-232843004,232843004 | Composite aortic root operation (procedure) |
 232842009,232842009 | Replacement of implanted aortic valve (procedure) |
 232838006,232838006 | Autograft aortic valve replacement (procedure) |
 232837001,232837001 | Transluminal radiofrequency aortic valvotomy (procedure) |
@@ -4839,7 +4765,6 @@ conceptId,idAndFsnTerm
 231544004,231544004 | Radiotherapy to orbital lesion (procedure) |
 231417007,231417007 | Cryotherapy to Gasserian ganglion (procedure) |
 231413006,231413006 | Percutaneous cervical anterolateral cordotomy (procedure) |
-231384007,231384007 | Intrathecal neurolysis of sacral roots (procedure) |
 231364008,231364008 | Injection of neurolytic substance into trigeminal ganglion (procedure) |
 231118005,231118005 | Percutaneous dorsal column stimulation (procedure) |
 231117000,231117000 | Open dorsal column stimulation (procedure) |
@@ -4919,8 +4844,6 @@ conceptId,idAndFsnTerm
 230835002,230835002 | Repair of encephalocele (procedure) |
 230834003,230834003 | Closure of cerebrospinal fluid leak from nose (procedure) |
 230833009,230833009 | Repair of cranial cerebrospinal fluid fistula (procedure) |
-230829002,230829002 | Removal of subdural-peritoneal shunt (procedure) |
-230825008,230825008 | Renewal of subdural-peritoneal shunt (procedure) |
 230823001,230823001 | Revision of external subdural drain (procedure) |
 230819009,230819009 | Creation of external subdural drain (procedure) |
 230814004,230814004 | Removal of intracranial subdural tumor (procedure) |
@@ -4967,8 +4890,6 @@ conceptId,idAndFsnTerm
 225669006,225669006 | Pharyngeal icing (procedure) |
 225253009,225253009 | Checking cervix covered by cap (procedure) |
 225245001,225245001 | Rubbing up a contraction (procedure) |
-225231007,225231007 | Stab peritoneal dialysis (procedure) |
-225230008,225230008 | Chronic peritoneal dialysis (procedure) |
 225169007,225169007 | Getting patient to bite on hemostatic swab (procedure) |
 225158009,225158009 | Auscultation of the fetal heart (procedure) |
 225125000,225125000 | Scalp cooling (procedure) |
@@ -5053,7 +4974,6 @@ conceptId,idAndFsnTerm
 179632003,179632003 | Closed reduction of dislocation of temporomandibular joint (procedure) |
 178835005,178835005 | Myeloscopy (procedure) |
 178732003,178732003 | Pyloroduodenotomy (procedure) |
-178686002,178686002 | Halo skull traction for fracture of spine (procedure) |
 178503004,178503004 | Intra-articular arthroplasty of temporomandibular joint (procedure) |
 178500001,178500001 | Exploration of mandible (procedure) |
 178497007,178497007 | Biopsy of lesion of mandible (procedure) |
@@ -5123,7 +5043,6 @@ conceptId,idAndFsnTerm
 177797008,177797008 | Open biopsy of pleural lesion (procedure) |
 177796004,177796004 | Open destruction of pleural lesion (procedure) |
 177790005,177790005 | Closure of open drainage of pleural cavity (procedure) |
-177789001,177789001 | Excision of rib and open drainage of pleural cavity (procedure) |
 177785007,177785007 | Open excision of pleural lesion (procedure) |
 177784006,177784006 | Decortication of lung (procedure) |
 177783000,177783000 | Open pleurectomy (procedure) |
@@ -5135,8 +5054,6 @@ conceptId,idAndFsnTerm
 177399008,177399008 | Hair bearing skin flap to scalp for male pattern baldness (procedure) |
 177245000,177245000 | Submental lipectomy (procedure) |
 177208006,177208006 | Repositioning of inverted uterus (procedure) |
-177204008,177204008 | Manual removal of placenta from delivered uterus (procedure) |
-177200004,177200004 | Instrumental removal of products of conception from delivered uterus (procedure) |
 177194007,177194007 | Manual dilation of cervix (procedure) |
 177170007,177170007 | Piper forceps delivery (procedure) |
 177161009,177161009 | Forceps cephalic delivery (procedure) |
@@ -5159,8 +5076,6 @@ conceptId,idAndFsnTerm
 176949009,176949009 | Open ligation of left fallopian tube (procedure) |
 176948001,176948001 | Open ligation of right fallopian tube (procedure) |
 176933007,176933007 | Revision of prosthesis in fallopian tube (procedure) |
-176929000,176929000 | Excision of ruptured ectopic tubal pregnancy (procedure) |
-176928008,176928008 | Excision of ectopic ovarian pregnancy (procedure) |
 176917009,176917009 | Left salpingectomy (procedure) |
 176916000,176916000 | Right salpingectomy (procedure) |
 176895001,176895001 | Vaginal excision of lesion of uterus (procedure) |
@@ -5286,7 +5201,6 @@ conceptId,idAndFsnTerm
 174927000,174927000 | Homograft aortic valve replacement (procedure) |
 174919009,174919009 | Xenograft mitral valve replacement (procedure) |
 174918001,174918001 | Homograft mitral valve replacement (procedure) |
-174899009,174899009 | Repair of sinus venosus (procedure) |
 174898001,174898001 | Refashioning of atrium (procedure) |
 174884009,174884009 | Creation of valved conduit between left ventricle of heart and aorta (procedure) |
 174881001,174881001 | Creation of valved conduit between atrium and ventricle of heart (procedure) |
@@ -5307,7 +5221,6 @@ conceptId,idAndFsnTerm
 174792006,174792006 | Exploration of spleen (procedure) |
 174791004,174791004 | Banding of spleen (procedure) |
 174790003,174790003 | Biopsy of lesion of spleen (procedure) |
-174789007,174789007 | Embolization of spleen (procedure) |
 174776001,174776001 | Total splenectomy (procedure) |
 174771006,174771006 | Needle biopsy of pancreas (procedure) |
 174770007,174770007 | Percutaneous pancreatogram (procedure) |
@@ -5361,7 +5274,6 @@ conceptId,idAndFsnTerm
 174426002,174426002 | Heterotopic liver transplant (procedure) |
 174425003,174425003 | Orthotopic liver transplant (procedure) |
 174416009,174416009 | Closure of bowel fistula (procedure) |
-174365003,174365003 | Forced manual dilation of anus for hemorrhoid (procedure) |
 174322004,174322004 | Proctoscopic destruction of lesion of rectum (procedure) |
 174321006,174321006 | Proctoscopic excision of lesion of rectum (procedure) |
 174320007,174320007 | Proctoscopic extirpation of lesion of rectum (procedure) |
@@ -5424,7 +5336,6 @@ conceptId,idAndFsnTerm
 173991001,173991001 | Open reduction of intussusception of ileum (procedure) |
 173987006,173987006 | Reduction of prolapse of ileostomy (procedure) |
 173986002,173986002 | Repair of prolapse of ileostomy (procedure) |
-173985003,173985003 | Refashioning of ileostomy (procedure) |
 173973006,173973006 | Revision of anastomosis of ileum (procedure) |
 173972001,173972001 | Attention to connection of ileum (procedure) |
 173960007,173960007 | Bypass of ileum by anastomosis of ileum to ileum (procedure) |
@@ -6259,7 +6170,6 @@ conceptId,idAndFsnTerm
 112958002,112958002 | Repair of blepharoptosis by superior rectus tendon transplant (procedure) |
 112956003,112956003 | Extensive blepharoplasty (procedure) |
 112955004,112955004 | Incision of eyelid margin (procedure) |
-112934001,112934001 | Insertion of tongs of skull with synchronous skeletal traction (procedure) |
 112927003,112927003 | Manual rotation of fetal head (procedure) |
 112923004,112923004 | Transection of fallopian tube by vaginal approach (procedure) |
 112921002,112921002 | Repair of uterus (procedure) |
@@ -6289,7 +6199,6 @@ conceptId,idAndFsnTerm
 112790001,112790001 | Nasal sinus endoscopy (procedure) |
 112789005,112789005 | Core needle biopsy of nasal sinus (procedure) |
 112227006,112227006 | Nasal occlusion test of exhalatory efficiency (procedure) |
-110474005,110474005 | Whole body hyperbaric oxygen therapy (procedure) |
 108184008,108184008 | Diaphragm excision (procedure) |
 108164009,108164009 | External ear endoscopy (procedure) |
 108162008,108162008 | External ear excision (procedure) |
@@ -6325,7 +6234,6 @@ conceptId,idAndFsnTerm
 107746008,107746008 | Facial bone destructive procedure (procedure) |
 105377009,105377009 | Ultrasonography of liver (procedure) |
 105376000,105376000 | Transesophageal echocardiography (procedure) |
-103755005,103755005 | Pressure test for perilymph fistula (procedure) |
 103745006,103745006 | Intra-oral photography (procedure) |
 103730004,103730004 | Cryocardioplegia (procedure) |
 103727006,103727006 | Vestibular nerve section (procedure) |
@@ -6334,7 +6242,6 @@ conceptId,idAndFsnTerm
 91602002,91602002 | Thoracentesis (procedure) |
 91579001,91579001 | Repair of mandibular ridge (procedure) |
 91578009,91578009 | Recession of eye muscle (procedure) |
-91573000,91573000 | Tympanometry testing (procedure) |
 91571003,91571003 | Bronchoscopic removal of intraluminal foreign body from trachea (procedure) |
 91567001,91567001 | Take-down of stoma of bronchus (procedure) |
 91552000,91552000 | Postoperative revision of scleral fistulization procedure (procedure) |
@@ -6361,7 +6268,6 @@ conceptId,idAndFsnTerm
 90697009,90697009 | Imaging of adrenal cortex (procedure) |
 90681004,90681004 | Suture of spinal dura mater (procedure) |
 90629004,90629004 | Needling of hydrocephalic head (procedure) |
-90463006,90463006 | Meatotomy of urethra of infant (procedure) |
 90442009,90442009 | Cerclage of cervix during pregnancy by vaginal approach (procedure) |
 90410003,90410003 | Wedge resection of stomach (procedure) |
 90405002,90405002 | Complete meniscectomy of temporomandibular joint (procedure) |
@@ -6426,7 +6332,6 @@ conceptId,idAndFsnTerm
 88437002,"88437002 | Apexification/recalcification, initial visit (procedure) |"
 88419003,88419003 | Chiropractic adjustment of temporomandibular joint subluxation (procedure) |
 88366003,88366003 | Reconstruction of mandible (procedure) |
-88362001,88362001 | Removal of ectopic fetus from fallopian tube without salpingectomy (procedure) |
 88354009,88354009 | Removal of foreign body from intestine by incision (procedure) |
 88315008,88315008 | Destruction of lesion of dentoalveolar structures (procedure) |
 88310003,88310003 | Replantation of skin of scalp (procedure) |
@@ -6459,7 +6364,6 @@ conceptId,idAndFsnTerm
 87279008,87279008 | Excision of lesion of colon (procedure) |
 87260005,87260005 | Closure of esophageal fistula by cervical approach (procedure) |
 87192001,87192001 | Pallidectomy (procedure) |
-87150006,87150006 | Enterostomy (procedure) |
 87131006,87131006 | Closed reduction of fracture of facial bones (procedure) |
 87123001,87123001 | Excision of heart valve (procedure) |
 87103002,87103002 | Excision of cyst of nasolabial sulcus (procedure) |
@@ -6505,7 +6409,6 @@ conceptId,idAndFsnTerm
 85895003,85895003 | Contrast bronchogram (procedure) |
 85891007,85891007 | Destructive procedure of external ear (procedure) |
 85849005,85849005 | Exteriorization of large intestine (procedure) |
-85847007,85847007 | Insertion of Vinke tongs of skull with synchronous skeletal traction (procedure) |
 85830006,85830006 | Repair of heart valve (procedure) |
 85815002,85815002 | Hypotonic duodenography (procedure) |
 85798005,85798005 | Endoscopy of urinary bladder through artificial stoma (procedure) |
@@ -6539,7 +6442,6 @@ conceptId,idAndFsnTerm
 84705009,84705009 | Repair of bilateral external ears (procedure) |
 84691002,84691002 | Removal of foreign body from maxillary sinus by Caldwell-Luc approach (procedure) |
 84673007,84673007 | Excision of preauricular lesion of ear (procedure) |
-84636009,84636009 | Rinne test (procedure) |
 84604002,84604002 | Sigmoid colectomy (procedure) |
 84575008,84575008 | Urinary bladder trigonectomy (procedure) |
 84572006,84572006 | Pleurodesis (procedure) |
@@ -6552,7 +6454,6 @@ conceptId,idAndFsnTerm
 84511005,84511005 | Electrocorticogram during surgery (regime/therapy) |
 84492002,84492002 | Radiography of nasal sinuses (procedure) |
 84482005,84482005 | Core needle biopsy of pancreas (procedure) |
-84473004,84473004 | Lateral cervical spinal canal puncture with injection (procedure) |
 84463001,84463001 | Error pattern diagnostic articulation test (procedure) |
 84456001,84456001 | Saucerization of rectum (procedure) |
 84343009,84343009 | Partial antero-latero-vertical laryngectomy (procedure) |
@@ -6606,7 +6507,6 @@ conceptId,idAndFsnTerm
 82643002,82643002 | Suture of conjunctiva (procedure) |
 82627009,82627009 | Discission of vitreous strands by anterior approach (procedure) |
 82619000,82619000 | Left colectomy (procedure) |
-82588005,82588005 | Ureteral reflux study (procedure) |
 82531008,82531008 | Open biopsy of liver (procedure) |
 82524009,82524009 | Advancement of eye muscle (procedure) |
 82499005,82499005 | Radiography of nasolacrimal duct (procedure) |
@@ -6626,7 +6526,6 @@ conceptId,idAndFsnTerm
 82262008,82262008 | Obliteration of lacrimal punctum (procedure) |
 82258002,"82258002 | Percutaneous implantation of neurostimulator electrodes, intradural (procedure) |"
 82247006,"82247006 | Coronary artery bypass with autogenous graft, five grafts (procedure) |"
-82199000,82199000 | Insertion of Gardner Wells tongs with synchronous skeletal traction (procedure) |
 82104002,82104002 | Suture of laceration of salivary gland (procedure) |
 82080007,82080007 | Sequestrectomy of facial bone (procedure) |
 82027008,82027008 | Iridectomy with filtering operation for glaucoma (procedure) |
@@ -6638,7 +6537,6 @@ conceptId,idAndFsnTerm
 81828004,81828004 | Control of epistaxis by packing of posterior and anterior nose (procedure) |
 81762006,81762006 | Double valve replacement (procedure) |
 81731007,81731007 | Excision of lesion of adrenal gland (procedure) |
-81574008,81574008 | Application of Crutchfield tongs of skull with synchronous skeletal traction (procedure) |
 81532003,81532003 | Ligation of temporal artery (procedure) |
 81516001,81516001 | Partial nephrectomy (procedure) |
 81451007,81451007 | Donaldson stereophotography (procedure) |
@@ -6728,7 +6626,6 @@ conceptId,idAndFsnTerm
 78790009,78790009 | Exploration of auditory nerve (procedure) |
 78788008,78788008 | Excision of cusp of aortic valve (procedure) |
 78711007,78711007 | Doppler flow mapping of heart (procedure) |
-78635008,78635008 | Repositioning of aberrant renal vessels (procedure) |
 78611003,78611003 | Z-plasty of epicanthus (procedure) |
 78603008,78603008 | Biopsy of lung (procedure) |
 78585009,78585009 | Transurethral electroresection of neck of urinary bladder (procedure) |
@@ -6766,7 +6663,6 @@ conceptId,idAndFsnTerm
 77636006,77636006 | Creation of lesion of spinal cord by stereotactic method (procedure) |
 77623006,77623006 | Excision of tracheal tumor by cervical approach (procedure) |
 77579004,"77579004 | Prefabricated stainless steel crown, primary tooth (procedure) |"
-77570000,77570000 | Major thoracotomy with removal of intrapleural foreign body (procedure) |
 77543007,77543007 | Ligation of fallopian tube (procedure) |
 77531006,77531006 | Repair of mastoid antrum or cavity (procedure) |
 77464009,77464009 | Submucous resection of vocal cord (procedure) |
@@ -6879,10 +6775,8 @@ conceptId,idAndFsnTerm
 73536002,73536002 | Myotomy of colon (procedure) |
 73499009,73499009 | Atticotomy of ear (procedure) |
 73380001,73380001 | Repair of laceration of urinary bladder by suture (procedure) |
-73341009,73341009 | Removal of ectopic fetus from ovary without oophorectomy (procedure) |
 73282006,73282006 | Esophagoscopy for injection of esophageal varices (procedure) |
 73269003,73269003 | Complete excision of vagina (procedure) |
-73257006,73257006 | Peritoneal dialysis catheter maintenance (procedure) |
 73207003,73207003 | Reconstruction otoplasty of cartilage of ear (procedure) |
 73186002,73186002 | Transplantation of hair follicles of eyebrow (procedure) |
 73070007,73070007 | Destruction of lesion of choroid by cryotherapy (procedure) |
@@ -6936,7 +6830,6 @@ conceptId,idAndFsnTerm
 71309007,71309007 | Closure of enterostomy (procedure) |
 71273005,71273005 | Partial hepatectomy (procedure) |
 71212008,71212008 | Manipulation of adrenal gland (procedure) |
-71192002,71192002 | Peritoneal dialysis (procedure) |
 71184006,71184006 | Resection of extraocular muscle with advancement or recession of other eye muscle (procedure) |
 71145001,71145001 | Suture of esophagus (procedure) |
 71140006,71140006 | Release of median arcuate ligament (procedure) |
@@ -6988,7 +6881,6 @@ conceptId,idAndFsnTerm
 69717003,69717003 | Incision and drainage of submandibular space by intraoral approach (procedure) |
 69685005,69685005 | Repair of tricuspid valve with prosthesis (procedure) |
 69645004,69645004 | Excision of intranasal lesion by external approach (procedure) |
-69621003,69621003 | Surgical treatment of missed abortion of third trimester (procedure) |
 69579007,69579007 | Closed transventricular pulmonary valve commissurotomy (procedure) |
 69556006,69556006 | Otonecrectomy of inner ear (procedure) |
 69538006,69538006 | Excision of diverticulum of ampulla of Vater (procedure) |
@@ -7155,7 +7047,6 @@ conceptId,idAndFsnTerm
 63820007,63820007 | Biopsy of floor of mouth (procedure) |
 63816008,"63816008 | Hepatectomy, total left lobectomy (procedure) |"
 63670007,"63670007 | Myocardial imaging for infarct, planar technique (procedure) |"
-63633003,63633003 | Open ureteral meatotomy (procedure) |
 63506005,63506005 | Destruction of lesion of choroid by radiation therapy (procedure) |
 63469004,63469004 | Obstetric cephalometry (procedure) |
 63429000,"63429000 | Excision of aural glomus tumor, transcanal (procedure) |"
@@ -7168,7 +7059,6 @@ conceptId,idAndFsnTerm
 63145008,63145008 | Repair of nasal septal perforation (procedure) |
 63105004,63105004 | Insulin shock therapy (procedure) |
 63091003,63091003 | Secondary sialodochoplasty (procedure) |
-63077009,63077009 | Implantation of blood vessels into myocardium (procedure) |
 63065004,63065004 | Esophagoscopy for removal of foreign body (procedure) |
 63044005,63044005 | Removal of foreign body from ear with incision (procedure) |
 63027006,63027006 | Exploration of tympanic cavity by transtympanic route (procedure) |
@@ -7178,13 +7068,11 @@ conceptId,idAndFsnTerm
 62990005,62990005 | Repair of chordae tendineae (procedure) |
 62935003,62935003 | Incision of cornea (procedure) |
 62843007,62843007 | Manipulation of lung (procedure) |
-62820003,"62820003 | Correction of tetralogy of Fallot, one-stage (procedure) |"
 62786001,"62786001 | Restoration, inlay, composite/resin (procedure) |"
 62756008,62756008 | Radiologic examination of pharynx and cervical esophagus (procedure) |
 62755007,62755007 | Esophagotomy with removal of foreign body by cervical approach (procedure) |
 62706003,62706003 | Spinal percutaneous cordotomy (procedure) |
 62692004,62692004 | Partial salpingectomy (procedure) |
-62688006,62688006 | Surgical treatment of spontaneous abortion of any trimester (procedure) |
 62658002,62658002 | Magnetic resonance imaging of chest and myocardium (procedure) |
 62653006,62653006 | Suture of lacrimal canaliculus (procedure) |
 62581008,62581008 | Magnetic resonance imaging of myocardium (procedure) |
@@ -7396,7 +7284,6 @@ conceptId,idAndFsnTerm
 55278008,55278008 | Repair of mitral valve with tissue graft (procedure) |
 55272009,55272009 | Dacryocystectomy (procedure) |
 55253009,55253009 | Replacement of tricuspid valve with tissue graft (procedure) |
-55230008,55230008 | Implantation of mammary artery into ventricle (procedure) |
 55192007,55192007 | Ligation of coronary sinus (procedure) |
 55162003,55162003 | Tooth extraction (procedure) |
 55106003,55106003 | Apexcardiography (procedure) |
@@ -7499,7 +7386,6 @@ conceptId,idAndFsnTerm
 51884005,51884005 | Division of trabeculae carneae cordis (procedure) |
 51839008,51839008 | Extraction of primary membranous cataract by needling (procedure) |
 51811007,51811007 | Incision of hordeolum (procedure) |
-51767009,51767009 | Chemodenervation of extraocular muscle (procedure) |
 51740003,51740003 | Sphenoid sinusotomy with removal of polyp (procedure) |
 51733004,51733004 | Periodic oral examination (procedure) |
 51684008,51684008 | Radical subtotal resection of pancreas (procedure) |
@@ -7567,7 +7453,6 @@ conceptId,idAndFsnTerm
 49528005,49528005 | Local destruction of lesion of lung (procedure) |
 49522006,49522006 | Suture of uterus (procedure) |
 49438003,49438003 | Appendectomy with drainage (procedure) |
-49404006,49404006 | Surgical collapse of lung by destruction of phrenic nerve (procedure) |
 49288009,49288009 | Irrigation of anterior chamber of eye (procedure) |
 49276007,49276007 | Echocardiography for determining interventricular septal thickness (procedure) |
 49230008,49230008 | Endoscopy of esophagus (procedure) |
@@ -7658,7 +7543,6 @@ conceptId,idAndFsnTerm
 46697004,46697004 | Incision of zeisian gland (procedure) |
 46681009,46681009 | Cerclage of cervix during pregnancy by abdominal approach (procedure) |
 46660009,46660009 | Sacculotomy of inner ear (procedure) |
-46647003,46647003 | Excision of lesion of perirenal tissue (procedure) |
 46646007,46646007 | Exploration of eyelid (procedure) |
 46641002,46641002 | Application of eye pad (procedure) |
 46612006,46612006 | Cystometrogram (procedure) |
@@ -7940,7 +7824,6 @@ conceptId,idAndFsnTerm
 37210000,37210000 | Ligation of parotid duct (procedure) |
 37153009,37153009 | Implantation of heart valve with tissue graft (procedure) |
 37140006,37140006 | Chemical cauterization for destruction of lesion of uvula (procedure) |
-37120004,37120004 | Insertion of caliper tongs of skull with synchronous skeletal traction (procedure) |
 37073001,37073001 | Decompression of labyrinth (procedure) |
 37034001,37034001 | Ligation of arteriovenous fistula of coronary artery (procedure) |
 37032002,37032002 | Cryosurgery for destruction of lesion of uvula (procedure) |
@@ -7959,7 +7842,6 @@ conceptId,idAndFsnTerm
 36767002,36767002 | Reduction of volvulus of stomach (procedure) |
 36714002,36714002 | Ear pedicle graft preparation (procedure) |
 36691000,"36691000 | Labyrinthotomy, membranous (procedure) |"
-36635006,36635006 | Insertion of Barton tongs of skull with synchronous skeletal traction (procedure) |
 36609005,36609005 | Rhinolaryngologic examination under general anesthesia (procedure) |
 36606003,36606003 | Repair of nasal sinus (procedure) |
 36552004,36552004 | Fine needle biopsy of adrenal gland (procedure) |
@@ -8153,7 +8035,6 @@ conceptId,idAndFsnTerm
 30476003,30476003 | Barton's forceps delivery (procedure) |
 30456009,30456009 | Open heart valvuloplasty without replacement of valve (procedure) |
 30398006,30398006 | Renal calicotomy (procedure) |
-30391000,30391000 | Meatotomy of urethra (procedure) |
 30374004,30374004 | Excision of uvula (procedure) |
 30355007,30355007 | Removal of calculus of lacrimal gland by incision (procedure) |
 30273008,30273008 | Repair of neonatal diaphragmatic hernia (procedure) |
@@ -8219,7 +8100,6 @@ conceptId,idAndFsnTerm
 28337005,28337005 | Red cell survival study with splenic sequestration (procedure) |
 28304008,28304008 | Incisional biopsy of cerebral meninges (procedure) |
 28264008,28264008 | Amygdalotomy (procedure) |
-28233006,28233006 | Manual removal of retained placenta (procedure) |
 28211009,28211009 | Canal preparation and fitting of preformed dowel or post (procedure) |
 28178002,28178002 | Hepatopexy (procedure) |
 28177007,28177007 | Rectal irrigation (procedure) |
@@ -8342,7 +8222,6 @@ conceptId,idAndFsnTerm
 23835007,23835007 | Electroconvulsive therapy (procedure) |
 23805000,23805000 | Curettage of eyelid (procedure) |
 23726005,23726005 | Partial thymectomy (procedure) |
-23690002,23690002 | Abdominal thrust (procedure) |
 23676000,23676000 | Partial excision of pituitary gland by transsphenoidal approach (procedure) |
 23656006,23656006 | Incision of mouth (procedure) |
 23638006,23638006 | Electrocardiogram with maximal exercise test (procedure) |
@@ -8395,7 +8274,6 @@ conceptId,idAndFsnTerm
 21832001,21832001 | Suture of laceration of diaphragm (procedure) |
 21820000,21820000 | Open reduction of orbital floor blowout fracture by transantral approach (procedure) |
 21795006,21795006 | Endoscopic brush biopsy of rectum (procedure) |
-21789005,21789005 | Gas endarterectomy of coronary artery (procedure) |
 21756005,21756005 | Closure of rectal fistula (procedure) |
 21689000,21689000 | Endoscopy of adrenal gland (procedure) |
 21685006,"21685006 | Ocular photography for medical evaluation and documentation, stereophotography (procedure) |"
@@ -8424,7 +8302,6 @@ conceptId,idAndFsnTerm
 20816008,20816008 | Esophageal manometry (procedure) |
 20579004,20579004 | Cauterization of lesion of esophagus (procedure) |
 20516002,20516002 | Spinal cordotomy (procedure) |
-20504008,"20504008 | Enterostomy, delayed opening (procedure) |"
 20454000,20454000 | Aortic valve commissurotomy with inflow occlusion (procedure) |
 20384009,20384009 | Radioisotope scan of pituitary (procedure) |
 20321003,20321003 | Blepharoplasty of bilateral upper eyelids (procedure) |
@@ -8479,7 +8356,6 @@ conceptId,idAndFsnTerm
 18625004,18625004 | Low forceps delivery (procedure) |
 18590009,18590009 | Cardiac pacing (procedure) |
 18551005,18551005 | Incision of conjunctiva with drainage of cyst (procedure) |
-18489003,18489003 | Surgical treatment of missed abortion of first trimester (procedure) |
 18434001,18434001 | Irrigation of cystostomy (procedure) |
 18339007,18339007 | Reduction of prolapsed rectum under anesthesia (procedure) |
 18329001,18329001 | Fine needle biopsy of large intestine (procedure) |
@@ -8580,7 +8456,6 @@ conceptId,idAndFsnTerm
 14769009,14769009 | Tilt test (procedure) |
 14727005,14727005 | Closure of filtering bleb (procedure) |
 14690009,14690009 | Anastomosis of large intestine to rectum (procedure) |
-14684005,14684005 | Peritoneal dialysis excluding cannulation (procedure) |
 14681002,14681002 | Reimplantation of lung (procedure) |
 14622006,14622006 | Esophagoplasty by cervical approach (procedure) |
 14572004,14572004 | Repair of ovary (procedure) |
@@ -8612,7 +8487,6 @@ conceptId,idAndFsnTerm
 13769001,"13769001 | Multiple tenotomies of eye, two or more tendons (procedure) |"
 13672002,13672002 | Excision of fibrous tuberosities of dentoalveolar structures (procedure) |
 13666002,13666002 | Leukotomy (procedure) |
-13642008,13642008 | Transection of aberrant renal vessels (procedure) |
 13529000,13529000 | Nasal septoplasty (procedure) |
 13490005,13490005 | Conchotomy (procedure) |
 13433005,13433005 | Excision of lesion of brain by transtemporal approach (procedure) |
@@ -8704,7 +8578,6 @@ conceptId,idAndFsnTerm
 10590008,10590008 | Fulguration of lesion of large intestine (procedure) |
 10522005,10522005 | Destruction of lesion of salivary gland (procedure) |
 10470002,10470002 | Electronarcosis (procedure) |
-10455003,10455003 | Removal of ectopic cervical pregnancy by evacuation (procedure) |
 10388006,10388006 | Manipulation of tissue of diaphragm (procedure) |
 10359005,10359005 | Revision of obstructed valve in cerebrospinal fluid shunt system (procedure) |
 10326007,"10326007 | Coronary artery bypass with autogenous graft, three grafts (procedure) |"
@@ -8714,7 +8587,6 @@ conceptId,idAndFsnTerm
 10199002,10199002 | Phonocardiogram with electrocardiogram lead (procedure) |
 10107006,10107006 | Duodenoduodenostomy (procedure) |
 10106002,10106002 | Core needle biopsy of kidney (procedure) |
-10090001,10090001 | Periosteotomy of facial bone (procedure) |
 10088002,10088002 | Revision of jejunoileal bypass (procedure) |
 10002003,10002003 | Resection of stomach fundus (procedure) |
 9993006,9993006 | Incision of diaphragm (procedure) |
@@ -8857,7 +8729,6 @@ conceptId,idAndFsnTerm
 5243009,5243009 | Suture of adenoid fossa (procedure) |
 5216004,5216004 | Three dimensional ultrasound imaging of heart (procedure) |
 5212002,5212002 | Excision of lesion of lacrimal gland by frontal approach (procedure) |
-5191001,5191001 | Surgical treatment of missed abortion of second trimester (procedure) |
 5119000,5119000 | Epiglottidectomy (procedure) |
 5105000,5105000 | Endoscopy of renal pelvis (procedure) |
 4987001,4987001 | Osteoplasty of cranium with flap of bone (procedure) |
@@ -8910,7 +8781,6 @@ conceptId,idAndFsnTerm
 3498003,3498003 | Total excision of pituitary gland by transsphenoidal approach (procedure) |
 3407002,3407002 | Creation of lesion of spinal cord by percutaneous method (procedure) |
 3258003,3258003 | Angiography of cerebral arteries (procedure) |
-3257008,3257008 | Empty and measure peritoneal dialysis fluid (procedure) |
 3183007,3183007 | Closure of colostomy (procedure) |
 3166003,3166003 | Closure of fistula of salivary gland (procedure) |
 3130004,3130004 | Monitoring of cardiac output by electrocardiogram (regime/therapy) |
@@ -8944,7 +8814,6 @@ conceptId,idAndFsnTerm
 2166008,2166008 | Bicuspidization of aortic valve (procedure) |
 1995001,1995001 | Stripping of cerebral meninges (procedure) |
 1871002,1871002 | Repair of aneurysm of coronary artery (procedure) |
-1870001,1870001 | Insertion of halo device of skull with synchronous skeletal traction (procedure) |
 1854003,1854003 | Incision of nose (procedure) |
 1836002,1836002 | Excision of diverticulum of ventricle of heart (procedure) |
 1801001,1801001 | Endoscopic biopsy of duodenum (procedure) |

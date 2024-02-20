@@ -2,25 +2,17 @@ conceptId,idAndFsnTerm
 711169008,711169008 | Closure of appendicovesicostomy (procedure) |
 710197007,710197007 | Ultrasonography of appendix (procedure) |
 708876004,708876004 | Laparoscopic appendectomy using robotic assistance (procedure) |
-448481005,448481005 | Removal of tube from appendix (procedure) |
 443935000,443935000 | Excision of ruptured appendix by open approach (procedure) |
 443037006,443037006 | Percutaneous drainage of abscess of appendix using computed tomography guidance (procedure) |
-440588003,440588003 | Endoscopic procedure on appendix (procedure) |
-307582003,307582003 | Drainage of appendix (procedure) |
 307581005,307581005 | Laparoscopic interval appendectomy (procedure) |
 235316007,235316007 | Malone's operation (procedure) |
-235315006,235315006 | Drainage of appendix mass (procedure) |
-235314005,235314005 | Inversion appendectomy (procedure) |
 235313004,235313004 | Non-emergency appendectomy (procedure) |
-174052001,174052001 | Drainage of appendix abscess (procedure) |
 174045003,174045003 | Interval appendectomy (procedure) |
 174041007,174041007 | Laparoscopic emergency appendectomy (procedure) |
 174039006,174039006 | Emergency excision of normal appendix (procedure) |
 174036004,174036004 | Emergency appendectomy (procedure) |
-118837004,118837004 | Procedure on appendix (procedure) |
 82730006,82730006 | Incidental excision of appendix (procedure) |
 80146002,80146002 | Excision of appendix (procedure) |
-51113007,51113007 | Lysis of adhesions of appendix (procedure) |
 49586007,49586007 | Appendicocecostomy (procedure) |
 49438003,49438003 | Appendectomy with drainage (procedure) |
 42332004,42332004 | Fistulization of appendix (procedure) |
@@ -28,7 +20,6 @@ conceptId,idAndFsnTerm
 32578005,32578005 | Biopsy of appendix (procedure) |
 17041004,17041004 | Incision of appendix (procedure) |
 13893002,13893002 | Closure of appendiceal fistula (procedure) |
-8613002,8613002 | Operation on appendix (procedure) |
 6726004,6726004 | Incision and drainage of appendiceal abscess by transabdominal approach (procedure) |
 6025007,6025007 | Laparoscopic appendectomy (procedure) |
 1299000,1299000 | Excision of appendiceal stump (procedure) |

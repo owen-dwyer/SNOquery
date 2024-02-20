@@ -1,0 +1,58 @@
+,concept_code_y,concept_name_y,opcs
+12,T36.2,Excision of lesion of omentum,T362
+315,A53.3,Creation of syringoperitoneal shunt,A533
+326,A53.4,Creation of lumboperitoneal shunt,A534
+349,H01.1,Emergency excision of abnormal appendix and drainage HFQ,H011
+350,H01.2,Emergency excision of abnormal appendix NEC,H012
+351,H01.8,Other specified emergency excision of appendix,H018
+352,H01.9,Unspecified emergency excision of appendix,H019
+353,H01,Emergency excision of appendix,H01
+362,H01.3,Emergency excision of normal appendix,H013
+382,H02.1,Interval appendicectomy,H021
+435,T19.3,Ligation of patent processus vaginalis,T193
+450,Q52.1,Excision of lesion of broad ligament of uterus,Q521
+462,Q52.2,Destruction of lesion of broad ligament of uterus,Q522
+505,T29.2,Excision of urachus,T292
+527,T33.8,Other specified open extirpation of lesion of peritoneum,T338
+528,T33.9,Unspecified open extirpation of lesion of peritoneum,T339
+529,T33,Open extirpation of lesion of peritoneum,T33
+539,T33.1,Open excision of lesion of peritoneum,T331
+553,T33.2,Open destruction of lesion of peritoneum,T332
+566,T36.3,Destruction of lesion of omentum,T363
+577,T36.4,Biopsy of lesion of omentum,T364
+586,T36.5,Creation of omental flap,T365
+595,T37.1,Excision of lesion of mesentery of small intestine,T371
+605,T37.2,Destruction of lesion of mesentery of small intestine,T372
+615,T37.3,Biopsy of lesion of mesentery of small intestine,T373
+623,T37.4,Repair of mesentery of small intestine,T374
+632,T38.1,Excision of lesion of mesentery of colon,T381
+642,T38.2,Destruction of lesion of mesentery of colon,T382
+652,T38.3,Biopsy of lesion of mesentery of colon,T383
+660,T38.4,Repair of mesentery of colon,T384
+671,T39.1,Excision of lesion of posterior peritoneum,T391
+682,T39.2,Destruction of lesion of posterior peritoneum,T392
+696,T39.3,Biopsy of lesion of posterior peritoneum,T393
+707,T42.1,Endoscopic resection of lesion of peritoneum,T421
+723,T45.1,Image controlled percutaneous drainage of subphrenic abscess,T451
+738,T45.2,Image controlled percutaneous drainage of pelvic abscess,T452
+748,Y69.1,Harvest of omentum,Y691
+1121,X40.6,Continuous ambulatory peritoneal dialysis,X406
+1215,Q52.3,Shortening of broad ligament of uterus,Q523
+1527,P31.1,Culdoplasty,P311
+1670,T46.3,Irrigation of peritoneal cavity,T463
+1742,Q54.2,Plication of round ligament of uterus,Q542
+1793,H03.3,Exteriorisation of appendix,H033
+1815,X40.5,Automated peritoneal dialysis,X405
+2131,A12.4,Creation of ventriculoperitoneal shunt,A124
+2208,H14.4,Appendicocaecostomy,H144
+2267,P31.4,Culdotomy NEC,P314
+2871,X40.2,Peritoneal dialysis NEC,X402
+3226,T36.1,Omentectomy,T361
+3302,H02.2,Planned delayed appendicectomy NEC,H022
+3303,H02.3,Prophylactic appendicectomy NEC,H023
+3304,H02.8,Other specified other excision of appendix,H028
+3305,H02.9,Unspecified other excision of appendix,H029
+3306,H02,Other excision of appendix,H02
+3342,H02.4,Incidental appendicectomy,H024
+3418,T46.1,Paracentesis abdominis for ascites,T461
+3443,L81.1,Creation of peritovenous shunt,L811

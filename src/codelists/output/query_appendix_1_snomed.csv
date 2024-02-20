@@ -37,7 +37,6 @@ conceptId,idAndFsnTerm
 359975006,359975006 | Repair of hernia cul-de-sac (procedure) |
 359902008,359902008 | Repair of abdominal sinus (procedure) |
 359688006,359688006 | Incision and drainage of cul-de-sac (procedure) |
-287853009,287853009 | Laparotomy and division of peritoneal adhesions (procedure) |
 280392009,280392009 | Shunt procedure into peritoneum (procedure) |
 276974006,276974006 | Partial omentectomy (procedure) |
 276189003,276189003 | Excision of broad ligament (procedure) |
@@ -125,7 +124,6 @@ conceptId,idAndFsnTerm
 82833003,82833003 | Culdoscopy with removal of foreign body (procedure) |
 82730006,82730006 | Incidental excision of appendix (procedure) |
 81561002,81561002 | Suture of omentum (procedure) |
-81130000,81130000 | Removal of intraligamentous ectopic pregnancy (procedure) |
 80160000,80160000 | Fine needle biopsy of uterine ligament (procedure) |
 80146002,80146002 | Excision of appendix (procedure) |
 79887000,79887000 | Excision of lesion of peritoneum (procedure) |
@@ -171,7 +169,6 @@ conceptId,idAndFsnTerm
 38147006,38147006 | Transposition of mesenteric tissue (procedure) |
 37402004,37402004 | Incision and drainage of abscess of appendix (procedure) |
 35083003,35083003 | Suture of mesentery (procedure) |
-35061002,35061002 | Control of hemorrhage of laparotomy site (procedure) |
 34538004,34538004 | Advancement of round ligament (procedure) |
 33989004,33989004 | Reattachment of uterosacral ligament (procedure) |
 33158004,33158004 | Excision of gastrocolic ligament (procedure) |

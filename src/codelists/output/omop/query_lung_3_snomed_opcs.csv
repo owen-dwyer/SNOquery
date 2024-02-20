@@ -15,18 +15,17 @@
 442,E57.3,Deflation of bulla of lung,E573
 453,E59.1,Needle biopsy of lesion of lung,E591
 465,E59.2,Aspiration biopsy of lesion of lung,E592
-484,T07.1,Decortication of pleura,T071
-755,E53.2,Single lung transplant,E532
-1105,E54.5,Partial lobectomy of lung NEC,E545
-1182,E59.5,Percutaneous radiofrequency ablation of lesion of lung,E595
-1211,E54.6,Reduction of lung volume,E546
-1373,X45.3,Donation of lobe of lung,X453
-1391,E59.3,Biopsy of lesion of lung NEC,E593
-1414,E55.4,Open destruction of lesion of lung NEC,E554
-1445,E57.4,Incision of lung NEC,E574
-1520,E54.1,Total pneumonectomy,E541
-1545,U15.2,Lung ventilation scanning NEC,U152
-1888,E53.8,Other specified transplantation of lung,E538
-1889,E53.9,Unspecified transplantation of lung,E539
-1894,E53,Transplantation of lung,E53
-1979,E57.1,Repair of lung,E571
+736,E53.2,Single lung transplant,E532
+1086,E54.5,Partial lobectomy of lung NEC,E545
+1163,E59.5,Percutaneous radiofrequency ablation of lesion of lung,E595
+1192,E54.6,Reduction of lung volume,E546
+1347,X45.3,Donation of lobe of lung,X453
+1365,E59.3,Biopsy of lesion of lung NEC,E593
+1388,E55.4,Open destruction of lesion of lung NEC,E554
+1419,E57.4,Incision of lung NEC,E574
+1464,E54.1,Total pneumonectomy,E541
+1489,U15.2,Lung ventilation scanning NEC,U152
+1832,E53.8,Other specified transplantation of lung,E538
+1833,E53.9,Unspecified transplantation of lung,E539
+1838,E53,Transplantation of lung,E53
+1923,E57.1,Repair of lung,E571

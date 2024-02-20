@@ -1,63 +1,49 @@
 ,concept_code_y,concept_name_y,opcs
-514,32.1,Other excision of bronchus,32.1
-887,32.9,Other excision of lung,32.9
-1488,32.4,Lobectomy of lung,32.4
-1489,32.49,Other lobectomy of lung,32.49
-1533,32.3,Segmental resection of lung,32.3
-1534,32.30,Thoracoscopic segmental resection of lung,32.30
-1535,32.39,Other and unspecified segmental resection of lung,32.39
-1972,39.21,Caval-pulmonary artery anastomosis,39.21
-2285,34.51,Decortication of lung,34.51
-2286,34.52,Thoracoscopic decortication of lung,34.52
-2365,33.92,Ligation of bronchus,33.92
-2736,33.28,Open biopsy of lung,33.28
-3033,33.51,Unilateral lung transplantation,33.51
-3045,33.52,Bilateral lung transplantation,33.52
-3183,35.94,Creation of conduit between atrium and pulmonary artery,35.94
-4182,33.27,Closed endoscopic biopsy of lung,33.27
-4199,89.63,Pulmonary artery pressure monitoring,89.63
-4226,32.50,Thoracoscopic pneumonectomy,32.50
-4341,32.0,Local excision or destruction of lesion or tissue of bronchus,32.0
-4342,32.01,Endoscopic excision or destruction of lesion or tissue of bronchus,32.01
-4343,32.09,Other local excision or destruction of lesion or tissue of bronchus,32.09
-4344,33.78,Endoscopic removal of bronchial device(s) or substances,33.78
-4345,33.98,Other operations on bronchus,33.98
-4401,33.24,Closed [endoscopic] biopsy of bronchus,33.24
-4521,33.91,Bronchial dilation,33.91
-4647,33.26,Closed [percutaneous] [needle] biopsy of lung,33.26
-4769,33.43,Closure of laceration of lung,33.43
-4926,33.6,Combined heart-lung transplantation,33.6
-5163,32.2,Local excision or destruction of lesion or tissue of lung,32.2
-5164,32.28,Endoscopic excision or destruction of lesion or tissue of lung,32.28
-5165,32.29,Other local excision or destruction of lesion or tissue of lung,32.29
-5166,33.99,Other operations on lung,33.99
-5380,33.41,Suture of laceration of bronchus,33.41
-5494,89.64,Pulmonary artery wedge monitoring,89.64
-5830,32.22,Lung volume reduction surgery,32.22
-6350,92.15,Pulmonary scan,92.15
-6638,32.20,Thoracoscopic excision of lesion or tissue of lung,32.20
-6681,35.92,Creation of conduit between right ventricle and pulmonary artery,35.92
-7038,32.23,Open ablation of lung lesion or tissue,32.23
-7039,32.24,Percutaneous ablation of lung lesion or tissue,32.24
-7040,32.25,Thoracoscopic ablation of lung lesion or tissue,32.25
-7041,32.26,Other and unspecified ablation of lung lesion or tissue,32.26
-7062,32.21,Plication of emphysematous bleb,32.21
-7085,33.1,Incision of lung,33.1
-7150,33.0,Incision of bronchus,33.0
-7162,33.31,Destruction of phrenic nerve for collapse of lung,33.31
-7186,32.5,Pneumonectomy,32.5
-7187,32.59,Other and unspecified pneumonectomy,32.59
-7317,87.31,Endotracheal bronchogram,87.31
-7330,33.25,Open biopsy of bronchus,33.25
-7681,33.20,Thoracoscopic lung biopsy,33.20
-7915,32.27,"Bronchoscopic bronchial thermoplasty, ablation of airway smooth muscle",32.27
-8018,33.48,Other repair and plastic operations on bronchus,33.48
-8138,33.71,"Endoscopic insertion or replacement of bronchial valve(s), single lobe",33.71
-8144,33.73,"Endoscopic insertion or replacement of bronchial valve(s), multiple lobes",33.73
-8257,32.41,Thoracoscopic lobectomy of lung,32.41
-8459,33.42,Closure of bronchial fistula,33.42
-8595,88.43,Arteriography of pulmonary arteries,88.43
-8777,33.5,Lung transplant,33.5
-8778,33.50,"Lung transplantation, not otherwise specified",33.50
-8849,33.49,Other repair and plastic operations on lung,33.49
-8922,33.93,Puncture of lung,33.93
+132,32.1,Other excision of bronchus,32.1
+496,32.9,Other excision of lung,32.9
+1067,32.4,Lobectomy of lung,32.4
+1068,32.49,Other lobectomy of lung,32.49
+1112,32.3,Segmental resection of lung,32.3
+1113,32.30,Thoracoscopic segmental resection of lung,32.30
+1114,32.39,Other and unspecified segmental resection of lung,32.39
+1385,39.21,Caval-pulmonary artery anastomosis,39.21
+1688,33.92,Ligation of bronchus,33.92
+2045,33.28,Open biopsy of lung,33.28
+2305,33.51,Unilateral lung transplantation,33.51
+2317,33.52,Bilateral lung transplantation,33.52
+2389,35.94,Creation of conduit between atrium and pulmonary artery,35.94
+3170,33.27,Closed endoscopic biopsy of lung,33.27
+3187,89.63,Pulmonary artery pressure monitoring,89.63
+3214,32.50,Thoracoscopic pneumonectomy,32.50
+3315,33.24,Closed [endoscopic] biopsy of bronchus,33.24
+3411,33.91,Bronchial dilation,33.91
+3537,33.26,Closed [percutaneous] [needle] biopsy of lung,33.26
+3627,33.43,Closure of laceration of lung,33.43
+3784,33.6,Combined heart-lung transplantation,33.6
+4104,33.41,Suture of laceration of bronchus,33.41
+4197,89.64,Pulmonary artery wedge monitoring,89.64
+4468,32.22,Lung volume reduction surgery,32.22
+4884,92.15,Pulmonary scan,92.15
+5172,32.20,Thoracoscopic excision of lesion or tissue of lung,32.20
+5215,35.92,Creation of conduit between right ventricle and pulmonary artery,35.92
+5549,32.23,Open ablation of lung lesion or tissue,32.23
+5550,32.24,Percutaneous ablation of lung lesion or tissue,32.24
+5551,32.25,Thoracoscopic ablation of lung lesion or tissue,32.25
+5552,32.26,Other and unspecified ablation of lung lesion or tissue,32.26
+5573,32.21,Plication of emphysematous bleb,32.21
+5596,33.1,Incision of lung,33.1
+5632,33.0,Incision of bronchus,33.0
+5653,32.5,Pneumonectomy,32.5
+5654,32.59,Other and unspecified pneumonectomy,32.59
+5784,87.31,Endotracheal bronchogram,87.31
+5797,33.25,Open biopsy of bronchus,33.25
+6101,33.20,Thoracoscopic lung biopsy,33.20
+6324,32.27,"Bronchoscopic bronchial thermoplasty, ablation of airway smooth muscle",32.27
+6409,33.48,Other repair and plastic operations on bronchus,33.48
+6636,32.41,Thoracoscopic lobectomy of lung,32.41
+6818,33.42,Closure of bronchial fistula,33.42
+6936,88.43,Arteriography of pulmonary arteries,88.43
+7118,33.5,Lung transplant,33.5
+7119,33.50,"Lung transplantation, not otherwise specified",33.50
+7190,33.49,Other repair and plastic operations on lung,33.49
+7263,33.93,Puncture of lung,33.93

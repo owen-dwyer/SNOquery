@@ -1,0 +1,265 @@
+concept_id,concept_text
+89305009,Abdominal paracentesis
+34538004,Advancement of round ligament
+14197006,Alexander-Adams operation on uterine ligaments
+448143009,Anterior resection of rectum and total excision of mesorectum
+80146002,Appendicectomy
+49438003,Appendicectomy with drainage
+49586007,Appendicocaecostomy
+238294008,Application of haemostatic agent to peritoneal cavity
+428648006,Automated peritoneal dialysis
+32578005,Biopsy of appendix
+5738003,Biopsy of cul-de-sac
+177976002,Biopsy of lesion of mesentery of colon
+177969007,Biopsy of lesion of mesentery of small intestine
+177961005,Biopsy of lesion of omentum
+238305001,Biopsy of lesion of peritoneal cavity
+177983009,Biopsy of lesion of posterior peritoneum
+39258002,Biopsy of mesentery
+17444001,Biopsy of omentum
+29481005,Biopsy of peritoneum
+68748002,Biopsy of uterine ligament
+45669002,Cardio-omentopexy
+54080001,Cauterisation of broad ligament
+83416007,Cauterisation of round ligament
+224316005,Cauterisation of uterosacral ligament
+225230008,Chronic peritoneal dialysis
+13893002,Closure of appendiceal fistula
+711169008,Closure of appendicovesicostomy
+89529003,Coffey operation on uterus
+238318009,Continuous ambulatory peritoneal dialysis
+238319001,Continuous cycling peritoneal dialysis
+168817000,Contrast radiography of peritoneal cavity
+45195004,Core needle biopsy of uterine ligament
+71382001,Creation of cutaneoperitoneal fistula
+699796007,Creation of cystoperitoneal shunt
+72741000,Creation of lumbar subarachnoid-peritoneal shunt with laminectomy
+171757002,Creation of lumboperitoneal shunt
+177962003,Creation of omental flap
+8979005,Creation of peritoneal-venous shunt
+709112001,Creation of pleuroperitoneal shunt
+230816002,Creation of subdural-peritoneal shunt
+171755005,Creation of thecoperitoneal shunt
+709655003,CT guided aspiration of peritoneum
+709633006,CT guided biopsy of peritoneum
+431946006,CT peritoneography
+1204380007,Culdoscopy with biopsy
+1204379009,Culdoscopy with biopsy and lysis of adhesions
+69498006,Culdoscopy with lysis of adhesions
+1208411005,Culdoscopy with occlusion of bilateral fallopian tubes
+82833003,Culdoscopy with removal of foreign body
+238303008,Debridement of lesion of peritoneum
+361176008,Denervation of uterosacral nerves
+177056005,Destruction of lesion of broad ligament of uterus
+15395004,Destruction of lesion of cul-de-sac
+177975003,Destruction of lesion of mesentery of colon
+177968004,Destruction of lesion of mesentery of small intestine
+177960006,Destruction of lesion of omentum
+238304002,Destruction of lesion of peritoneum
+177982004,Destruction of lesion of posterior peritoneum
+69272002,Destruction of peritoneal tissue
+177064004,Diathermy of lesion of uterosacral ligament
+54017006,Division of uterosacral ligament
+223306006,Electrocoagulation of broad ligament
+30172007,Electrocoagulation of round ligament
+55281003,Electrocoagulation of uterosacral ligament
+174036004,Emergency appendicectomy
+174039006,Emergency excision of normal appendix
+3257008,Empty and measure peritoneal dialysis fluid
+58277002,Endometrectomy of cul-de-sac
+177993002,Endoscopic resection of lesion of peritoneum
+177063005,Endoscopic suspension of uterus
+1220539004,Endoscopic ultrasonography of peritoneum
+1220540002,Endoscopic ultrasonography of peritoneum and biopsy of intraabdominal organ
+1220605009,Endoscopic ultrasonography of peritoneum and biopsy of lesion of peritoneum
+67976002,Endoscopy of cul-de-sac
+53829005,Evacuation of pelvic blood clot by culdocentesis
+120176001,Excision from mesentery
+1299000,Excision of appendiceal stump
+276189003,Excision of broad ligament
+42349006,Excision of cyst of broad ligament
+238299003,Excision of cyst of mesentery
+238245008,Excision of cyst of urachus
+46852006,Excision of falciform ligament
+33158004,Excision of gastrocolic ligament
+177055009,Excision of lesion of broad ligament of uterus
+2199005,Excision of lesion of cul-de-sac
+64772004,Excision of lesion of mesentery
+177974004,Excision of lesion of mesentery of colon
+177967009,Excision of lesion of mesentery of small intestine
+11291002,Excision of lesion of omentum
+79887000,Excision of lesion of peritoneum
+177981006,Excision of lesion of posterior peritoneum
+47045001,Excision of lesion of round ligament
+214173000,Excision of lesion of uterine ligament
+11878008,Excision of lesion of uterosacral ligament
+238244007,Excision of patent urachus
+87102007,Excision of round ligament
+443935000,Excision of ruptured appendix by open approach
+238241004,Excision of sinus of urachus
+38615002,Excision of subfascial abdominal wall tumour
+36897004,Excision of urachal cyst with umbilical hernia repair
+238237003,Excision of urachal fistula
+177923007,Excision of urachus
+71225000,Excision of uterine ligament
+65542000,Excision of uterosacral ligament
+41808002,Excision of vaginal cul-de-sac
+430105009,Fine needle aspiration biopsy of mesentery
+430104008,Fine needle aspiration biopsy of peritoneum
+373647002,Fine needle aspiration of lesion of peritoneal cavity
+80160000,Fine needle biopsy of uterine ligament
+42332004,Fistulisation of appendix
+65995008,Fixation of cardinal ligament
+432654009,Fluoroscopy guided insertion of peritoneal dialysis catheter
+716562007,Fluoroscopy guided removal of tunnelled peritoneal drain from peritoneal cavity
+439864002,Focused assessment with ultrasonography for trauma
+22619006,Frommel operation on uterine ligaments
+76066005,Gilliam operation on uterus
+85503007,Grafting of omentum to myocardium
+180850006,Harvest of omentum
+1197602000,High ligation of patent processus vaginalis
+43426004,Hydrocelectomy of canal of Nuck
+28523002,Hydrocelectomy of processus vaginalis
+178005004,Image controlled percutaneous drainage of subphrenic abscess
+708680006,Imaging guided percutaneous drainage of peritoneum
+708701002,Imaging guided percutaneous fine needle aspiration biopsy of peritoneum
+82730006,Incidental appendicectomy
+37402004,Incision and drainage of abscess of appendix
+6726004,Incision and drainage of appendiceal abscess by transabdominal approach
+359688006,Incision and drainage of cul-de-sac
+25187007,Incision and drainage of omental abscess
+387824007,Incision and drainage of subdiaphragmatic abscess
+387826009,Incision and drainage of subphrenic space
+112913008,Incision and exploration of cul-de-sac
+73910002,Incision and exploration of subdiaphragmatic space
+17041004,Incision of appendix
+56168005,Incision of cul-de-sac
+76359002,Incision of haematoma of broad ligament
+120174003,Incision of mesentery
+66513002,Incision of omentum
+41457005,Incision of peritoneum
+44366009,Incision of urachal cyst or sinus
+112920001,Incisional biopsy of uterine ligament
+443041005,Insertion of permanent drainage catheter into peritoneal cavity using radiologic guidance
+698973009,Insertion of programmable cystoperitoneal shunt of brain
+238321006,Intermittent peritoneal dialysis
+174045003,Interval appendicectomy
+6025007,Laparoscopic appendicectomy
+450502006,Laparoscopic biopsy of lesion of omentum
+708628002,Laparoscopic biopsy of lesion of peritoneum
+63343006,Laparoscopic biopsy of uterine ligaments
+174041007,Laparoscopic emergency appendicectomy
+307581005,Laparoscopic interval appendicectomy
+708819001,Laparoscopic omentectomy
+1263716008,Laparoscopic plication of uterosacral ligament
+1163275000,Laparoscopic radical amputation of cervix uteri
+450435004,Laparoscopy and peritoneal lavage
+708647004,Laparotomy with biopsy of omentum
+708646008,Laparotomy with biopsy of peritoneum
+440041009,Laparotomy with removal of gastric stimulation electrodes from lesser curvature of stomach
+440189003,Laparotomy with replacement of gastric stimulation electrodes from lesser curvature
+176456009,Ligation/excision of patent processus vaginalis
+448474003,Low anterior resection of rectum and total excision of mesorectum
+235316007,Malone's operation
+82418001,Manchester operation on uterus
+28301000,Manchester-Fothergill operation on uterus
+38748006,McCall culdoplasty
+85472003,Mesenteriopexy
+120184002,Mesentery closure
+120190003,Mesentery destructive procedure
+120181005,Mesentery endoscopy
+120194007,Mesentery manipulation
+120188004,Mesentery reconstruction
+274959006,Morison omentopexy
+63187005,Myomectomy of broad ligament
+238306000,Needle biopsy of lesion of peritoneal cavity
+238323009,Night-time intermittent peritoneal dialysis
+235313004,Non-emergency appendicectomy
+359981003,Obliteration of cul-de-sac
+49570000,Olshausen operation on uterus
+78384007,Omentectomy
+2745006,Omentopexy
+450635009,Open biopsy of lesion of peritoneal cavity
+798691000000100,Open biopsy of lesion of peritoneum
+116233004,Open biopsy of uterine ligament
+177942006,Open destruction of lesion of peritoneum
+177941004,Open excision of lesion of peritoneum
+177940003,Open extirpation of lesion of peritoneum
+282142006,Open ventrosuspension of uterus
+236213005,Partial cystectomy with excision of urachal remnant
+276974006,Partial omentectomy
+443037006,Percutaneous drainage of abscess of appendix using computed tomography guidance
+443016003,Percutaneous drainage of abscess of peritoneum using computed tomography guidance
+71192002,Peritoneal dialysis
+73257006,Peritoneal dialysis catheter maintenance
+14684005,Peritoneal dialysis excluding cannulation
+676002,Peritoneal dialysis including cannulation
+252892001,Peritoneal equilibration test
+387715005,Peritoneal lavage
+387716006,"Peritoneal lavage, initial"
+1219101000000100,Peritonectomy
+120183008,Peritoneum closure
+120182003,Peritoneum endoscopy
+120196009,Peritoneum manipulation
+120186000,Peritoneum reconstruction
+87053005,Plication of broad ligament
+68141001,Plication of mesentery
+40559003,Plication of round ligament
+446034008,Pneumography of peritoneal cavity
+168819002,Pneumoperitoneum - abdomen
+710313004,Radionuclide scan of peritoneal cavity
+33989004,Reattachment of uterosacral ligament
+3399007,Reduction of torsion of omentum
+443040006,Removal of permanent drainage catheter from peritoneal cavity using radiologic guidance
+359902008,Repair of abdominal sinus
+30196002,Repair of broad ligament of uterus
+236936007,Repair of broad ligament tear
+359975006,Repair of hernia cul-de-sac
+60305009,Repair of mesentery
+177977006,Repair of mesentery of colon
+177970008,Repair of mesentery of small intestine
+112980004,Repair of omental hernia
+47208000,Repair of omentum
+20357008,Repair of peritoneum
+47765003,Repair of pleuroperitoneal fistula
+359978008,Repair of pouch of Douglas
+90472003,Repair of round ligament of uterus
+174064009,Repair of uterine ligaments
+60568005,Repair of uterine ligaments by interposition
+63939001,Repair of uterine ligaments by plication
+6801000,Resection of mesentery
+708876004,Robot assisted laparoscopic appendectomy
+1264456001,Robot assisted laparoscopic omentectomy
+265083008,Shortening of broad ligament of uterus
+7171009,Shortening of round ligament of uterus
+59982008,Shortening of uterosacral ligament
+225231007,Stab peritoneal dialysis
+35603000,Subarachnoid-peritoneal spinal shunt
+66681002,Subdural-peritoneal shunt with valve
+241479003,Subphrenic US scan
+64941009,Surgical pneumoperitoneum
+59578001,Surgical pneumoperitoneum for collapse of lung
+250073009,Suture of broad ligament of uterus
+35083003,Suture of mesentery
+81561002,Suture of omentum
+78233008,Suture of peritoneum
+361168006,Suture of uterosacral ligament
+274960001,Talma omentopexy
+64861002,"Talma-Morison operation, omentopexy"
+238322004,Tidal peritoneal dialysis
+713903002,Total omentectomy
+1258871004,Transanal total mesorectal excision
+3607009,Transplantation of mesenteric tissue
+7621005,Transplantation of peritoneal tissue
+38147006,Transposition of mesenteric tissue
+120193001,Transposition of mesentery
+238307009,Transposition of omentum
+30831008,Transposition of peritoneal tissue
+275245003,Tru-cut biopsy of lesion of peritoneal cavity
+709643009,Ultrasonography guided biopsy of peritoneum
+716558001,Ultrasonography guided insertion of tunnelled peritoneal drain into peritoneal cavity
+853781000000107,Ultrasonography guided percutaneous insertion of peritoneal-amniotic shunt
+716554004,Ultrasonography guided removal of tunnelled peritoneal drain from peritoneal cavity
+710197007,Ultrasonography of appendix
+47020004,Ventriculoperitoneal shunt
+77665000,Ventrohysteropexy

@@ -5,9 +5,9 @@ library(RColorBrewer)
 library(reshape2)
 library(patchwork)
 
-matrix_length = read.csv('../visualisation/stats/length_matrix.csv') %>% melt() %>% mutate(variable = gsub('\\.',  ' ', matrix_length$variable) )
-matrix_precision = read.csv('../visualisation/stats/precision_matrix.csv') %>% melt() %>% mutate(variable = gsub('\\.',  ' ', matrix_length$variable) )
-matrix_recall = read.csv('../visualisation/stats/recall_matrix.csv') %>% melt() %>% mutate(variable = gsub('\\.',  ' ', matrix_length$variable) )
+matrix_length = read.csv('../visualisation/stats/length_matrix_uk.csv') %>% melt() %>% mutate(variable = gsub('\\.',  ' ', matrix_length$variable) )
+matrix_precision = read.csv('../visualisation/stats/precision_matrix_uk.csv') %>% melt() %>% mutate(variable = gsub('\\.',  ' ', matrix_length$variable) )
+matrix_recall = read.csv('../visualisation/stats/recall_matrix_uk.csv') %>% melt() %>% mutate(variable = gsub('\\.',  ' ', matrix_length$variable) )
   
 factor_levels <- c('lung','colorectal','glaucoma','cataract','appendix')
 matrix_length$X <- factor(matrix_length$X, levels = factor_levels)

@@ -1,53 +1,165 @@
 conceptId,idAndFsnTerm
+50080231000188105,50080231000188105 | Radiotherapy to face (procedure) |
+50080191000188103,50080191000188103 | External beam radiation therapy of bone (procedure) |
+50080181000188101,50080181000188101 | Brachytherapy of bone (procedure) |
+16554931000119102,16554931000119102 | Intravenous radionuclide therapy using radium 223 dichloride (procedure) |
+16554781000119103,16554781000119103 | Intravenous radionuclide therapy using strontium 89 (procedure) |
+1103661000000108,1103661000000108 | Radioligand therapy using lutetium (177-Lu) labeled somatostatin analog (procedure) |
 829831000000100,829831000000100 | Insertion of fiducial marker into lung using computed tomography guidance (procedure) |
+721081000124101,721081000124101 | External beam radiotherapy with abdominal compression (procedure) |
+721071000124104,721071000124104 | External beam radiotherapy with free breathing (procedure) |
+721061000124106,721061000124106 | External beam radiotherapy with respiratory gating (procedure) |
+721051000124109,721051000124109 | External beam radiotherapy with breath hold (procedure) |
+721031000124102,721031000124102 | External beam radiotherapy without respiratory motion management (procedure) |
+589631000119102,589631000119102 | Intravenous radioimmunotherapy using monoclonal antibodies (procedure) |
+427561000119104,427561000119104 | Intravenous radionuclide therapy using samarium Sm 153 lexidronam (procedure) |
+427541000119103,427541000119103 | Intravenous radionuclide therapy (procedure) |
+11331000224100,11331000224100 | Tomotherapy (procedure) |
+1297350006,1297350006 | Surface guided radiation therapy (procedure) |
+1297069006,1297069006 | Fractionated dose radiotherapy (procedure) |
+1290228009,1290228009 | Administration of antineoplastic agent via subcutaneous route (procedure) |
+1290226008,1290226008 | Administration of antineoplastic agent via intravenous route (procedure) |
+1287742003,1287742003 | Radiotherapy (procedure) |
+1287682002,1287682002 | Intraoperative external beam radiation therapy using electrons for malignant neoplasm of cecum and/or colon and/or rectum (procedure) |
+1286802009,1286802009 | External beam radiotherapy using internal target volume approach (procedure) |
+1286801002,1286801002 | Real time tumor tracking external beam radiotherapy (procedure) |
+1269317006,1269317006 | Radiotherapy to urinary bladder (procedure) |
+1264389002,1264389002 | Radiation therapy to oral cavity (procedure) |
+1263784000,1263784000 | Radioligand therapy using lutetium (177-Lu) vipivotide tetraxetan (procedure) |
+1263392007,1263392007 | Extracorporeal irradiation of tumor bearing bone and reimplantation (procedure) |
+1259200004,1259200004 | Neoadjuvant antineoplastic chemotherapy (procedure) |
+1255904006,1255904006 | Administration of palliative antineoplastic agent (procedure) |
+1255834000,1255834000 | Administration of antineoplastic chemotherapy into peritoneal cavity (procedure) |
+1255831008,1255831008 | Chemotherapy for malignant neoplastic disease using targeted agent (procedure) |
+1255359001,1255359001 | Fractionated dose stereotactic radiation therapy (procedure) |
+1254742000,1254742000 | Delayed intensification antineoplastic therapy regimen (regime/therapy) |
+1254741007,1254741007 | Intensification antineoplastic therapy regimen (regime/therapy) |
+1204242009,1204242009 | External beam radiation therapy using particle scanning technique (procedure) |
+1172516002,1172516002 | High-dose chemotherapy with stem cell transplant (procedure) |
+1163157007,1163157007 | Ultra high dose rate radiotherapy (procedure) |
+1162782007,1162782007 | Three dimensional external beam radiation therapy (procedure) |
+1156530009,1156530009 | Volumetric modulated arc therapy (procedure) |
+1156529004,1156529004 | External beam radiation therapy using particle passive scattering technique (procedure) |
+1156528007,1156528007 | External beam radiation therapy using particle spot scanning technique (procedure) |
+1156526006,1156526006 | Two dimensional external beam radiation therapy (procedure) |
+1156525005,1156525005 | Mixed beam external beam radiation therapy (procedure) |
+1156524009,1156524009 | Intensity modulated external beam neutron radiation therapy (procedure) |
+1156506007,1156506007 | External beam radiation therapy using photons (procedure) |
+1156505006,1156505006 | External beam radiation therapy using carbon ions (procedure) |
+1148692008,1148692008 | Radiation therapy following chemotherapy (procedure) |
+1141994004,"1141994004 | Rituximab, cyclophosphamide, etoposide, vincristine, prednisone antineoplastic chemotherapy regimen (regime/therapy) |"
+897713009,897713009 | Antineoplastic chemoimmunotherapy (regime/therapy) |
+890093004,890093004 | Administration of multiple antineoplastic agents (procedure) |
+879915007,879915007 | Radiotherapy to bone (procedure) |
+870385001,870385001 | Hypofractionated radiation therapy (procedure) |
 870380006,870380006 | Lung ultrasound surface wave elastography (procedure) |
+870250004,"870250004 | Fluorouracil, leucovorin, irinotecan and oxaliplatin antineoplastic chemotherapy regimen (regime/therapy) |"
+870249004,"870249004 | Folinic acid, fluorouracil and irinotecan antineoplastic chemotherapy regimen (regime/therapy) |"
+830156009,830156009 | Administration of hyperthermic antineoplastic agent into thoracic cavity (procedure) |
+830155008,830155008 | Administration of hyperthermic antineoplastic agent into peritoneal cavity (procedure) |
+816151001,816151001 | Administration of consolidation antineoplastic agent (procedure) |
+785707001,785707001 | Hypofractionated radiation therapy of entire breast (procedure) |
+785706005,785706005 | Hypofractionated radiation therapy of prostate (procedure) |
+782204001,782204001 | Superficial radiation therapy (procedure) |
 765042000,765042000 | Angiography of right pulmonary artery (procedure) |
 765041007,765041007 | Angiography of left pulmonary artery (procedure) |
 764864002,764864002 | Radionuclide imaging of lung ventilation using technetium (99m-Tc) technegas (procedure) |
 736974006,736974006 | Excision of middle lobe of right lung (procedure) |
 735016006,735016006 | Complete excision of right lung (procedure) |
 735015005,735015005 | Complete excision of left lung (procedure) |
+726549007,726549007 | Radioimmunoguided surgery (procedure) |
 726428009,726428009 | Lobectomy of upper lobe of right lung (procedure) |
 726427004,726427004 | Lobectomy of upper lobe of left lung (procedure) |
 726426008,726426008 | Lobectomy of lower lobe of left lung (procedure) |
 726425007,726425007 | Lobectomy of lower lobe of right lung (procedure) |
+722491009,"722491009 | Rituximab, cyclophosphamide, doxorubicin, vincristine and prednisone chemotherapy regimen (regime/therapy) |"
+722482005,"722482005 | Doxorubicin, bleomycin, vinblastine and dacarbazine chemotherapy regimen (regime/therapy) |"
+722472009,"722472009 | Rituximab, ifosfamide, carboplatin and etoposide chemotherapy regimen (regime/therapy) |"
+720379009,720379009 | Hepatic arterial infusion chemotherapy (procedure) |
+716872004,716872004 | Antineoplastic chemotherapy regimen (regime/therapy) |
+714029009,714029009 | Preoperative high dose brachytherapy (procedure) |
 713162006,713162006 | Removal of lung from cadaver donor (procedure) |
+712746000,712746000 | Total body electron beam therapy (procedure) |
+711299007,711299007 | Radiotherapy to thorax (procedure) |
 708884000,708884000 | Excision of emphysematous bleb of lung (procedure) |
 708861007,708861007 | Percutaneous cryoablation of lung (procedure) |
 708812005,708812005 | Percutaneous drainage of lung using imaging guidance (procedure) |
+703423002,703423002 | Combined chemotherapy and radiation therapy (procedure) |
 702544007,702544007 | Harvesting of lobe of lung from living donor (procedure) |
+700496000,700496000 | Postoperative administration of antineoplastic agent into peritoneal cavity (procedure) |
+473237008,473237008 | Stereotactic radiosurgery for acoustic neuroma (procedure) |
 450873006,450873006 | Plication of emphysematous bleb of lung (procedure) |
+450827009,450827009 | Induction chemotherapy (procedure) |
 450608000,450608000 | Destruction of lesion of lung (procedure) |
 450348001,450348001 | Biopsy of lesion of lung (procedure) |
+449290006,449290006 | Megavoltage radiation therapy using photons and electrons (procedure) |
 448538005,448538005 | Harvesting of lobe of lung from donor (procedure) |
 448523009,448523009 | Endoscopic ultrasonography of lung (procedure) |
+448461009,448461009 | Stereotactic radiation therapy using megavoltage radiation (procedure) |
+448385000,448385000 | Megavoltage radiation therapy using photons (procedure) |
+448294009,448294009 | External radiation therapy using superficial radiation (procedure) |
+447912004,447912004 | Fractionated dose stereotactic radiosurgery using linear accelerator system (procedure) |
+447704003,447704003 | Single dose stereotactic radiosurgery using linear accelerator system (procedure) |
+446504008,446504008 | Stereotactic destruction of lesion using gamma radiation (procedure) |
+445232009,445232009 | Boost radiation therapy (procedure) |
 443396005,443396005 | Pneumonostomy with open drainage of abscess of lung using computed tomography guidance (procedure) |
 442303003,442303003 | Deflation of lung (procedure) |
 442226007,442226007 | Partial reinflation of lung (procedure) |
+441799006,441799006 | Intensity modulated radiation therapy (procedure) |
+441783000,441783000 | Three-dimensional conformal radiation therapy (procedure) |
 441677009,441677009 | Imaging of lung (procedure) |
 441624004,441624004 | Single photon emission computed tomography of ventilation of lung (procedure) |
 440466000,440466000 | Single photon emission computed tomography of lung (procedure) |
+438629002,438629002 | High dose rate electronic brachytherapy (procedure) |
+433224001,433224001 | Radionuclide rhenium 186 hydroxyethylidene diphosphonate therapy (procedure) |
 432231006,432231006 | Fine needle aspiration biopsy of lung (procedure) |
 431430006,431430006 | Radionuclide imaging of lung for pulmonary aspiration (procedure) |
+429774000,429774000 | Radiotherapy to abdomen (procedure) |
 429609002,429609002 | Lung volume reduction surgery (procedure) |
+429584001,429584001 | Stereotactic radiosurgery of brain tissue (procedure) |
+429579007,429579007 | Radiotherapy to axilla (procedure) |
+428923005,428923005 | Radiotherapy to breast (procedure) |
+428831001,428831001 | Radiotherapy to perineum (procedure) |
+428829005,428829005 | Radiotherapy to pelvis (procedure) |
+428624002,428624002 | Radiotherapy to chest wall (procedure) |
+428416002,428416002 | Radiotherapy to neck (procedure) |
+428412000,428412000 | Radiotherapy to head (procedure) |
 427800005,427800005 | Removal of foreign body of lung by incision (procedure) |
 426987001,426987001 | Percutaneous radiofrequency ablation of lesion of lung (procedure) |
+426332009,426332009 | External beam radiation therapy to lesion of retina (procedure) |
+399042005,399042005 | Chemotherapy cycle (procedure) |
+395096001,395096001 | Stereotactic radiotherapy (procedure) |
+395075008,395075008 | Iridium wire therapy (procedure) |
+394935005,394935005 | Combined postoperative chemotherapy and radiotherapy (procedure) |
+394934009,394934009 | Combined preoperative chemotherapy and radiotherapy (procedure) |
+394895009,394895009 | Postoperative chemotherapy (procedure) |
+394894008,394894008 | Pre-operative chemotherapy (procedure) |
 387748005,387748005 | Cauterization of lung lesion (procedure) |
 387747000,387747000 | Cauterization of lung (procedure) |
+367336001,367336001 | Chemotherapy (procedure) |
+363688001,363688001 | Administration of antineoplastic agent (procedure) |
 359623004,359623004 | Total lobectomy of lung (procedure) |
 359618004,359618004 | Segmental lobectomy (procedure) |
 359615001,359615001 | Partial lobectomy of lung (procedure) |
 337877003,337877003 | Thoracotomy for excision of emphysematous bleb of lung (procedure) |
 336863008,336863008 | Excision of cyst of lung (procedure) |
+315601005,315601005 | Ambulatory chemotherapy (procedure) |
+314606007,314606007 | Postoperative course of deep X-ray therapy (procedure) |
+314605006,314605006 | Preoperative course of deep X-ray therapy (procedure) |
+314604005,314604005 | Palliative course of deep X-ray therapy (procedure) |
+312248006,312248006 | Heavy ion external beam radiation therapy (procedure) |
 310394000,310394000 | Stapling of lung laceration (procedure) |
 310393006,310393006 | Suture of lung laceration (procedure) |
 303931008,303931008 | Lung X-ray (procedure) |
+300976007,300976007 | Radiotherapy to lesion of canthus (procedure) |
 287465001,287465001 | Percutaneous needle biopsy lung (procedure) |
 287310004,287310004 | Lung tumor excision (procedure) |
 287309009,287309009 | Lung cyst removal (procedure) |
 287298008,287298008 | Lung plastic operation (procedure) |
 274319000,274319000 | Needle biopsy of lung (procedure) |
+266719004,266719004 | Oral chemotherapy (procedure) |
 266701008,266701008 | Lung collapse prevention (procedure) |
+265761001,265761001 | Intramuscular chemotherapy (procedure) |
 261566003,261566003 | Tangential pulmonary artery resection (procedure) |
 261563006,261563006 | Sleeve pulmonary artery resection (procedure) |
 241616006,241616006 | Magnetic resonance imaging of lungs (procedure) |
@@ -91,6 +203,31 @@ conceptId,idAndFsnTerm
 232632009,232632009 | Wedge excision of lung (procedure) |
 232631002,232631002 | Enucleation of lung lesion (procedure) |
 232628003,232628003 | Open biopsy of lung (procedure) |
+231764006,231764006 | Radiotherapy to retina (procedure) |
+231737005,231737005 | Radiotherapy to ciliary body (procedure) |
+231596001,231596001 | Radiotherapy to lesion of eyelid (procedure) |
+231585009,231585009 | Radiotherapy to lesion of lateral canthus (procedure) |
+231568007,231568007 | Radiotherapy to lesion of medial canthus (procedure) |
+231544004,231544004 | Radiotherapy to orbital lesion (procedure) |
+230914000,230914000 | Stereotactic radiosurgery of intracranial cavernous angioma (procedure) |
+230913006,230913006 | Stereotactic radiosurgery of intracranial venous malformation (procedure) |
+230912001,230912001 | Stereotactic radiosurgery of intracranial arteriovenous malformation (procedure) |
+230911008,230911008 | Stereotactic radiosurgery of lesion of intracranial vasculature (procedure) |
+230857009,230857009 | Injection of chemotherapeutic substance into subcutaneous reservoir (procedure) |
+228676000,228676000 | Hiletron neutron external beam radiation therapy (procedure) |
+228675001,228675001 | Deuterium on tritium neutron external beam radiation therapy (procedure) |
+228674002,228674002 | Cyclotron neutron external beam radiation therapy (procedure) |
+228673008,228673008 | Strontium 90 electron external beam radiation therapy (procedure) |
+228672003,228672003 | Microtron electron external beam radiation therapy (procedure) |
+228671005,228671005 | Linear accelerator electron external beam radiation therapy (procedure) |
+228667007,228667007 | Stereotactic cobalt external beam radiation therapy (procedure) |
+228666003,228666003 | External beam radiation therapy with dual headed cobalt unit (procedure) |
+228664000,228664000 | Van der Graaff X-ray therapy (procedure) |
+228663006,228663006 | Microtron X-ray therapy (procedure) |
+228662001,228662001 | Betatron X-ray therapy (procedure) |
+228661008,228661008 | Grenz ray therapy (procedure) |
+228660009,228660009 | Contact therapy (procedure) |
+182975000,182975000 | Tuberculosis chemotherapy (procedure) |
 173191000,173191000 | Aspiration biopsy of lesion of lung (procedure) |
 173190004,173190004 | Needle biopsy of lesion of lung (procedure) |
 173185002,173185002 | Deflation of bulla of lung (procedure) |
@@ -102,6 +239,45 @@ conceptId,idAndFsnTerm
 173172000,173172000 | Excision of segment of lung (procedure) |
 173171007,173171007 | Lobectomy of lung (procedure) |
 173170008,173170008 | Bilobectomy of lung (procedure) |
+172408001,172408001 | Radiotherapy of corneal lesion (procedure) |
+172286002,172286002 | Radiotherapy to lacrimal gland (procedure) |
+171809001,171809001 | Radiotherapy to lesion of peripheral nerve (procedure) |
+171765004,171765004 | Intrathecal injection of chemotherapeutic agent (procedure) |
+169407006,169407006 | Radiosensitizing measure (procedure) |
+169403005,169403005 | Radiochemotherapy: into cavity (procedure) |
+169402000,169402000 | Radiochemotherapy: local artery (procedure) |
+169401007,169401007 | Radiochemotherapy: for immunosuppression (procedure) |
+169400008,169400008 | Radiochemotherapy via intravenous route (procedure) |
+169399001,169399001 | Radiochemotherapy via oral route (procedure) |
+169398009,169398009 | Radiochemotherapy: to stop spread (procedure) |
+169397004,169397004 | Radiochemotherapy: local infiltration (procedure) |
+169396008,169396008 | Radiomimetic chemotherapy (procedure) |
+169336005,169336005 | External beam radiation therapy with chemotherapy (procedure) |
+169335009,169335009 | External beam - surgery with chemotherapy (procedure) |
+169334008,169334008 | External beam - surgery with postoperative radiotherapy (procedure) |
+169333002,169333002 | External beam - surgery with preoperative radiotherapy (procedure) |
+169332007,169332007 | External beam radiation therapy with internal radiotherapy (procedure) |
+169331000,169331000 | Combined radiotherapy (procedure) |
+169318005,169318005 | Fast neutron therapy (procedure) |
+169317000,169317000 | Neutron capture therapy (procedure) |
+169315008,169315008 | Deuteron therapy (procedure) |
+169314007,169314007 | Proton therapy (procedure) |
+169311004,169311004 | Positron therapy (procedure) |
+169310003,169310003 | Betatron electron therapy (procedure) |
+169309008,169309008 | Linear accelerator electrons (procedure) |
+169307005,169307005 | Fast-electron therapy (procedure) |
+169304003,169304003 | Van der Graaff photon therapy (procedure) |
+169303009,169303009 | Betatron photon therapy (procedure) |
+169302004,169302004 | Linear accelerator photon therapy (procedure) |
+169301006,169301006 | High-energy beam therapy (procedure) |
+169298007,169298007 | Intracavitary X-ray therapy (procedure) |
+169297002,169297002 | Short distance X-ray therapy (procedure) |
+169296006,169296006 | Ultrahard X-rays 400-2000 kV (procedure) |
+169295005,169295005 | Deep X-ray therapy 150-400 kV (procedure) |
+169294009,169294009 | Half-deep therapy 60-150 kV (procedure) |
+169293003,169293003 | Superficial X-ray therapy 10-60 kV (procedure) |
+169292008,169292008 | Grenz ray therapy up to 10 kV (procedure) |
+169291001,169291001 | X-ray beam therapy (procedure) |
 169142004,169142004 | Isotope static scan lung (procedure) |
 169115000,169115000 | Photofluorography of lungs (procedure) |
 169091007,169091007 | Stereotactic/stereoscopic test - lungs (procedure) |
@@ -109,31 +285,83 @@ conceptId,idAndFsnTerm
 169057008,169057008 | Kymography - lungs (procedure) |
 169021003,169021003 | Fluoroscopy and radiography - lungs (procedure) |
 169003001,169003001 | Fluoroscopy - lungs (procedure) |
+168528006,168528006 | Palliative course of radiotherapy (procedure) |
+168527001,168527001 | Radiotherapy for inflammation (procedure) |
+168526005,168526005 | Radiotherapy for analgesia (procedure) |
+168525009,168525009 | Postoperative course of radiotherapy (procedure) |
+168524008,168524008 | Radiotherapy - intraoperative control (procedure) |
+168523002,168523002 | Preoperative course of radiotherapy (procedure) |
+168522007,168522007 | Radiotherapy for lymphatic irradiation (procedure) |
+168521000,168521000 | Radiotherapy for hemopoietic irradiation (procedure) |
+168520004,168520004 | Radiotherapy for immunosuppression (procedure) |
 119756006,119756006 | Lung destructive procedure (procedure) |
 119755005,119755005 | Lung reconstruction (procedure) |
 119753003,119753003 | Lung closure (procedure) |
 119746007,119746007 | Lung excision (procedure) |
+118640001,118640001 | Radioimmunotherapy (procedure) |
 116030005,116030005 | Wedge biopsy of lung (procedure) |
+115960007,115960007 | Total skin electron beam therapy (procedure) |
+115959002,115959002 | Stereotactic radiosurgery (procedure) |
+113117004,113117004 | External beam radiation therapy particulate radiation (procedure) |
 90249002,90249002 | Pneumocentesis (procedure) |
 89862001,89862001 | Repair of lung (procedure) |
 88628008,88628008 | Ultrasonography of lung (procedure) |
 88039007,88039007 | Transplant of lung (procedure) |
+87776000,87776000 | Intra-arterial infusion of antineoplastic agent (procedure) |
 87674005,"87674005 | Pulmonary ventilation study, total (procedure) |"
 86811003,"86811003 | Pulmonary ventilation study, aerosol (procedure) |"
+85257004,85257004 | Destruction of chorioretinal lesion by radiation therapy (procedure) |
+83794005,83794005 | Extracorporeal photopheresis (procedure) |
 82651004,82651004 | Suture of lung (procedure) |
+80347004,80347004 | External beam radiation therapy neutrons (procedure) |
 78603008,78603008 | Biopsy of lung (procedure) |
+78110003,78110003 | Destruction of lesion of choroid by implantation of radiation source (procedure) |
+77738002,77738002 | Local chemotherapy for malignant neoplasm (procedure) |
 77648009,77648009 | Excision of lesion of lung (procedure) |
+77613002,77613002 | External beam radiation therapy with iodine-125 (procedure) |
 75766009,"75766009 | Pulmonary ventilation study, gaseous (procedure) |"
+74023000,74023000 | External beam radiation therapy of 1 to 25 mega electronvolt protons (procedure) |
+70446004,70446004 | Chemotherapy administration into pleural cavity requiring thoracentesis (procedure) |
+68619000,68619000 | Chemotherapy for non-neoplastic disease (procedure) |
+65952009,65952009 | Gamma ray therapy (procedure) |
+64978007,64978007 | Radionuclide therapy for hyperthyroidism (procedure) |
+64522003,64522003 | Destruction of chorioretinal lesion by implantation of radiation source (procedure) |
+64134004,64134004 | Stereotactic focused gamma radiosurgery of cerebrum (procedure) |
+63506005,63506005 | Destruction of lesion of choroid by radiation therapy (procedure) |
+62867004,62867004 | External beam radiation therapy with radioactive cesium (procedure) |
 62843007,62843007 | Manipulation of lung (procedure) |
 57113004,57113004 | Pulmonary ventilation study (procedure) |
+51534007,51534007 | Oral chemotherapy for malignant neoplasm (procedure) |
+50632006,50632006 | Cyclotron external beam radiation therapy (procedure) |
 49795001,49795001 | Total pneumonectomy (procedure) |
 49528005,49528005 | Local destruction of lesion of lung (procedure) |
+47479005,47479005 | Total body irradiation (procedure) |
 46412002,46412002 | Apicectomy lung (procedure) |
+46044009,46044009 | Megavoltage radiation therapy (procedure) |
+45643008,45643008 | External beam radiation therapy using electrons (procedure) |
 45558009,45558009 | Incision of lung (procedure) |
 43831007,43831007 | Percutaneous core needle biopsy of lung (procedure) |
+43111005,43111005 | Destruction of lesion of retina by implantation of radiation source (procedure) |
+39646005,39646005 | Hemibody irradiation (procedure) |
+38216008,38216008 | Infusion chemotherapy for malignant neoplasm (procedure) |
+38104006,38104006 | External beam radiation therapy by linear accelerator (procedure) |
+36679009,36679009 | Vaginal cone irradiation (procedure) |
 35295005,35295005 | Percutaneous fine needle biopsy of lung (procedure) |
+33356009,33356009 | Betatron external beam radiation therapy (procedure) |
+33195004,33195004 | External beam radiation therapy procedure (procedure) |
+31652009,31652009 | Intracavitary chemotherapy for malignant neoplasm (procedure) |
+31632008,31632008 | Stereotactic focused proton beam on cerebrum (procedure) |
+29391003,29391003 | Chemotherapy administration into peritoneal cavity requiring paracentesis (procedure) |
+24977001,24977001 | Topical chemotherapy for malignant neoplasm (procedure) |
+22733003,22733003 | Chemotherapy for non-malignant neoplasm (procedure) |
 20142006,20142006 | Excision of accessory or ectopic lung tissue (procedure) |
 14681002,14681002 | Reimplantation of lung (procedure) |
 12986006,12986006 | Excision of Pancoast tumor of lung (procedure) |
+12149006,"12149006 | Chemotherapy administration, subcutaneous, with local anesthesia (procedure) |"
+10611004,10611004 | External beam radiation therapy protons (procedure) |
+10492003,10492003 | Radionuclide therapy for glandular suppression (procedure) |
+6872008,6872008 | Perfusion chemotherapy for malignant neoplasm (procedure) |
+5304008,"5304008 | Deep radiation therapy, 200-300 KVP (procedure) |"
+4114003,4114003 | Parenteral chemotherapy for malignant neoplasm (procedure) |
 3654008,3654008 | Lingulectomy of lung (procedure) |
 435001,435001 | Pulmonary inhalation study (procedure) |

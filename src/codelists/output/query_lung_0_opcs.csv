@@ -1,6 +1,8 @@
 snomed,opcs,opcs_term
+172286002,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 241226006,L133,L13.3 Arteriography of pulmonary artery
 310832007,Y263,Y26.3 Stapling of organ NOC
+395096001,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
 46412002,E544,E54.4 Excision of segment of lung
 175236000,L079,L07.9 Unspecified creation of shunt to pulmonary artery from subclavian artery using interposition tube prosthesis
 233140008,L065,L06.5 Creation of anastomosis to pulmonary artery from aorta NEC
@@ -9,78 +11,126 @@ snomed,opcs,opcs_term
 429620002,K063,K06.3 Left ventricle to aorta tunnel with right ventricle to pulmonary artery valved conduit
 232646009,E441,E44.1 Excision of carina
 432652008,E495,"E49.5 Diagnostic fibreoptic endoscopic examination of lower respiratory tract with biopsy, lavage and brush cytology of lesion of lower respiratory tract"
+169309008,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+169318005,X692,X69.2 Delivery of a fraction of total skin radiotherapy
+115960007,X692,X69.2 Delivery of a fraction of total skin radiotherapy
+47479005,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
 232622002,E473,E47.3 Repair of bronchus NEC
+228676000,Y918,Y91.8 Other specified external beam radiotherapy
 91160008,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 169003001,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 609171001,Y533,Y53.3 Approach to organ under computed tomography scan control
+172286002,X659,X65.9 Unspecified radiotherapy delivery
 442303003,E578,E57.8 Other specified other open operations on lung
 531000087106,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 173178001,E552,E55.2 Open excision of lesion of lung
+445232009,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 175236000,L071,L07.1 Creation of shunt to right pulmonary artery from right subclavian artery using interposition tube prosthesis
 287465001,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
+429774000,X657,X65.7 Delivery of radionuclide therapy NEC
+428412000,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
+428923005,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 1119345001,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+230911008,Y134,Y13.4 Radiofrequency controlled thermal destruction of lesion of organ NOC
 233137008,K178,K17.8 Other specified repair of univentricular heart
 450608000,E502,E50.2 Endoscopic laser destruction of lesion of lower respiratory tract using rigid bronchoscope
+720379009,Z376,Z37.6 Hepatic artery
+720379009,X723,X72.3 Delivery of simple parenteral chemotherapy for neoplasm at first attendance
 241293008,Y938,Y93.8 Other specified gallium-67 imaging
 53168001,Y072,Y07.2 Clipping of organ NOC
+12149006,Y823,Y82.3 Application of local anaesthetic NEC
 169021003,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
+31652009,X728,X72.8 Other specified delivery of chemotherapy for neoplasm
+428829005,X657,X65.7 Delivery of radionuclide therapy NEC
+50632006,X651,X65.1 Delivery of a fraction of total body irradiation
 241540006,Y973,Y97.3 Radiology with post contrast
+169292008,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 58074001,Y278,Y27.8 Other specified graft to organ NOC
 169115000,U215,U21.5 Contrast fluoroscopy NEC
 57113004,Y931,Y93.1 Gallium-67 imaging scan
+441783000,Y918,Y91.8 Other specified external beam radiotherapy
 175221003,L051,L05.1 Creation of shunt to main pulmonary artery from ascending aorta using interposition tube prosthesis
 53168001,Y078,Y07.8 Other specified obliteration of cavity of organ NOC
 241226006,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
+428624002,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 287306002,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
 432652008,Y532,Y53.2 Approach to organ under ultrasonic control
+1156525005,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 431430006,Y931,Y93.1 Gallium-67 imaging scan
+231764006,C823,C82.3 External beam radiotherapy to lesion of retina
 287465001,E591,E59.1 Needle biopsy of lesion of lung
+879915007,X659,X65.9 Unspecified radiotherapy delivery
 18455004,E472,E47.2 Closure of fistula of bronchus
+169296006,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 79653008,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
 43831007,E593,E59.3 Biopsy of lesion of lung NEC
 721044005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 241540006,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 169021003,Y973,Y97.3 Radiology with post contrast
+447704003,A107,A10.7 Stereotactic radiosurgery on tissue of brain
 232622002,E479,E47.9 Unspecified other open operations on bronchus
+33195004,O441,O44.1 Proton radiotherapy
+228666003,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
 233214006,L138,L13.8 Other specified transluminal operations on pulmonary artery
 53168001,T092,T09.2 Open biopsy of lesion of pleura
 4539004,E462,E46.2 Excision of cyst of bronchus
 448287006,Z245,Z24.5 Bronchus
+64522003,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
+314605006,X691,X69.1 Delivery of a fraction of hemi-body radiation
+228666003,Y918,Y91.8 Other specified external beam radiotherapy
+169298007,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 175253007,L101,L10.1 Repair of pulmonary artery using prosthesis
+12149006,Y828,Y82.8 Other specified local anaesthetic
 174882008,K182,K18.2 Creation of valved conduit between right atrium and pulmonary artery
 54057009,E495,"E49.5 Diagnostic fibreoptic endoscopic examination of lower respiratory tract with biopsy, lavage and brush cytology of lesion of lower respiratory tract"
 53168001,Y079,Y07.9 Unspecified obliteration of cavity of organ NOC
 88039007,K019,K01.9 Unspecified transplantation of heart and lung
 397396006,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
+312248006,X651,X65.1 Delivery of a fraction of total body irradiation
 397397002,E492,E49.2 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and lavage of lesion of lower respiratory tract
 448791000,E483,E48.3 Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC
+11331000224100,Y916,Y91.6 Intraoperative electron beam radiotherapy
 449550007,L067,L06.7 Takedown of anastomosis to pulmonary artery from aorta
 449549007,Z391,Z39.1 Superior vena cava
 397398007,E521,E52.1 Irrigation of bronchus NEC
 169021003,U215,U21.5 Contrast fluoroscopy NEC
 441624004,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 736974006,Z942,Z94.2 Right sided operation
+118640001,X657,X65.7 Delivery of radionuclide therapy NEC
 418876000,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 287465001,Y535,Y53.5 Approach to organ under image intensifier
 397396006,E522,E52.2 Aspiration of bronchus NEC
+314604005,X651,X65.1 Delivery of a fraction of total body irradiation
 708884000,E552,E55.2 Open excision of lesion of lung
+169310003,X651,X65.1 Delivery of a fraction of total body irradiation
 241616006,Y971,Y97.1 Radiology with pre and post contrast
 716755000,Y533,Y53.3 Approach to organ under computed tomography scan control
+77738002,X722,X72.2 Delivery of complex parenteral chemotherapy for neoplasm at first attendance
+428829005,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
+38104006,X691,X69.1 Delivery of a fraction of hemi-body radiation
 169057008,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+33195004,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
+228666003,O441,O44.1 Proton radiotherapy
 49528005,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
 20142006,E546,E54.6 Reduction of lung volume
 175267003,L132,L13.2 Percutaneous transluminal embolisation of pulmonary artery
+39646005,Y918,Y91.8 Other specified external beam radiotherapy
 82651004,Y253,Y25.3 Removal of retained suture from organ NOC
 35295005,Y539,Y53.9 Unspecified approach to organ under image control
 233213000,L109,L10.9 Unspecified repair of pulmonary artery
 243411004,Z246,Z24.6 Lung
 119755005,E578,E57.8 Other specified other open operations on lung
 84200003,Y533,Y53.3 Approach to organ under computed tomography scan control
+228666003,Y919,Y91.9 Unspecified external beam radiotherapy
+169295005,Y916,Y91.6 Intraoperative electron beam radiotherapy
 764864002,U152,U15.2 Lung ventilation scanning NEC
 233097007,K198,K19.8 Other specified creation of other cardiac conduit
 232660006,Z941,Z94.1 Bilateral operation
+228667007,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 66088009,Y939,Y93.9 Unspecified gallium-67 imaging
+169295005,X691,X69.1 Delivery of a fraction of hemi-body radiation
 169003001,Y973,Y97.3 Radiology with post contrast
+78110003,Y354,Y35.4 Introduction of radioactive substance into organ for brachytherapy NOC
 88039007,K012,K01.2 Revision of transplantation of heart and lung
 169021003,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 90249002,E598,E59.8 Other specified other operations on lung
@@ -89,12 +139,18 @@ snomed,opcs,opcs_term
 232632009,E548,E54.8 Other specified excision of lung
 450608000,E482,E48.2 Fibreoptic endoscopic laser destruction of lesion of lower respiratory tract
 82651004,Y258,Y25.8 Other specified suture of organ NOC
+45643008,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+5304008,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+169291001,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 443266003,Y939,Y93.9 Unspecified gallium-67 imaging
 441624004,Y941,Y94.1 Dopamine transporter scan
+31652009,X722,X72.2 Delivery of complex parenteral chemotherapy for neoplasm at first attendance
 287306002,E495,"E49.5 Diagnostic fibreoptic endoscopic examination of lower respiratory tract with biopsy, lavage and brush cytology of lesion of lower respiratory tract"
 441959001,L079,L07.9 Unspecified creation of shunt to pulmonary artery from subclavian artery using interposition tube prosthesis
+231737005,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 19095002,Y071,Y07.1 Ligation of organ NOC
 702544007,X453,X45.3 Donation of lobe of lung
+78110003,X658,X65.8 Other specified radiotherapy delivery
 765042000,Y536,Y53.6 Approach to organ under video control
 708861007,E598,E59.8 Other specified other operations on lung
 531000087106,U215,U21.5 Contrast fluoroscopy NEC
@@ -108,8 +164,12 @@ snomed,opcs,opcs_term
 169003001,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
 75935006,E545,E54.5 Partial lobectomy of lung NEC
 16332841000119106,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+39646005,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 75935006,E543,E54.3 Lobectomy of lung
 51230002,Y075,Y07.5 Occlusion of organ NOC
+169303009,X651,X65.1 Delivery of a fraction of total body irradiation
+446504008,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+70446004,T132,T13.2 Introduction of sclerosing substance into pleural cavity NEC
 79789005,E472,E47.2 Closure of fistula of bronchus
 175228009,L061,L06.1 Creation of aortopulmonary window
 51230002,E618,E61.8 Other specified open operations on mediastinum
@@ -117,74 +177,110 @@ snomed,opcs,opcs_term
 233137008,K173,K17.3 Aortopulmonary reconstruction with systemic to pulmonary arterial shunt
 79653008,E503,E50.3 Endoscopic destruction of lesion of lower respiratory tract using rigid bronchoscope NEC
 431430006,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
+231737005,X658,X65.8 Other specified radiotherapy delivery
 16549641000119100,E593,E59.3 Biopsy of lesion of lung NEC
 10558003,T091,T09.1 Open destruction of lesion of pleura
 21831008,E473,E47.3 Repair of bronchus NEC
 29474003,K096,K09.6 Revision of repair of defect of atrioventricular septum
 233114002,L691,L69.1 Major systemic to pulmonary collateral artery occlusion
+64134004,A107,A10.7 Stereotactic radiosurgery on tissue of brain
 233213000,L103,L10.3 Repair of anomalous pulmonary artery NEC
+447704003,Y918,Y91.8 Other specified external beam radiotherapy
+87776000,X298,X29.8 Other specified continuous Infusion of therapeutic substance
+85257004,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 444811001,Y533,Y53.3 Approach to organ under computed tomography scan control
 119744005,Y421,Y42.1 External manipulation of organ NOC
 119730004,E468,E46.8 Other specified partial extirpation of bronchus
 233071001,K183,K18.3 Creation of valved conduit between right ventricle of heart and pulmonary artery
 241304008,Y938,Y93.8 Other specified gallium-67 imaging
+78110003,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 84041000,Y402,Y40.2 Stretching of organ NOC
 19106006,E472,E47.2 Closure of fistula of bronchus
 443266003,Y938,Y93.8 Other specified gallium-67 imaging
 711415002,E548,E54.8 Other specified excision of lung
+395075008,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
+31632008,O441,O44.1 Proton radiotherapy
+169302004,X691,X69.1 Delivery of a fraction of hemi-body radiation
+230857009,A108,A10.8 Other specified other operations on tissue of brain
+720379009,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
 33639009,E543,E54.3 Lobectomy of lung
+228662001,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 736974006,E543,E54.3 Lobectomy of lung
+230914000,Y134,Y13.4 Radiofrequency controlled thermal destruction of lesion of organ NOC
 301083005,Y532,Y53.2 Approach to organ under ultrasonic control
 443266003,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 425948009,Y531,Y53.1 Approach to organ under radiological control
 11519002,G078,G07.8 Other specified repair of oesophagus
 449210005,Y132,Y13.2 Cryotherapy to lesion of organ NOC
+113117004,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 91160008,U217,U21.7 Plain x-ray NEC
 739141006,E542,E54.2 Bilobectomy of lung
 241304008,Y931,Y93.1 Gallium-67 imaging scan
 261566003,L128,L12.8 Other specified other open operations on pulmonary artery
+50632006,X691,X69.1 Delivery of a fraction of hemi-body radiation
+64134004,Y918,Y91.8 Other specified external beam radiotherapy
 175221003,L059,L05.9 Unspecified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
+722472009,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
 67244001,Y413,Y41.3 Endoscopic ultrasound examination of organ NOC
+22733003,X721,X72.1 Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance
 6521000087102,Y534,Y53.4 Approach to organ under fluoroscopic control
+428923005,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 29474003,K092,K09.2 Repair of defect of atrioventricular septum using prosthetic patch NEC
 241297009,U152,U15.2 Lung ventilation scanning NEC
 726426008,E543,E54.3 Lobectomy of lung
+6872008,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
 54057009,E483,E48.3 Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC
 169057008,Z246,Z24.6 Lung
 67244001,E578,E57.8 Other specified other open operations on lung
+445232009,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 21831008,E472,E47.2 Closure of fistula of bronchus
+231544004,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
+448461009,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 433256008,Y534,Y53.4 Approach to organ under fluoroscopic control
 398194002,E473,E47.3 Repair of bronchus NEC
 11519002,G074,G07.4 Repair of rupture of oesophagus
 29474003,K044,K04.4 Revision of repair of tetralogy of Fallot
+12149006,Y829,Y82.9 Unspecified local anaesthetic
 232633004,E548,E54.8 Other specified excision of lung
 443145004,Y942,Y94.2 Octreotide imaging
 287306002,E498,E49.8 Other specified diagnostic fibreoptic endoscopic examination of lower respiratory tract
 66088009,Y941,Y94.1 Dopamine transporter scan
 441624004,Y942,Y94.2 Octreotide imaging
 431216004,L138,L13.8 Other specified transluminal operations on pulmonary artery
+449290006,Y917,Y91.7 Electron beam radiotherapy NEC
 233209007,Y049,Y04.9 Unspecified replantation of organ NOC
+4114003,X729,X72.9 Unspecified delivery of chemotherapy for neoplasm
 447786004,L051,L05.1 Creation of shunt to main pulmonary artery from ascending aorta using interposition tube prosthesis
 287306002,E519,E51.9 Unspecified diagnostic endoscopic examination of lower respiratory tract using rigid bronchoscope
 62843007,E598,E59.8 Other specified other operations on lung
+231596001,X659,X65.9 Unspecified radiotherapy delivery
 119730004,Y051,Y05.1 Total excision of organ NOC
 765042000,Y535,Y53.5 Approach to organ under image intensifier
 241304008,Y939,Y93.9 Unspecified gallium-67 imaging
+182975000,X373,X37.3 Intramuscular chemotherapy
+228672003,Y916,Y91.6 Intraoperative electron beam radiotherapy
 287465001,Y534,Y53.4 Approach to organ under fluoroscopic control
 232657004,K012,K01.2 Revision of transplantation of heart and lung
 765041007,Y532,Y53.2 Approach to organ under ultrasonic control
 48616004,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
+428416002,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 770700009,Y145,Y14.5 Insertion of stent graft into organ NOC
 443237001,Y943,Y94.3 Metaiodobenzylguanidine imaging
 241226006,Y538,Y53.8 Other specified approach to organ under image control
 448766000,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
+228666003,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 43831007,Y538,Y53.8 Other specified approach to organ under image control
 169142004,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 431430006,Y948,Y94.8 Other specified radiopharmaceutical imaging
 49795001,E541,E54.1 Total pneumonectomy
+228664000,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+448385000,X651,X65.1 Delivery of a fraction of total body irradiation
 54057009,E493,E49.3 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and brush cytology of lesion of lower respiratory tract
 726425007,E543,E54.3 Lobectomy of lung
 175267003,Y534,Y53.4 Approach to organ under fluoroscopic control
+169310003,Y917,Y91.7 Electron beam radiotherapy NEC
+11331000224100,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
+447704003,Y916,Y91.6 Intraoperative electron beam radiotherapy
 58074001,E473,E47.3 Repair of bronchus NEC
 718289006,L134,L13.4 Percutaneous transluminal cutting balloon angioplasty of pulmonary artery
 788820009,Z246,Z24.6 Lung
@@ -193,35 +289,54 @@ snomed,opcs,opcs_term
 232659001,E531,E53.1 Double lung transplant
 441959001,L078,L07.8 Other specified creation of shunt to pulmonary artery from subclavian artery using interposition tube prosthesis
 287465001,Y538,Y53.8 Other specified approach to organ under image control
+428416002,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+46044009,X691,X69.1 Delivery of a fraction of hemi-body radiation
+230911008,L358,L35.8 Other specified transluminal operations on cerebral artery
 6531000087100,Z942,Z94.2 Right sided operation
+85257004,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
+231568007,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
+169297002,X651,X65.1 Delivery of a fraction of total body irradiation
+39646005,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 425948009,Y533,Y53.3 Approach to organ under computed tomography scan control
+429774000,X658,X65.8 Other specified radiotherapy delivery
 11519002,G073,G07.3 Correction of congenital atresia of oesophagus
 53168001,S601,S60.1 Dermabrasion of skin of head or neck
+33356009,Y916,Y91.6 Intraoperative electron beam radiotherapy
 20142006,E541,E54.1 Total pneumonectomy
 241227002,Y539,Y53.9 Unspecified approach to organ under image control
 169142004,U158,U15.8 Other specified diagnostic imaging of respiratory system
 418786005,Z401,Z40.1 Pulmonary artery
+11331000224100,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
+448461009,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 3001009,E473,E47.3 Repair of bronchus NEC
 233226001,L073,L07.3 Closure of prosthetic shunt to pulmonary artery from subclavian artery
 431434002,L711,L71.1 Percutaneous transluminal angioplasty of artery
 77648009,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
 58074001,E472,E47.2 Closure of fistula of bronchus
 312849006,E471,E47.1 Open biopsy of lesion of bronchus NEC
+169301006,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 116165008,E549,E54.9 Unspecified excision of lung
 40902008,E544,E54.4 Excision of segment of lung
 119746007,E549,E54.9 Unspecified excision of lung
+429579007,O163,O16.3 Axilla NEC
 241616006,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 261491000,E442,E44.2 Reconstruction of carina
 233213000,L101,L10.1 Repair of pulmonary artery using prosthesis
 301083005,L125,L12.5 Open embolisation of pulmonary artery
 119746007,E548,E54.8 Other specified excision of lung
 21831008,Y413,Y41.3 Endoscopic ultrasound examination of organ NOC
+428624002,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+43111005,Y354,Y35.4 Introduction of radioactive substance into organ for brachytherapy NOC
 241298004,U152,U15.2 Lung ventilation scanning NEC
 243685008,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
+447912004,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
+169291001,O441,O44.1 Proton radiotherapy
 116165008,E546,E54.6 Reduction of lung volume
 175223000,L052,L05.2 Creation of shunt to right pulmonary artery from ascending aorta using interposition tube prosthesis
 116165008,E545,E54.5 Partial lobectomy of lung NEC
+448385000,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 61000087103,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+169315008,X691,X69.1 Delivery of a fraction of hemi-body radiation
 66258007,Y741,Y74.1 Thoracoscopically assisted approach to thoracic cavity
 829831000000100,Y361,Y36.1 Introduction of gold seeds into organ NOC
 708813000,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
@@ -238,132 +353,214 @@ snomed,opcs,opcs_term
 119755005,E571,E57.1 Repair of lung
 233072008,K044,K04.4 Revision of repair of tetralogy of Fallot
 448791000,E503,E50.3 Endoscopic destruction of lesion of lower respiratory tract using rigid bronchoscope NEC
+449290006,X691,X69.1 Delivery of a fraction of hemi-body radiation
+231596001,Z164,Z16.4 Eyelid
 429616001,K174,K17.4 Aortopulmonary reconstruction with right ventricle to pulmonary arterial valveless conduit
 175254001,L101,L10.1 Repair of pulmonary artery using prosthesis
+43111005,C889,C88.9 Unspecified destruction of subretinal lesion
+78110003,Y352,Y35.2 Introduction of iridium wire into organ NOC
+231568007,X651,X65.1 Delivery of a fraction of total body irradiation
 449550007,L068,L06.8 Other specified other connection to pulmonary artery from aorta
 233137008,K172,K17.2 Total cavopulmonary connection with lateral atrial tunnel
+70446004,T138,T13.8 Other specified introduction of substance into pleural cavity
 418786005,U117,U11.7 Magnetic resonance angiography
+47479005,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
+228662001,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 287310004,E552,E55.2 Open excision of lesion of lung
+33195004,Y917,Y91.7 Electron beam radiotherapy NEC
 337877003,Y493,Y49.3 Thoracotomy approach NEC
+47479005,Y918,Y91.8 Other specified external beam radiotherapy
+447912004,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 58074001,Y279,Y27.9 Unspecified graft to organ NOC
 711415002,E542,E54.2 Bilobectomy of lung
+38216008,X722,X72.2 Delivery of complex parenteral chemotherapy for neoplasm at first attendance
 49795001,E441,E44.1 Excision of carina
 448287006,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
+782204001,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 441624004,U214,U21.4 Single photon emission computed tomography NEC
 711415002,E544,E54.4 Excision of segment of lung
+312248006,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 116030005,Y744,Y74.4 Thoracoscopic video-assisted approach to thoracic cavity
+169293003,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+43111005,C888,C88.8 Other specified destruction of subretinal lesion
+473237008,A107,A10.7 Stereotactic radiosurgery on tissue of brain
+447704003,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 232623007,E471,E47.1 Open biopsy of lesion of bronchus NEC
 443237001,Y948,Y94.8 Other specified radiopharmaceutical imaging
 432652008,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
+169396008,X721,X72.1 Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance
+448385000,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+65952009,X651,X65.1 Delivery of a fraction of total body irradiation
+300976007,Z163,Z16.3 Canthus
 448020002,L058,L05.8 Other specified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
 233073003,K041,K04.1 Repair of tetralogy of Fallot using valved right ventricular outflow conduit
 739141006,Z942,Z94.2 Right sided operation
 433030005,L128,L12.8 Other specified other open operations on pulmonary artery
 173098009,E464,E46.4 Open destruction of lesion of bronchus
+231737005,X657,X65.7 Delivery of radionuclide therapy NEC
 51000087101,U215,U21.5 Contrast fluoroscopy NEC
 531000087106,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
+29391003,T461,T46.1 Paracentesis abdominis for ascites
+231737005,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
+448294009,X691,X69.1 Delivery of a fraction of hemi-body radiation
+395075008,Y352,Y35.2 Introduction of iridium wire into organ NOC
 433857008,L136,L13.6 Percutaneous transluminal insertion of stent into pulmonary artery
+64522003,Y134,Y13.4 Radiofrequency controlled thermal destruction of lesion of organ NOC
+473237008,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 241542003,U212,U21.2 Computed tomography NEC
+169303009,X691,X69.1 Delivery of a fraction of hemi-body radiation
 233216008,L128,L12.8 Other specified other open operations on pulmonary artery
 261483009,E442,E44.2 Reconstruction of carina
 418876000,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 54057009,E509,E50.9 Unspecified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
 88039007,E539,E53.9 Unspecified transplantation of lung
 233226001,L079,L07.9 Unspecified creation of shunt to pulmonary artery from subclavian artery using interposition tube prosthesis
+31652009,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
 735016006,Z942,Z94.2 Right sided operation
+429774000,X651,X65.1 Delivery of a fraction of total body irradiation
 119746007,E552,E55.2 Open excision of lesion of lung
+47479005,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 173176002,E551,E55.1 Open decortication of lesion of lung
 241053004,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 261490004,E442,E44.2 Reconstruction of carina
 169021003,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
+169396008,X728,X72.8 Other specified delivery of chemotherapy for neoplasm
+830155008,T482,T48.2 Introduction of cytotoxic substance into peritoneal cavity
+33195004,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
+169310003,Y916,Y91.6 Intraoperative electron beam radiotherapy
 84200003,Y538,Y53.8 Other specified approach to organ under image control
+38216008,X728,X72.8 Other specified delivery of chemotherapy for neoplasm
 169057008,Y971,Y97.1 Radiology with pre and post contrast
+448294009,X651,X65.1 Delivery of a fraction of total body irradiation
+172408001,X658,X65.8 Other specified radiotherapy delivery
 169003001,U215,U21.5 Contrast fluoroscopy NEC
 718288003,Y534,Y53.4 Approach to organ under fluoroscopic control
 58074001,Y275,Y27.5 Vein graft NOC
 84041000,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
+830156009,T133,T13.3 Introduction of cytotoxic substance into pleural cavity
 427800005,Y291,Y29.1 Surgical removal of foreign body from organ NOC
+169396008,X722,X72.2 Delivery of complex parenteral chemotherapy for neoplasm at first attendance
+870385001,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 431430006,Y943,Y94.3 Metaiodobenzylguanidine imaging
 426436008,L104,L10.4 Repair of pulmonary arterial sling
 233097007,K188,K18.8 Other specified creation of valved cardiac conduit
+897713009,X385,X38.5 Subcutaneous immunotherapy
 397397002,E506,E50.6 Endoscopic irrigation of lower respiratory tract using rigid bronchoscope
 449210005,Z245,Z24.5 Bronchus
+46044009,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 25321000,E441,E44.1 Excision of carina
+78110003,Y358,Y35.8 Other specified introduction of removable radioactive material into organ NOC
 444188003,E548,E54.8 Other specified excision of lung
 169003001,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
+449290006,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 447878005,L059,L05.9 Unspecified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
 8382008,L079,L07.9 Unspecified creation of shunt to pulmonary artery from subclavian artery using interposition tube prosthesis
 241293008,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
+29391003,T462,T46.2 Drainage of ascites NEC
+300976007,X659,X65.9 Unspecified radiotherapy delivery
+231568007,X657,X65.7 Delivery of radionuclide therapy NEC
 770700009,Y141,Y14.1 Insertion of expanding covered metal stent into organ NOC
 359623004,E543,E54.3 Lobectomy of lung
 90249002,E593,E59.3 Biopsy of lesion of lung NEC
+4114003,X728,X72.8 Other specified delivery of chemotherapy for neoplasm
 443386001,Y931,Y93.1 Gallium-67 imaging scan
 441959001,L073,L07.3 Closure of prosthetic shunt to pulmonary artery from subclavian artery
 233227005,L071,L07.1 Creation of shunt to right pulmonary artery from right subclavian artery using interposition tube prosthesis
 84840003,E542,E54.2 Bilobectomy of lung
 53168001,E472,E47.2 Closure of fistula of bronchus
 175236000,L072,L07.2 Creation of shunt to left pulmonary artery from left subclavian artery using interposition tube prosthesis
+169310003,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 49528005,E553,E55.3 Open cauterisation of lesion of lung
 233136004,K173,K17.3 Aortopulmonary reconstruction with systemic to pulmonary arterial shunt
 431430006,Y941,Y94.1 Dopamine transporter scan
 43831007,Y531,Y53.1 Approach to organ under radiological control
+395096001,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 119746007,E546,E54.6 Reduction of lung volume
 439939004,Z245,Z24.5 Bronchus
 233137008,K176,K17.6 Takedown of total cavopulmonary connection
 703519007,K193,K19.3 Creation of conduit between right ventricle of heart and pulmonary artery NEC
 531000087106,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+447912004,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 241540006,Z246,Z24.6 Lung
+169396008,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
 708813000,Y534,Y53.4 Approach to organ under fluoroscopic control
 3001009,E543,E54.3 Lobectomy of lung
 232647000,E473,E47.3 Repair of bronchus NEC
 287306002,E499,E49.9 Unspecified diagnostic fibreoptic endoscopic examination of lower respiratory tract
 233227005,L073,L07.3 Closure of prosthetic shunt to pulmonary artery from subclavian artery
 51230002,T098,T09.8 Other specified other open operations on pleura
+11331000224100,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 232622002,E463,E46.3 Excision of lesion of bronchus NEC
 66088009,Y938,Y93.8 Other specified gallium-67 imaging
+169302004,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 765041007,Y531,Y53.1 Approach to organ under radiological control
+51534007,X731,X73.1 Delivery of exclusively oral chemotherapy for neoplasm
 58074001,Y274,Y27.4 Attention to graft of organ NOC
 870380006,Y971,Y97.1 Radiology with pre and post contrast
 233137008,K179,K17.9 Unspecified repair of univentricular heart
 447878005,L064,L06.4 Creation of anastomosis to left pulmonary artery from descending aorta NEC
 443145004,Y948,Y94.8 Other specified radiopharmaceutical imaging
+785706005,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
+450827009,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
+85257004,Y134,Y13.4 Radiofrequency controlled thermal destruction of lesion of organ NOC
 431430006,Y939,Y93.9 Unspecified gallium-67 imaging
 301083005,Y534,Y53.4 Approach to organ under fluoroscopic control
 310407000,Y263,Y26.3 Stapling of organ NOC
 49528005,E559,E55.9 Unspecified open extirpation of lesion of lung
 303272002,K064,K06.4 Atrial inversion and repositioning of transposed great artery
 35295005,Y535,Y53.5 Approach to organ under image intensifier
+897713009,X353,X35.3 Intravenous immunotherapy
 429609002,Y744,Y74.4 Thoracoscopic video-assisted approach to thoracic cavity
 233114002,L698,L69.8 Other specified operations on major systemic to pulmonary collateral arteries
 431430006,Y938,Y93.8 Other specified gallium-67 imaging
 448797001,Z391,Z39.1 Superior vena cava
+870385001,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
+447704003,O441,O44.1 Proton radiotherapy
+429579007,X659,X65.9 Unspecified radiotherapy delivery
+712746000,Y917,Y91.7 Electron beam radiotherapy NEC
 444178004,Z943,Z94.3 Left sided operation
+4114003,X722,X72.2 Delivery of complex parenteral chemotherapy for neoplasm at first attendance
 233114002,L699,L69.9 Unspecified operations on major systemic to pulmonary collateral arteries
+228666003,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 427138007,L013,L01.3 Repair of anomalous pulmonary artery origin from ascending aorta
 398194002,Y251,Y25.1 Suture of laceration of organ NOC
+589631000119102,X657,X65.7 Delivery of radionuclide therapy NEC
 711415002,Y744,Y74.4 Thoracoscopic video-assisted approach to thoracic cavity
+80347004,X691,X69.1 Delivery of a fraction of hemi-body radiation
 241616006,U211,U21.1 Magnetic resonance imaging NEC
 427886002,K172,K17.2 Total cavopulmonary connection with lateral atrial tunnel
+169294009,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 119755005,Y268,Y26.8 Other specified other repair of organ NOC
 448287006,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
 169142004,Y938,Y93.8 Other specified gallium-67 imaging
+722472009,X721,X72.1 Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance
 11519002,G079,G07.9 Unspecified repair of oesophagus
+46044009,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 232650002,E572,E57.2 Ligation of bulla of lung
 119746007,E542,E54.2 Bilobectomy of lung
 718683004,L134,L13.4 Percutaneous transluminal cutting balloon angioplasty of pulmonary artery
 233097007,K044,K04.4 Revision of repair of tetralogy of Fallot
 58079006,E528,E52.8 Other specified other operations on bronchus
 431489004,Y534,Y53.4 Approach to organ under fluoroscopic control
+447704003,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+169309008,X651,X65.1 Delivery of a fraction of total body irradiation
+169295005,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
+171809001,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 119730004,E463,E46.3 Excision of lesion of bronchus NEC
 441959001,L087,L08.7 Percutaneous transluminal occlusion of anastomosis between pulmonary artery and subclavian artery
+182975000,X384,X38.4 Subcutaneous chemotherapy
+171765004,A542,A54.2 Injection of therapeutic substance into cerebrospinal fluid
 57113004,U152,U15.2 Lung ventilation scanning NEC
 447751001,Z245,Z24.5 Bronchus
 448020002,L059,L05.9 Unspecified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
 287465001,Y533,Y53.3 Approach to organ under computed tomography scan control
 82651004,E571,E57.1 Repair of lung
+428923005,X658,X65.8 Other specified radiotherapy delivery
 2079001,L103,L10.3 Repair of anomalous pulmonary artery NEC
 13662000,L087,L08.7 Percutaneous transluminal occlusion of anastomosis between pulmonary artery and subclavian artery
 443237001,Y941,Y94.1 Dopamine transporter scan
+314605006,X692,X69.2 Delivery of a fraction of total skin radiotherapy
+113117004,Y916,Y91.6 Intraoperative electron beam radiotherapy
 233074009,K193,K19.3 Creation of conduit between right ventricle of heart and pulmonary artery NEC
 441959001,L086,L08.6 Percutaneous transluminal balloon dilation of anastomosis between pulmonary artery and subclavian artery
 173098009,E469,E46.9 Unspecified partial extirpation of bronchus
@@ -373,95 +570,151 @@ snomed,opcs,opcs_term
 241112009,Z246,Z24.6 Lung
 232647000,E541,E54.1 Total pneumonectomy
 233073003,K183,K18.3 Creation of valved conduit between right ventricle of heart and pulmonary artery
+169301006,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
+169310003,X691,X69.1 Delivery of a fraction of hemi-body radiation
+722491009,X714,X71.4 Procurement of drugs for chemotherapy for neoplasm for regimens in Band 9
 233226001,L084,L08.4 Revision of anastomosis to pulmonary artery from subclavian artery
 16334008,L092,L09.2 Removal of anastomosis between pulmonary artery and vena cava
 444034006,Z391,Z39.1 Superior vena cava
 708812005,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 232622002,E464,E46.4 Open destruction of lesion of bronchus
+78110003,Y351,Y35.1 Introduction of radioactive caesium into organ NOC
 29474003,K091,K09.1 Repair of defect of atrioventricular septum using dual prosthetic patches
 16549591000119109,Y533,Y53.3 Approach to organ under computed tomography scan control
+31652009,X729,X72.9 Unspecified delivery of chemotherapy for neoplasm
 418876000,U215,U21.5 Contrast fluoroscopy NEC
 119744005,Y429,Y42.9 Unspecified manipulation of organ NOC
 15648005,L121,L12.1 Application of band to pulmonary artery
 68800008,K183,K18.3 Creation of valved conduit between right ventricle of heart and pulmonary artery
+1162782007,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+447912004,Y918,Y91.8 Other specified external beam radiotherapy
 425979008,Y536,Y53.6 Approach to organ under video control
 10558003,T092,T09.2 Open biopsy of lesion of pleura
 241540006,Z941,Z94.1 Bilateral operation
 870380006,Y973,Y97.3 Radiology with post contrast
+890093004,X721,X72.1 Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance
+169304003,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
+231585009,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 427800005,E578,E57.8 Other specified other open operations on lung
+169298007,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 447878005,L068,L06.8 Other specified other connection to pulmonary artery from aorta
 173121009,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
+169307005,X691,X69.1 Delivery of a fraction of hemi-body radiation
 40902008,E473,E47.3 Repair of bronchus NEC
 232622002,E471,E47.1 Open biopsy of lesion of bronchus NEC
 433240003,Y534,Y53.4 Approach to organ under fluoroscopic control
 241293008,U158,U15.8 Other specified diagnostic imaging of respiratory system
 59046001,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
+65952009,X692,X69.2 Delivery of a fraction of total skin radiotherapy
+441783000,Y919,Y91.9 Unspecified external beam radiotherapy
+447704003,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 708813000,Y536,Y53.6 Approach to organ under video control
 441959001,L081,L08.1 Creation of anastomosis to right pulmonary artery from right subclavian artery NEC
+169302004,Y919,Y91.9 Unspecified external beam radiotherapy
 397840008,Y259,Y25.9 Unspecified suture of organ NOC
 8382008,L089,L08.9 Unspecified other connection to pulmonary artery from subclavian artery
 173102001,E441,E44.1 Excision of carina
 418876000,Y971,Y97.1 Radiology with pre and post contrast
 770700009,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
 90249002,E599,E59.9 Unspecified other operations on lung
+300976007,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
+429579007,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 449550007,L054,L05.4 Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and aorta
 169115000,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
+473237008,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
+473237008,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 448766000,Z926,Z92.6 Abdomen NEC
 233072008,K043,K04.3 Repair of tetralogy of Fallot using transannular patch
+10611004,X691,X69.1 Delivery of a fraction of hemi-body radiation
+228676000,X651,X65.1 Delivery of a fraction of total body irradiation
 56970000,L051,L05.1 Creation of shunt to main pulmonary artery from ascending aorta using interposition tube prosthesis
 173176002,E554,E55.4 Open destruction of lesion of lung NEC
+169307005,Y917,Y91.7 Electron beam radiotherapy NEC
 241303002,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 116165008,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
+228673008,Y917,Y91.7 Electron beam radiotherapy NEC
+169297002,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 447879002,L052,L05.2 Creation of shunt to right pulmonary artery from ascending aorta using interposition tube prosthesis
+228676000,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+428831001,Z444,Z44.4 Female perineum
 56970000,L058,L05.8 Other specified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
+231585009,X657,X65.7 Delivery of radionuclide therapy NEC
 447879002,L063,L06.3 Creation of anastomosis to right pulmonary artery from ascending aorta NEC
 233073003,K193,K19.3 Creation of conduit between right ventricle of heart and pulmonary artery NEC
 52340003,L133,L13.3 Arteriography of pulmonary artery
 53168001,Y074,Y07.4 Obliteration of diverticulum of organ NOC
 449550007,L059,L05.9 Unspecified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
 20142006,E548,E54.8 Other specified excision of lung
+172286002,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 49528005,E551,E55.1 Open decortication of lesion of lung
 53168001,S604,S60.4 Refashioning of scar NEC
 241112009,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+231544004,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 173172000,E544,E54.4 Excision of segment of lung
+231737005,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+1156524009,Y918,Y91.8 Other specified external beam radiotherapy
 287465001,Y532,Y53.2 Approach to organ under ultrasonic control
 6611000179105,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
+46044009,Y918,Y91.8 Other specified external beam radiotherapy
 75935006,Y741,Y74.1 Thoracoscopically assisted approach to thoracic cavity
+85257004,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
+228662001,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+785706005,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+80347004,X651,X65.1 Delivery of a fraction of total body irradiation
+172408001,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 82651004,Y251,Y25.1 Suture of laceration of organ NOC
 698009006,Y763,Y76.3 Endoscopic approach to other body cavity
 287309009,E552,E55.2 Open excision of lesion of lung
 29785002,Y222,Y22.2 Aspiration of other lesion of organ NOC
 21831008,Y419,Y41.9 Unspecified examination of organ NOC
+429579007,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
+77738002,X723,X72.3 Delivery of simple parenteral chemotherapy for neoplasm at first attendance
+113117004,O441,O44.1 Proton radiotherapy
 59325001,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
 708812005,Y538,Y53.8 Other specified approach to organ under image control
 433256008,L134,L13.4 Percutaneous transluminal cutting balloon angioplasty of pulmonary artery
 241227002,Y531,Y53.1 Approach to organ under radiological control
 25321000,E541,E54.1 Total pneumonectomy
+448461009,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 79653008,E502,E50.2 Endoscopic laser destruction of lesion of lower respiratory tract using rigid bronchoscope
 310394000,Y263,Y26.3 Stapling of organ NOC
 425979008,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 232657004,E532,E53.2 Single lung transplant
 232660006,E538,E53.8 Other specified transplantation of lung
 51000087101,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
+78110003,Y364,Y36.4 Introduction of non-removable radioactive substance into organ for brachytherapy NOC
 62843007,Y421,Y42.1 External manipulation of organ NOC
+428923005,X659,X65.9 Unspecified radiotherapy delivery
 233224003,L064,L06.4 Creation of anastomosis to left pulmonary artery from descending aorta NEC
+43111005,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 433030005,Y534,Y53.4 Approach to organ under fluoroscopic control
+428923005,X657,X65.7 Delivery of radionuclide therapy NEC
 6611000179105,Z245,Z24.5 Bronchus
 241303002,Y939,Y93.9 Unspecified gallium-67 imaging
+722482005,X722,X72.2 Delivery of complex parenteral chemotherapy for neoplasm at first attendance
+169291001,Y918,Y91.8 Other specified external beam radiotherapy
+45643008,X692,X69.2 Delivery of a fraction of total skin radiotherapy
+39646005,Y916,Y91.6 Intraoperative electron beam radiotherapy
+171809001,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
+11331000224100,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 788820009,E483,E48.3 Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC
 418876000,Z249,Z24.9 Respiratory tract NEC
+228663006,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 359623004,E542,E54.2 Bilobectomy of lung
 62843007,Y428,Y42.8 Other specified manipulation of organ NOC
 35295005,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 173098009,E463,E46.3 Excision of lesion of bronchus NEC
 16334008,L073,L07.3 Closure of prosthetic shunt to pulmonary artery from subclavian artery
 233072008,K041,K04.1 Repair of tetralogy of Fallot using valved right ventricular outflow conduit
+36679009,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 233136004,K172,K17.2 Total cavopulmonary connection with lateral atrial tunnel
 431721002,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
+43111005,C823,C82.3 External beam radiotherapy to lesion of retina
 425948009,L135,L13.5 Percutaneous transluminal balloon angioplasty of pulmonary artery NEC
 708813000,Y533,Y53.3 Approach to organ under computed tomography scan control
 169115000,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 58074001,Y272,Y27.2 Allograft to organ NOC
+113117004,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 726428009,E543,E54.3 Lobectomy of lung
 88039007,E532,E53.2 Single lung transplant
 431721002,E495,"E49.5 Diagnostic fibreoptic endoscopic examination of lower respiratory tract with biopsy, lavage and brush cytology of lesion of lower respiratory tract"
@@ -475,35 +728,50 @@ snomed,opcs,opcs_term
 441677009,U158,U15.8 Other specified diagnostic imaging of respiratory system
 432074001,L138,L13.8 Other specified transluminal operations on pulmonary artery
 119746007,E545,E54.5 Partial lobectomy of lung NEC
+113117004,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 241540006,Y971,Y97.1 Radiology with pre and post contrast
 87387006,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
 241226006,Y532,Y53.2 Approach to organ under ultrasonic control
 49528005,E554,E55.4 Open destruction of lesion of lung NEC
+169318005,X691,X69.1 Delivery of a fraction of hemi-body radiation
 425948009,Y536,Y53.6 Approach to organ under video control
 232622002,E469,E46.9 Unspecified partial extirpation of bronchus
 116165008,E548,E54.8 Other specified excision of lung
+39646005,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 447786004,L062,L06.2 Creation of anastomosis to main pulmonary artery from ascending aorta NEC
 54057009,E485,E48.5 Fibreoptic endoscopic removal of foreign body from lower respiratory tract
+70446004,T131,T13.1 Insufflation of talc into pleural cavity NEC
+228666003,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 232658009,E531,E53.1 Double lung transplant
 8382008,L088,L08.8 Other specified other connection to pulmonary artery from subclavian artery
+171809001,X659,X65.9 Unspecified radiotherapy delivery
 90249002,E594,E59.4 Drainage of lung
 310412004,Y071,Y07.1 Ligation of organ NOC
+169315008,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+171809001,X655,X65.5 Oral delivery of radiotherapy for thyroid ablation
 61000087103,Z245,Z24.5 Bronchus
+446504008,X692,X69.2 Delivery of a fraction of total skin radiotherapy
+171809001,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+446504008,X691,X69.1 Delivery of a fraction of hemi-body radiation
 119755005,Y263,Y26.3 Stapling of organ NOC
 241541005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 241111002,Y971,Y97.1 Radiology with pre and post contrast
 241616006,Z246,Z24.6 Lung
 232657004,K011,K01.1 Allotransplantation of heart and lung
 233211003,Y162,Y16.2 Anastomosis of organ NOC
+230912001,Y134,Y13.4 Radiofrequency controlled thermal destruction of lesion of organ NOC
 726428009,Z942,Z94.2 Right sided operation
 233022006,K046,K04.6 Repair of Fallot-type pulmonary atresia with aortopulmonary collaterals
 449550007,L064,L06.4 Creation of anastomosis to left pulmonary artery from descending aorta NEC
+169295005,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 450608000,E503,E50.3 Endoscopic destruction of lesion of lower respiratory tract using rigid bronchoscope NEC
 35295005,Y538,Y53.8 Other specified approach to organ under image control
 397860000,E486,E48.6 Fibreoptic endoscopic irrigation of lower respiratory tract
 440466000,Y931,Y93.1 Gallium-67 imaging scan
+870250004,X721,X72.1 Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance
 233224003,L063,L06.3 Creation of anastomosis to right pulmonary artery from ascending aorta NEC
 765041007,Y536,Y53.6 Approach to organ under video control
+182975000,X352,X35.2 Intravenous chemotherapy
 175267003,Y531,Y53.1 Approach to organ under radiological control
 233224003,L068,L06.8 Other specified other connection to pulmonary artery from aorta
 51230002,T094,T09.4 Chemical open pleurodesis
@@ -512,14 +780,19 @@ snomed,opcs,opcs_term
 66088009,Y943,Y94.3 Metaiodobenzylguanidine imaging
 439939004,Y413,Y41.3 Endoscopic ultrasound examination of organ NOC
 232653000,E571,E57.1 Repair of lung
+64522003,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 397396006,E489,E48.9 Unspecified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 21731000087107,Y534,Y53.4 Approach to organ under fluoroscopic control
 241295001,U151,U15.1 Lung perfusion scanning NEC
+38104006,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
+450827009,X723,X72.3 Delivery of simple parenteral chemotherapy for neoplasm at first attendance
 449550007,L065,L06.5 Creation of anastomosis to pulmonary artery from aorta NEC
 6521000087102,Z943,Z94.3 Left sided operation
 397396006,E505,E50.5 Endoscopic removal of foreign body from lower respiratory tract using rigid bronchoscope
+228666003,X651,X65.1 Delivery of a fraction of total body irradiation
 119755005,E572,E57.2 Ligation of bulla of lung
 35295005,Y532,Y53.2 Approach to organ under ultrasonic control
+38104006,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 449550007,L053,L05.3 Creation of shunt to left pulmonary artery from ascending aorta using interposition tube prosthesis
 441624004,Y931,Y93.1 Gallium-67 imaging scan
 1156264009,Y533,Y53.3 Approach to organ under computed tomography scan control
@@ -530,6 +803,9 @@ snomed,opcs,opcs_term
 449550007,L069,L06.9 Unspecified other connection to pulmonary artery from aorta
 49528005,E502,E50.2 Endoscopic laser destruction of lesion of lower respiratory tract using rigid bronchoscope
 16334008,L098,L09.8 Other specified other connection to pulmonary artery
+1141994004,X721,X72.1 Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance
+448461009,X691,X69.1 Delivery of a fraction of hemi-body radiation
+1156506007,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 233134001,K558,K55.8 Other specified other open operations on heart
 442278005,L091,L09.1 Creation of anastomosis to pulmonary artery from vena cava
 708813000,Y538,Y53.8 Other specified approach to organ under image control
@@ -538,106 +814,180 @@ snomed,opcs,opcs_term
 870380006,U364,U36.4 Ultrasound elastography
 169142004,Y948,Y94.8 Other specified radiopharmaceutical imaging
 8382008,L074,L07.4 Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and subclavian artery
+447704003,Y919,Y91.9 Unspecified external beam radiotherapy
+169311004,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 449550007,L063,L06.3 Creation of anastomosis to right pulmonary artery from ascending aorta NEC
+169396008,X731,X73.1 Delivery of exclusively oral chemotherapy for neoplasm
+169303009,Y919,Y91.9 Unspecified external beam radiotherapy
 119000,Y742,Y74.2 Thoracoscopic approach to thoracic cavity NEC
 233022006,K045,K04.5 Repair of tetralogy of Fallot with absent pulmonary valve
 443266003,U214,U21.4 Single photon emission computed tomography NEC
+171809001,X657,X65.7 Delivery of radionuclide therapy NEC
 169142004,Y941,Y94.1 Dopamine transporter scan
+64978007,X655,X65.5 Oral delivery of radiotherapy for thyroid ablation
 301083005,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 8382008,L083,L08.3 Creation of anastomosis to pulmonary artery from subclavian artery NEC
 43831007,E595,E59.5 Percutaneous radiofrequency ablation of lesion of lung
+4114003,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
+39646005,Y917,Y91.7 Electron beam radiotherapy NEC
+447704003,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 232641004,E543,E54.3 Lobectomy of lung
 173098009,E468,E46.8 Other specified partial extirpation of bronchus
+78110003,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 310393006,E571,E57.1 Repair of lung
+447704003,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 425948009,L134,L13.4 Percutaneous transluminal cutting balloon angioplasty of pulmonary artery
+314606007,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
+169291001,Y916,Y91.6 Intraoperative electron beam radiotherapy
 431721002,E593,E59.3 Biopsy of lesion of lung NEC
+169302004,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 397396006,E485,E48.5 Fibreoptic endoscopic removal of foreign body from lower respiratory tract
+169304003,X692,X69.2 Delivery of a fraction of total skin radiotherapy
+228674002,X691,X69.1 Delivery of a fraction of hemi-body radiation
 241293008,Y939,Y93.9 Unspecified gallium-67 imaging
 169142004,Z246,Z24.6 Lung
 718288003,L135,L13.5 Percutaneous transluminal balloon angioplasty of pulmonary artery NEC
+230913006,Y134,Y13.4 Radiofrequency controlled thermal destruction of lesion of organ NOC
+231585009,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
+367336001,X384,X38.4 Subcutaneous chemotherapy
 232659001,K018,K01.8 Other specified transplantation of heart and lung
 233074009,Z941,Z94.1 Bilateral operation
 233072008,K045,K04.5 Repair of tetralogy of Fallot with absent pulmonary valve
 175250005,L092,L09.2 Removal of anastomosis between pulmonary artery and vena cava
+169302004,Y918,Y91.8 Other specified external beam radiotherapy
 449550007,L051,L05.1 Creation of shunt to main pulmonary artery from ascending aorta using interposition tube prosthesis
 61339001,E528,E52.8 Other specified other operations on bronchus
+38104006,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 54057009,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 443145004,Y938,Y93.8 Other specified gallium-67 imaging
+5304008,X651,X65.1 Delivery of a fraction of total body irradiation
 387748005,E553,E55.3 Open cauterisation of lesion of lung
 448766000,Z401,Z40.1 Pulmonary artery
 1137699004,T874,T87.4 Excision or biopsy of mediastinal lymph node
 90249002,E591,E59.1 Needle biopsy of lesion of lung
+33356009,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 67244001,E574,E57.4 Incision of lung NEC
 232659001,K011,K01.1 Allotransplantation of heart and lung
 173102001,E464,E46.4 Open destruction of lesion of bronchus
 441959001,L084,L08.4 Revision of anastomosis to pulmonary artery from subclavian artery
 241053004,Z246,Z24.6 Lung
 35295005,Y536,Y53.6 Approach to organ under video control
+427561000119104,X657,X65.7 Delivery of radionuclide therapy NEC
+447912004,Y917,Y91.7 Electron beam radiotherapy NEC
+722491009,X722,X72.2 Delivery of complex parenteral chemotherapy for neoplasm at first attendance
 443145004,Y941,Y94.1 Dopamine transporter scan
+43111005,C881,C88.1 Transpupillary thermotherapy to subretinal lesion
+169292008,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 232646009,Y712,Y71.2 Secondary operations NOC
 81070005,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
+441783000,O441,O44.1 Proton radiotherapy
+169297002,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 241304008,Z246,Z24.6 Lung
 232636007,Z942,Z94.2 Right sided operation
 175238004,L072,L07.2 Creation of shunt to left pulmonary artery from left subclavian artery using interposition tube prosthesis
+65952009,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+231568007,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
+445232009,X651,X65.1 Delivery of a fraction of total body irradiation
 61000087103,Z942,Z94.2 Right sided operation
+395096001,X651,X65.1 Delivery of a fraction of total body irradiation
 233226001,L087,L08.7 Percutaneous transluminal occlusion of anastomosis between pulmonary artery and subclavian artery
+428412000,X651,X65.1 Delivery of a fraction of total body irradiation
 448766000,Y971,Y97.1 Radiology with pre and post contrast
+74023000,X691,X69.1 Delivery of a fraction of hemi-body radiation
+43111005,Y353,Y35.3 Introduction of radium into organ NOC
 443237001,Y931,Y93.1 Gallium-67 imaging scan
+169301006,Y919,Y91.9 Unspecified external beam radiotherapy
 703519007,K183,K18.3 Creation of valved conduit between right ventricle of heart and pulmonary artery
 232648005,E548,E54.8 Other specified excision of lung
 443145004,Y931,Y93.1 Gallium-67 imaging scan
 440466000,Y943,Y94.3 Metaiodobenzylguanidine imaging
 43831007,Y536,Y53.6 Approach to organ under video control
+169307005,Y916,Y91.6 Intraoperative electron beam radiotherapy
 6521000087102,E593,E59.3 Biopsy of lesion of lung NEC
 233224003,L052,L05.2 Creation of shunt to right pulmonary artery from ascending aorta using interposition tube prosthesis
 175237009,L071,L07.1 Creation of shunt to right pulmonary artery from right subclavian artery using interposition tube prosthesis
 739139005,E542,E54.2 Bilobectomy of lung
+77738002,X729,X72.9 Unspecified delivery of chemotherapy for neoplasm
+428624002,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
+1156505006,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 1137699004,E632,E63.2 Endobronchial ultrasound examination of mediastinum
 449550007,L066,L06.6 Revision of anastomosis to pulmonary artery from aorta
 232622002,E462,E46.2 Excision of cyst of bronchus
 54057009,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
+231585009,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 829831000000100,Y374,Y37.4 Insertion of marker into organ NOC
+231568007,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
+448385000,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
+231544004,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 431721002,Y534,Y53.4 Approach to organ under fluoroscopic control
+5304008,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 43831007,Y534,Y53.4 Approach to organ under fluoroscopic control
+169295005,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
+230912001,L758,L75.8 Other specified other arteriovenous operations
 13662000,L086,L08.6 Percutaneous transluminal balloon dilation of anastomosis between pulmonary artery and subclavian artery
 241540006,U212,U21.2 Computed tomography NEC
+33195004,X691,X69.1 Delivery of a fraction of hemi-body radiation
 433240003,L661,L66.1 Percutaneous transluminal arterial thrombolysis and reconstruction
 431489004,L133,L13.3 Arteriography of pulmonary artery
 531000087106,Z941,Z94.1 Bilateral operation
 233073003,K043,K04.3 Repair of tetralogy of Fallot using transannular patch
+870385001,X691,X69.1 Delivery of a fraction of hemi-body radiation
 450608000,E554,E55.4 Open destruction of lesion of lung NEC
+231596001,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 429932001,E495,"E49.5 Diagnostic fibreoptic endoscopic examination of lower respiratory tract with biopsy, lavage and brush cytology of lesion of lower respiratory tract"
+169293003,X691,X69.1 Delivery of a fraction of hemi-body radiation
+711299007,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 440466000,Y939,Y93.9 Unspecified gallium-67 imaging
 397396006,E486,E48.6 Fibreoptic endoscopic irrigation of lower respiratory tract
+428416002,Z923,Z92.3 Neck NEC
 233097007,K042,K04.2 Repair of tetralogy of Fallot using right ventricular outflow conduit NEC
 233208004,L128,L12.8 Other specified other open operations on pulmonary artery
+33195004,Y919,Y91.9 Unspecified external beam radiotherapy
+169311004,X651,X65.1 Delivery of a fraction of total body irradiation
+447912004,Y919,Y91.9 Unspecified external beam radiotherapy
 175267003,Y533,Y53.3 Approach to organ under computed tomography scan control
 711415002,E545,E54.5 Partial lobectomy of lung NEC
 243685008,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
 51230002,Y074,Y07.4 Obliteration of diverticulum of organ NOC
+870385001,X651,X65.1 Delivery of a fraction of total body irradiation
+228671005,X691,X69.1 Delivery of a fraction of hemi-body radiation
+230913006,L938,L93.8 Other specified other open operations on vein
+169315008,X651,X65.1 Delivery of a fraction of total body irradiation
+172286002,X657,X65.7 Delivery of radionuclide therapy NEC
 241226006,Y534,Y53.4 Approach to organ under fluoroscopic control
 233208004,L122,L12.2 Adjustment of band to pulmonary artery
+714029009,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 241293008,Y941,Y94.1 Dopamine transporter scan
+395096001,Y918,Y91.8 Other specified external beam radiotherapy
 718683004,L135,L13.5 Percutaneous transluminal balloon angioplasty of pulmonary artery NEC
 1119344002,Z245,Z24.5 Bronchus
 703519007,K195,K19.5 Creation of conduit between left ventricle of heart and aorta NEC
 870380006,Y983,Y98.3 Radiology of three body areas (or 20-40 minutes)
+36679009,Y354,Y35.4 Introduction of radioactive substance into organ for brachytherapy NOC
+85257004,C823,C82.3 External beam radiotherapy to lesion of retina
 441959001,L072,L07.2 Creation of shunt to left pulmonary artery from left subclavian artery using interposition tube prosthesis
 241295001,Y948,Y94.8 Other specified radiopharmaceutical imaging
 441624004,Z246,Z24.6 Lung
 241227002,Y535,Y53.5 Approach to organ under image intensifier
+172408001,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 81070005,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
+228667007,X651,X65.1 Delivery of a fraction of total body irradiation
+448461009,Y918,Y91.8 Other specified external beam radiotherapy
 116030005,E593,E59.3 Biopsy of lesion of lung NEC
 736671000,Y362,Y36.2 Introduction of therapeutic implant into organ NOC
+782204001,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 56909003,E522,E52.2 Aspiration of bronchus NEC
 84041000,Y403,Y40.3 Balloon dilation of organ NOC
+228673008,Y916,Y91.6 Intraoperative electron beam radiotherapy
 61000087103,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 241053004,U158,U15.8 Other specified diagnostic imaging of respiratory system
 175253007,L108,L10.8 Other specified repair of pulmonary artery
 51000087101,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 175236000,L073,L07.3 Closure of prosthetic shunt to pulmonary artery from subclavian artery
 443237001,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
+228662001,Y918,Y91.8 Other specified external beam radiotherapy
 765042000,Y533,Y53.3 Approach to organ under computed tomography scan control
+169298007,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 708813000,Y535,Y53.5 Approach to organ under image intensifier
 448766000,Y973,Y97.3 Radiology with post contrast
 241294002,U151,U15.1 Lung perfusion scanning NEC
@@ -651,168 +1001,274 @@ snomed,opcs,opcs_term
 241227002,Y534,Y53.4 Approach to organ under fluoroscopic control
 21831008,E478,E47.8 Other specified other open operations on bronchus
 442203000,Y939,Y93.9 Unspecified gallium-67 imaging
+78110003,Y353,Y35.3 Introduction of radium into organ NOC
 8382008,L072,L07.2 Creation of shunt to left pulmonary artery from left subclavian artery using interposition tube prosthesis
+312248006,X691,X69.1 Delivery of a fraction of hemi-body radiation
 232646009,E541,E54.1 Total pneumonectomy
 432652008,E591,E59.1 Needle biopsy of lesion of lung
+169291001,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
+85257004,X659,X65.9 Unspecified radiotherapy delivery
 21731000087107,Z941,Z94.1 Bilateral operation
 447878005,L058,L05.8 Other specified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
 241304008,Y949,Y94.9 Unspecified radiopharmaceutical imaging
+1172516002,X336,X33.6 Allogeneic peripheral blood stem cell transplant
 397396006,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 425948009,Y534,Y53.4 Approach to organ under fluoroscopic control
 7375006,Y521,Y52.1 Approach to organ through tracheostomy
 67244001,E579,E57.9 Unspecified other open operations on lung
+429579007,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 442203000,Y941,Y94.1 Dopamine transporter scan
+65952009,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
+890093004,X722,X72.2 Delivery of complex parenteral chemotherapy for neoplasm at first attendance
 74878007,E442,E44.2 Reconstruction of carina
 233224003,L065,L06.5 Creation of anastomosis to pulmonary artery from aorta NEC
 443396005,E594,E59.4 Drainage of lung
 75935006,E542,E54.2 Bilobectomy of lung
 448523009,Z246,Z24.6 Lung
+870249004,X729,X72.9 Unspecified delivery of chemotherapy for neoplasm
 116165008,E544,E54.4 Excision of segment of lung
+449290006,X651,X65.1 Delivery of a fraction of total body irradiation
 10558003,T094,T09.4 Chemical open pleurodesis
 89862001,E571,E57.1 Repair of lung
 13662000,L082,L08.2 Creation of anastomosis to left pulmonary artery from left subclavian artery NEC
+169296006,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 24599003,L722,L72.2 Monitoring of arterial pressure
+169311004,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+64522003,C848,C84.8 Other specified other operations on retina
 233146002,L098,L09.8 Other specified other connection to pulmonary artery
+70446004,T139,T13.9 Unspecified introduction of substance into pleural cavity
+80347004,Y918,Y91.8 Other specified external beam radiotherapy
+473237008,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 443396005,Y533,Y53.3 Approach to organ under computed tomography scan control
 8382008,L071,L07.1 Creation of shunt to right pulmonary artery from right subclavian artery using interposition tube prosthesis
 51230002,T099,T09.9 Unspecified other open operations on pleura
+714029009,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 241541005,Z941,Z94.1 Bilateral operation
 418786005,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 233214006,Y408,Y40.8 Other specified dilation of organ NOC
+428831001,X658,X65.8 Other specified radiotherapy delivery
 261488000,E442,E44.2 Reconstruction of carina
 232645008,E541,E54.1 Total pneumonectomy
+448461009,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
+228672003,X692,X69.2 Delivery of a fraction of total skin radiotherapy
+448461009,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 735015005,E541,E54.1 Total pneumonectomy
+38216008,X729,X72.9 Unspecified delivery of chemotherapy for neoplasm
 233208004,L123,L12.3 Removal of band from pulmonary artery
 765042000,Y539,Y53.9 Unspecified approach to organ under image control
 870380006,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 232640003,E473,E47.3 Repair of bronchus NEC
 233226001,L074,L07.4 Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and subclavian artery
+447912004,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
+428412000,X658,X65.8 Other specified radiotherapy delivery
 442877005,Y532,Y53.2 Approach to organ under ultrasonic control
+74023000,O441,O44.1 Proton radiotherapy
+43111005,Y363,Y36.3 Radioactive seed implantation NOC
+64522003,Z198,Z19.8 Specified part of eye NEC
 711415002,E543,E54.3 Lobectomy of lung
 33639009,T071,T07.1 Decortication of pleura
 425979008,Y531,Y53.1 Approach to organ under radiological control
+231568007,X658,X65.8 Other specified radiotherapy delivery
 301083005,Y533,Y53.3 Approach to organ under computed tomography scan control
 232659001,K012,K01.2 Revision of transplantation of heart and lung
 711415002,E546,E54.6 Reduction of lung volume
 241111002,Y973,Y97.3 Radiology with post contrast
+314604005,X691,X69.1 Delivery of a fraction of hemi-body radiation
 397396006,E509,E50.9 Unspecified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
+228671005,Y917,Y91.7 Electron beam radiotherapy NEC
+428829005,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 447878005,L052,L05.2 Creation of shunt to right pulmonary artery from ascending aorta using interposition tube prosthesis
 440466000,Z246,Z24.6 Lung
 232640003,E543,E54.3 Lobectomy of lung
+314606007,X651,X65.1 Delivery of a fraction of total body irradiation
+231544004,X659,X65.9 Unspecified radiotherapy delivery
 301083005,Y539,Y53.9 Unspecified approach to organ under image control
+169303009,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+169303009,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
+720379009,X728,X72.8 Other specified delivery of chemotherapy for neoplasm
+228661008,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 726425007,Z942,Z94.2 Right sided operation
 67244001,Y411,Y41.1 Examination of organ under anaesthetic NOC
+31652009,X723,X72.3 Delivery of simple parenteral chemotherapy for neoplasm at first attendance
 440466000,Y942,Y94.2 Octreotide imaging
 53168001,S602,S60.2 Dermabrasion of skin NEC
 233073003,K045,K04.5 Repair of tetralogy of Fallot with absent pulmonary valve
+171809001,X658,X65.8 Other specified radiotherapy delivery
 169057008,Y973,Y97.3 Radiology with post contrast
 173176002,E552,E55.2 Open excision of lesion of lung
+50632006,O441,O44.1 Proton radiotherapy
+473237008,Y919,Y91.9 Unspecified external beam radiotherapy
+169297002,X691,X69.1 Delivery of a fraction of hemi-body radiation
+169301006,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
+169303009,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 397396006,E504,E50.4 Endoscopic aspiration of lower respiratory tract using rigid bronchoscope
 112813007,L013,L01.3 Repair of anomalous pulmonary artery origin from ascending aorta
 119730004,E464,E46.4 Open destruction of lesion of bronchus
 232638008,Z943,Z94.3 Left sided operation
+429774000,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 359618004,E544,E54.4 Excision of segment of lung
+169301006,X692,X69.2 Delivery of a fraction of total skin radiotherapy
+395096001,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 277437006,Y248,Y24.8 Other specified microvascular repair of organ NOC
+428923005,X651,X65.1 Delivery of a fraction of total body irradiation
+22733003,X728,X72.8 Other specified delivery of chemotherapy for neoplasm
+450827009,X728,X72.8 Other specified delivery of chemotherapy for neoplasm
 175236000,L075,L07.5 Percutaneous transluminal occlusion of interposition tube prosthesis between pulmonary artery and subclavian artery
+33195004,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 770700009,Y149,Y14.9 Unspecified placement of stent in organ NOC
+446504008,Y918,Y91.8 Other specified external beam radiotherapy
 3001009,E542,E54.2 Bilobectomy of lung
 35295005,E591,E59.1 Needle biopsy of lesion of lung
+38216008,X721,X72.1 Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance
+63506005,X658,X65.8 Other specified radiotherapy delivery
 85041007,K193,K19.3 Creation of conduit between right ventricle of heart and pulmonary artery NEC
 67244001,E571,E57.1 Repair of lung
 233213000,L104,L10.4 Repair of pulmonary arterial sling
+33356009,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 241542003,Z246,Z24.6 Lung
+441799006,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
+63506005,X659,X65.9 Unspecified radiotherapy delivery
+47479005,X651,X65.1 Delivery of a fraction of total body irradiation
+228661008,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 735015005,Z943,Z94.3 Left sided operation
 10558003,T099,T09.9 Unspecified other open operations on pleura
 429932001,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
 310478006,L102,L10.2 Repair of pulmonary artery using patch
+228666003,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 718289006,L135,L13.5 Percutaneous transluminal balloon angioplasty of pulmonary artery NEC
+890093004,X729,X72.9 Unspecified delivery of chemotherapy for neoplasm
 233228000,L091,L09.1 Creation of anastomosis to pulmonary artery from vena cava
 173154006,E483,E48.3 Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC
+1156530009,X691,X69.1 Delivery of a fraction of hemi-body radiation
 301083005,Y535,Y53.5 Approach to organ under image intensifier
 56897006,Y493,Y49.3 Thoracotomy approach NEC
+169304003,Y918,Y91.8 Other specified external beam radiotherapy
 429332008,E533,E53.3 Single lobe lung transplant
+78110003,C848,C84.8 Other specified other operations on retina
 82651004,Y259,Y25.9 Unspecified suture of organ NOC
+169317000,X692,X69.2 Delivery of a fraction of total skin radiotherapy
+720379009,X722,X72.2 Delivery of complex parenteral chemotherapy for neoplasm at first attendance
+228674002,X651,X65.1 Delivery of a fraction of total body irradiation
 54057009,E494,E49.4 Diagnostic fibreoptic endoscopic examination of lower respiratory tract with lavage and brush cytology of lesion of lower respiratory tract
 54057009,E502,E50.2 Endoscopic laser destruction of lesion of lower respiratory tract using rigid bronchoscope
+169295005,Y917,Y91.7 Electron beam radiotherapy NEC
 233071001,K045,K04.5 Repair of tetralogy of Fallot with absent pulmonary valve
+448461009,X651,X65.1 Delivery of a fraction of total body irradiation
 119744005,E528,E52.8 Other specified other operations on bronchus
 232638008,E544,E54.4 Excision of segment of lung
 169142004,Y931,Y93.1 Gallium-67 imaging scan
 716755000,E598,E59.8 Other specified other operations on lung
+33356009,X691,X69.1 Delivery of a fraction of hemi-body radiation
 241227002,L133,L13.3 Arteriography of pulmonary artery
 84041000,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
 233208004,L125,L12.5 Open embolisation of pulmonary artery
+78110003,Y134,Y13.4 Radiofrequency controlled thermal destruction of lesion of organ NOC
 173098009,E462,E46.2 Excision of cyst of bronchus
 429932001,E592,E59.2 Aspiration biopsy of lesion of lung
+169301006,Y917,Y91.7 Electron beam radiotherapy NEC
+77738002,X721,X72.1 Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance
 241303002,Y931,Y93.1 Gallium-67 imaging scan
+169301006,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 1119345001,U217,U21.7 Plain x-ray NEC
 84041000,Y401,Y40.1 Dilation of stricture of organ NOC
 25321000,Y744,Y74.4 Thoracoscopic video-assisted approach to thoracic cavity
 7375006,Z245,Z24.5 Bronchus
+228662001,X691,X69.1 Delivery of a fraction of hemi-body radiation
 40902008,E543,E54.3 Lobectomy of lung
 765042000,Y532,Y53.2 Approach to organ under ultrasonic control
 175253007,L104,L10.4 Repair of pulmonary arterial sling
 241294002,Y948,Y94.8 Other specified radiopharmaceutical imaging
+890093004,X731,X73.1 Delivery of exclusively oral chemotherapy for neoplasm
 233224003,L061,L06.1 Creation of aortopulmonary window
 312849006,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
 429122009,L136,L13.6 Percutaneous transluminal insertion of stent into pulmonary artery
+448385000,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 429575001,K062,K06.2 Left ventricle to aorta tunnel with right ventricle to pulmonary trunk direct anastomosis
 173176002,E559,E55.9 Unspecified open extirpation of lesion of lung
 233224003,L066,L06.6 Revision of anastomosis to pulmonary artery from aorta
+169315008,X692,X69.2 Delivery of a fraction of total skin radiotherapy
+448385000,Y918,Y91.8 Other specified external beam radiotherapy
 441624004,Y939,Y93.9 Unspecified gallium-67 imaging
 173111001,E502,E50.2 Endoscopic laser destruction of lesion of lower respiratory tract using rigid bronchoscope
 54057009,E487,E48.7 Fibreoptic endoscopic photodynamic therapy of lesion of lower respiratory tract
 173191000,E592,E59.2 Aspiration biopsy of lesion of lung
+473237008,Y917,Y91.7 Electron beam radiotherapy NEC
 397396006,Z243,Z24.3 Trachea
 425948009,Y535,Y53.5 Approach to organ under image intensifier
 433857008,Y534,Y53.4 Approach to organ under fluoroscopic control
 443266003,Y948,Y94.8 Other specified radiopharmaceutical imaging
 85041007,L011,L01.1 Correction of persistent truncus arteriosus
 232637003,E544,E54.4 Excision of segment of lung
+428829005,X658,X65.8 Other specified radiotherapy delivery
 448523009,E498,E49.8 Other specified diagnostic fibreoptic endoscopic examination of lower respiratory tract
 233211003,L108,L10.8 Other specified repair of pulmonary artery
+426332009,C823,C82.3 External beam radiotherapy to lesion of retina
 232631002,E552,E55.2 Open excision of lesion of lung
 175267003,Y535,Y53.5 Approach to organ under image intensifier
 448020002,L051,L05.1 Creation of shunt to main pulmonary artery from ascending aorta using interposition tube prosthesis
 29785002,E471,E47.1 Open biopsy of lesion of bronchus NEC
 233097007,K049,K04.9 Unspecified repair of tetralogy of Fallot
 441624004,Y943,Y94.3 Metaiodobenzylguanidine imaging
+85257004,X657,X65.7 Delivery of radionuclide therapy NEC
+39646005,X691,X69.1 Delivery of a fraction of hemi-body radiation
 708813000,Y539,Y53.9 Unspecified approach to organ under image control
 440466000,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 444188003,Y744,Y74.4 Thoracoscopic video-assisted approach to thoracic cavity
 310408005,E472,E47.2 Closure of fistula of bronchus
 447878005,L061,L06.1 Creation of aortopulmonary window
+314606007,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 53168001,S606,S60.6 Electrolysis of hair
+169304003,Y919,Y91.9 Unspecified external beam radiotherapy
 425979008,Y535,Y53.5 Approach to organ under image intensifier
+428923005,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 708812005,Y535,Y53.5 Approach to organ under image intensifier
+230857009,Y389,Y38.9 Unspecified injection of therapeutic substance into organ NOC
+169296006,X651,X65.1 Delivery of a fraction of total body irradiation
 233210002,Y259,Y25.9 Unspecified suture of organ NOC
 736671000,Y534,Y53.4 Approach to organ under fluoroscopic control
 1119344002,Z943,Z94.3 Left sided operation
 233226001,L082,L08.2 Creation of anastomosis to left pulmonary artery from left subclavian artery NEC
+441799006,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 443386001,Y949,Y94.9 Unspecified radiopharmaceutical imaging
+714029009,X658,X65.8 Other specified radiotherapy delivery
 241303002,Y938,Y93.8 Other specified gallium-67 imaging
 241304008,Y941,Y94.1 Dopamine transporter scan
 232624001,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
 20142006,E544,E54.4 Excision of segment of lung
 233134001,L062,L06.2 Creation of anastomosis to main pulmonary artery from ascending aorta NEC
+169396008,X723,X72.3 Delivery of simple parenteral chemotherapy for neoplasm at first attendance
 770700009,Y142,Y14.2 Insertion of expanding metal stent into organ NOC
+83794005,X328,X32.8 Other specified exchange blood transfusion
 88039007,K011,K01.1 Allotransplantation of heart and lung
 770700009,Y148,Y14.8 Other specified placement of stent in organ NOC
+172286002,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 432652008,E592,E59.2 Aspiration biopsy of lesion of lung
+428412000,X659,X65.9 Unspecified radiotherapy delivery
 721044005,U354,U35.4 Computed tomography of pulmonary arteries
+228671005,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 765041007,Y533,Y53.3 Approach to organ under computed tomography scan control
+169291001,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+449290006,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
+395075008,X658,X65.8 Other specified radiotherapy delivery
 62511003,E532,E53.2 Single lung transplant
+6872008,X723,X72.3 Delivery of simple parenteral chemotherapy for neoplasm at first attendance
 765042000,Y538,Y53.8 Other specified approach to organ under image control
 77648009,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
 61000087103,Y973,Y97.3 Radiology with post contrast
+46044009,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 20142006,E549,E54.9 Unspecified excision of lung
+169298007,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
+169301006,Y916,Y91.6 Intraoperative electron beam radiotherapy
+1141994004,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
 233073003,Z943,Z94.3 Left sided operation
+172408001,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 450873006,E598,E59.8 Other specified other operations on lung
 59325001,Z245,Z24.5 Bronchus
 233116000,L121,L12.1 Application of band to pulmonary artery
 432231006,Y204,Y20.4 Fine needle aspiration NOC
 87101000,E463,E46.3 Excision of lesion of bronchus NEC
 449113004,Z391,Z39.1 Superior vena cava
+314604005,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 432652008,E593,E59.3 Biopsy of lesion of lung NEC
 169021003,Z246,Z24.6 Lung
 233022006,K044,K04.4 Revision of repair of tetralogy of Fallot
@@ -822,45 +1278,71 @@ snomed,opcs,opcs_term
 116165008,E542,E54.2 Bilobectomy of lung
 233097007,K046,K04.6 Repair of Fallot-type pulmonary atresia with aortopulmonary collaterals
 119730004,E462,E46.2 Excision of cyst of bronchus
+10492003,X657,X65.7 Delivery of radionuclide therapy NEC
 13662000,L084,L08.4 Revision of anastomosis to pulmonary artery from subclavian artery
 708812005,Y539,Y53.9 Unspecified approach to organ under image control
 765041007,Y534,Y53.4 Approach to organ under fluoroscopic control
+228672003,Y917,Y91.7 Electron beam radiotherapy NEC
 770700009,Z245,Z24.5 Bronchus
 19095002,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 232649002,E572,E57.2 Ligation of bulla of lung
 233136004,K174,K17.4 Aortopulmonary reconstruction with right ventricle to pulmonary arterial valveless conduit
+890093004,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
+711299007,Z924,Z92.4 Chest NEC
+228672003,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+228662001,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
 48616004,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
 232643001,E541,E54.1 Total pneumonectomy
 169142004,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 233022006,K042,K04.2 Repair of tetralogy of Fallot using right ventricular outflow conduit NEC
+228666003,X691,X69.1 Delivery of a fraction of hemi-body radiation
 84200003,Y536,Y53.6 Approach to organ under video control
+65952009,Y918,Y91.8 Other specified external beam radiotherapy
 233226001,L083,L08.3 Creation of anastomosis to pulmonary artery from subclavian artery NEC
 20142006,E543,E54.3 Lobectomy of lung
+428831001,X657,X65.7 Delivery of radionuclide therapy NEC
+228671005,X651,X65.1 Delivery of a fraction of total body irradiation
+428923005,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 119730004,E469,E46.9 Unspecified partial extirpation of bronchus
 233224003,L058,L05.8 Other specified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
+231544004,Z161,Z16.1 Orbit
 241304008,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
+428624002,X659,X65.9 Unspecified radiotherapy delivery
 4539004,E441,E44.1 Excision of carina
 54057009,E499,E49.9 Unspecified diagnostic fibreoptic endoscopic examination of lower respiratory tract
 241111002,U217,U21.7 Plain x-ray NEC
+169302004,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
+429774000,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 119738006,Y261,Y26.1 Reconstruction of organ NOC
+74023000,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 310407000,E472,E47.2 Closure of fistula of bronchus
+169296006,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 119746007,E543,E54.3 Lobectomy of lung
+700496000,T483,T48.3 Introduction of therapeutic substance into peritoneal cavity
 54057009,E492,E49.2 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and lavage of lesion of lower respiratory tract
+228664000,Y918,Y91.8 Other specified external beam radiotherapy
 448791000,Z246,Z24.6 Lung
 175267003,Y536,Y53.6 Approach to organ under video control
+450827009,X722,X72.2 Delivery of complex parenteral chemotherapy for neoplasm at first attendance
 241303002,Y943,Y94.3 Metaiodobenzylguanidine imaging
+38104006,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 57113004,Y939,Y93.9 Unspecified gallium-67 imaging
 233225002,L065,L06.5 Creation of anastomosis to pulmonary artery from aorta NEC
+62867004,X657,X65.7 Delivery of radionuclide therapy NEC
 241226006,Y539,Y53.9 Unspecified approach to organ under image control
+228664000,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
 287306002,E518,E51.8 Other specified diagnostic endoscopic examination of lower respiratory tract using rigid bronchoscope
 443386001,Y938,Y93.8 Other specified gallium-67 imaging
+870385001,X658,X65.8 Other specified radiotherapy delivery
 359615001,E545,E54.5 Partial lobectomy of lung NEC
 443386001,Y948,Y94.8 Other specified radiopharmaceutical imaging
 44162000,T858,T85.8 Other specified block dissection of lymph nodes
+169301006,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 287309009,Y498,Y49.8 Other specified approach through thoracic cavity
 829831000000100,Y533,Y53.3 Approach to organ under computed tomography scan control
 61000087103,U215,U21.5 Contrast fluoroscopy NEC
 448287006,E463,E46.3 Excision of lesion of bronchus NEC
+169302004,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 51230002,E615,E61.5 Exploration of mediastinum NEC
 57113004,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 233210002,L108,L10.8 Other specified repair of pulmonary artery
@@ -869,22 +1351,39 @@ snomed,opcs,opcs_term
 233071001,K048,K04.8 Other specified repair of tetralogy of Fallot
 287306002,Z245,Z24.5 Bronchus
 531000087106,Z245,Z24.5 Bronchus
+228674002,Y918,Y91.8 Other specified external beam radiotherapy
+171809001,A613,A61.3 Radiotherapy to lesion of peripheral nerve
 16549641000119100,Z943,Z94.3 Left sided operation
 233213000,L102,L10.2 Repair of pulmonary artery using patch
 788820009,Y137,Y13.7 Microwave destruction of lesion of organ NOC
+169297002,X692,X69.2 Delivery of a fraction of total skin radiotherapy
+231585009,X651,X65.1 Delivery of a fraction of total body irradiation
 173098009,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
 233208004,L124,L12.4 Open embolectomy of pulmonary artery
+427541000119103,X657,X65.7 Delivery of radionuclide therapy NEC
 312316009,K378,K37.8 Other specified removal of obstruction from structure adjacent to valve of heart
+11331000224100,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 56897006,Y291,Y29.1 Surgical removal of foreign body from organ NOC
+16554781000119103,X657,X65.7 Delivery of radionuclide therapy NEC
+169291001,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
 66258007,E593,E59.3 Biopsy of lesion of lung NEC
+47479005,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 16559081000119104,Y533,Y53.3 Approach to organ under computed tomography scan control
 233208004,L121,L12.1 Application of band to pulmonary artery
 703518004,K183,K18.3 Creation of valved conduit between right ventricle of heart and pulmonary artery
+33195004,Y916,Y91.6 Intraoperative electron beam radiotherapy
 301083005,Y531,Y53.1 Approach to organ under radiological control
 397954001,Z245,Z24.5 Bronchus
 397396006,E503,E50.3 Endoscopic destruction of lesion of lower respiratory tract using rigid bronchoscope NEC
+447912004,A107,A10.7 Stereotactic radiosurgery on tissue of brain
+782204001,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 233071001,K193,K19.3 Creation of conduit between right ventricle of heart and pulmonary artery NEC
+426332009,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+169396008,X738,X73.8 Other specified delivery of oral chemotherapy for neoplasm
 397396006,E483,E48.3 Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC
+445232009,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
+890093004,X738,X73.8 Other specified delivery of oral chemotherapy for neoplasm
+33356009,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 431434002,L135,L13.5 Percutaneous transluminal balloon angioplasty of pulmonary artery NEC
 443386001,Y939,Y93.9 Unspecified gallium-67 imaging
 233022006,K182,K18.2 Creation of valved conduit between right atrium and pulmonary artery
@@ -900,11 +1399,19 @@ snomed,opcs,opcs_term
 90249002,E595,E59.5 Percutaneous radiofrequency ablation of lesion of lung
 425437006,L126,L12.6 Pulmonary artery ligation
 66088009,Y942,Y94.2 Octreotide imaging
+449290006,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+445232009,X657,X65.7 Delivery of radionuclide therapy NEC
 241616006,Y973,Y97.3 Radiology with post contrast
+63506005,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
+31652009,X721,X72.1 Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance
 233216008,Y069,Y06.9 Unspecified excision of lesion of organ NOC
 440466000,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 16334008,L067,L06.7 Takedown of anastomosis to pulmonary artery from aorta
+716872004,X729,X72.9 Unspecified delivery of chemotherapy for neoplasm
+231585009,X659,X65.9 Unspecified radiotherapy delivery
 397396006,E487,E48.7 Fibreoptic endoscopic photodynamic therapy of lesion of lower respiratory tract
+228664000,X651,X65.1 Delivery of a fraction of total body irradiation
+51534007,X739,X73.9 Unspecified delivery of oral chemotherapy for neoplasm
 450608000,Z246,Z24.6 Lung
 232658009,K019,K01.9 Unspecified transplantation of heart and lung
 432652008,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
@@ -914,30 +1421,45 @@ snomed,opcs,opcs_term
 232628003,E593,E59.3 Biopsy of lesion of lung NEC
 48616004,Z245,Z24.5 Bronchus
 51230002,E613,E61.3 Open drainage of mediastinum
+6872008,X729,X72.9 Unspecified delivery of chemotherapy for neoplasm
 58079006,E478,E47.8 Other specified other open operations on bronchus
 35295005,Y531,Y53.1 Approach to organ under radiological control
 20142006,E542,E54.2 Bilobectomy of lung
 448287006,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 67244001,Y412,Y41.2 Endoscopic ultrasound staging examination of organ NOC
+429774000,Z926,Z92.6 Abdomen NEC
+172408001,X651,X65.1 Delivery of a fraction of total body irradiation
+77738002,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
 51230002,Y073,Y07.3 Obliteration of sinus track from organ NOC
 53168001,S608,S60.8 Other specified other operations on skin
 8382008,L087,L08.7 Percutaneous transluminal occlusion of anastomosis between pulmonary artery and subclavian artery
+447912004,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
+113117004,Y917,Y91.7 Electron beam radiotherapy NEC
+448294009,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 387747000,Y131,Y13.1 Cauterisation of lesion of organ NOC
 6611000179105,Y211,Y21.1 Brush cytology of organ NOC
 25321000,Y741,Y74.1 Thoracoscopically assisted approach to thoracic cavity
 88039007,K018,K01.8 Other specified transplantation of heart and lung
+63506005,X657,X65.7 Delivery of radionuclide therapy NEC
 233137008,K174,K17.4 Aortopulmonary reconstruction with right ventricle to pulmonary arterial valveless conduit
 233097007,Z943,Z94.3 Left sided operation
+11331000224100,Y919,Y91.9 Unspecified external beam radiotherapy
+172286002,X651,X65.1 Delivery of a fraction of total body irradiation
+171809001,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 59325001,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
 444001009,L091,L09.1 Creation of anastomosis to pulmonary artery from vena cava
+428624002,X657,X65.7 Delivery of radionuclide therapy NEC
 21831008,Y412,Y41.2 Endoscopic ultrasound staging examination of organ NOC
 173176002,E553,E55.3 Open cauterisation of lesion of lung
+43111005,X658,X65.8 Other specified radiotherapy delivery
 241303002,U158,U15.8 Other specified diagnostic imaging of respiratory system
 233114002,L695,L69.5 Percutaneous transluminal insertion of stent into major systemic to pulmonary collateral artery
 711415002,E541,E54.1 Total pneumonectomy
 241541005,U212,U21.2 Computed tomography NEC
+312248006,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 173179009,E553,E55.3 Open cauterisation of lesion of lung
 397395005,E521,E52.1 Irrigation of bronchus NEC
+441799006,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 11519002,G071,G07.1 Closure of tracheo-oesophageal fistula
 233097007,K043,K04.3 Repair of tetralogy of Fallot using transannular patch
 397396006,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
@@ -945,30 +1467,52 @@ snomed,opcs,opcs_term
 233224003,L051,L05.1 Creation of shunt to main pulmonary artery from ascending aorta using interposition tube prosthesis
 233145003,Z943,Z94.3 Left sided operation
 233097007,K045,K04.5 Repair of tetralogy of Fallot with absent pulmonary valve
+228673008,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 764864002,Y948,Y94.8 Other specified radiopharmaceutical imaging
 232633004,Y052,Y05.2 Partial excision of organ NOC
 241299007,Y948,Y94.8 Other specified radiopharmaceutical imaging
 443989003,Z943,Z94.3 Left sided operation
+447912004,Y916,Y91.6 Intraoperative electron beam radiotherapy
+441783000,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
+711299007,X659,X65.9 Unspecified radiotherapy delivery
 54057009,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
+169298007,O441,O44.1 Proton radiotherapy
+428412000,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 310393006,Y251,Y25.1 Suture of laceration of organ NOC
 232645008,T079,T07.9 Unspecified open excision of pleura
+228676000,X691,X69.1 Delivery of a fraction of hemi-body radiation
 241541005,Z246,Z24.6 Lung
 726427004,Z943,Z94.3 Left sided operation
+448385000,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
+169304003,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
+10611004,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+70446004,T133,T13.3 Introduction of cytotoxic substance into pleural cavity
 88039007,E531,E53.1 Double lung transplant
 66088009,Y948,Y94.8 Other specified radiopharmaceutical imaging
 53168001,S607,S60.7 Epilation NEC
+711299007,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
+441799006,Y917,Y91.7 Electron beam radiotherapy NEC
+429579007,X657,X65.7 Delivery of radionuclide therapy NEC
 441959001,L075,L07.5 Percutaneous transluminal occlusion of interposition tube prosthesis between pulmonary artery and subclavian artery
 233071001,K042,K04.2 Repair of tetralogy of Fallot using right ventricular outflow conduit NEC
 82651004,Y252,Y25.2 Resuture of organ NOC
+450827009,X721,X72.1 Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance
 449550007,L052,L05.2 Creation of shunt to right pulmonary artery from ascending aorta using interposition tube prosthesis
 233072008,Z942,Z94.2 Right sided operation
 287465001,Y531,Y53.1 Approach to organ under radiological control
 241304008,U158,U15.8 Other specified diagnostic imaging of respiratory system
+169298007,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
+228675001,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 233127003,K183,K18.3 Creation of valved conduit between right ventricle of heart and pulmonary artery
 173176002,E558,E55.8 Other specified open extirpation of lesion of lung
+711299007,X657,X65.7 Delivery of radionuclide therapy NEC
+429579007,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+38216008,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
 53168001,S609,S60.9 Unspecified other operations on skin
 233137008,K177,K17.7 Conversion of atrial pulmonary anastomosis to total pulmonary connection
 241542003,Z941,Z94.1 Bilateral operation
+441783000,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
+1156526006,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 233022006,K043,K04.3 Repair of tetralogy of Fallot using transannular patch
 443145004,U363,U36.3 Single photon emission computed tomography with computed tomography NEC
 79653008,E464,E46.4 Open destruction of lesion of bronchus
@@ -989,21 +1533,32 @@ snomed,opcs,opcs_term
 233097007,K041,K04.1 Repair of tetralogy of Fallot using valved right ventricular outflow conduit
 418786005,Y971,Y97.1 Radiology with pre and post contrast
 67244001,Y418,Y41.8 Other specified examination of organ NOC
+169298007,Y917,Y91.7 Electron beam radiotherapy NEC
 10558003,E472,E47.2 Closure of fistula of bronchus
+29391003,T463,T46.3 Irrigation of peritoneal cavity
+169294009,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 58074001,Y271,Y27.1 Autograft to organ NOC
 57113004,Y941,Y94.1 Dopamine transporter scan
 232651003,E552,E55.2 Open excision of lesion of lung
 8382008,L073,L07.3 Closure of prosthetic shunt to pulmonary artery from subclavian artery
+169297002,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 870380006,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
 54057009,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
+80347004,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 233227005,L074,L07.4 Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and subclavian artery
 429609002,E441,E44.1 Excision of carina
 708813000,E591,E59.1 Needle biopsy of lesion of lung
+169296006,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 447878005,L067,L06.7 Takedown of anastomosis to pulmonary artery from aorta
+64522003,Z194,Z19.4 Choroid
+115960007,Y917,Y91.7 Electron beam radiotherapy NEC
 173152005,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
+428831001,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 175267003,Y539,Y53.9 Unspecified approach to organ under image control
 34564005,L052,L05.2 Creation of shunt to right pulmonary artery from ascending aorta using interposition tube prosthesis
+785707001,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 443266003,Y942,Y94.2 Octreotide imaging
+785707001,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 233114002,L693,L69.3 Percutaneous transluminal embolisation of major systemic to pulmonary collateral artery
 49528005,E483,E48.3 Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC
 443386001,Y943,Y94.3 Metaiodobenzylguanidine imaging
@@ -1017,11 +1572,18 @@ snomed,opcs,opcs_term
 428602002,L692,L69.2 Pulmonary unifocalisation
 11519002,E472,E47.2 Closure of fistula of bronchus
 447878005,L063,L06.3 Creation of anastomosis to right pulmonary artery from ascending aorta NEC
+45643008,X651,X65.1 Delivery of a fraction of total body irradiation
+711299007,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 51230002,T092,T09.2 Open biopsy of lesion of pleura
 241112009,Y971,Y97.1 Radiology with pre and post contrast
+33195004,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
+113117004,X651,X65.1 Delivery of a fraction of total body irradiation
+231568007,Z163,Z16.3 Canthus
 232658009,K018,K01.8 Other specified transplantation of heart and lung
 233227005,L075,L07.5 Percutaneous transluminal occlusion of interposition tube prosthesis between pulmonary artery and subclavian artery
 175253007,L102,L10.2 Repair of pulmonary artery using patch
+169295005,Y918,Y91.8 Other specified external beam radiotherapy
+228663006,X651,X65.1 Delivery of a fraction of total body irradiation
 233073003,K042,K04.2 Repair of tetralogy of Fallot using right ventricular outflow conduit NEC
 119753003,E571,E57.1 Repair of lung
 6491000087100,E593,E59.3 Biopsy of lesion of lung NEC
@@ -1029,41 +1591,63 @@ snomed,opcs,opcs_term
 66088009,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 233072008,K042,K04.2 Repair of tetralogy of Fallot using right ventricular outflow conduit NEC
 241303002,Y941,Y94.1 Dopamine transporter scan
+231737005,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 13662000,L081,L08.1 Creation of anastomosis to right pulmonary artery from right subclavian artery NEC
 67244001,E573,E57.3 Deflation of bulla of lung
+228666003,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 241293008,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 447751001,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 232639000,Z943,Z94.3 Left sided operation
+447912004,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 59325001,E471,E47.1 Open biopsy of lesion of bronchus NEC
 8382008,L086,L08.6 Percutaneous transluminal balloon dilation of anastomosis between pulmonary artery and subclavian artery
 241226006,Y536,Y53.6 Approach to organ under video control
+448461009,Y919,Y91.9 Unspecified external beam radiotherapy
 274318008,Z245,Z24.5 Bronchus
 765042000,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 425979008,L135,L13.5 Percutaneous transluminal balloon angioplasty of pulmonary artery NEC
 241297009,Y948,Y94.8 Other specified radiopharmaceutical imaging
 397396006,E521,E52.1 Irrigation of bronchus NEC
+169291001,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 448020002,L052,L05.2 Creation of shunt to right pulmonary artery from ascending aorta using interposition tube prosthesis
 233136004,K176,K17.6 Takedown of total cavopulmonary connection
+428416002,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
+12149006,Y822,Y82.2 Injection of local anaesthetic NEC
 232636007,E544,E54.4 Excision of segment of lung
 119738006,E473,E47.3 Repair of bronchus NEC
+39646005,O441,O44.1 Proton radiotherapy
 232622002,E478,E47.8 Other specified other open operations on bronchus
 303272002,K061,K06.1 Repositioning of transposed great arteries
+230911008,L348,L34.8 Other specified other open operations on cerebral artery
 232648005,E441,E44.1 Excision of carina
 287306002,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
 119000,Y744,Y74.4 Thoracoscopic video-assisted approach to thoracic cavity
 449113004,L091,L09.1 Creation of anastomosis to pulmonary artery from vena cava
 1119344002,Y971,Y97.1 Radiology with pre and post contrast
+169303009,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 433030005,L138,L13.8 Other specified transluminal operations on pulmonary artery
 8382008,L081,L08.1 Creation of anastomosis to right pulmonary artery from right subclavian artery NEC
+169304003,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 6491000087100,Y533,Y53.3 Approach to organ under computed tomography scan control
 72109001,E473,E47.3 Repair of bronchus NEC
+428831001,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
+33356009,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 448766000,U212,U21.2 Computed tomography NEC
 726427004,E543,E54.3 Lobectomy of lung
+169295005,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+50632006,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+64134004,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 287306002,E493,E49.3 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and brush cytology of lesion of lower respiratory tract
+1156530009,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 51230002,Y072,Y07.2 Clipping of organ NOC
+45643008,Y916,Y91.6 Intraoperative electron beam radiotherapy
 233227005,L079,L07.9 Unspecified creation of shunt to pulmonary artery from subclavian artery using interposition tube prosthesis
+169396008,X729,X72.9 Unspecified delivery of chemotherapy for neoplasm
+1156524009,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 432302005,Y534,Y53.4 Approach to organ under fluoroscopic control
 233022006,K192,K19.2 Creation of conduit between right atrium and pulmonary artery NEC
+63506005,Z194,Z19.4 Choroid
+169302004,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 443237001,Y938,Y93.8 Other specified gallium-67 imaging
 448287006,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
 770700009,Y143,Y14.3 Insertion of metal stent into organ NOC
@@ -1073,62 +1657,106 @@ snomed,opcs,opcs_term
 233238005,L128,L12.8 Other specified other open operations on pulmonary artery
 66258007,E591,E59.1 Needle biopsy of lesion of lung
 59325001,Y204,Y20.4 Fine needle aspiration NOC
+231544004,X657,X65.7 Delivery of radionuclide therapy NEC
+169294009,X651,X65.1 Delivery of a fraction of total body irradiation
 232645008,T072,T07.2 Open excision of lesion of pleura
 233145003,L098,L09.8 Other specified other connection to pulmonary artery
+169303009,Y918,Y91.8 Other specified external beam radiotherapy
 77648009,Y498,Y49.8 Other specified approach through thoracic cavity
+10611004,O441,O44.1 Proton radiotherapy
+46044009,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
+300976007,X657,X65.7 Delivery of radionuclide therapy NEC
+169314007,X651,X65.1 Delivery of a fraction of total body irradiation
+714029009,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 241111002,Z245,Z24.5 Bronchus
+428829005,X659,X65.9 Unspecified radiotherapy delivery
 232643001,E441,E44.1 Excision of carina
+169295005,O441,O44.1 Proton radiotherapy
+65952009,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
+428829005,X651,X65.1 Delivery of a fraction of total body irradiation
 312849006,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
 233208004,L126,L12.6 Pulmonary artery ligation
 241293008,Y931,Y93.1 Gallium-67 imaging scan
 735016006,E541,E54.1 Total pneumonectomy
+228663006,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
+428624002,X651,X65.1 Delivery of a fraction of total body irradiation
+172286002,C242,C24.2 Radiotherapy to lacrimal gland
 232657004,K019,K01.9 Unspecified transplantation of heart and lung
 78603008,E591,E59.1 Needle biopsy of lesion of lung
+231585009,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 703519007,K184,K18.4 Creation of valved conduit between left ventricle of heart and aorta
 233072008,K046,K04.6 Repair of Fallot-type pulmonary atresia with aortopulmonary collaterals
+228673008,X651,X65.1 Delivery of a fraction of total body irradiation
 84840003,T071,T07.1 Decortication of pleura
 61192001,L014,L01.4 Closure of aortopulmonary window
 450348001,E593,E59.3 Biopsy of lesion of lung NEC
 447958003,L081,L08.1 Creation of anastomosis to right pulmonary artery from right subclavian artery NEC
 438769009,L692,L69.2 Pulmonary unifocalisation
 233071001,K043,K04.3 Repair of tetralogy of Fallot using transannular patch
+314605006,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+78110003,Z194,Z19.4 Choroid
 56897006,E578,E57.8 Other specified other open operations on lung
+429774000,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 169142004,Y942,Y94.2 Octreotide imaging
 447751001,E508,E50.8 Other specified therapeutic endoscopic operations on lower respiratory tract using rigid bronchoscope
+231544004,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
+169295005,X651,X65.1 Delivery of a fraction of total body irradiation
 447751001,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
 175253007,L103,L10.3 Repair of anomalous pulmonary artery NEC
+113117004,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
 53168001,Y071,Y07.1 Ligation of organ NOC
 233209007,L128,L12.8 Other specified other open operations on pulmonary artery
 48616004,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
+441799006,Y916,Y91.6 Intraoperative electron beam radiotherapy
+115960007,Y916,Y91.6 Intraoperative electron beam radiotherapy
+169298007,Y919,Y91.9 Unspecified external beam radiotherapy
+113117004,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 51000087101,Z943,Z94.3 Left sided operation
+428412000,X657,X65.7 Delivery of radionuclide therapy NEC
+228663006,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
 447975009,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
 241053004,Y971,Y97.1 Radiology with pre and post contrast
+70446004,T134,T13.4 Introduction of therapeutic substance into pleural cavity
+169296006,Y918,Y91.8 Other specified external beam radiotherapy
+228667007,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 444188003,Y742,Y74.2 Thoracoscopic approach to thoracic cavity NEC
 432074001,Y037,Y03.7 Removal of prosthesis from organ NOC
 432074001,Y534,Y53.4 Approach to organ under fluoroscopic control
+169304003,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 442303003,E573,E57.3 Deflation of bulla of lung
 241226006,Y531,Y53.1 Approach to organ under radiological control
+428831001,Z436,Z43.6 Male perineum
 49528005,E552,E55.2 Open excision of lesion of lung
+722491009,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
 54057009,E484,E48.4 Fibreoptic endoscopic aspiration of lower respiratory tract
+448385000,X691,X69.1 Delivery of a fraction of hemi-body radiation
 431430006,Y942,Y94.2 Octreotide imaging
 21731000087107,E593,E59.3 Biopsy of lesion of lung NEC
 444188003,Y052,Y05.2 Partial excision of organ NOC
 233097007,K048,K04.8 Other specified repair of tetralogy of Fallot
+4114003,X723,X72.3 Delivery of simple parenteral chemotherapy for neoplasm at first attendance
+231596001,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
+428624002,X658,X65.8 Other specified radiotherapy delivery
+450827009,X729,X72.9 Unspecified delivery of chemotherapy for neoplasm
 310408005,Y259,Y25.9 Unspecified suture of organ NOC
 19095002,E478,E47.8 Other specified other open operations on bronchus
 232645008,T078,T07.8 Other specified open excision of pleura
+113117004,Y918,Y91.8 Other specified external beam radiotherapy
 119755005,E574,E57.4 Incision of lung NEC
 241293008,Y942,Y94.2 Octreotide imaging
 119000,Y741,Y74.1 Thoracoscopically assisted approach to thoracic cavity
+716872004,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
 173171007,E545,E54.5 Partial lobectomy of lung NEC
 448020002,L053,L05.3 Creation of shunt to left pulmonary artery from ascending aorta using interposition tube prosthesis
 716755000,Y123,Y12.3 Electrochemotherapy to lesion of organ NOC
 40902008,E545,E54.5 Partial lobectomy of lung NEC
 87387006,Z245,Z24.5 Bronchus
+428412000,Z921,Z92.1 Head NEC
 232624001,E463,E46.3 Excision of lesion of bronchus NEC
 433240003,Z401,Z40.1 Pulmonary artery
 232647000,E441,E44.1 Excision of carina
 175236000,L078,L07.8 Other specified creation of shunt to pulmonary artery from subclavian artery using interposition tube prosthesis
+169292008,X691,X69.1 Delivery of a fraction of hemi-body radiation
 310412004,L014,L01.4 Closure of aortopulmonary window
 441677009,U159,U15.9 Unspecified diagnostic imaging of respiratory system
 12986006,E552,E55.2 Open excision of lesion of lung
@@ -1139,58 +1767,105 @@ snomed,opcs,opcs_term
 431721002,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
 441677009,Z246,Z24.6 Lung
 86642005,L058,L05.8 Other specified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
+228675001,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 233073003,K046,K04.6 Repair of Fallot-type pulmonary atresia with aortopulmonary collaterals
 53168001,S605,S60.5 Diagnostic dermatoscopy of skin
 233213000,L108,L10.8 Other specified repair of pulmonary artery
+448294009,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
+449290006,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 91596000,E541,E54.1 Total pneumonectomy
 301083005,Y538,Y53.8 Other specified approach to organ under image control
 397840008,E473,E47.3 Repair of bronchus NEC
 232644007,E441,E44.1 Excision of carina
+64522003,Y358,Y35.8 Other specified introduction of removable radioactive material into organ NOC
 431430006,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 301083005,Y536,Y53.6 Approach to organ under video control
+169307005,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 448523009,Y764,Y76.4 Endoscopic ultrasonic approach to other body cavity
 21831008,Y411,Y41.1 Examination of organ under anaesthetic NOC
+428416002,X659,X65.9 Unspecified radiotherapy delivery
 232622002,E472,E47.2 Closure of fistula of bronchus
+428416002,X657,X65.7 Delivery of radionuclide therapy NEC
 438769009,Y731,Y73.1 Cardiopulmonary bypass
+169303009,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 870380006,Z246,Z24.6 Lung
+63506005,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 43831007,E591,E59.1 Needle biopsy of lesion of lung
+228666003,Y916,Y91.6 Intraoperative electron beam radiotherapy
 1119345001,Y971,Y97.1 Radiology with pre and post contrast
+11331000224100,Y918,Y91.8 Other specified external beam radiotherapy
+441799006,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
+65952009,X691,X69.1 Delivery of a fraction of hemi-body radiation
+428831001,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
+890093004,X728,X72.8 Other specified delivery of chemotherapy for neoplasm
+169301006,X651,X65.1 Delivery of a fraction of total body irradiation
+231585009,Z163,Z16.3 Canthus
 10558003,T095,T09.5 Open pleurodesis NEC
 232656008,E573,E57.3 Deflation of bulla of lung
 449210005,E503,E50.3 Endoscopic destruction of lesion of lower respiratory tract using rigid bronchoscope NEC
+228662001,X651,X65.1 Delivery of a fraction of total body irradiation
 5632009,E471,E47.1 Open biopsy of lesion of bronchus NEC
 33639009,E544,E54.4 Excision of segment of lung
+428829005,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 57113004,Y938,Y93.8 Other specified gallium-67 imaging
+29391003,T484,T48.4 Introduction of substance into peritoneal cavity NEC
 233074009,K046,K04.6 Repair of Fallot-type pulmonary atresia with aortopulmonary collaterals
+169291001,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
+169291001,Y919,Y91.9 Unspecified external beam radiotherapy
 443989003,Z391,Z39.1 Superior vena cava
 447751001,Y069,Y06.9 Unspecified excision of lesion of organ NOC
+428416002,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 431430006,Z246,Z24.6 Lung
+473237008,O441,O44.1 Proton radiotherapy
 233071001,K044,K04.4 Revision of repair of tetralogy of Fallot
+169318005,Y918,Y91.8 Other specified external beam radiotherapy
+64522003,Y351,Y35.1 Introduction of radioactive caesium into organ NOC
 84200003,Y535,Y53.5 Approach to organ under image intensifier
 84200003,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 43831007,E598,E59.8 Other specified other operations on lung
+169396008,X739,X73.9 Unspecified delivery of oral chemotherapy for neoplasm
+77738002,X728,X72.8 Other specified delivery of chemotherapy for neoplasm
+429774000,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+169301006,O441,O44.1 Proton radiotherapy
 169057008,U217,U21.7 Plain x-ray NEC
 232635006,Z942,Z94.2 Right sided operation
+4114003,X721,X72.1 Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance
+6872008,X722,X72.2 Delivery of complex parenteral chemotherapy for neoplasm at first attendance
+441783000,Y917,Y91.7 Electron beam radiotherapy NEC
+228664000,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 443237001,U363,U36.3 Single photon emission computed tomography with computed tomography NEC
 233073003,K048,K04.8 Other specified repair of tetralogy of Fallot
+169314007,O441,O44.1 Proton radiotherapy
 232657004,K018,K01.8 Other specified transplantation of heart and lung
 243685008,Z245,Z24.5 Bronchus
 241227002,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
+169318005,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+441783000,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 450348001,E591,E59.1 Needle biopsy of lesion of lung
 29474003,K095,K09.5 Primary repair of defect of atrioventricular septum NEC
 233226001,L086,L08.6 Percutaneous transluminal balloon dilation of anastomosis between pulmonary artery and subclavian artery
 43831007,E594,E59.4 Drainage of lung
 51230002,E619,E61.9 Unspecified open operations on mediastinum
 425979008,Y538,Y53.8 Other specified approach to organ under image control
+711299007,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 32477003,K011,K01.1 Allotransplantation of heart and lung
+228663006,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 54057009,E489,E48.9 Unspecified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 442203000,Y938,Y93.8 Other specified gallium-67 imaging
+785707001,Z159,Z15.9 Breast NEC
+314604005,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 232641004,E441,E44.1 Excision of carina
+722482005,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
+169317000,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 75935006,Y742,Y74.2 Thoracoscopic approach to thoracic cavity NEC
+447704003,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
+85257004,Z198,Z19.8 Specified part of eye NEC
 233114002,L694,L69.4 Percutaneous transluminal balloon angioplasty of major systemic to pulmonary collateral artery
 441959001,L082,L08.2 Creation of anastomosis to left pulmonary artery from left subclavian artery NEC
+78110003,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 57113004,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 175249005,L091,L09.1 Creation of anastomosis to pulmonary artery from vena cava
+448294009,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 287305003,Y291,Y29.1 Surgical removal of foreign body from organ NOC
 274319000,E591,E59.1 Needle biopsy of lesion of lung
 66088009,U151,U15.1 Lung perfusion scanning NEC
@@ -1198,61 +1873,103 @@ snomed,opcs,opcs_term
 91596000,E618,E61.8 Other specified open operations on mediastinum
 441959001,L089,L08.9 Unspecified other connection to pulmonary artery from subclavian artery
 765041007,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
+39646005,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 444034006,L091,L09.1 Creation of anastomosis to pulmonary artery from vena cava
 232645008,T071,T07.1 Decortication of pleura
 233226001,L075,L07.5 Percutaneous transluminal occlusion of interposition tube prosthesis between pulmonary artery and subclavian artery
 708812005,Y532,Y53.2 Approach to organ under ultrasonic control
 173098009,E441,E44.1 Excision of carina
 448538005,X453,X45.3 Donation of lobe of lung
+33195004,Y918,Y91.8 Other specified external beam radiotherapy
+228671005,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+29391003,T469,T46.9 Unspecified other drainage of peritoneal cavity
+433224001,X657,X65.7 Delivery of radionuclide therapy NEC
 233074009,K049,K04.9 Unspecified repair of tetralogy of Fallot
 233224003,L067,L06.7 Takedown of anastomosis to pulmonary artery from aorta
 233231004,L091,L09.1 Creation of anastomosis to pulmonary artery from vena cava
 232625000,E473,E47.3 Repair of bronchus NEC
+64522003,Y352,Y35.2 Introduction of iridium wire into organ NOC
 448791000,Y132,Y13.2 Cryotherapy to lesion of organ NOC
 232635006,E544,E54.4 Excision of segment of lung
 16559081000119104,E598,E59.8 Other specified other operations on lung
+441799006,Y919,Y91.9 Unspecified external beam radiotherapy
+711299007,X658,X65.8 Other specified radiotherapy delivery
+169293003,X651,X65.1 Delivery of a fraction of total body irradiation
 29785002,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
 61339001,Y208,Y20.8 Other specified biopsy of organ NOC
 91160008,Z245,Z24.5 Bronchus
+169291001,Y917,Y91.7 Electron beam radiotherapy NEC
+473237008,Y918,Y91.8 Other specified external beam radiotherapy
 174883003,K183,K18.3 Creation of valved conduit between right ventricle of heart and pulmonary artery
 91160008,Y973,Y97.3 Radiology with post contrast
 8382008,L082,L08.2 Creation of anastomosis to left pulmonary artery from left subclavian artery NEC
 175221003,L054,L05.4 Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and aorta
+85257004,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 443145004,Y943,Y94.3 Metaiodobenzylguanidine imaging
 175253007,L109,L10.9 Unspecified repair of pulmonary artery
+428831001,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
+169298007,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 233136004,K171,K17.1 Total cavopulmonary connection with extracardiac inferior caval vein to pulmonary artery conduit
+64522003,X658,X65.8 Other specified radiotherapy delivery
+231568007,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+33356009,Y917,Y91.7 Electron beam radiotherapy NEC
 233022006,K049,K04.9 Unspecified repair of tetralogy of Fallot
+231544004,X658,X65.8 Other specified radiotherapy delivery
 277182002,L128,L12.8 Other specified other open operations on pulmonary artery
+43111005,Y351,Y35.1 Introduction of radioactive caesium into organ NOC
 739139005,Z942,Z94.2 Right sided operation
+785706005,Z422,Z42.2 Prostate
+169303009,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 443386001,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 67160005,E542,E54.2 Bilobectomy of lung
+12149006,X384,X38.4 Subcutaneous chemotherapy
 35295005,Y534,Y53.4 Approach to organ under fluoroscopic control
 287465001,Y536,Y53.6 Approach to organ under video control
+11331000224100,O441,O44.1 Proton radiotherapy
 1119345001,Y973,Y97.3 Radiology with post contrast
 16559081000119104,Y132,Y13.2 Cryotherapy to lesion of organ NOC
 43831007,Y539,Y53.9 Unspecified approach to organ under image control
+228667007,X691,X69.1 Delivery of a fraction of hemi-body radiation
+1172516002,X334,X33.4 Autologous peripheral blood stem cell transplant
+63506005,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
+228672003,X651,X65.1 Delivery of a fraction of total body irradiation
+169294009,X691,X69.1 Delivery of a fraction of hemi-body radiation
+77613002,X655,X65.5 Oral delivery of radiotherapy for thyroid ablation
 51000087101,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 233136004,K178,K17.8 Other specified repair of univentricular heart
+113117004,X691,X69.1 Delivery of a fraction of hemi-body radiation
+45643008,X691,X69.1 Delivery of a fraction of hemi-body radiation
+169301006,X691,X69.1 Delivery of a fraction of hemi-body radiation
+169310003,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 441959001,L083,L08.3 Creation of anastomosis to pulmonary artery from subclavian artery NEC
+36679009,P205,P20.5 Implantation of radioactive substance into vagina
+169304003,X651,X65.1 Delivery of a fraction of total body irradiation
+169298007,Y918,Y91.8 Other specified external beam radiotherapy
+473237008,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 233137008,K175,K17.5 Biventricular repair of hypoplastic left heart syndrome
 442203000,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 337877003,E552,E55.2 Open excision of lesion of lung
 34564005,L063,L06.3 Creation of anastomosis to right pulmonary artery from ascending aorta NEC
 175267003,Y532,Y53.2 Approach to organ under ultrasonic control
+169309008,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 241303002,Y942,Y94.2 Octreotide imaging
 84200003,Y531,Y53.1 Approach to organ under radiological control
 29474003,K098,K09.8 Other specified repair of defect of atrioventricular septum
 7375006,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
+169309008,X691,X69.1 Delivery of a fraction of hemi-body radiation
 428501002,K331,K33.1 Aortic root replacement using pulmonary valve autograft with right ventricle to pulmonary artery valved conduit
 173117002,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
 447878005,L069,L06.9 Unspecified other connection to pulmonary artery from aorta
+6872008,X728,X72.8 Other specified delivery of chemotherapy for neoplasm
 431430006,U158,U15.8 Other specified diagnostic imaging of respiratory system
 718683004,Y534,Y53.4 Approach to organ under fluoroscopic control
 119000,E545,E54.5 Partial lobectomy of lung NEC
 443145004,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
+47479005,Y919,Y91.9 Unspecified external beam radiotherapy
 443266003,Y941,Y94.1 Dopamine transporter scan
 261563006,L128,L12.8 Other specified other open operations on pulmonary artery
 443266003,Y949,Y94.9 Unspecified radiopharmaceutical imaging
+22733003,X722,X72.2 Delivery of complex parenteral chemotherapy for neoplasm at first attendance
 233073003,K044,K04.4 Revision of repair of tetralogy of Fallot
 175224006,L053,L05.3 Creation of shunt to left pulmonary artery from ascending aorta using interposition tube prosthesis
 441624004,Y948,Y94.8 Other specified radiopharmaceutical imaging
@@ -1265,43 +1982,83 @@ snomed,opcs,opcs_term
 721044005,Y973,Y97.3 Radiology with post contrast
 442203000,U214,U21.4 Single photon emission computed tomography NEC
 429270005,L067,L06.7 Takedown of anastomosis to pulmonary artery from aorta
+428412000,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 54057009,E482,E48.2 Fibreoptic endoscopic laser destruction of lesion of lower respiratory tract
 173171007,E543,E54.3 Lobectomy of lung
 359618004,E543,E54.3 Lobectomy of lung
+228674002,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 765041007,Y539,Y53.9 Unspecified approach to organ under image control
+64522003,Y354,Y35.4 Introduction of radioactive substance into organ for brachytherapy NOC
+169304003,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 241302007,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 447878005,L062,L06.2 Creation of anastomosis to main pulmonary artery from ascending aorta NEC
 432302005,L132,L13.2 Percutaneous transluminal embolisation of pulmonary artery
+169292008,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+428412000,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
+429774000,X659,X65.9 Unspecified radiotherapy delivery
 425948009,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
+46044009,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
 233022006,K048,K04.8 Other specified repair of tetralogy of Fallot
 241542003,Y973,Y97.3 Radiology with post contrast
+395096001,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 1119344002,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 79653008,E482,E48.2 Fibreoptic endoscopic laser destruction of lesion of lower respiratory tract
+228660009,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+1156528007,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+62867004,Y351,Y35.1 Introduction of radioactive caesium into organ NOC
 233144004,L098,L09.8 Other specified other connection to pulmonary artery
 232637003,Z942,Z94.2 Right sided operation
+314606007,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 708813000,Y204,Y20.4 Fine needle aspiration NOC
+169318005,X651,X65.1 Delivery of a fraction of total body irradiation
 15015009,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
+172408001,X657,X65.7 Delivery of radionuclide therapy NEC
 726426008,Z943,Z94.3 Left sided operation
 233074009,K041,K04.1 Repair of tetralogy of Fallot using valved right ventricular outflow conduit
 431434002,Y534,Y53.4 Approach to organ under fluoroscopic control
+879915007,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+31632008,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+441799006,Y918,Y91.8 Other specified external beam radiotherapy
 77648009,E552,E55.2 Open excision of lesion of lung
 233074009,K048,K04.8 Other specified repair of tetralogy of Fallot
 397396006,E484,E48.4 Fibreoptic endoscopic aspiration of lower respiratory tract
 43831007,E599,E59.9 Unspecified other operations on lung
+169296006,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
+1156530009,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 54057009,E498,E49.8 Other specified diagnostic fibreoptic endoscopic examination of lower respiratory tract
+300976007,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
+12149006,Y821,Y82.1 Local anaesthetic nerve block
 16332841000119106,Y973,Y97.3 Radiology with post contrast
 241303002,Y948,Y94.8 Other specified radiopharmaceutical imaging
 277437006,E478,E47.8 Other specified other open operations on bronchus
+712746000,X651,X65.1 Delivery of a fraction of total body irradiation
 447751001,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
+43111005,Y352,Y35.2 Introduction of iridium wire into organ NOC
+169297002,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
+43111005,C882,C88.2 Photodynamic therapy to subretinal lesion
+169295005,X692,X69.2 Delivery of a fraction of total skin radiotherapy
+429579007,X658,X65.8 Other specified radiotherapy delivery
 53168001,Y075,Y07.5 Occlusion of organ NOC
 397397002,E486,E48.6 Fibreoptic endoscopic irrigation of lower respiratory tract
 16332841000119106,Y971,Y97.1 Radiology with pre and post contrast
+77613002,X657,X65.7 Delivery of radionuclide therapy NEC
+228666003,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 397860000,Z245,Z24.5 Bronchus
+228662001,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 447950005,L065,L06.5 Creation of anastomosis to pulmonary artery from aorta NEC
+64522003,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
+171809001,X651,X65.1 Delivery of a fraction of total body irradiation
+441783000,Y916,Y91.6 Intraoperative electron beam radiotherapy
 51000087101,Y971,Y97.1 Radiology with pre and post contrast
 241298004,Y948,Y94.8 Other specified radiopharmaceutical imaging
+300976007,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+169302004,X651,X65.1 Delivery of a fraction of total body irradiation
+74023000,X651,X65.1 Delivery of a fraction of total body irradiation
+228663006,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 447878005,L065,L06.5 Creation of anastomosis to pulmonary artery from aorta NEC
+46044009,X651,X65.1 Delivery of a fraction of total body irradiation
 233072008,K048,K04.8 Other specified repair of tetralogy of Fallot
+169302004,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 119736005,E473,E47.3 Repair of bronchus NEC
 241293008,Y948,Y94.8 Other specified radiopharmaceutical imaging
 88039007,E533,E53.3 Single lobe lung transplant
@@ -1309,57 +2066,100 @@ snomed,opcs,opcs_term
 7375006,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
 431434002,Z401,Z40.1 Pulmonary artery
 397398007,E506,E50.6 Endoscopic irrigation of lower respiratory tract using rigid bronchoscope
+314604005,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 51230002,Y071,Y07.1 Ligation of organ NOC
 359618004,E545,E54.5 Partial lobectomy of lung NEC
 232644007,E541,E54.1 Total pneumonectomy
+169296006,X691,X69.1 Delivery of a fraction of hemi-body radiation
+897713009,X374,X37.4 Intramuscular immunotherapy
+231596001,X658,X65.8 Other specified radiotherapy delivery
 54057009,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
+367336001,X373,X37.3 Intramuscular chemotherapy
 57113004,Y943,Y94.3 Metaiodobenzylguanidine imaging
 175221003,L058,L05.8 Other specified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
 11519002,G072,G07.2 Closure of fistula of oesophagus NEC
+228663006,Y918,Y91.8 Other specified external beam radiotherapy
 609171001,Y132,Y13.2 Cryotherapy to lesion of organ NOC
+1163157007,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 25321000,Y742,Y74.2 Thoracoscopic approach to thoracic cavity NEC
 609171001,E598,E59.8 Other specified other operations on lung
 418549007,Y534,Y53.4 Approach to organ under fluoroscopic control
+231596001,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 232634005,E548,E54.8 Other specified excision of lung
 449549007,L091,L09.1 Creation of anastomosis to pulmonary artery from vena cava
 241299007,U152,U15.2 Lung ventilation scanning NEC
 232627008,E472,E47.2 Closure of fistula of bronchus
+228673008,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 736671000,E546,E54.6 Reduction of lung volume
 84200003,L133,L13.3 Arteriography of pulmonary artery
+115959002,A107,A10.7 Stereotactic radiosurgery on tissue of brain
+43111005,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 1156264009,E591,E59.1 Needle biopsy of lesion of lung
+63506005,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
 241303002,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
+428624002,Z529,Z52.9 Chest wall NEC
+38104006,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 443145004,Y949,Y94.9 Unspecified radiopharmaceutical imaging
+1156530009,X651,X65.1 Delivery of a fraction of total body irradiation
 301083005,L132,L13.2 Percutaneous transluminal embolisation of pulmonary artery
 443386001,Y941,Y94.1 Dopamine transporter scan
+169315008,Y918,Y91.8 Other specified external beam radiotherapy
 119755005,Y262,Y26.2 Plastic repair of organ NOC
+231568007,X659,X65.9 Unspecified radiotherapy delivery
+33356009,Y919,Y91.9 Unspecified external beam radiotherapy
+78110003,Y363,Y36.3 Radioactive seed implantation NOC
 45558009,E574,E57.4 Incision of lung NEC
+879915007,X658,X65.8 Other specified radiotherapy delivery
 287465001,Y539,Y53.9 Unspecified approach to organ under image control
 51000087101,Y973,Y97.3 Radiology with post contrast
 233196001,L011,L01.1 Correction of persistent truncus arteriosus
 336863008,E552,E55.2 Open excision of lesion of lung
+228664000,X691,X69.1 Delivery of a fraction of hemi-body radiation
+228676000,X692,X69.2 Delivery of a fraction of total skin radiotherapy
+441783000,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 54057009,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
+113117004,Y919,Y91.9 Unspecified external beam radiotherapy
 449550007,L058,L05.8 Other specified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
 56970000,L059,L05.9 Unspecified creation of shunt to pulmonary artery from aorta using interposition tube prosthesis
+169317000,X691,X69.1 Delivery of a fraction of hemi-body radiation
 418786005,Y973,Y97.3 Radiology with post contrast
 54057009,E503,E50.3 Endoscopic destruction of lesion of lower respiratory tract using rigid bronchoscope NEC
+314605006,X651,X65.1 Delivery of a fraction of total body irradiation
+113117004,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 232658009,K011,K01.1 Allotransplantation of heart and lung
+169302004,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
 450608000,E483,E48.3 Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC
 62511003,E533,E53.3 Single lobe lung transplant
 310394000,E571,E57.1 Repair of lung
+11331000224100,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 84200003,Y532,Y53.2 Approach to organ under ultrasonic control
+65952009,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
+722472009,X715,X71.5 Procurement of drugs for chemotherapy for neoplasm for regimens in Band 10
 241227002,Y533,Y53.3 Approach to organ under computed tomography scan control
+43111005,Y364,Y36.4 Introduction of non-removable radioactive substance into organ for brachytherapy NOC
+448461009,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 274318008,E511,E51.1 Diagnostic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract using rigid bronchoscope
+228675001,Y918,Y91.8 Other specified external beam radiotherapy
 387747000,Y111,Y11.1 Cauterisation of organ NOC
 233224003,L054,L05.4 Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and aorta
 713348007,E671,E67.1 Endoscopic thermal bronchoplasty
 440466000,Y948,Y94.8 Other specified radiopharmaceutical imaging
 770700009,Y146,Y14.6 Insertion of biodegradable stent into organ NOC
+429584001,A107,A10.7 Stereotactic radiosurgery on tissue of brain
 175236000,L074,L07.4 Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and subclavian artery
+314606007,X691,X69.1 Delivery of a fraction of hemi-body radiation
 43232006,T072,T07.2 Open excision of lesion of pleura
 57113004,Y948,Y94.8 Other specified radiopharmaceutical imaging
+428829005,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+448461009,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+228664000,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
+39646005,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
+720379009,X721,X72.1 Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance
 81070005,Z246,Z24.6 Lung
+300976007,X651,X65.1 Delivery of a fraction of total body irradiation
 232622002,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
 287309009,E549,E54.9 Unspecified excision of lung
+447912004,O441,O44.1 Proton radiotherapy
 72109001,E472,E47.2 Closure of fistula of bronchus
 6481000087102,Z943,Z94.3 Left sided operation
 233227005,L078,L07.8 Other specified creation of shunt to pulmonary artery from subclavian artery using interposition tube prosthesis
@@ -1368,19 +2168,28 @@ snomed,opcs,opcs_term
 442203000,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 66258007,Y742,Y74.2 Thoracoscopic approach to thoracic cavity NEC
 241111002,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
+169317000,X651,X65.1 Delivery of a fraction of total body irradiation
 241304008,Y943,Y94.3 Metaiodobenzylguanidine imaging
 84200003,Y534,Y53.4 Approach to organ under fluoroscopic control
+172408001,X653,X65.3 Delivery of a fraction of interstitial radiotherapy
+449290006,Y918,Y91.8 Other specified external beam radiotherapy
 397396006,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
 770700009,Y144,Y14.4 Insertion of plastic stent into organ NOC
 770700009,Y534,Y53.4 Approach to organ under fluoroscopic control
+113117004,X692,X69.2 Delivery of a fraction of total skin radiotherapy
+10611004,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 13662000,L088,L08.8 Other specified other connection to pulmonary artery from subclavian artery
 432067006,L136,L13.6 Percutaneous transluminal insertion of stent into pulmonary artery
 32477003,K018,K01.8 Other specified transplantation of heart and lung
 442203000,Y931,Y93.1 Gallium-67 imaging scan
 51230002,E614,E61.4 Mediastinotomy NEC
+50632006,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 116165008,E441,E44.1 Excision of carina
 425979008,Y532,Y53.2 Approach to organ under ultrasonic control
 287306002,E492,E49.2 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and lavage of lesion of lower respiratory tract
+448385000,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
+64522003,Y364,Y36.4 Introduction of non-removable radioactive substance into organ for brachytherapy NOC
+80347004,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 51230002,Y079,Y07.9 Unspecified obliteration of cavity of organ NOC
 57113004,Y942,Y94.2 Octreotide imaging
 233146002,Z941,Z94.1 Bilateral operation
@@ -1389,19 +2198,34 @@ snomed,opcs,opcs_term
 431721002,E591,E59.1 Needle biopsy of lesion of lung
 442203000,Y948,Y94.8 Other specified radiopharmaceutical imaging
 78603008,Y744,Y74.4 Thoracoscopic video-assisted approach to thoracic cavity
+169301006,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
+45643008,Y917,Y91.7 Electron beam radiotherapy NEC
 43831007,Y535,Y53.5 Approach to organ under image intensifier
+85257004,Z194,Z19.4 Choroid
 241542003,Y981,Y98.1 Radiology of one body area (or < 20 minutes)
 444178004,L091,L09.1 Creation of anastomosis to pulmonary artery from vena cava
 54057009,E504,E50.4 Endoscopic aspiration of lower respiratory tract using rigid bronchoscope
 232658009,K012,K01.2 Revision of transplantation of heart and lung
+449290006,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
+74023000,X692,X69.2 Delivery of a fraction of total skin radiotherapy
+441799006,O441,O44.1 Proton radiotherapy
+1172516002,X335,X33.5 Syngeneic peripheral blood stem cell transplant
 443386001,U363,U36.3 Single photon emission computed tomography with computed tomography NEC
+33195004,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 119755005,Y264,Y26.4 Removal of other repair material from organ NOC
 443145004,Z246,Z24.6 Lung
+33356009,Y918,Y91.8 Other specified external beam radiotherapy
 425979008,Y533,Y53.3 Approach to organ under computed tomography scan control
+22733003,X738,X73.8 Other specified delivery of oral chemotherapy for neoplasm
 397396006,E506,E50.6 Endoscopic irrigation of lower respiratory tract using rigid bronchoscope
+890093004,X723,X72.3 Delivery of simple parenteral chemotherapy for neoplasm at first attendance
 13662000,L089,L08.9 Unspecified other connection to pulmonary artery from subclavian artery
 119755005,Y261,Y26.1 Reconstruction of organ NOC
+22733003,X731,X73.1 Delivery of exclusively oral chemotherapy for neoplasm
+47479005,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
+29391003,T468,T46.8 Other specified other drainage of peritoneal cavity
 1119345001,Z245,Z24.5 Bronchus
+16554931000119102,X657,X65.7 Delivery of radionuclide therapy NEC
 426987001,E595,E59.5 Percutaneous radiofrequency ablation of lesion of lung
 241053004,Y973,Y97.3 Radiology with post contrast
 67160005,T072,T07.2 Open excision of lesion of pleura
@@ -1410,24 +2234,33 @@ snomed,opcs,opcs_term
 6481000087102,Y533,Y53.3 Approach to organ under computed tomography scan control
 443237001,Y939,Y93.9 Unspecified gallium-67 imaging
 51000087101,Z245,Z24.5 Bronchus
+85257004,X658,X65.8 Other specified radiotherapy delivery
 58074001,Y273,Y27.3 Xenograft to organ NOC
+228671005,Y916,Y91.6 Intraoperative electron beam radiotherapy
 173184003,E572,E57.2 Ligation of bulla of lung
 51230002,T095,T09.5 Open pleurodesis NEC
 233238005,Y069,Y06.9 Unspecified excision of lesion of organ NOC
+172286002,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 43232006,E541,E54.1 Total pneumonectomy
 233230003,L091,L09.1 Creation of anastomosis to pulmonary artery from vena cava
 82651004,Y254,Y25.4 Removal of other suture from organ NOC
+33195004,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
+169292008,X651,X65.1 Delivery of a fraction of total body irradiation
 16549591000119109,Z942,Z94.2 Right sided operation
 241226006,Y535,Y53.5 Approach to organ under image intensifier
 91160008,Y971,Y97.1 Radiology with pre and post contrast
+231737005,Z198,Z19.8 Specified part of eye NEC
 51230002,E472,E47.2 Closure of fistula of bronchus
 443145004,Y939,Y93.9 Unspecified gallium-67 imaging
 241293008,Z246,Z24.6 Lung
+395075008,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
 233226001,L078,L07.8 Other specified creation of shunt to pulmonary artery from subclavian artery using interposition tube prosthesis
 6531000087100,Y534,Y53.4 Approach to organ under fluoroscopic control
 233074009,K044,K04.4 Revision of repair of tetralogy of Fallot
 708812005,Y534,Y53.4 Approach to organ under fluoroscopic control
+169297002,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 443989003,L091,L09.1 Creation of anastomosis to pulmonary artery from vena cava
+169304003,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 443266003,Z246,Z24.6 Lung
 81070005,Y521,Y52.1 Approach to organ through tracheostomy
 765041007,L133,L13.3 Arteriography of pulmonary artery
@@ -1435,75 +2268,120 @@ snomed,opcs,opcs_term
 448020002,L054,L05.4 Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and aorta
 48616004,E501,E50.1 Endoscopic snare resection of lesion of lower respiratory tract using rigid bronchoscope
 443266003,Y931,Y93.1 Gallium-67 imaging scan
+65952009,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
+169296006,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 442278005,Z391,Z39.1 Superior vena cava
 241302007,U152,U15.2 Lung ventilation scanning NEC
+428923005,Z159,Z15.9 Breast NEC
 765041007,Y538,Y53.8 Other specified approach to organ under image control
+169294009,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
+870250004,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
 116165008,E543,E54.3 Lobectomy of lung
 232632009,Y052,Y05.2 Partial excision of organ NOC
 67244001,E572,E57.2 Ligation of bulla of lung
 173170008,E542,E54.2 Bilobectomy of lung
 232642006,E441,E44.1 Excision of carina
 243411004,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
+46044009,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
+169314007,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 119730004,E461,E46.1 Sleeve resection of bronchus and anastomosis HFQ
 770700009,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 169115000,Y985,Y98.5 Radiology of > 4 body areas (or > 40 minutes)
+169317000,Y918,Y91.8 Other specified external beam radiotherapy
 429932001,E591,E59.1 Needle biopsy of lesion of lung
 54057009,E518,E51.8 Other specified diagnostic endoscopic examination of lower respiratory tract using rigid bronchoscope
+169311004,X691,X69.1 Delivery of a fraction of hemi-body radiation
+169304003,X691,X69.1 Delivery of a fraction of hemi-body radiation
+428831001,X659,X65.9 Unspecified radiotherapy delivery
 87101000,E462,E46.2 Excision of cyst of bronchus
+428831001,X651,X65.1 Delivery of a fraction of total body irradiation
+172286002,X658,X65.8 Other specified radiotherapy delivery
+230914000,L978,L97.8 Other specified other operations on blood vessel
+228664000,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 432231006,E591,E59.1 Needle biopsy of lesion of lung
 770700009,E528,E52.8 Other specified other operations on bronchus
 431434002,L134,L13.4 Percutaneous transluminal cutting balloon angioplasty of pulmonary artery
 58079006,Y053,Y05.3 Excision of sinus track from organ NOC
 397396006,E482,E48.2 Fibreoptic endoscopic laser destruction of lesion of lower respiratory tract
 54057009,E486,E48.6 Fibreoptic endoscopic irrigation of lower respiratory tract
+33195004,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
 765041007,Z943,Z94.3 Left sided operation
+428416002,X651,X65.1 Delivery of a fraction of total body irradiation
+441799006,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
 241293008,Y943,Y94.3 Metaiodobenzylguanidine imaging
 79653008,E483,E48.3 Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC
 29474003,K093,K09.3 Repair of defect of atrioventricular septum using tissue graft
 440466000,Y938,Y93.8 Other specified gallium-67 imaging
 440466000,Y941,Y94.1 Dopamine transporter scan
+1103661000000108,X657,X65.7 Delivery of radionuclide therapy NEC
+367336001,X352,X35.2 Intravenous chemotherapy
 13662000,L083,L08.3 Creation of anastomosis to pulmonary artery from subclavian artery NEC
+447704003,Y917,Y91.7 Electron beam radiotherapy NEC
 233072008,K193,K19.3 Creation of conduit between right ventricle of heart and pulmonary artery NEC
 233224003,L053,L05.3 Creation of shunt to left pulmonary artery from ascending aorta using interposition tube prosthesis
+33195004,X651,X65.1 Delivery of a fraction of total body irradiation
 43831007,Y537,Y53.7 Approach to organ under magnetic resonance imaging control
 169115000,Y973,Y97.3 Radiology with post contrast
 241304008,Y942,Y94.2 Octreotide imaging
+395096001,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 62511003,E539,E53.9 Unspecified transplantation of lung
 397396006,E502,E50.2 Endoscopic laser destruction of lesion of lower respiratory tract using rigid bronchoscope
 444001009,Z942,Z94.2 Right sided operation
 233208004,L129,L12.9 Unspecified other open operations on pulmonary artery
 232655007,E592,E59.2 Aspiration biopsy of lesion of lung
+33356009,Y912,Y91.2 Megavoltage treatment for simple radiotherapy
+228666003,Y917,Y91.7 Electron beam radiotherapy NEC
+428416002,X658,X65.8 Other specified radiotherapy delivery
+5304008,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 66088009,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
 425948009,Y538,Y53.8 Other specified approach to organ under image control
 62843007,Y429,Y42.9 Unspecified manipulation of organ NOC
 51230002,E612,E61.2 Open biopsy of lesion of mediastinum
 79653008,E481,E48.1 Fibreoptic endoscopic snare resection of lesion of lower respiratory tract
+169307005,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 61000087103,Y971,Y97.1 Radiology with pre and post contrast
+231596001,X657,X65.7 Delivery of radionuclide therapy NEC
+5304008,X691,X69.1 Delivery of a fraction of hemi-body radiation
 443237001,Y942,Y94.2 Octreotide imaging
 233226001,L088,L08.8 Other specified other connection to pulmonary artery from subclavian artery
+169311004,Y918,Y91.8 Other specified external beam radiotherapy
+1156529004,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 442877005,E591,E59.1 Needle biopsy of lesion of lung
 233072008,K183,K18.3 Creation of valved conduit between right ventricle of heart and pulmonary artery
+228673008,X691,X69.1 Delivery of a fraction of hemi-body radiation
 32477003,K012,K01.2 Revision of transplantation of heart and lung
 10558003,T098,T09.8 Other specified other open operations on pleura
 119755005,E573,E57.3 Deflation of bulla of lung
 387747000,E598,E59.8 Other specified other operations on lung
+33356009,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 51230002,T091,T09.1 Open destruction of lesion of pleura
+33356009,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+169295005,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
+169307005,X651,X65.1 Delivery of a fraction of total body irradiation
 232622002,E468,E46.8 Other specified partial extirpation of bronchus
+428624002,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
+445232009,X658,X65.8 Other specified radiotherapy delivery
 447878005,L051,L05.1 Creation of shunt to main pulmonary artery from ascending aorta using interposition tube prosthesis
 173153000,E482,E48.2 Fibreoptic endoscopic laser destruction of lesion of lower respiratory tract
 736671000,Y763,Y76.3 Endoscopic approach to other body cavity
 78603008,E592,E59.2 Aspiration biopsy of lesion of lung
 287306002,E494,E49.4 Diagnostic fibreoptic endoscopic examination of lower respiratory tract with lavage and brush cytology of lesion of lower respiratory tract
+870385001,X659,X65.9 Unspecified radiotherapy delivery
 443386001,Z246,Z24.6 Lung
 62511003,E538,E53.8 Other specified transplantation of lung
 8382008,L075,L07.5 Percutaneous transluminal occlusion of interposition tube prosthesis between pulmonary artery and subclavian artery
 431596004,L131,L13.1 Percutaneous transluminal embolectomy of pulmonary artery
 67160005,E543,E54.3 Lobectomy of lung
+441783000,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
 441624004,Y938,Y93.8 Other specified gallium-67 imaging
 8382008,L084,L08.4 Revision of anastomosis to pulmonary artery from subclavian artery
 442203000,Y942,Y94.2 Octreotide imaging
 21831008,E479,E47.9 Unspecified other open operations on bronchus
+231737005,X659,X65.9 Unspecified radiotherapy delivery
+6872008,X721,X72.1 Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance
 1119344002,Y973,Y97.3 Radiology with post contrast
+300976007,X652,X65.2 Delivery of a fraction of intracavitary radiotherapy
+395096001,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 782762003,E521,E52.1 Irrigation of bronchus NEC
 51230002,Y078,Y07.8 Other specified obliteration of cavity of organ NOC
 233141007,L032,L03.2 Percutaneous transluminal stent implantation into arterial duct
@@ -1512,25 +2390,40 @@ snomed,opcs,opcs_term
 261487005,E442,E44.2 Reconstruction of carina
 53168001,T091,T09.1 Open destruction of lesion of pleura
 447878005,L053,L05.3 Creation of shunt to left pulmonary artery from ascending aorta using interposition tube prosthesis
+428416002,X655,X65.5 Oral delivery of radiotherapy for thyroid ablation
+1148692008,X659,X65.9 Unspecified radiotherapy delivery
+11331000224100,Y917,Y91.7 Electron beam radiotherapy NEC
 431721002,E592,E59.2 Aspiration biopsy of lesion of lung
 425979008,Y539,Y53.9 Unspecified approach to organ under image control
 173185002,E573,E57.3 Deflation of bulla of lung
+312248006,Y918,Y91.8 Other specified external beam radiotherapy
 449210005,E483,E48.3 Fibreoptic endoscopic destruction of lesion of lower respiratory tract NEC
+441799006,Y911,Y91.1 Megavoltage treatment for complex radiotherapy
 765042000,L133,L13.3 Arteriography of pulmonary artery
+64978007,X657,X65.7 Delivery of radionuclide therapy NEC
 440466000,U214,U21.4 Single photon emission computed tomography NEC
 59046001,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
 119755005,E579,E57.9 Unspecified other open operations on lung
 175221003,L052,L05.2 Creation of shunt to right pulmonary artery from ascending aorta using interposition tube prosthesis
 433857008,Y781,Y78.1 Arteriotomy approach to organ using image guidance with fluoroscopy
+10611004,X651,X65.1 Delivery of a fraction of total body irradiation
 56970000,L052,L05.2 Creation of shunt to right pulmonary artery from ascending aorta using interposition tube prosthesis
+228672003,X691,X69.1 Delivery of a fraction of hemi-body radiation
+38104006,X651,X65.1 Delivery of a fraction of total body irradiation
+445232009,X659,X65.9 Unspecified radiotherapy delivery
+228674002,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 448797001,L091,L09.1 Creation of anastomosis to pulmonary artery from vena cava
+228667007,Y918,Y91.8 Other specified external beam radiotherapy
 84041000,Y409,Y40.9 Unspecified dilation of organ NOC
 173190004,E591,E59.1 Needle biopsy of lesion of lung
 174802006,K011,K01.1 Allotransplantation of heart and lung
 443266003,Y943,Y94.3 Metaiodobenzylguanidine imaging
 718289006,Y534,Y53.4 Approach to organ under fluoroscopic control
+714029009,Y891,Y89.1 High dose rate brachytherapy treatment
 425948009,Y539,Y53.9 Unspecified approach to organ under image control
+722482005,X702,X70.2 Procurement of drugs for chemotherapy for neoplasm for regimens in Band 2
 447788003,L082,L08.2 Creation of anastomosis to left pulmonary artery from left subclavian artery NEC
+33356009,X651,X65.1 Delivery of a fraction of total body irradiation
 29785002,Z245,Z24.5 Bronchus
 449550007,L061,L06.1 Creation of aortopulmonary window
 287305003,E528,E52.8 Other specified other operations on bronchus
@@ -1538,6 +2431,7 @@ snomed,opcs,opcs_term
 67244001,Y419,Y41.9 Unspecified examination of organ NOC
 439939004,E499,E49.9 Unspecified diagnostic fibreoptic endoscopic examination of lower respiratory tract
 441624004,Y944,Y94.4 Diethylenetriamine pentacetic acid imaging
+265761001,X373,X37.3 Intramuscular chemotherapy
 54854003,K183,K18.3 Creation of valved conduit between right ventricle of heart and pulmonary artery
 49528005,E503,E50.3 Endoscopic destruction of lesion of lower respiratory tract using rigid bronchoscope NEC
 51230002,E611,E61.1 Open excision of lesion of mediastinum
@@ -1545,46 +2439,76 @@ snomed,opcs,opcs_term
 713162006,X453,X45.3 Donation of lobe of lung
 43831007,Y533,Y53.3 Approach to organ under computed tomography scan control
 33639009,E545,E54.5 Partial lobectomy of lung NEC
+231585009,X658,X65.8 Other specified radiotherapy delivery
 448287006,Y069,Y06.9 Unspecified excision of lesion of organ NOC
 173177006,E551,E55.1 Open decortication of lesion of lung
 175263004,L125,L12.5 Open embolisation of pulmonary artery
 232634005,Y052,Y05.2 Partial excision of organ NOC
 233144004,Z942,Z94.2 Right sided operation
 232639000,E544,E54.4 Excision of segment of lung
+38104006,Y918,Y91.8 Other specified external beam radiotherapy
 233227005,L072,L07.2 Creation of shunt to left pulmonary artery from left subclavian artery using interposition tube prosthesis
 58079006,E488,E48.8 Other specified therapeutic fibreoptic endoscopic operations on lower respiratory tract
 443237001,Y949,Y94.9 Unspecified radiopharmaceutical imaging
 233074009,K183,K18.3 Creation of valved conduit between right ventricle of heart and pulmonary artery
+22733003,X729,X72.9 Unspecified delivery of chemotherapy for neoplasm
 233114002,L692,L69.2 Pulmonary unifocalisation
 708812005,Y536,Y53.6 Approach to organ under video control
+300976007,X658,X65.8 Other specified radiotherapy delivery
 232652005,E573,E57.3 Deflation of bulla of lung
+438629002,Y891,Y89.1 High dose rate brachytherapy treatment
 44777001,K183,K18.3 Creation of valved conduit between right ventricle of heart and pulmonary artery
 431489004,Y442,Y44.2 Monitoring of pressure in organ NOC
+890093004,X739,X73.9 Unspecified delivery of oral chemotherapy for neoplasm
 708812005,E594,E59.4 Drainage of lung
 49528005,E482,E48.2 Fibreoptic endoscopic laser destruction of lesion of lower respiratory tract
 1137699004,Y204,Y20.4 Fine needle aspiration NOC
+169298007,X651,X65.1 Delivery of a fraction of total body irradiation
 56970000,L053,L05.3 Creation of shunt to left pulmonary artery from ascending aorta using interposition tube prosthesis
+169293003,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 53168001,T095,T09.5 Open pleurodesis NEC
+51534007,X738,X73.8 Other specified delivery of oral chemotherapy for neoplasm
+31632008,A107,A10.7 Stereotactic radiosurgery on tissue of brain
+169298007,Y916,Y91.6 Intraoperative electron beam radiotherapy
 233127003,K193,K19.3 Creation of conduit between right ventricle of heart and pulmonary artery NEC
 119755005,Y265,Y26.5 Other attention to repair of organ NOC
 169142004,Y943,Y94.3 Metaiodobenzylguanidine imaging
 441959001,L088,L08.8 Other specified other connection to pulmonary artery from subclavian artery
+711299007,X651,X65.1 Delivery of a fraction of total body irradiation
+169293003,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
+169295005,Y914,Y91.4 Megavoltage treatment for adaptive radiotherapy
 84041000,Z245,Z24.5 Bronchus
 1119345001,Z942,Z94.2 Right sided operation
 68800008,K193,K19.3 Creation of conduit between right ventricle of heart and pulmonary artery NEC
+22733003,X739,X73.9 Unspecified delivery of oral chemotherapy for neoplasm
+22733003,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
 443386001,Y942,Y94.2 Octreotide imaging
+169301006,Y918,Y91.8 Other specified external beam radiotherapy
+228663006,X691,X69.1 Delivery of a fraction of hemi-body radiation
+64522003,Y353,Y35.3 Introduction of radium into organ NOC
 241227002,Y538,Y53.8 Other specified approach to organ under image control
 233074009,K043,K04.3 Repair of tetralogy of Fallot using transannular patch
+169297002,Y918,Y91.8 Other specified external beam radiotherapy
+172408001,C455,C45.5 Radiotherapy to lesion of cornea
 441959001,L071,L07.1 Creation of shunt to right pulmonary artery from right subclavian artery using interposition tube prosthesis
 441959001,L074,L07.4 Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and subclavian artery
+395096001,X691,X69.1 Delivery of a fraction of hemi-body radiation
+169309008,Y916,Y91.6 Intraoperative electron beam radiotherapy
+169303009,X692,X69.2 Delivery of a fraction of total skin radiotherapy
 425948009,Y532,Y53.2 Approach to organ under ultrasonic control
+870249004,X724,X72.4 Delivery of subsequent element of cycle of chemotherapy for neoplasm
 232631002,Y063,Y06.3 Enucleation of lesion of organ NOC
 119736005,E472,E47.2 Closure of fistula of bronchus
 429932001,Y533,Y53.3 Approach to organ under computed tomography scan control
+720379009,X729,X72.9 Unspecified delivery of chemotherapy for neoplasm
+870385001,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
+473237008,Y916,Y91.6 Intraoperative electron beam radiotherapy
 698009006,E546,E54.6 Reduction of lung volume
 241542003,Y971,Y97.1 Radiology with pre and post contrast
 62511003,E531,E53.1 Double lung transplant
+445232009,X656,X65.6 Delivery of a fraction of intraluminal brachytherapy
 82651004,Y255,Y25.5 Other attention to suture of organ NOC
+22733003,X723,X72.3 Delivery of simple parenteral chemotherapy for neoplasm at first attendance
 119730004,E478,E47.8 Other specified other open operations on bronchus
 232649002,E578,E57.8 Other specified other open operations on lung
 86112008,E473,E47.3 Repair of bronchus NEC
@@ -1594,36 +2518,55 @@ snomed,opcs,opcs_term
 88039007,E538,E53.8 Other specified transplantation of lung
 169115000,Y971,Y97.1 Radiology with pre and post contrast
 233022006,K041,K04.1 Repair of tetralogy of Fallot using valved right ventricular outflow conduit
+64522003,Y363,Y36.3 Radioactive seed implantation NOC
 119738006,E472,E47.2 Closure of fistula of bronchus
+428829005,O161,O16.1 Pelvis NEC
 233074009,K042,K04.2 Repair of tetralogy of Fallot using right ventricular outflow conduit NEC
 708812005,Y533,Y53.3 Approach to organ under computed tomography scan control
 397840008,E472,E47.2 Closure of fistula of bronchus
+172408001,X659,X65.9 Unspecified radiotherapy delivery
 119746007,E441,E44.1 Excision of carina
 29785002,E491,E49.1 Diagnostic fibreoptic endoscopic examination of lower respiratory tract and biopsy of lesion of lower respiratory tract
 49528005,E558,E55.8 Other specified open extirpation of lesion of lung
 233137008,K171,K17.1 Total cavopulmonary connection with extracardiac inferior caval vein to pulmonary artery conduit
+712746000,Y916,Y91.6 Intraoperative electron beam radiotherapy
+441783000,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 51230002,T093,T09.3 Mechanical open pleurodesis
 443237001,Z246,Z24.6 Lung
+445232009,X655,X65.5 Oral delivery of radiotherapy for thyroid ablation
 708812005,Y531,Y53.1 Approach to organ under radiological control
 711415002,E549,E54.9 Unspecified excision of lung
+449290006,X692,X69.2 Delivery of a fraction of total skin radiotherapy
+446504008,X651,X65.1 Delivery of a fraction of total body irradiation
 6481000087102,E593,E59.3 Biopsy of lesion of lung NEC
+169297002,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 241226006,Y533,Y53.3 Approach to organ under computed tomography scan control
 119755005,Y269,Y26.9 Unspecified other repair of organ NOC
 21831008,Y418,Y41.8 Other specified examination of organ NOC
+38104006,X654,X65.4 Delivery of a fraction of external beam radiotherapy NEC
 86642005,L064,L06.4 Creation of anastomosis to left pulmonary artery from descending aorta NEC
+169309008,Y917,Y91.7 Electron beam radiotherapy NEC
+228675001,X651,X65.1 Delivery of a fraction of total body irradiation
 169142004,Y939,Y93.9 Unspecified gallium-67 imaging
 35295005,Y533,Y53.3 Approach to organ under computed tomography scan control
 397954001,E506,E50.6 Endoscopic irrigation of lower respiratory tract using rigid bronchoscope
 54057009,E506,E50.6 Endoscopic irrigation of lower respiratory tract using rigid bronchoscope
 432067006,Y534,Y53.4 Approach to organ under fluoroscopic control
+38216008,X723,X72.3 Delivery of simple parenteral chemotherapy for neoplasm at first attendance
 43831007,Y532,Y53.2 Approach to organ under ultrasonic control
 53168001,T093,T09.3 Mechanical open pleurodesis
 310832007,E473,E47.3 Repair of bronchus NEC
 21831008,E471,E47.1 Open biopsy of lesion of bronchus NEC
 241304008,Y948,Y94.8 Other specified radiopharmaceutical imaging
 718288003,L134,L13.4 Percutaneous transluminal cutting balloon angioplasty of pulmonary artery
+228675001,X691,X69.1 Delivery of a fraction of hemi-body radiation
+395096001,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
 29474003,K094,K09.4 Repair of persistent ostium primum
 765041007,Y535,Y53.5 Approach to organ under image intensifier
 232626004,E472,E47.2 Closure of fistula of bronchus
 431216004,Y534,Y53.4 Approach to organ under fluoroscopic control
 418549007,L133,L13.3 Arteriography of pulmonary artery
+473237008,Y915,Y91.5 Megavoltage treatment for hypofractionated stereotactic radiotherapy
+314605006,Y913,Y91.3 Superficial or orthovoltage treatment for radiotherapy
+169295005,Y919,Y91.9 Unspecified external beam radiotherapy
+85257004,C848,C84.8 Other specified other operations on retina

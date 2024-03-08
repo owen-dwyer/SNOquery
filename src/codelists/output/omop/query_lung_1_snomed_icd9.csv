@@ -1,37 +1,56 @@
 ,concept_code_y,concept_name_y,icd
-47,32.1,Other excision of bronchus,32.1
-411,32.9,Other excision of lung,32.9
-805,32.4,Lobectomy of lung,32.4
-806,32.49,Other lobectomy of lung,32.49
-850,32.3,Segmental resection of lung,32.3
-851,32.30,Thoracoscopic segmental resection of lung,32.30
-852,32.39,Other and unspecified segmental resection of lung,32.39
-1144,33.92,Ligation of bronchus,33.92
-1433,33.28,Open biopsy of lung,33.28
-1684,33.51,Unilateral lung transplantation,33.51
-1954,89.63,Pulmonary artery pressure monitoring,89.63
-2045,33.91,Bronchial dilation,33.91
-2171,33.26,Closed [percutaneous] [needle] biopsy of lung,33.26
-2218,33.43,Closure of laceration of lung,33.43
-2468,33.41,Suture of laceration of bronchus,33.41
-2551,89.64,Pulmonary artery wedge monitoring,89.64
-2686,32.22,Lung volume reduction surgery,32.22
-2897,92.15,Pulmonary scan,92.15
-3023,32.23,Open ablation of lung lesion or tissue,32.23
-3024,32.24,Percutaneous ablation of lung lesion or tissue,32.24
-3025,32.25,Thoracoscopic ablation of lung lesion or tissue,32.25
-3026,32.26,Other and unspecified ablation of lung lesion or tissue,32.26
-3047,32.21,Plication of emphysematous bleb,32.21
-3070,33.1,Incision of lung,33.1
-3092,33.0,Incision of bronchus,33.0
-3113,32.5,Pneumonectomy,32.5
-3114,32.59,Other and unspecified pneumonectomy,32.59
-3150,87.31,Endotracheal bronchogram,87.31
-3163,33.25,Open biopsy of bronchus,33.25
-3325,33.48,Other repair and plastic operations on bronchus,33.48
-3588,33.42,Closure of bronchial fistula,33.42
-3629,88.43,Arteriography of pulmonary arteries,88.43
-3728,33.5,Lung transplant,33.5
-3729,33.50,"Lung transplantation, not otherwise specified",33.50
-3788,33.49,Other repair and plastic operations on lung,33.49
-3861,33.93,Puncture of lung,33.93
+13,92.24,Teleradiotherapy using photons,92.24
+72,92.26,Teleradiotherapy of other particulate radiation,92.26
+73,92.33,Particulate radiosurgery,92.33
+193,92.3,Stereotactic radiosurgery,92.3
+194,92.30,"Stereotactic radiosurgery, not otherwise specified",92.30
+195,92.32,Multi-source photon radiosurgery,92.32
+197,92.39,"Stereotactic radiosurgery, not elsewhere classified",92.39
+428,32.1,Other excision of bronchus,32.1
+792,32.9,Other excision of lung,32.9
+1102,92.4,Intra-operative radiation procedures,92.4
+1103,92.41,Intra-operative electron radiation therapy,92.41
+1997,32.4,Lobectomy of lung,32.4
+1998,32.49,Other lobectomy of lung,32.49
+2042,32.3,Segmental resection of lung,32.3
+2043,32.30,Thoracoscopic segmental resection of lung,32.30
+2044,32.39,Other and unspecified segmental resection of lung,32.39
+2349,33.92,Ligation of bronchus,33.92
+2904,33.28,Open biopsy of lung,33.28
+3155,33.51,Unilateral lung transplantation,33.51
+3425,89.63,Pulmonary artery pressure monitoring,89.63
+3558,33.91,Bronchial dilation,33.91
+3684,33.26,Closed [percutaneous] [needle] biopsy of lung,33.26
+3758,33.43,Closure of laceration of lung,33.43
+4844,00.10,Implantation of chemotherapeutic agent,00.10
+4845,99.28,Injection or infusion of biological response modifier [BRM] as an antineoplastic agent,99.28
+4997,99.25,Injection or infusion of cancer chemotherapeutic substance,99.25
+5182,33.41,Suture of laceration of bronchus,33.41
+5283,89.64,Pulmonary artery wedge monitoring,89.64
+5580,32.22,Lung volume reduction surgery,32.22
+5842,92.15,Pulmonary scan,92.15
+5944,92.31,Single source photon radiosurgery,92.31
+6063,32.23,Open ablation of lung lesion or tissue,32.23
+6064,32.24,Percutaneous ablation of lung lesion or tissue,32.24
+6065,32.25,Thoracoscopic ablation of lung lesion or tissue,32.25
+6066,32.26,Other and unspecified ablation of lung lesion or tissue,32.26
+6099,32.21,Plication of emphysematous bleb,32.21
+6122,33.1,Incision of lung,33.1
+6139,92.25,Teleradiotherapy using electrons,92.25
+6206,33.0,Incision of bronchus,33.0
+6227,32.5,Pneumonectomy,32.5
+6228,32.59,Other and unspecified pneumonectomy,32.59
+6285,92.22,Orthovoltage radiation,92.22
+6301,87.31,Endotracheal bronchogram,87.31
+6314,33.25,Open biopsy of bronchus,33.25
+6467,14.27,Destruction of chorioretinal lesion by implantation of radiation source,14.27
+6977,33.48,Other repair and plastic operations on bronchus,33.48
+7269,92.21,Superficial radiation,92.21
+7370,33.42,Closure of bronchial fistula,33.42
+7455,99.88,Therapeutic photopheresis,99.88
+7464,88.43,Arteriography of pulmonary arteries,88.43
+7490,14.26,Destruction of chorioretinal lesion by radiation therapy,14.26
+7634,33.5,Lung transplant,33.5
+7635,33.50,"Lung transplantation, not otherwise specified",33.50
+7712,33.49,Other repair and plastic operations on lung,33.49
+7785,33.93,Puncture of lung,33.93

@@ -1,0 +1,51 @@
+,concept_code_y,concept_name_y,icd
+13,92.24,Teleradiotherapy using photons,92.24
+53,92.2,Therapeutic radiology and nuclear medicine,92.2
+214,92.26,Teleradiotherapy of other particulate radiation,92.26
+215,92.33,Particulate radiosurgery,92.33
+443,92.3,Stereotactic radiosurgery,92.3
+444,92.30,"Stereotactic radiosurgery, not otherwise specified",92.30
+445,92.32,Multi-source photon radiosurgery,92.32
+447,92.39,"Stereotactic radiosurgery, not elsewhere classified",92.39
+690,32.9,Other excision of lung,32.9
+2146,92.4,Intra-operative radiation procedures,92.4
+2147,92.41,Intra-operative electron radiation therapy,92.41
+3497,32.4,Lobectomy of lung,32.4
+3498,32.49,Other lobectomy of lung,32.49
+3542,32.3,Segmental resection of lung,32.3
+3543,32.30,Thoracoscopic segmental resection of lung,32.30
+3544,32.39,Other and unspecified segmental resection of lung,32.39
+4225,33.28,Open biopsy of lung,33.28
+4451,33.51,Unilateral lung transplantation,33.51
+4820,32.50,Thoracoscopic pneumonectomy,32.50
+5028,33.26,Closed [percutaneous] [needle] biopsy of lung,33.26
+5256,33.43,Closure of laceration of lung,33.43
+6366,00.10,Implantation of chemotherapeutic agent,00.10
+6367,99.28,Injection or infusion of biological response modifier [BRM] as an antineoplastic agent,99.28
+6581,99.25,Injection or infusion of cancer chemotherapeutic substance,99.25
+6629,92.20,Infusion of liquid brachytherapy radioisotope,92.20
+7248,92.23,Radioisotopic teleradiotherapy,92.23
+7249,92.28,Injection or instillation of radioisotopes,92.28
+7672,32.22,Lung volume reduction surgery,32.22
+7975,92.15,Pulmonary scan,92.15
+8056,32.20,Thoracoscopic excision of lesion or tissue of lung,32.20
+8088,92.31,Single source photon radiosurgery,92.31
+8324,32.23,Open ablation of lung lesion or tissue,32.23
+8325,32.24,Percutaneous ablation of lung lesion or tissue,32.24
+8326,32.25,Thoracoscopic ablation of lung lesion or tissue,32.25
+8327,32.26,Other and unspecified ablation of lung lesion or tissue,32.26
+8360,32.21,Plication of emphysematous bleb,32.21
+8373,33.1,Incision of lung,33.1
+8390,92.25,Teleradiotherapy using electrons,92.25
+8479,32.5,Pneumonectomy,32.5
+8480,32.59,Other and unspecified pneumonectomy,32.59
+8528,92.22,Orthovoltage radiation,92.22
+8644,14.27,Destruction of chorioretinal lesion by implantation of radiation source,14.27
+8973,33.20,Thoracoscopic lung biopsy,33.20
+9375,32.41,Thoracoscopic lobectomy of lung,32.41
+9519,92.21,Superficial radiation,92.21
+9742,14.26,Destruction of chorioretinal lesion by radiation therapy,14.26
+9888,33.5,Lung transplant,33.5
+9889,33.50,"Lung transplantation, not otherwise specified",33.50
+9977,33.49,Other repair and plastic operations on lung,33.49
+10050,33.93,Puncture of lung,33.93

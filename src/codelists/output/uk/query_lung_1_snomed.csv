@@ -1,0 +1,622 @@
+concept_id,concept_text
+722482005,ABVD chemotherapy regimen
+363688001,Administration of antineoplastic agent
+1255834000,Administration of antineoplastic chemotherapy into peritoneal cavity
+830155008,Administration of hyperthermic antineoplastic agent into peritoneal cavity
+830156009,Administration of hyperthermic antineoplastic agent into thoracic cavity
+268500004,Administration of prophylactic chemotherapy
+169394006,Afterload radiotherapy of oropharyngeal cavity
+820361000000105,Allotransplantation of lobe of lung from live donor
+315601005,Ambulatory chemotherapy
+765041007,Angiography of left pulmonary artery
+84200003,Angiography of pulmonary arteries
+765042000,Angiography of right pulmonary artery
+233214006,Angioplasty of pulmonary artery
+897713009,Antineoplastic chemoimmunotherapy
+716872004,Antineoplastic chemotherapy regimen
+46412002,Apicectomy lung
+173191000,Aspiration biopsy of lesion of lung
+397396006,Aspiration of bronchus with lavage
+232655007,Aspiration of lung lesion
+15648005,Banding of pulmonary artery
+169328001,Beta source contact therapy
+169310003,Betatron electron therapy
+33356009,Betatron external beam radiation therapy
+169303009,Betatron photon therapy
+228662001,Betatron X-ray therapy
+232660006,Bilateral sequential single lung transplant
+173170008,Bilobectomy of lung
+312849006,Biopsy of bronchus
+450348001,Biopsy of lesion of lung
+78603008,Biopsy of lung
+169343004,Bone marrow suppression - irradiation
+169345006,Bone tumour/metastasis irradiation
+445232009,Boost radiation therapy
+152198000,Brachytherapy
+50080181000188101,Brachytherapy of bone
+447759004,Brachytherapy of breast
+431399005,Brachytherapy using iodine (131-I) ethiodized oil
+448137007,Brachytherapy using radioiodine
+277437006,Bronchial revascularisation
+819491000000107,Bronchial thermoplasty of lower lobe bronchus
+819511000000104,Bronchial thermoplasty of upper lobe bronchus
+86112008,Bronchoplasty
+58074001,Bronchoplasty with graft repair
+397840008,Bronchorrhaphy
+820991000000100,Bronchoscopic lung volume reduction using airway valve
+1363891000000109,Bronchoscopic thermal water vapour ablation of lung
+119736005,Bronchus closure
+119741002,Bronchus destructive procedure
+119730004,Bronchus excision
+119744005,Bronchus manipulation
+119738006,Bronchus reconstruction
+119743004,Bronchus transplantation
+228677009,Caesium 137 brachytherapy
+312243002,Caesium 137 brachytherapy remote afterloading
+228688003,Californium 252 brachytherapy
+397398007,Catheterisation of bronchus with lavage
+61339001,Catheterisation with bronchial brush biopsy
+387747000,Cauterisation of lung
+387748005,Cauterisation of lung lesion
+232652005,Cavernostomising of bulla of lung
+367336001,Chemotherapy
+29391003,Chemotherapy administration into peritoneal cavity requiring paracentesis
+70446004,Chemotherapy administration into pleural cavity requiring thoracentesis
+12149006,"Chemotherapy administration, subcutaneous, with local anaesthesia"
+399042005,Chemotherapy cycle
+232681000000103,Chemotherapy delivery
+22733003,Chemotherapy for non-malignant neoplasm
+68619000,Chemotherapy for non-neoplastic disease
+228681009,Cobalt 60 brachytherapy
+228682002,Cobalt 60 brachytherapy manual loading
+312244008,Cobalt 60 brachytherapy remote afterloading
+24242005,Cobalt-60 therapy
+703423002,Combined chemotherapy and radiation therapy
+394935005,Combined postoperative chemotherapy and radiotherapy
+394934009,Combined pre-operative chemotherapy and radiotherapy
+169331000,Combined radiotherapy
+735015005,Complete excision of left lung
+735016006,Complete excision of right lung
+232646009,Completion pneumonectomy
+441783000,Conformal radiotherapy
+816151001,Consolidation antineoplastic chemotherapy
+228660009,Contact therapy
+29785002,Core needle biopsy of bronchus
+16332841000119106,CT angiography of pulmonary artery with contrast
+1148041000000101,CT guided insertion of fiducial marker into left lung
+1148051000000103,CT guided insertion of fiducial marker into right lung
+241540006,CT of lungs
+241542003,CT of lungs with diagnostic pneumothorax
+50632006,Cyclotron external beam radiation therapy
+228674002,Cyclotron neutron external beam radiation therapy
+5304008,"Deep radiation therapy, 200-300 KVP"
+169295005,Deep X-ray therapy 150-400 kV
+173185002,Deflation of bulla of lung
+442303003,Deflation of lung
+1254742000,Delayed intensification antineoplastic therapy regimen
+238041000000102,Delivery of a fraction of interstitial radiotherapy
+236231000000101,Delivery of a fraction of intracavitary radiotherapy
+236441000000109,Delivery of a fraction of radiotherapy on a superficial or orthovoltage machine
+238051000000104,Delivery of a fraction of simple radiotherapy on a megavoltage machine
+236221000000103,Delivery of a fraction of total body irradiation (TBI)
+235391000000102,Delivery of chemotherapy for neoplasm
+238841000000107,Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance
+238851000000105,Delivery of complex parenteral chemotherapy for neoplasm at first attendance
+238831000000103,Delivery of exclusively oral chemotherapy for neoplasm
+235331000000103,Delivery of oral chemotherapy for neoplasm
+238861000000108,Delivery of simple parenteral chemotherapy for neoplasm at first attendance
+239071000000100,Delivery of subsequent element of cycle of chemotherapy for neoplasm
+64522003,Destruction of chorioretinal lesion by implantation of radiation source
+85257004,Destruction of chorioretinal lesion by radiation therapy
+78110003,Destruction of lesion of choroid by implantation of radiation source
+63506005,Destruction of lesion of choroid by radiation therapy
+450608000,Destruction of lesion of lung
+43111005,Destruction of lesion of retina by implantation of radiation source
+228675001,Deuterium on tritium neutron external beam radiation therapy
+169315008,Deuteron therapy
+287296007,Dilatation of bronchus
+241302007,DTPA aerosol ventilation study
+721044005,Dual energy computed tomography angiography of pulmonary artery with contrast
+843671000000104,Electrochemotherapy
+313092005,Electromagnetic energy therapy
+301083005,Embolisation of pulmonary artery
+844061000000101,Endobronchial ultrasonography guided transbronchial needle aspiration
+847071000000103,Endoscopic balloon dilatation of bronchus
+447751001,Endoscopic excision of polyp of bronchus
+448523009,Endoscopic ultrasonography of lung
+55498000,Endotracheal bronchography
+232631002,Enucleation of lung lesion
+1086741000000104,Epiretinal brachytherapy
+773335005,Epiretinal brachytherapy with vitrectomy
+20142006,Excision of accessory or ectopic lung tissue
+4539004,Excision of bronchogenic cyst
+15015009,"Excision of bronchus, wide sleeve"
+232651003,Excision of bulla of lung
+336863008,Excision of cyst of lung
+708884000,Excision of emphysematous bleb of lung
+87101000,Excision of lesion of bronchus
+77648009,Excision of lesion of lung
+232648005,Excision of lung sequestration
+736974006,Excision of middle lobe of right lung
+12986006,Excision of Pancoast tumour of lung
+448287006,Excision of polyp of bronchus
+232639000,Excision of segment of left lower lobe
+232638008,Excision of segment of left upper lobe
+173172000,Excision of segment of lung
+232637003,Excision of segment of right lower lobe
+232636007,Excision of segment of right middle lobe
+232635006,Excision of segment of right upper lobe
+233216008,Excision of vegetations from pulmonary trunk
+287306002,Exploration of bronchus
+169335009,External beam - surgery with chemotherapy
+169334008,External beam - surgery with postoperative radiotherapy
+169333002,External beam - surgery with preoperative radiotherapy
+38104006,External beam radiation therapy by linear accelerator
+80347004,External beam radiation therapy neutrons
+74023000,External beam radiation therapy of 1 to 25 MEV (mega electronvolt) protons
+50080191000188103,External beam radiation therapy of bone
+113117004,External beam radiation therapy particulate radiation
+33195004,External beam radiation therapy procedure
+10611004,External beam radiation therapy protons
+426332009,External beam radiation therapy to lesion of retina
+1156505006,External beam radiation therapy using carbon ions
+45643008,External beam radiation therapy using electrons
+1156529004,External beam radiation therapy using particle passive scattering technique
+1204242009,External beam radiation therapy using particle scanning technique
+1156528007,External beam radiation therapy using particle spot scanning technique
+1156506007,External beam radiation therapy using photons
+169336005,External beam radiation therapy with chemotherapy
+228666003,External beam radiation therapy with dual headed cobalt unit
+169332007,External beam radiation therapy with internal radiotherapy
+77613002,External beam radiation therapy with iodine-125
+62867004,External beam radiation therapy with radioactive caesium
+1286802009,External beam radiotherapy using internal target volume approach
+448294009,External radiation therapy using superficial radiation
+1263392007,Extracorporeal irradiation of tumour bearing bone and reimplantation
+232642006,Extrapericardial pneumonectomy
+232644007,Extrapleural pneumonectomy
+169318005,Fast neutron therapy
+169307005,Fast-electron therapy
+432231006,Fine needle aspiration biopsy of lung
+59325001,Fine needle biopsy of bronchus
+432067006,Fluoroscopic angiography of pulmonary artery using contrast with insertion of stent
+433857008,Fluoroscopic angiography of pulmonary artery using contrast with insertion of stent graft
+418549007,Fluoroscopic angiography of pulmonary artery with contrast
+431489004,Fluoroscopic angiography of pulmonary artery with contrast with pressure measurement
+418876000,Fluoroscopic bronchography
+51000087101,Fluoroscopic bronchography of left bronchus
+61000087103,Fluoroscopic bronchography of right bronchus
+169003001,Fluoroscopy - lungs
+169021003,Fluoroscopy and radiography - lungs
+431778005,Fluoroscopy guided brachytherapy of prostate
+431216004,Fluoroscopy guided insertion of catheter into pulmonary artery with contrast
+770700009,Fluoroscopy guided insertion of stent into bronchus
+431667009,Fluoroscopy guided intracoronary brachytherapy with contrast
+431530008,Fluoroscopy guided percutaneous brachytherapy of hepatic artery with contrast
+431596004,Fluoroscopy guided percutaneous mechanical thrombectomy of pulmonary artery with contrast
+432074001,Fluoroscopy guided removal of pulmonary artery catheter with contrast
+433030005,Fluoroscopy guided replacement of pulmonary artery catheter with contrast
+870249004,FOLFIRI antineoplastic chemotherapy regimen
+870250004,FOLFIRINOX antineoplastic chemotherapy regimen
+1255359001,Fractionated dose stereotactic radiation therapy
+447912004,Fractionated dose stereotactic radiosurgery using linear accelerator system
+65952009,Gamma ray therapy
+228685000,Gammamed brachytherapy
+228689006,Gold 198 brachytherapy
+228702008,Gold 198 therapy
+228661008,Grenz ray therapy
+169292008,Grenz ray therapy up to 10 kV
+169294009,Half-deep therapy 60-150 kV
+448538005,Harvesting of lobe of lung from donor
+702544007,Harvesting of lobe of lung from living donor
+312248006,Heavy ion external beam radiation therapy
+39646005,Hemibody irradiation
+720379009,Hepatic arterial infusion chemotherapy
+394902000,High dose rate brachytherapy
+438629002,High dose rate electronic brachytherapy
+241541005,High resolution CT of lungs
+1172516002,High-dose chemotherapy with stem cell transplant
+169301006,High-energy beam therapy
+228676000,Hiletron neutron external beam radiation therapy
+870385001,Hypofractionated radiation therapy
+785706005,Hypofractionated radiation therapy of prostate
+895121000000103,Hypofractionated stereotactic radiotherapy using megavoltage radiation
+785707001,Hypofractionated whole breast radiation therapy
+708812005,Imaging guided percutaneous drainage of lung
+441677009,Imaging of lung
+425767004,Implantation of radioactive seed into prostate
+49045006,Incision of bronchus
+45558009,Incision of lung
+450827009,Induction chemotherapy
+169422001,Inflammatory infrared therapy
+169421008,Infrared radiation therapy
+38216008,Infusion chemotherapy for malignant neoplasm
+230857009,Injection of chemotherapeutic substance into subcutaneous reservoir
+836429007,Injection of radioactive implant into malignant neoplasm for brachytherapy
+829831000000100,Insertion of fiducial marker into lung using computed tomography guidance
+311888006,Insertion of uterine caesium applicators
+311887001,Insertion of vaginal caesium applicators
+1254741007,Intensification antineoplastic therapy regimen
+1156524009,Intensity modulated external beam neutron radiation therapy
+1156382005,Intensity modulated intracavitary brachytherapy
+441799006,Intensity modulated radiation therapy
+169340001,Internal metabolic radiotherapy
+169359004,Internal radiotherapy - permanent seeds
+113120007,Interstitial brachytherapy
+448467008,Interstitial brachytherapy using caesium needle
+448552007,Interstitial brachytherapy using gold grain
+449157000,Interstitial brachytherapy using iridium wire
+399180008,Interstitial radioactive colloid therapy
+1127003,Interstitial radium application
+87776000,Intra-arterial infusion of antineoplastic agent
+65381004,Intra-articular radionuclide therapy
+384692006,Intracavitary brachytherapy
+448608009,Intracavitary brachytherapy of female genital tract
+765813009,Intracavitary brachytherapy of mouth
+448168006,Intracavitary brachytherapy of nasopharynx
+31652009,Intracavitary chemotherapy for malignant neoplasm
+47668009,Intracavitary radium application
+169298007,Intracavitary X-ray therapy
+384691004,Intraluminal brachytherapy
+448987004,Intraluminal brachytherapy of biliary tract
+449155008,Intraluminal brachytherapy of oesophagus
+448167001,Intraluminal brachytherapy of rectum
+449255003,Intraluminal brachytherapy of tracheobronchial tree
+265761001,Intramuscular chemotherapy
+232643001,Intrapericardial pneumonectomy
+171765004,Intrathecal injection of chemotherapeutic agent
+1156383000,Intravascular brachytherapy
+265760000,Intravenous chemotherapy
+589631000119102,Intravenous radioimmunotherapy using monoclonal antibodies
+427541000119103,Intravenous radionuclide therapy
+16554931000119102,Intravenous radionuclide therapy using radium 223 dichloride
+427561000119104,Intravenous radionuclide therapy using samarium Sm 153 lexidronam
+16554781000119103,Intravenous radionuclide therapy using strontium 89
+862921000000106,Intravesical electrochemotherapy
+228690002,Iodine 125 brachytherapy
+228700000,Iodine 131 meta-iodobenzylguanidine therapy
+228698009,Iodine 131 therapy
+394918006,Iodine seed radiotherapy
+1149431000000106,IOERT - intraoperative electron radiotherapy
+228684001,Iridium 192 brachytherapy
+395075008,Iridium wire therapy
+169142004,Isotope static scan lung
+169057008,Kymography - lungs
+1362501000000105,Laparoscopic administration of pressurised aerosol chemotherapy into peritoneal cavity
+397395005,Lavage of bronchus
+19095002,Ligation of bronchus
+425437006,Ligation of pulmonary artery
+228671005,Linear accelerator electron external beam radiation therapy
+169309008,Linear accelerator electrons
+169302004,Linear accelerator photon therapy
+3654008,Lingulectomy of lung
+726426008,Lobectomy of lower lobe of left lung
+726425007,Lobectomy of lower lobe of right lung
+173171007,Lobectomy of lung
+232641004,Lobectomy of lung with excision of part of adjacent lobe
+726427004,Lobectomy of upper lobe of left lung
+726428009,Lobectomy of upper lobe of right lung
+232640003,Lobectomy with bronchoplastic procedure
+77738002,Local chemotherapy for malignant neoplasm
+79653008,Local destruction of lesion of bronchus
+49528005,Local destruction of lesion of lung
+182655007,Local heating - infrared irradiation
+1156707000,Low dose rate brachytherapy
+1156708005,Low dose rate brachytherapy using temporary radioactive source
+119753003,Lung closure
+266701008,Lung collapse prevention
+287309009,Lung cyst removal
+119756006,Lung destructive procedure
+119746007,Lung excision
+287298008,Lung plastic operation
+119755005,Lung reconstruction
+232697001,Lung reinflation
+287310004,Lung tumour excision
+870380006,Lung ultrasound surface wave elastography
+429609002,Lung volume reduction surgery
+303931008,Lung X-ray
+418786005,Magnetic resonance angiography of pulmonary artery
+62843007,Manipulation of lung
+46044009,Megavoltage radiation therapy
+448385000,Megavoltage radiation therapy using photons
+449290006,Megavoltage radiation therapy using photons and electrons
+380021000000105,Megavoltage treatment for adaptive radiotherapy
+380041000000103,Megavoltage treatment for complex radiotherapy
+380031000000107,Megavoltage treatment for simple radiotherapy
+228686004,Microselectron brachytherapy
+228672003,Microtron electron external beam radiation therapy
+228663006,Microtron X-ray therapy
+1156525005,Mixed beam external beam radiation therapy
+169329009,Mould technique gamma/beta
+241616006,MRI of lungs
+890093004,Multi-agent systemic chemotherapy
+232634005,Multiple wedge excisions of lung
+173190004,Needle biopsy of lesion of lung
+274319000,Needle biopsy of lung
+1259200004,Neoadjuvant antineoplastic chemotherapy
+829591000000101,Neoadjuvant chemotherapy
+169317000,Neutron capture therapy
+232623007,Open biopsy of bronchial lesion
+5632009,Open biopsy of bronchus
+232628003,Open biopsy of lung
+173179009,Open cauterisation of lesion of lung
+173177006,Open decortication of lesion of lung
+173102001,Open destruction of lesion of bronchus
+175263004,Open embolisation of pulmonary artery
+232624001,Open excision of bronchial lesion
+173178001,Open excision of lesion of lung
+173176002,Open extirpation of lesion of lung
+232622002,Open procedure to bronchus
+79789005,Open repair of major bronchial fistula
+266719004,Oral chemotherapy
+51534007,Oral chemotherapy for malignant neoplasm
+284701000000103,Oral delivery of radiotherapy for thyroid ablation
+16560241000119104,Oral radionuclide therapy
+1255904006,Palliative antineoplastic chemotherapy
+314604005,Palliative course of deep X-ray therapy
+168528006,Palliative course of radiotherapy
+4114003,Parenteral chemotherapy for malignant neoplasm
+173098009,Partial extirpation of bronchus
+359615001,Partial lobectomy of lung
+442226007,Partial reinflation of lung
+425948009,Percutaneous angioplasty of pulmonary artery
+43831007,Percutaneous core needle biopsy of lung
+708861007,Percutaneous cryoablation of lung
+35295005,Percutaneous fine needle biopsy of lung
+287465001,Percutaneous needle biopsy lung
+426987001,Percutaneous radiofrequency ablation of lesion of lung
+429122009,Percutaneous transluminal balloon angioplasty with insertion of stent into pulmonary artery
+175267003,Percutaneous transluminal embolisation of pulmonary artery
+6872008,Perfusion chemotherapy for malignant neoplasm
+228691003,Phosphorus 32 brachytherapy
+228699001,Phosphorus 32 therapy
+169115000,Photofluorography of lungs
+429057009,Plaque radiotherapy of lesion of retina
+450873006,Plication of emphysematous bleb of lung
+90249002,Pneumocentesis
+232647000,Pneumonectomy with tracheobronchoplasty
+443396005,Pneumonostomy with open drainage of abscess of lung using computed tomography guidance
+169344005,Polycythaemia irradiation
+169311004,Positron therapy
+700496000,Postoperative administration of antineoplastic agent into peritoneal cavity
+394895009,Postoperative chemotherapy
+314606007,Postoperative course of deep X-ray therapy
+168525009,Postoperative course of radiotherapy
+394894008,Pre-operative chemotherapy
+314605006,Preoperative course of deep X-ray therapy
+168523002,Preoperative course of radiotherapy
+714029009,Preoperative high dose brachytherapy
+169314007,Proton therapy
+241226006,Pulmonary angiography by main pulmonary artery injection
+24599003,Pulmonary artery pressure monitoring
+42340005,Pulmonary artery wedge pressure monitoring
+435001,Pulmonary inhalation study
+233208004,Pulmonary trunk and artery banding operation
+57113004,Pulmonary ventilation study
+86811003,"Pulmonary ventilation study, aerosol"
+75766009,"Pulmonary ventilation study, gaseous"
+87674005,"Pulmonary ventilation study, total"
+1156384006,Pulsed dose rate brachytherapy
+229556008,Pulsed electromagnetic energy therapy
+304420003,Pulsed electromagnetic energy to abdomen
+304423001,Pulsed electromagnetic energy to ankle
+304418001,Pulsed electromagnetic energy to back
+304415003,Pulsed electromagnetic energy to elbow
+304410008,Pulsed electromagnetic energy to face
+304424007,Pulsed electromagnetic energy to foot
+304417006,Pulsed electromagnetic energy to hand
+304421004,Pulsed electromagnetic energy to hip
+304422006,Pulsed electromagnetic energy to knee
+304413005,Pulsed electromagnetic energy to lower limb
+304411007,Pulsed electromagnetic energy to neck
+304419009,Pulsed electromagnetic energy to pelvis
+304414004,Pulsed electromagnetic energy to shoulder
+304412000,Pulsed electromagnetic energy to trunk
+304409003,Pulsed electromagnetic energy to upper limb
+304416002,Pulsed electromagnetic energy to wrist
+56909003,Puncture and aspiration of bronchus
+1141994004,"R-CEOP (rituximab, cyclophosphamide, etoposide, vincristine, prednisone) antineoplastic chemotherapy"
+722491009,R-CHOP chemotherapy regimen
+722472009,R-ICE chemotherapy regimen
+108290001,Radiation oncology AND/OR radiotherapy
+420529003,Radiation plaque therapy
+1148692008,Radiation therapy following chemotherapy
+1264389002,Radiation therapy to oral cavity
+169346007,Radioactive drug therapy
+64291000052106,Radioactive iodine therapy
+169400008,Radiochemotherapy via intravenous route
+169399001,Radiochemotherapy via oral route
+169401007,Radiochemotherapy: for immunosuppression
+169403005,Radiochemotherapy: into cavity
+169402000,Radiochemotherapy: local artery
+169397004,Radiochemotherapy: local infiltration
+169398009,Radiochemotherapy: to stop spread
+241053004,Radiographic measurement of lung volume
+1119344002,Radiography of left bronchus with contrast
+1119345001,Radiography of right bronchus with contrast
+726549007,Radioimmunoguided surgery
+118640001,Radioimmunotherapy
+312235007,Radiolabelled antibody therapy
+433150007,Radiolabelled indium 111 antibody therapy
+432094005,Radiolabelled Iodine 131 antibody therapy
+438816004,Radiolabelled technetium 99m antibody therapy
+1103661000000108,Radioligand therapy using lutetium (177-Lu) labelled somatostatin analogue
+1263784000,Radioligand therapy using lutetium (177-Lu) vipivotide tetraxetan
+1853521000000101,Radioligand therapy using lutetium (Lu-177) labelled PSMA (prostate specific membrane antigen)-targeted ligand
+169396008,Radiomimetic chemotherapy
+764864002,Radionuclide imaging of lung ventilation using technetium (99m-Tc) technegas
+431588009,Radionuclide iodine 131 therapy for thyrotoxicosis
+431200001,Radionuclide iodine 131 thyroid therapy
+241304008,Radionuclide lung permeability study
+241303002,Radionuclide mucociliary clearance study
+431430006,Radionuclide pulmonary aspiration study
+433224001,Radionuclide rhenium 186 HEDP therapy
+241293008,Radionuclide study of lung
+399315003,Radionuclide therapy
+38915000,Radionuclide therapy for gland ablation
+10492003,Radionuclide therapy for glandular suppression
+64978007,Radionuclide therapy for hyperthyroidism
+169407006,Radiosensitising measure
+168524008,Radiotherapy - intraoperative control
+231711000000108,Radiotherapy delivery
+168526005,Radiotherapy for analgesia
+168521000,Radiotherapy for haemopoietic irradiation
+168520004,Radiotherapy for immunosuppression
+168527001,Radiotherapy for inflammation
+168522007,Radiotherapy for lymphatic irradiation
+172408001,Radiotherapy of corneal lesion
+429774000,Radiotherapy to abdomen
+429579007,Radiotherapy to axilla
+879915007,Radiotherapy to bone
+428923005,Radiotherapy to breast
+428624002,Radiotherapy to chest wall
+231737005,Radiotherapy to ciliary body
+50080231000188105,Radiotherapy to face
+428412000,Radiotherapy to head
+172286002,Radiotherapy to lacrimal gland
+300976007,Radiotherapy to lesion of canthus
+231596001,Radiotherapy to lesion of eyelid
+231585009,Radiotherapy to lesion of lateral canthus
+231568007,Radiotherapy to lesion of medial canthus
+171809001,Radiotherapy to lesion of peripheral nerve
+428416002,Radiotherapy to neck
+231544004,Radiotherapy to orbital lesion
+428829005,Radiotherapy to pelvis
+428831001,Radiotherapy to perineum
+231764006,Radiotherapy to retina
+711299007,Radiotherapy to thorax
+1269317006,Radiotherapy to urinary bladder
+169354009,Radiotherapy: endolymphatic infusion
+169357002,Radiotherapy: infiltrate tissue
+169351001,Radiotherapy: infuse head/neck
+169356006,Radiotherapy: infuse organ cavity
+169353003,Radiotherapy: infuse peritoneal cavity
+169352008,Radiotherapy: infuse pleural cavity
+169350000,Radiotherapy: infuse skull/brain
+169355005,Radiotherapy: infuse urinary bladder
+169361008,Radiotherapy: seeds into brain
+169362001,Radiotherapy: seeds into cavity
+169360009,Radiotherapy: seeds into hypophysis
+169369005,Radiotherapy: temporary abdominal implant
+169365004,Radiotherapy: temporary brain implant
+169366003,Radiotherapy: temporary head/neck implant
+169371005,Radiotherapy: temporary limb implant
+169372003,Radiotherapy: temporary lymphatic implant
+169370006,Radiotherapy: temporary pelvic implant
+169368002,Radiotherapy: temporary thorax implant
+169367007,Radiotherapy: temporary tongue implant
+700357007,Radium 223 brachytherapy
+700356003,Radium 226 brachytherapy
+169327006,Radium contact therapy
+21372000,Radium therapy
+228692005,Radon 222 brachytherapy
+1286801002,Real-time tumour-tracking external beam radiotherapy
+233213000,Reconstruction of pulmonary artery
+2079001,Reimplantation of anomalous pulmonary artery
+14681002,Reimplantation of lung
+233209007,Reimplantation of pulmonary artery
+112813007,Reimplantation of pulmonary artery for hemitruncus repair
+287305003,Removal of foreign body from bronchus by incision
+427800005,Removal of foreign body of lung by incision
+713162006,Removal of lung from cadaver donor
+232661005,Removal of lung from donor
+427138007,Repair of anomalous pulmonary artery origin from ascending aorta
+72109001,Repair of bronchus
+232649002,Repair of bulla of lung
+89862001,Repair of lung
+232653000,Repair of lung laceration
+426436008,Repair of pulmonary arterial sling
+175253007,Repair of pulmonary artery
+175254001,Repair of pulmonary artery using prosthesis
+232625000,Repair of ruptured bronchus
+25184000,Repair of stoma of bronchus
+233211003,Resection and end-to-end anastomosis of pulmonary trunk
+277182002,Resection of pulmonary artery
+869901000000105,Retroorbital radiotherapy
+228693000,Ruthenium 106 brachytherapy
+359618004,Segmental lobectomy
+241227002,Selective angiography of pulmonary artery
+168812006,Selective bronchography
+395074007,Selectron therapy
+169061002,Serial radiography of lungs
+169297002,Short distance X-ray therapy
+447704003,Single dose stereotactic radiosurgery using linear accelerator system
+232657004,Single lung transplant
+440466000,Single photon emission computed tomography of lung
+441624004,Single photon emission computed tomography of ventilation of lung
+232633004,Single wedge excision of lung
+261563006,Sleeve pulmonary artery resection
+447975009,Sleeve resection of bronchus and anastomosis
+310832007,Stapling of bronchus
+310394000,Stapling of lung laceration
+228667007,Stereotactic cobalt external beam radiation therapy
+446504008,Stereotactic destruction of lesion using gamma radiation
+64134004,Stereotactic focused gamma radiosurgery of cerebrum
+853301000000101,Stereotactic focused gamma radiosurgery of trigeminal nerve
+31632008,Stereotactic focused proton beam on cerebrum
+448461009,Stereotactic radiation therapy using megavoltage radiation
+115959002,Stereotactic radiosurgery
+473237008,Stereotactic radiosurgery for acoustic neuroma
+429584001,Stereotactic radiosurgery of brain tissue
+230912001,Stereotactic radiosurgery of intracranial arteriovenous malformation
+230914000,Stereotactic radiosurgery of intracranial cavernous angioma
+230913006,Stereotactic radiosurgery of intracranial venous malformation
+230911008,Stereotactic radiosurgery of lesion of intracranial vasculature
+395096001,Stereotactic radiotherapy
+169091007,Stereotactic/stereoscopic test - lungs
+228701001,Strontium 89 therapy
+228694006,Strontium 90 brachytherapy
+228673008,Strontium 90 electron external beam radiation therapy
+265762008,Subcutaneous chemotherapy
+782204001,Superficial radiation therapy
+169293003,Superficial X-ray therapy 10-60 kV
+380071000000109,Support for preparation for radiotherapy
+169410004,Support transfusion therapy
+14473006,Surface brachytherapy
+398194002,Suture of laceration of bronchus
+82651004,Suture of lung
+310393006,Suture of lung laceration
+91567001,Take-down of stoma of bronchus
+261566003,Tangential pulmonary artery resection
+228695007,Tantalum 182 brachytherapy
+1255831008,Targeted chemotherapy for cancer
+448288001,Targeted radionuclide therapy
+182975000,TB - (tuberculosis) chemotherapy
+380061000000102,Technical support for preparation for radiotherapy
+271291003,Temporary implant radiotherapy
+66258007,Thoracoscopic biopsy of lung
+75935006,Thoracoscopic lobectomy of lung
+119000,Thoracoscopic partial lobectomy of lung
+25321000,Thoracoscopic pneumonectomy
+444188003,Thoracoscopic wedge resection of lung
+337877003,Thoracotomy for excision of emphysematous bleb of lung
+1162782007,Three dimensional external beam radiation therapy
+169342009,Thyroid tumour/metastasis irradiation
+11331000224100,Tomotherapy
+24977001,Topical chemotherapy for malignant neoplasm
+712746000,Total body electron beam therapy
+47479005,Total body irradiation
+359623004,Total lobectomy of lung
+49795001,Total pneumonectomy
+115960007,Total skin electron beam therapy
+91160008,Transcricoid bronchography
+88039007,Transplant of lung
+1156526006,Two dimensional external beam radiation therapy
+1163157007,Ultra high dose rate radiotherapy
+169296006,Ultrahard X-rays 400-2000 kV
+88628008,Ultrasonography of lung
+911861000000109,Ultrasound guided brachytherapy of cervix
+911851000000106,Ultrasound guided brachytherapy of prostate
+36679009,Vaginal cone irradiation
+169304003,Van der Graaff photon therapy
+228664000,Van der Graaff X-ray therapy
+1156530009,Volumetric modulated arc therapy
+116030005,Wedge biopsy of lung
+232632009,Wedge excision of lung
+169291001,X-ray beam therapy
+241297009,Xenon ventilation study
+241299007,Xenon-127 ventilation study
+241298004,Xenon-133 ventilation study
+228696008,Yttrium 90 brachytherapy
+431743005,Yttrium 90 somatostatin analogue therapy
+228697004,Yttrium 90 therapy

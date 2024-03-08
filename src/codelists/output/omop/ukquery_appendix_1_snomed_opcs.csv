@@ -1,0 +1,49 @@
+,concept_code_y,concept_name_y,opcs
+12,T36.2,Excision of lesion of omentum,T362
+317,H01.1,Emergency excision of abnormal appendix and drainage HFQ,H011
+318,H01.2,Emergency excision of abnormal appendix NEC,H012
+319,H01.8,Other specified emergency excision of appendix,H018
+320,H01.9,Unspecified emergency excision of appendix,H019
+321,H01,Emergency excision of appendix,H01
+330,H01.3,Emergency excision of normal appendix,H013
+350,H02.1,Interval appendicectomy,H021
+402,Q52.1,Excision of lesion of broad ligament of uterus,Q521
+414,Q52.2,Destruction of lesion of broad ligament of uterus,Q522
+444,T29.2,Excision of urachus,T292
+466,T33.8,Other specified open extirpation of lesion of peritoneum,T338
+467,T33.9,Unspecified open extirpation of lesion of peritoneum,T339
+468,T33,Open extirpation of lesion of peritoneum,T33
+478,T33.1,Open excision of lesion of peritoneum,T331
+492,T33.2,Open destruction of lesion of peritoneum,T332
+505,T36.3,Destruction of lesion of omentum,T363
+516,T36.4,Biopsy of lesion of omentum,T364
+525,T36.5,Creation of omental flap,T365
+534,T37.1,Excision of lesion of mesentery of small intestine,T371
+544,T37.2,Destruction of lesion of mesentery of small intestine,T372
+554,T37.3,Biopsy of lesion of mesentery of small intestine,T373
+562,T37.4,Repair of mesentery of small intestine,T374
+571,T38.1,Excision of lesion of mesentery of colon,T381
+581,T38.2,Destruction of lesion of mesentery of colon,T382
+591,T38.3,Biopsy of lesion of mesentery of colon,T383
+599,T38.4,Repair of mesentery of colon,T384
+610,T39.1,Excision of lesion of posterior peritoneum,T391
+621,T39.2,Destruction of lesion of posterior peritoneum,T392
+632,T42.1,Endoscopic resection of lesion of peritoneum,T421
+648,T45.1,Image controlled percutaneous drainage of subphrenic abscess,T451
+659,Y69.1,Harvest of omentum,Y691
+914,X40.6,Continuous ambulatory peritoneal dialysis,X406
+1001,Q52.3,Shortening of broad ligament of uterus,Q523
+1290,P31.1,Culdoplasty,P311
+1405,T46.3,Irrigation of peritoneal cavity,T463
+1513,H03.3,Exteriorisation of appendix,H033
+1535,X40.5,Automated peritoneal dialysis,X405
+1824,P31.4,Culdotomy NEC,P314
+2262,X40.2,Peritoneal dialysis NEC,X402
+2396,T36.1,Omentectomy,T361
+2472,H02.2,Planned delayed appendicectomy NEC,H022
+2473,H02.3,Prophylactic appendicectomy NEC,H023
+2474,H02.8,Other specified other excision of appendix,H028
+2475,H02.9,Unspecified other excision of appendix,H029
+2476,H02,Other excision of appendix,H02
+2512,H02.4,Incidental appendicectomy,H024
+2603,T46.1,Paracentesis abdominis for ascites,T461

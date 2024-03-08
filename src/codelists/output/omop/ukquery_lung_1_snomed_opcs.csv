@@ -1,0 +1,107 @@
+,concept_code_y,concept_name_y,opcs
+1145,E54.8,Other specified excision of lung,E548
+1146,E54.9,Unspecified excision of lung,E549
+1148,E54,Excision of lung,E54
+1367,Y89,Brachytherapy,Y89
+1389,L12.1,Application of band to pulmonary artery,L121
+2875,X65.4,Delivery of a fraction of external beam radiotherapy NEC,X654
+2876,Y91.8,Other specified external beam radiotherapy,Y918
+2877,Y91.9,Unspecified external beam radiotherapy,Y919
+3915,A61.3,Radiotherapy to lesion of peripheral nerve,A613
+3926,C24.2,Radiotherapy to lacrimal gland,C242
+3938,C45.5,Radiotherapy to lesion of cornea,C455
+3955,E46.8,Other specified partial extirpation of bronchus,E468
+3956,E46.9,Unspecified partial extirpation of bronchus,E469
+3957,E46,Partial extirpation of bronchus,E46
+3985,E46.4,Open destruction of lesion of bronchus,E464
+3993,E54.2,Bilobectomy of lung,E542
+4034,E54.3,Lobectomy of lung,E543
+4059,E54.4,Excision of segment of lung,E544
+4079,E55.8,Other specified open extirpation of lesion of lung,E558
+4080,E55.9,Unspecified open extirpation of lesion of lung,E559
+4081,E55,Open extirpation of lesion of lung,E55
+4093,E55.1,Open decortication of lesion of lung,E551
+4104,E55.2,Open excision of lesion of lung,E552
+4114,E55.3,Open cauterisation of lesion of lung,E553
+4124,E57.3,Deflation of bulla of lung,E573
+4135,E59.1,Needle biopsy of lesion of lung,E591
+4147,E59.2,Aspiration biopsy of lesion of lung,E592
+4218,L09.8,Other specified other connection to pulmonary artery,L098
+4219,L09.9,Unspecified other connection to pulmonary artery,L099
+4220,L10.8,Other specified repair of pulmonary artery,L108
+4221,L10.9,Unspecified repair of pulmonary artery,L109
+4222,L10,Repair of pulmonary artery,L10
+4302,L10.1,Repair of pulmonary artery using prosthesis,L101
+4312,L12.5,Open embolisation of pulmonary artery,L125
+4322,L13.2,Percutaneous transluminal embolisation of pulmonary artery,L132
+4858,X65.8,Other specified radiotherapy delivery,X658
+4859,X65.9,Unspecified radiotherapy delivery,X659
+4868,X65,Radiotherapy delivery,X65
+5142,E47.8,Other specified other open operations on bronchus,E478
+5143,E47.9,Unspecified other open operations on bronchus,E479
+5413,E53.2,Single lung transplant,E532
+5540,X73.8,Other specified delivery of oral chemotherapy for neoplasm,X738
+5541,X73.9,Unspecified delivery of oral chemotherapy for neoplasm,X739
+5546,X73,Delivery of oral chemotherapy for neoplasm,X73
+5559,X72.8,Other specified delivery of chemotherapy for neoplasm,X728
+5560,X72.9,Unspecified delivery of chemotherapy for neoplasm,X729
+5569,X72,Delivery of chemotherapy for neoplasm,X72
+5581,X65.1,Delivery of a fraction of total body irradiation,X651
+5591,X65.2,Delivery of a fraction of intracavitary radiotherapy,X652
+5601,Y91.3,Superficial or orthovoltage treatment for radiotherapy,Y913
+5611,X65.3,Delivery of a fraction of interstitial radiotherapy,X653
+5632,X73.1,Delivery of exclusively oral chemotherapy for neoplasm,X731
+5643,X72.1,Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance,X721
+5654,X72.2,Delivery of complex parenteral chemotherapy for neoplasm at first attendance,X722
+5665,X72.3,Delivery of simple parenteral chemotherapy for neoplasm at first attendance,X723
+5676,X72.4,Delivery of subsequent element of cycle of chemotherapy for neoplasm,X724
+5937,X35.2,Intravenous chemotherapy,X352
+5951,X37.3,Intramuscular chemotherapy,X373
+5963,X38.4,Subcutaneous chemotherapy,X384
+6076,X65.5,Oral delivery of radiotherapy for thyroid ablation,X655
+7323,Y91,External beam radiotherapy,Y91
+7388,E54.5,Partial lobectomy of lung NEC,E545
+7768,Y91.4,Megavoltage treatment for adaptive radiotherapy,Y914
+7779,Y91.2,Megavoltage treatment for simple radiotherapy,Y912
+7790,Y91.1,Megavoltage treatment for complex radiotherapy,Y911
+7801,Y92.1,Technical support for preparation for radiotherapy,Y921
+7812,Y92.8,Other specified support for preparation for radiotherapy,Y928
+7813,Y92.9,Unspecified support for preparation for radiotherapy,Y929
+7817,Y92,Support for preparation for radiotherapy,Y92
+7875,X65.6,Delivery of a fraction of intraluminal brachytherapy,X656
+8489,E52.1,Irrigation of bronchus NEC,E521
+8638,J48.7,Percutaneous brachytherapy of lesion of bile duct,J487
+8639,X65.7,Delivery of radionuclide therapy NEC,X657
+8640,Y89.8,Other specified brachytherapy,Y898
+8641,Y89.9,Unspecified brachytherapy,Y899
+8642,Y90.2,Radiotherapy NEC,Y902
+8851,L12.6,Pulmonary artery ligation,L126
+8880,M70.6,Radioactive seed implantation into prostate,M706
+8934,C82.3,External beam radiotherapy to lesion of retina,C823
+8947,L10.4,Repair of pulmonary arterial sling,L104
+8961,E59.5,Percutaneous radiofrequency ablation of lesion of lung,E595
+8972,L01.3,Repair of anomalous pulmonary artery origin from ascending aorta,L013
+8973,L10.3,Repair of anomalous pulmonary artery NEC,L103
+9119,C82.4,Plaque radiotherapy to lesion of retina,C824
+9165,A10.7,Stereotactic radiosurgery on tissue of brain,A107
+9180,E54.6,Reduction of lung volume,E546
+9744,E46.1,Sleeve resection of bronchus and anastomosis HFQ,E461
+9858,X45.3,Donation of lobe of lung,X453
+9956,E59.3,Biopsy of lesion of lung NEC,E593
+9979,E55.4,Open destruction of lesion of lung NEC,E554
+10017,E46.2,Excision of cyst of bronchus,E462
+10032,E57.4,Incision of lung NEC,E574
+10162,E54.1,Total pneumonectomy,E541
+10234,E47.1,Open biopsy of lesion of bronchus NEC,E471
+10270,U15.2,Lung ventilation scanning NEC,U152
+11028,E47.3,Repair of bronchus NEC,E473
+11461,E47.2,Closure of fistula of bronchus,E472
+11627,L13.3,Arteriography of pulmonary artery,L133
+11635,Y12.3,Electrochemotherapy to lesion of organ NOC,Y123
+11695,E67.1,Endoscopic thermal bronchoplasty,E671
+11803,E46.3,Excision of lesion of bronchus NEC,E463
+11884,E53.8,Other specified transplantation of lung,E538
+11885,E53.9,Unspecified transplantation of lung,E539
+11890,E53,Transplantation of lung,E53
+11917,Y91.5,Megavoltage treatment for hypofractionated stereotactic radiotherapy,Y915
+12004,E57.1,Repair of lung,E571

@@ -1,0 +1,1402 @@
+,concept_code_y,concept_name_y,icd
+47,14.53,Repair of retinal detachment with xenon arc photocoagulation,14.53
+115,44.14,Closed [endoscopic] biopsy of stomach,44.14
+592,36.14,(Aorto)coronary bypass of four or more coronary arteries,36.14
+626,48.76,Other proctopexy,48.76
+679,34.83,Closure of fistula of diaphragm,34.83
+3367,22.6,Other nasal sinusectomy,22.6
+3368,22.60,"Sinusectomy, not otherwise specified",22.60
+3369,22.62,Excision of lesion of maxillary sinus with other approach,22.62
+3617,45.33,"Local excision of lesion or tissue of small intestine, except duodenum",45.33
+3618,45.6,Other excision of small intestine,45.6
+4004,55.32,Open ablation of renal lesion or tissue,55.32
+4005,55.33,Percutaneous ablation of renal lesion or tissue,55.33
+4006,55.35,Other and unspecified ablation of renal lesion or tissue,55.35
+4663,12.87,Scleral reinforcement with graft,12.87
+6039,18.3,Other excision of external ear,18.3
+6040,18.39,Other excision of external ear,18.39
+6318,34.81,Excision of lesion or tissue of diaphragm,34.81
+6345,95.26,"Tonography, provocative tests, and other glaucoma testing",95.26
+6433,33.23,Other bronchoscopy,33.23
+6533,66.32,Other bilateral ligation and division of fallopian tubes,66.32
+6625,67.11,Endocervical biopsy,67.11
+6658,51.32,Anastomosis of gallbladder to intestine,51.32
+6891,94.26,Subconvulsive electroshock therapy,94.26
+6912,00.66,Percutaneous transluminal coronary angioplasty [PTCA],00.66
+7027,42.62,Antesternal esophagogastrostomy,42.62
+7576,35.71,Other and unspecified repair of atrial septal defect,35.71
+7616,35.01,"Closed heart valvotomy, aortic valve",35.01
+7669,27.61,Suture of laceration of palate,27.61
+7715,29.53,Closure of other fistula of pharynx,29.53
+7757,45.94,Large-to-large intestinal anastomosis,45.94
+7774,46.75,Suture of laceration of large intestine,46.75
+7814,48.75,Abdominal proctopexy,48.75
+7856,07.51,Exploration of pineal field,07.51
+7879,57.6,Partial cystectomy,57.6
+7967,69.4,Uterine repair,69.4
+7968,69.49,Other repair of uterus,69.49
+7969,75.5,Repair of current obstetric laceration of uterus,75.5
+8113,73.51,Manual rotation of fetal head,73.51
+8139,02.31,Ventricular shunt to structure in head and neck,02.31
+8152,08.01,Incision of lid margin,08.01
+8201,10.42,Reconstruction of conjunctival cul-de-sac with free graft,10.42
+8213,08.92,Cryosurgical epilation of eyelid,08.92
+8252,14.34,Repair of retinal tear by laser photocoagulation,14.34
+8392,87.76,Retrograde cystourethrogram,87.76
+8430,57.93,Control of (postoperative) hemorrhage of bladder,57.93
+8490,24.91,Extension or deepening of buccolabial or lingual sulcus,24.91
+8956,69.0,Dilation and curettage of uterus,69.0
+8957,69.02,Dilation and curettage following delivery or abortion,69.02
+8958,69.09,Other dilation and curettage,69.09
+9194,74.3,Removal of extratubal ectopic pregnancy,74.3
+9195,74.4,Cesarean section of other specified type,74.4
+9196,74.9,Cesarean section of unspecified type,74.9
+9197,74.99,Other cesarean section of unspecified type,74.99
+9222,74,Cesarean section and removal of fetus,74
+10578,27.23,Biopsy of lip,27.23
+10640,34.20,Thoracoscopic pleural biopsy,34.20
+10657,34.24,Other pleural biopsy,34.24
+10707,65.4,Unilateral salpingo-oophorectomy,65.4
+10708,65.49,Other unilateral salpingo-oophorectomy,65.49
+10709,65.62,Other removal of remaining ovary and tube,65.62
+10889,68.4,Total abdominal hysterectomy,68.4
+10890,68.49,Other and unspecified total abdominal hysterectomy,68.49
+11017,65.22,Wedge resection of ovary,65.22
+11138,42.25,Open biopsy of esophagus,42.25
+11150,41.33,Open biopsy of spleen,41.33
+11312,56.71,Urinary diversion to intestine,56.71
+11525,66.7,Repair of fallopian tube,66.7
+11526,66.79,Other repair of fallopian tube,66.79
+11623,35.51,"Repair of atrial septal defect with prosthesis, open technique",35.51
+11685,88.82,Ocular thermography,88.82
+11695,95.16,P32 and other tracer studies of eye,95.16
+11772,68.16,Closed biopsy of uterus,68.16
+11910,50.6,Repair of liver,50.6
+11911,50.69,Other repair of liver,50.69
+12041,21.4,Resection of nose,21.4
+12254,31.75,Reconstruction of trachea and construction of artificial larynx,31.75
+12285,41.93,Excision of accessory spleen,41.93
+12297,32.1,Other excision of bronchus,32.1
+12781,32.9,Other excision of lung,32.9
+13397,27.4,Excision of other parts of mouth,27.4
+13398,27.49,Other excision of mouth,27.49
+13473,26.49,Other repair and plastic operations on salivary gland or duct,26.49
+14288,28.6,Adenoidectomy without tonsillectomy,28.6
+14811,66.52,Removal of remaining fallopian tube,66.52
+14812,66.6,Other salpingectomy,66.6
+15131,03.5,Plastic operations on spinal cord structures,03.5
+15132,03.59,Other repair and plastic operations on spinal cord structures,03.59
+15509,18.71,Construction of auricle of ear,18.71
+15700,89.69,Monitoring of coronary blood flow,89.69
+16173,35.62,Repair of ventricular septal defect with tissue graft,35.62
+16187,20.23,Incision of middle ear,20.23
+16374,08.42,Repair of entropion or ectropion by suture technique,08.42
+16492,20.32,Biopsy of middle and inner ear,20.32
+16522,51.35,Other gallbladder anastomosis,51.35
+16621,52.84,Autotransplantation of cells of Islets of Langerhans,52.84
+16622,52.86,"Transplantation of cells of Islets of Langerhans, not otherwise specified",52.86
+16648,12.83,"Revision of operative wound of anterior segment, not elsewhere classified",12.83
+17066,35.04,"Closed heart valvotomy, tricuspid valve",35.04
+17080,57.17,Percutaneous cystostomy,57.17
+17089,57.18,Other suprapubic cystostomy,57.18
+17090,57.2,Vesicostomy,57.2
+17091,57.21,Vesicostomy,57.21
+17092,57.22,Revision or closure of vesicostomy,57.22
+17174,48.23,Rigid proctosigmoidoscopy,48.23
+17611,21.88,Other septoplasty,21.88
+17833,13.5,Other extracapsular extraction of lens,13.5
+17834,13.59,Other extracapsular extraction of lens,13.59
+17864,44.11,Transabdominal gastroscopy,44.11
+17901,47.92,Closure of appendiceal fistula,47.92
+17916,09.72,Other repair of punctum,09.72
+17933,17.36,Laparoscopic sigmoidectomy,17.36
+18008,42.42,Total esophagectomy,42.42
+18089,36.03,Open chest coronary artery angioplasty,36.03
+18111,01.52,Hemispherectomy,01.52
+18133,16.65,Secondary graft to exenteration cavity,16.65
+18211,36.13,(Aorto)coronary bypass of three coronary arteries,36.13
+18233,96.25,Therapeutic distention of bladder,96.25
+18399,08.62,Reconstruction of eyelid with mucous membrane flap or graft,08.62
+18738,65.7,Repair of ovary,65.7
+18739,65.71,Other simple suture of ovary,65.71
+18740,65.72,Other reimplantation of ovary,65.72
+18741,65.73,Other salpingo-oophoroplasty,65.73
+18742,65.74,Laparoscopic simple suture of ovary,65.74
+18743,65.75,Laparoscopic reimplantation of ovary,65.75
+18744,65.79,Other repair of ovary,65.79
+18903,51.36,Choledochoenterostomy,51.36
+19128,57.86,Repair of bladder exstrophy,57.86
+19144,50.14,Laparoscopic liver biopsy,50.14
+19160,52.95,Other repair of pancreas,52.95
+19180,55.7,Nephropexy,55.7
+19281,36.31,Open chest transmyocardial revascularization,36.31
+19282,36.32,Other transmyocardial revascularization,36.32
+19283,36.33,Endoscopic transmyocardial revascularization,36.33
+19284,36.34,Percutaneous transmyocardial revascularization,36.34
+19403,72.31,High forceps operation with episiotomy,72.31
+19471,87.01,Pneumoencephalogram,87.01
+19565,10.32,Destruction of lesion of conjunctiva,10.32
+19566,10.33,Other destructive procedures on conjunctiva,10.33
+19648,42.22,Esophagoscopy through artificial stoma,42.22
+19697,96.07,Insertion of other (naso-)gastric tube,96.07
+19698,96.08,Insertion of (naso-)intestinal tube,96.08
+19709,44.63,Closure of other gastric fistula,44.63
+19758,29.12,Pharyngeal biopsy,29.12
+19790,18.0,Incision of external ear,18.0
+19791,18.09,Other incision of external ear,18.09
+20306,89.11,Tonometry,89.11
+20355,95.45,Rotation tests,95.45
+20436,89.50,Ambulatory cardiac monitoring,89.50
+21236,14.32,Repair of retinal tear by cryotherapy,14.32
+21569,87.14,Contrast radiogram of orbit,87.14
+21689,87.61,Barium swallow,87.61
+21816,87.77,Other cystogram,87.77
+21912,87.83,Opaque dye contrast hysterosalpingogram,87.83
+23110,48.82,Excision of perirectal tissue,48.82
+24186,50.4,Total hepatectomy,50.4
+24246,16.4,Enucleation of eyeball,16.4
+24247,16.41,Enucleation of eyeball with synchronous implant into Tenon's capsule with attachment of muscles,16.41
+24248,16.42,Enucleation of eyeball with other synchronous implant,16.42
+24249,16.49,Other enucleation of eyeball,16.49
+24281,16.52,Exenteration of orbit with therapeutic removal of orbital bone,16.52
+24733,08.61,Reconstruction of eyelid with skin flap or graft,08.61
+24794,08.4,Repair of entropion or ectropion,08.4
+24795,08.41,Repair of entropion or ectropion by thermocauterization,08.41
+24796,08.43,Repair of entropion or ectropion with wedge resection,08.43
+24797,08.44,Repair of entropion or ectropion with lid reconstruction,08.44
+24798,08.49,Other repair of entropion or ectropion,08.49
+24868,08.31,Repair of blepharoptosis by frontalis muscle technique with suture,08.31
+24869,08.32,Repair of blepharoptosis by frontalis muscle technique with fascial sling,08.32
+24892,08.0,Incision of eyelid,08.0
+24893,08.09,Other incision of eyelid,08.09
+25789,13.1,Intracapsular extraction of lens,13.1
+25790,13.19,Other intracapsular extraction of lens,13.19
+25922,14.71,"Removal of vitreous, anterior approach",14.71
+26205,20.41,Simple mastoidectomy,20.41
+26358,19.6,Revision of tympanoplasty,19.6
+26527,21.83,Total nasal reconstruction,21.83
+26586,21.85,Augmentation rhinoplasty,21.85
+26762,21.5,Submucous resection of nasal septum,21.5
+26849,21.04,Control of epistaxis by ligation of ethmoidal arteries,21.04
+27992,31.95,Tracheoesophageal fistulization,31.95
+28140,32.4,Lobectomy of lung,32.4
+28141,32.49,Other lobectomy of lung,32.49
+28185,32.3,Segmental resection of lung,32.3
+28186,32.30,Thoracoscopic segmental resection of lung,32.30
+28187,32.39,Other and unspecified segmental resection of lung,32.39
+28648,23.0,Forceps extraction of tooth,23.0
+28649,23.09,Extraction of other tooth,23.09
+28690,23.4,Other dental restoration,23.4
+28691,23.49,Other dental restoration,23.49
+28738,24.6,Exposure of tooth,24.6
+28783,24.4,Excision of dental lesion of jaw,24.4
+28825,24.31,Excision of lesion or tissue of gum,24.31
+28850,24.2,Gingivoplasty,24.2
+29020,27.3,Excision of lesion or tissue of bony palate,27.3
+29073,27.63,Revision of cleft palate repair,27.63
+29267,28.2,Tonsillectomy without adenoidectomy,28.2
+30487,43.3,Pyloromyotomy,43.3
+30602,96.33,Gastric lavage,96.33
+33338,48.72,Closure of proctostomy,48.72
+33464,50.51,Auxiliary liver transplant,50.51
+33514,50.21,Marsupialization of lesion of liver,50.21
+33811,46.41,Revision of stoma of small intestine,46.41
+33836,14.41,Scleral buckling with implant,14.41
+33913,52.13,Endoscopic retrograde pancreatography [ERP],52.13
+34034,52.51,Proximal pancreatectomy,52.51
+34304,41.5,Total splenectomy,41.5
+35026,35.00,"Closed heart valvotomy, unspecified valve",35.00
+35750,88.54,Combined right and left heart angiocardiography,88.54
+35765,88.55,Coronary arteriography using a single catheter,88.55
+36040,55.61,Renal autotransplantation,55.61
+36086,55.5,Complete nephrectomy,55.5
+36123,55.51,Nephroureterectomy,55.51
+36278,55.11,Pyelotomy,55.11
+36357,87.75,Percutaneous pyelogram,87.75
+36406,48.74,Rectorectostomy,48.74
+36448,56.74,Ureteroneocystostomy,56.74
+36709,57.34,Open biopsy of bladder,57.34
+37109,68.3,Subtotal abdominal hysterectomy,68.3
+37110,68.39,Other and unspecified subtotal abdominal hysterectomy,68.39
+37141,69.5,Aspiration curettage of uterus,69.5
+37142,69.52,Aspiration curettage following delivery or abortion,69.52
+37143,69.59,Other aspiration curettage of uterus,69.59
+37144,69.6,Menstrual extraction or regulation,69.6
+37826,94.24,Chemical shock therapy,94.24
+37865,25.01,Closed [needle] biopsy of tongue,25.01
+38008,75.93,Surgical correction of inverted uterus,75.93
+38170,18.5,Surgical correction of prominent ear,18.5
+38251,34.51,Decortication of lung,34.51
+38252,34.52,Thoracoscopic decortication of lung,34.52
+39304,72.1,Low forceps operation with episiotomy,72.1
+39483,76.93,Closed reduction of temporomandibular dislocation,76.93
+39610,09.7,Repair of canaliculus and punctum,09.7
+39653,50.5,Liver transplant,50.5
+39654,50.59,Other transplant of liver,50.59
+39787,46.74,"Closure of fistula of small intestine, except duodenum",46.74
+39912,13.3,Extracapsular extraction of lens by simple aspiration (and irrigation) technique,13.3
+39988,20.21,Incision of mastoid,20.21
+40008,42.39,Other destruction of lesion or tissue of esophagus,42.39
+40063,96.31,Gastric cooling,96.31
+40156,74.91,Hysterotomy to terminate pregnancy,74.91
+40266,96.47,Irrigation of cystostomy,96.47
+40349,21.1,Incision of nose,21.1
+40469,72.0,Low forceps operation,72.0
+40513,55.54,Bilateral nephrectomy,55.54
+40534,46.7,Other repair of intestine,46.7
+40535,46.79,Other repair of intestine,46.79
+40616,36.91,Repair of aneurysm of coronary vessel,36.91
+40896,21.07,Control of epistaxis by excision of nasal mucosa and skin grafting of septum and lateral nasal wall,21.07
+40944,33.92,Ligation of bronchus,33.92
+41049,13.64,Discission of secondary membrane [after cataract],13.64
+41121,51.81,Dilation of sphincter of Oddi,51.81
+41177,12.43,"Destruction of lesion of ciliary body, nonexcisional",12.43
+41212,27.71,Incision of uvula,27.71
+41240,72.51,Partial breech extraction with forceps to aftercoming head,72.51
+41322,42.92,Dilation of esophagus,42.92
+41474,08.71,"Reconstruction of eyelid involving lid margin, partial-thickness",08.71
+41482,08.11,Biopsy of eyelid,08.11
+41594,37.25,Biopsy of heart,37.25
+41691,95.13,Ultrasound study of eye,95.13
+41753,09.11,Biopsy of lacrimal gland,09.11
+41803,03.72,Spinal subarachnoid-ureteral shunt,03.72
+41909,76.7,Reduction of facial fracture,76.7
+41910,76.70,"Reduction of facial fracture, not otherwise specified",76.70
+41911,76.71,Closed reduction of malar and zygomatic fracture,76.71
+41912,76.72,Open reduction of malar and zygomatic fracture,76.72
+41913,76.78,Other closed reduction of facial fracture,76.78
+41914,76.79,Other open reduction of facial fracture,76.79
+41949,95.11,Fundus photography,95.11
+42243,07.52,Incision of pineal gland,07.52
+42398,46.6,Fixation of intestine,46.6
+42399,46.60,"Fixation of intestine, not otherwise specified",46.60
+42400,46.62,Other fixation of small intestine,46.62
+42401,46.64,Other fixation of large intestine,46.64
+42433,09.12,Biopsy of lacrimal sac,09.12
+42720,03.2,Chordotomy,03.2
+42721,03.29,Other chordotomy,03.29
+42755,15.21,Lengthening procedure on one extraocular muscle,15.21
+42841,15.22,Shortening procedure on one extraocular muscle,15.22
+42927,89.32,Esophageal manometry,89.32
+42963,42.12,Exteriorization of esophageal pouch,42.12
+43348,87.65,Other x-ray of intestine,87.65
+43392,16.64,Other revision of enucleation socket,16.64
+43452,01.15,Biopsy of skull,01.15
+43559,35.61,Repair of atrial septal defect with tissue graft,35.61
+43645,57.92,Dilation of bladder neck,57.92
+43698,28.4,Excision of tonsil tag,28.4
+43723,48.73,Closure of other rectal fistula,48.73
+43786,34.82,Suture of laceration of diaphragm,34.82
+43854,19.0,Stapes mobilization,19.0
+43892,69.23,Vaginal repair of chronic inversion of uterus,69.23
+43931,10.0,Removal of embedded foreign body from conjunctiva by incision,10.0
+44049,08.7,Other reconstruction of eyelid,08.7
+44050,08.70,"Reconstruction of eyelid, not otherwise specified",08.70
+44051,08.72,"Other reconstruction of eyelid, partial-thickness",08.72
+44052,08.74,"Other reconstruction of eyelid, full-thickness",08.74
+44733,31.64,Repair of laryngeal fracture,31.64
+45089,87.12,Other dental x-ray,87.12
+45137,08.5,Other adjustment of lid position,08.5
+45138,08.59,Other adjustment of lid position,08.59
+45384,35.70,Other and unspecified repair of unspecified septal defect of heart,35.70
+45457,42.8,Other repair of esophagus,42.8
+45458,42.89,Other repair of esophagus,42.89
+45791,16.66,Other revision of exenteration cavity,16.66
+45836,01.13,Closed [percutaneous] [needle] biopsy of brain,01.13
+46352,00.62,Percutaneous angioplasty of intracranial vessel(s),00.62
+46844,03.7,Shunt of spinal theca,03.7
+46845,03.79,Other shunt of spinal theca,03.79
+47018,14.33,Repair of retinal tear by xenon arc photocoagulation,14.33
+47030,48.31,Radical electrocoagulation of rectal lesion or tissue,48.31
+47031,48.32,Other electrocoagulation of rectal lesion or tissue,48.32
+47486,08.20,"Removal of lesion of eyelid, not otherwise specified",08.20
+47825,09.23,Total dacryoadenectomy,09.23
+47857,09.81,Dacryocystorhinostomy [DCR],09.81
+48372,11.71,Keratomileusis,11.71
+48486,12.39,Other iridoplasty,12.39
+48984,18.21,Excision of preauricular sinus,18.21
+49406,21.87,Other rhinoplasty,21.87
+49937,29.32,Pharyngeal diverticulectomy,29.32
+50614,96.55,Tracheostomy toilette,96.55
+50934,33.28,Open biopsy of lung,33.28
+51169,33.51,Unilateral lung transplantation,33.51
+51181,33.52,Bilateral lung transplantation,33.52
+51316,96.56,Other lavage of bronchus and trachea,96.56
+53269,35.94,Creation of conduit between atrium and pulmonary artery,35.94
+53612,35.34,Infundibulectomy,35.34
+54545,27.55,Full-thickness skin graft to lip and mouth,27.55
+54652,38.31,"Resection of vessel with anastomosis, intracranial vessels",38.31
+54760,68.11,Digital examination of uterus,68.11
+54761,68.12,Hysteroscopy,68.12
+54924,41.42,Excision of lesion or tissue of spleen,41.42
+55028,27.54,Repair of cleft lip,27.54
+55974,46.81,Intra-abdominal manipulation of small intestine,46.81
+56035,25.4,Radical glossectomy,25.4
+56049,27.62,Correction of cleft palate,27.62
+56554,45.13,Other endoscopy of small intestine,45.13
+56820,42.7,Esophagomyotomy,42.7
+56939,96.06,Insertion of Sengstaken tube,96.06
+57979,48.65,Duhamel resection of rectum,48.65
+58110,45.9,Intestinal anastomosis,45.9
+58111,45.90,"Intestinal anastomosis, not otherwise specified",45.90
+58112,45.93,Other small-to-large intestinal anastomosis,45.93
+58803,51.85,Endoscopic sphincterotomy and papillotomy,51.85
+59572,27.92,"Incision of mouth, unspecified structure",27.92
+59671,07.62,"Partial excision of pituitary gland, transsphenoidal approach",07.62
+59793,68.9,Other and unspecified hysterectomy,68.9
+59890,68.31,Laparoscopic supracervical hysterectomy [LSH],68.31
+59905,68.61,Laparoscopic radical abdominal hysterectomy,68.61
+60290,72.6,Forceps application to aftercoming head,72.6
+60441,69.94,Manual replacement of inverted uterus,69.94
+60498,07.81,Other partial excision of thymus,07.81
+60499,07.83,Thoracoscopic partial excision of thymus,07.83
+60779,94.27,Other electroshock therapy,94.27
+60883,08.83,"Other repair of laceration of eyelid, partial-thickness",08.83
+60994,88.71,Diagnostic ultrasound of head and neck,88.71
+61011,25.92,Lingual frenectomy,25.92
+61512,34.5,Pleurectomy,34.5
+61514,34.59,Other excision of pleura,34.59
+61648,08.85,"Other repair of laceration of eyelid, full-thickness",08.85
+64557,33.27,Closed endoscopic biopsy of lung,33.27
+64574,56.5,Cutaneous uretero-ileostomy,56.5
+64575,56.51,Formation of cutaneous uretero-ileostomy,56.51
+64587,35.96,Percutaneous balloon valvuloplasty,35.96
+64643,09.52,Incision of lacrimal canaliculi,09.52
+64690,06.4,Complete thyroidectomy,06.4
+64787,76.42,Other total mandibulectomy,76.42
+64823,31.61,Suture of laceration of larynx,31.61
+64846,70.72,Repair of colovaginal fistula,70.72
+65029,76.75,Closed reduction of mandibular fracture,76.75
+65089,70.74,Repair of other vaginoenteric fistula,70.74
+65213,21.71,Closed reduction of nasal fracture,21.71
+65326,20.62,Revision of fenestration of inner ear,20.62
+65476,08.02,Severing of blepharorrhaphy,08.02
+65487,35.28,Open and other replacement of tricuspid valve,35.28
+67054,12.22,Biopsy of iris,12.22
+67085,32.50,Thoracoscopic pneumonectomy,32.50
+67100,24.5,Alveoloplasty,24.5
+67165,01.24,Other craniotomy,01.24
+67243,55.91,Decapsulation of kidney,55.91
+67312,57.88,Other anastomosis of bladder,57.88
+67409,21.21,Rhinoscopy,21.21
+67570,66.5,Total bilateral salpingectomy,66.5
+67571,66.51,Removal of both fallopian tubes at same operative episode,66.51
+67586,72.21,Mid forceps operation with episiotomy,72.21
+67634,11.21,Scraping of cornea for smear or culture,11.21
+68271,23.01,Extraction of deciduous tooth,23.01
+68513,35.22,Open and other replacement of aortic valve,35.22
+68538,35.06,Transapical replacement of aortic valve,35.06
+68618,45.8,Total intra-abdominal colectomy,45.8
+68619,45.81,Laparoscopic total intra-abdominal colectomy,45.81
+68620,45.82,Open total intra-abdominal colectomy,45.82
+68621,45.83,Other and unspecified total intra-abdominal colectomy,45.83
+68679,87.81,X-ray of gravid uterus,87.81
+68704,43.9,Total gastrectomy,43.9
+68705,43.99,Other total gastrectomy,43.99
+68923,68.5,Vaginal hysterectomy,68.5
+68924,68.59,Other and unspecified vaginal hysterectomy,68.59
+68989,68.23,Endometrial ablation,68.23
+69420,18.6,Reconstruction of external auditory canal,18.6
+70207,48.5,Abdominoperineal resection of rectum,48.5
+70208,48.50,"Abdominoperineal resection of the rectum, not otherwise specified",48.50
+70209,48.51,Laparoscopic abdominoperineal resection of the rectum,48.51
+70210,48.52,Open abdominoperineal resection of the rectum,48.52
+70211,48.59,Other abdominoperineal resection of the rectum,48.59
+70672,55.53,Removal of transplanted or rejected kidney,55.53
+70797,67.51,Transabdominal cerclage of cervix,67.51
+71001,44.62,Closure of gastrostomy,44.62
+71030,76.68,Augmentation genioplasty,76.68
+71089,09.42,Probing of lacrimal canaliculi,09.42
+71154,75.94,Immediate postpartum manual replacement of inverted uterus,75.94
+71206,14.49,Other scleral buckling,14.49
+71312,87.15,Contrast radiogram of sinus,87.15
+71515,45.74,Open and other resection of transverse colon,45.74
+71612,17.3,Laparoscopic partial excision of large intestine,17.3
+71613,17.39,Other laparoscopic partial excision of large intestine,17.39
+71614,45.79,Other and unspecified partial excision of large intestine,45.79
+72452,51.91,Repair of laceration of gallbladder,51.91
+72462,27.42,Wide excision of lesion of lip,27.42
+72615,01.0,Cranial puncture,01.0
+72616,01.02,Ventriculopuncture through previously implanted catheter,01.02
+72617,01.09,Other cranial puncture,01.09
+72883,48.36,[Endoscopic] polypectomy of rectum,48.36
+73011,33.24,Closed [endoscopic] biopsy of bronchus,33.24
+73128,48.24,Closed [endoscopic] biopsy of rectum,48.24
+73168,55.23,Closed [percutaneous] [needle] biopsy of kidney,55.23
+73503,07.11,Closed [percutaneous] [needle] biopsy of adrenal gland,07.11
+73717,21.2,Diagnostic procedures on nose,21.2
+73718,21.29,Other diagnostic procedures on nose,21.29
+73874,69.2,Repair of uterine supporting structures,69.2
+73875,69.22,Other uterine suspension,69.22
+73876,69.29,Other repair of uterus and supporting structures,69.29
+73937,69.01,Dilation and curettage for termination of pregnancy,69.01
+74034,08.91,Electrosurgical epilation of eyelid,08.91
+74113,48.41,Soave submucosal resection of rectum,48.41
+74896,55.22,Pyeloscopy,55.22
+75010,27.6,Palatoplasty,27.6
+75011,27.64,Insertion of palatal implant,27.64
+75012,27.69,Other plastic repair of palate,27.69
+75036,48.7,Repair of rectum,48.7
+75039,48.79,Other repair of rectum,48.79
+75121,31.62,Closure of fistula of larynx,31.62
+75392,03.31,Spinal tap,03.31
+75436,89.19,Video and radio-telemetered electroencephalographic monitoring,89.19
+75959,99.62,Other electric countershock of heart,99.62
+76027,96.37,Proctoclysis,96.37
+76574,20.01,Myringotomy with insertion of tube,20.01
+76658,07.54,Total excision of pineal gland,07.54
+76786,87.72,Other nephrotomogram,87.72
+76935,07.94,Transplantation of thymus,07.94
+77069,33.91,Bronchial dilation,33.91
+77240,41.1,Puncture of spleen,41.1
+77266,42.6,Antesternal anastomosis of esophagus,42.6
+77267,42.61,Antesternal esophagoesophagostomy,42.61
+77269,42.63,Antesternal esophageal anastomosis with interposition of small bowel,42.63
+77270,42.64,Other antesternal esophagoenterostomy,42.64
+77271,42.65,Antesternal esophageal anastomosis with interposition of colon,42.65
+77272,42.66,Other antesternal esophagocolostomy,42.66
+77273,42.68,Other antesternal esophageal anastomosis with interposition,42.68
+77274,42.69,Other antesternal anastomosis of esophagus,42.69
+77598,32.0,Local excision or destruction of lesion or tissue of bronchus,32.0
+77600,32.2,Local excision or destruction of lesion or tissue of lung,32.2
+77609,32,Excision of lung and bronchus,32
+77657,30.4,Radical laryngectomy,30.4
+77785,33.26,Closed [percutaneous] [needle] biopsy of lung,33.26
+77931,50.11,Closed (percutaneous) [needle] biopsy of liver,50.11
+78096,33.21,Bronchoscopy through artificial stoma,33.21
+78123,31.41,Tracheoscopy through artificial stoma,31.41
+78463,57.87,Reconstruction of urinary bladder,57.87
+78774,44.5,Revision of gastric anastomosis,44.5
+78954,44.3,Gastroenterostomy without gastrectomy,44.3
+78955,44.32,Percutaneous [endoscopic] gastrojejunostomy,44.32
+78956,44.39,Other gastroenterostomy without gastrectomy,44.39
+78968,53.3,Bilateral repair of femoral hernia,53.3
+78969,53.39,Other bilateral femoral herniorrhaphy,53.39
+78986,52.7,Radical pancreaticoduodenectomy,52.7
+79014,52.5,Partial pancreatectomy,52.5
+79015,52.59,Other partial pancreatectomy,52.59
+79078,46.91,Myotomy of sigmoid colon,46.91
+79154,66.63,"Bilateral partial salpingectomy, not otherwise specified",66.63
+79382,55.86,Anastomosis of kidney,55.86
+79509,76.91,Bone graft to facial bone,76.91
+79572,22.3,External maxillary antrotomy,22.3
+79573,22.39,Other external maxillary antrotomy,22.39
+79654,28.3,Tonsillectomy with adenoidectomy,28.3
+79668,45.42,Endoscopic polypectomy of large intestine,45.42
+79775,01.21,Incision and drainage of cranial sinus,01.21
+79839,20.91,Tympanosympathectomy,20.91
+79853,11.5,Repair of cornea,11.5
+79854,11.59,Other repair of cornea,11.59
+79963,89.52,Electrocardiogram,89.52
+80309,31.73,Closure of other fistula of trachea,31.73
+80325,11.7,Other reconstructive and refractive surgery on cornea,11.7
+80326,11.79,Other reconstructive and refractive surgery on cornea,11.79
+80436,16.63,Revision of enucleation socket with graft,16.63
+80454,88.91,Magnetic resonance imaging of brain and brain stem,88.91
+80495,48.21,Transabdominal proctosigmoidoscopy,48.21
+80504,67.62,Repair of fistula of cervix,67.62
+80560,08.23,"Excision of major lesion of eyelid, partial-thickness",08.23
+80577,12.61,Trephination of sclera with iridectomy,12.61
+80638,16.31,Removal of ocular contents with synchronous implant into scleral shell,16.31
+80683,36.11,(Aorto)coronary bypass of one coronary artery,36.11
+80693,65.6,Bilateral salpingo-oophorectomy,65.6
+80694,65.61,Other removal of both ovaries and tubes at same operative episode,65.61
+80696,65.64,Laparoscopic removal of remaining ovary and tube,65.64
+80721,27.43,Other excision of lesion or tissue of lip,27.43
+80799,12.11,Iridotomy with transfixion,12.11
+81091,66.4,Total unilateral salpingectomy,66.4
+81218,44.21,Dilation of pylorus by incision,44.21
+81301,35.52,"Repair of atrial septal defect with prosthesis, closed technique",35.52
+81555,42.84,"Repair of esophageal fistula, not elsewhere classified",42.84
+81607,29.33,Pharyngectomy (partial),29.33
+81644,01.11,Closed [percutaneous] [needle] biopsy of cerebral meninges,01.11
+81645,01.12,Open biopsy of cerebral meninges,01.12
+81699,07.3,Bilateral adrenalectomy,07.3
+81929,34.27,Biopsy of diaphragm,34.27
+81960,21.7,Reduction of nasal fracture,21.7
+82346,10.21,Biopsy of conjunctiva,10.21
+82417,87.04,Other tomography of head,87.04
+82520,27.72,Excision of uvula,27.72
+82614,87.66,Contrast pancreatogram,87.66
+82907,95.14,X-ray study of eye,95.14
+83038,44.6,Other repair of stomach,44.6
+83039,44.69,Other repair of stomach,44.69
+83152,26.11,Closed [needle] biopsy of salivary gland or duct,26.11
+83153,27.24,"Biopsy of mouth, unspecified structure",27.24
+83181,35.1,Open heart valvuloplasty without replacement,35.1
+83182,35.10,"Open heart valvuloplasty without replacement, unspecified valve",35.10
+83345,07.92,Other incision of thymus,07.92
+83346,07.95,Thoracoscopic incision of thymus,07.95
+83396,96.21,Dilation of frontonasal duct,96.21
+83499,44.12,Gastroscopy through artificial stoma,44.12
+83530,45.43,Endoscopic destruction of other lesion or tissue of large intestine,45.43
+83626,27.1,Incision of palate,27.1
+83763,45.02,Other incision of small intestine,45.02
+83977,44.41,Suture of gastric ulcer site,44.41
+83998,44.42,Suture of duodenal ulcer site,44.42
+84052,76.3,Partial ostectomy of facial bone,76.3
+84053,76.39,Partial ostectomy of other facial bone,76.39
+84139,56.1,Ureteral meatotomy,56.1
+84152,76.74,Open reduction of maxillary fracture,76.74
+84174,76.73,Closed reduction of maxillary fracture,76.73
+84197,76.76,Open reduction of mandibular fracture,76.76
+84684,17.32,Laparoscopic cecectomy,17.32
+84685,45.72,Open and other cecectomy,45.72
+84732,17.34,Laparoscopic resection of transverse colon,17.34
+85194,68.6,Radical abdominal hysterectomy,68.6
+85195,68.69,Other and unspecified radical abdominal hysterectomy,68.69
+85263,31.44,Closed [endoscopic] biopsy of trachea,31.44
+85336,55.82,Closure of nephrostomy and pyelostomy,55.82
+85460,44.31,High gastric bypass,44.31
+85606,35.25,Open and other replacement of pulmonary valve with tissue graft,35.25
+85952,12.64,Trabeculectomy ab externo,12.64
+86323,33.43,Closure of laceration of lung,33.43
+86836,48.34,Destruction of rectal lesion or tissue by cryosurgery,48.34
+87814,22.63,Ethmoidectomy,22.63
+88035,45.95,Anastomosis to anus,45.95
+88227,26.42,Closure of salivary fistula,26.42
+88272,16.02,Orbitotomy with insertion of orbital implant,16.02
+88407,07.22,Unilateral adrenalectomy,07.22
+88458,75.51,Repair of current obstetric laceration of cervix,75.51
+88459,75.6,Repair of other current obstetric laceration,75.6
+88833,43.42,Local excision of other lesion or tissue of stomach,43.42
+88891,37.51,Heart transplantation,37.51
+88965,08.22,Excision of other minor lesion of eyelid,08.22
+88999,33.6,Combined heart-lung transplantation,33.6
+89032,02.0,Cranioplasty,02.0
+89033,02.06,Other cranial osteoplasty,02.06
+89142,08.73,"Reconstruction of eyelid involving lid margin, full-thickness",08.73
+89150,41.32,Closed [aspiration] [percutaneous] biopsy of spleen,41.32
+89216,88.41,Arteriography of cerebral arteries,88.41
+89252,39.28,Extracranial-intracranial (EC-IC) vascular bypass,39.28
+89354,51.34,Anastomosis of gallbladder to stomach,51.34
+89376,42.5,Intrathoracic anastomosis of esophagus,42.5
+89377,42.54,Other intrathoracic esophagoenterostomy,42.54
+89378,42.56,Other intrathoracic esophagocolostomy,42.56
+89379,42.58,Intrathoracic esophageal anastomosis with other interposition,42.58
+89380,42.59,Other intrathoracic anastomosis of esophagus,42.59
+89525,42.0,Esophagotomy,42.0
+89526,42.09,Other incision of esophagus,42.09
+89604,59.71,Levator muscle operation for urethrovesical suspension,59.71
+89642,00.24,Intravascular imaging of coronary vessels,00.24
+89643,88.57,Other and unspecified coronary arteriography,88.57
+89782,13.66,Mechanical fragmentation of secondary membrane [after cataract],13.66
+89815,53.31,Bilateral repair of femoral hernia with graft or prosthesis,53.31
+89882,46.63,Fixation of large intestine to abdominal wall,46.63
+89946,07.2,Partial adrenalectomy,07.2
+89948,07.29,Other partial adrenalectomy,07.29
+90032,18.7,Other plastic repair of external ear,18.7
+90033,18.79,Other plastic repair of external ear,18.79
+90117,09.41,Probing of lacrimal punctum,09.41
+90130,22.2,Intranasal antrotomy,22.2
+90199,89.31,Dental examination,89.31
+90236,35.2,Open and other replacement of heart valve,35.2
+90237,35.20,Open and other replacement of unspecified heart valve,35.20
+90260,35.09,Endovascular replacement of unspecified heart valve,35.09
+90278,37.10,"Incision of heart, not otherwise specified",37.10
+90279,37.11,Cardiotomy,37.11
+90378,87.03,Computerized axial tomography of head,87.03
+90407,55.8,Other repair of kidney,55.8
+90408,55.89,Other repair of kidney,55.89
+90474,68.13,Open biopsy of uterus,68.13
+90587,48.0,Proctotomy,48.0
+90615,76.63,Osteoplasty [osteotomy] of body of mandible,76.63
+90643,10.44,Other free graft to conjunctiva,10.44
+90727,25.51,Suture of laceration of tongue,25.51
+90940,07.65,"Total excision of pituitary gland, transsphenoidal approach",07.65
+91043,42.55,Intrathoracic esophageal anastomosis with interposition of colon,42.55
+91058,12.73,Cyclophotocoagulation,12.73
+91088,55.01,Nephrotomy,55.01
+91140,51.03,Other cholecystostomy,51.03
+91264,01.01,Cisternal puncture,01.01
+91340,03.71,Spinal subarachnoid-peritoneal shunt,03.71
+91543,21.0,Control of epistaxis,21.0
+91544,21.00,"Control of epistaxis, not otherwise specified",21.00
+91545,21.01,Control of epistaxis by anterior nasal packing,21.01
+91546,21.03,Control of epistaxis by cauterization (and packing),21.03
+91548,21.05,Control of epistaxis by (transantral) ligation of the maxillary artery,21.05
+91549,21.09,Control of epistaxis by other means,21.09
+91604,35.11,Open heart valvuloplasty of aortic valve without replacement,35.11
+91615,43.6,Partial gastrectomy with anastomosis to duodenum,43.6
+91760,45.15,Open biopsy of small intestine,45.15
+91776,68.7,Radical vaginal hysterectomy,68.7
+91777,68.79,Other and unspecified radical vaginal hysterectomy,68.79
+91880,45.73,Open and other right hemicolectomy,45.73
+91988,12.53,Goniotomy with goniopuncture,12.53
+92001,43.81,Partial gastrectomy with jejunal transposition,43.81
+92104,46.71,Suture of laceration of duodenum,46.71
+92137,36.15,Single internal mammary-coronary artery bypass,36.15
+92247,08.33,Repair of blepharoptosis by resection or advancement of levator muscle or aponeurosis,08.33
+92313,20.2,Incision of mastoid and middle ear,20.2
+92415,25.3,Complete glossectomy,25.3
+92434,07.68,"Total excision of pituitary gland, other specified approach",07.68
+92435,07.69,"Total excision of pituitary gland, unspecified approach",07.69
+92475,12.52,Goniotomy without goniopuncture,12.52
+92616,75.62,Repair of current obstetric laceration of rectum and sphincter ani,75.62
+92633,12.71,Cyclodiathermy,12.71
+92875,44.61,Suture of laceration of stomach,44.61
+92933,12.74,"Diminution of ciliary body, not otherwise specified",12.74
+93022,46.43,Other revision of stoma of large intestine,46.43
+93086,08.82,"Repair of laceration involving lid margin, partial-thickness",08.82
+93108,08.84,"Repair of laceration involving lid margin, full-thickness",08.84
+93181,69.3,Paracervical uterine denervation,69.3
+93320,08.25,Destruction of lesion of eyelid,08.25
+93564,44.2,Pyloroplasty,44.2
+93566,44.29,Other pyloroplasty,44.29
+93651,21.72,Open reduction of nasal fracture,21.72
+93769,20.6,Fenestration of inner ear,20.6
+93784,22.7,Repair of nasal sinus,22.7
+93785,22.79,Other repair of nasal sinus,22.79
+93830,12.82,Repair of scleral fistula,12.82
+93911,46.23,Other permanent ileostomy,46.23
+93932,31.7,Repair and plastic operations on trachea,31.7
+93935,31.79,Other repair and plastic operations on trachea,31.79
+94008,88.58,Negative-contrast cardiac roentgenography,88.58
+94117,12.91,Therapeutic evacuation of anterior chamber,12.91
+94163,12.14,Other iridectomy,12.14
+94234,44.64,Gastropexy,44.64
+94298,01.25,Other craniectomy,01.25
+94417,42.01,Incision of esophageal web,42.01
+94480,14.22,Destruction of chorioretinal lesion by cryotherapy,14.22
+94841,16.82,Repair of rupture of eyeball,16.82
+94877,59.3,Plication of urethrovesical junction,59.3
+94965,16.3,Evisceration of eyeball,16.3
+94966,16.39,Other evisceration of eyeball,16.39
+94984,16.93,"Excision of lesion of eye, unspecified structure",16.93
+95247,35.13,Open heart valvuloplasty of pulmonary valve without replacement,35.13
+95339,12.62,Thermocauterization of sclera with iridectomy,12.62
+95377,12.40,"Removal of lesion of anterior segment of eye, not otherwise specified",12.40
+95416,34.93,Repair of pleura,34.93
+95627,51.2,Cholecystectomy,51.2
+95628,51.21,Other partial cholecystectomy,51.21
+95629,51.22,Cholecystectomy,51.22
+95697,07.13,"Biopsy of pituitary gland, transfrontal approach",07.13
+95709,65.0,Oophorotomy,65.0
+95710,65.09,Other oophorotomy,65.09
+95864,22.53,Incision of multiple nasal sinuses,22.53
+96007,35.97,Percutaneous mitral valve repair with implant,35.97
+96295,92.03,Renal scan and radioisotope function study,92.03
+96383,92.02,Liver scan and radioisotope function study,92.02
+96410,42.32,Local excision of other lesion or tissue of esophagus,42.32
+96460,12.12,Other iridotomy,12.12
+96499,69.95,Incision of cervix,69.95
+96559,27.59,Other plastic repair of mouth,27.59
+96684,51.10,Endoscopic retrograde cholangiopancreatography [ERCP],51.10
+97059,67.4,Amputation of cervix,67.4
+97149,09.22,Other partial dacryoadenectomy,09.22
+97266,93.91,Intermittent positive pressure breathing [IPPB],93.91
+97412,43.0,Gastrotomy,43.0
+97466,08.52,Blepharorrhaphy,08.52
+97537,57.91,Sphincterotomy of bladder,57.91
+97725,11.61,Lamellar keratoplasty with autograft,11.61
+97740,08.87,Upper eyelid rhytidectomy,08.87
+97771,95.25,Electromyogram of eye [EMG],95.25
+97859,10.43,Other reconstruction of conjunctival cul-de-sac,10.43
+97870,46.72,Closure of fistula of duodenum,46.72
+97899,69.51,Aspiration curettage of uterus for termination of pregnancy,69.51
+97917,31.71,Suture of laceration of trachea,31.71
+97930,11.74,Thermokeratoplasty,11.74
+98018,66.73,Salpingo-salpingostomy,66.73
+98138,29.11,Pharyngoscopy,29.11
+98238,31.74,Revision of tracheostomy,31.74
+98272,67.6,Other repair of cervix,67.6
+98273,67.69,Other repair of cervix,67.69
+98315,22.52,Sphenoidotomy,22.52
+98359,67.61,Suture of laceration of cervix,67.61
+98397,13.42,Mechanical phacofragmentation and aspiration of cataract by posterior route,13.42
+98442,30.1,Hemilaryngectomy,30.1
+98454,10.31,Excision of lesion or tissue of conjunctiva,10.31
+98576,44.22,Endoscopic dilation of pylorus,44.22
+98615,76.31,Partial mandibulectomy,76.31
+98631,86.81,Repair for facial weakness,86.81
+98827,02.01,Opening of cranial suture,02.01
+98909,19.4,Myringoplasty,19.4
+98976,45.14,Closed [endoscopic] biopsy of small intestine,45.14
+99042,42.1,Esophagostomy,42.1
+99043,42.10,"Esophagostomy, not otherwise specified",42.10
+99044,42.19,Other external fistulization of esophagus,42.19
+99097,11.3,Excision of pterygium,11.3
+99098,11.39,Other excision of pterygium,11.39
+99115,46.0,Exteriorization of intestine,46.0
+99222,36.16,Double internal mammary-coronary artery bypass,36.16
+99244,50.61,Closure of laceration of liver,50.61
+99256,55.81,Suture of laceration of kidney,55.81
+99644,20.0,Myringotomy,20.0
+99645,20.09,Other myringotomy,20.09
+99700,09.82,Conjunctivocystorhinostomy,09.82
+99807,16.5,Exenteration of orbital contents,16.5
+99808,16.59,Other exenteration of orbit,16.59
+99932,42.41,Partial esophagectomy,42.41
+100041,08.93,Other epilation of eyelid,08.93
+100083,19.52,Type II tympanoplasty,19.52
+100133,33.41,Suture of laceration of bronchus,33.41
+100158,70.52,Repair of rectocele,70.52
+100159,70.55,Repair of rectocele with graft or prosthesis,70.55
+100202,08.3,Repair of blepharoptosis and lid retraction,08.3
+100203,08.38,Correction of lid retraction,08.38
+100204,08.8,Other repair of eyelid,08.8
+100205,08.89,Other eyelid repair,08.89
+100308,02.22,Intracranial ventricular shunt or anastomosis,02.22
+100451,95.22,Electro-oculogram [EOG],95.22
+100540,66.74,Salpingo-uterostomy,66.74
+100606,07.8,Thymectomy,07.8
+100607,07.80,"Thymectomy, not otherwise specified",07.80
+100609,07.82,Other total excision of thymus,07.82
+100611,07.84,Thoracoscopic total excision of thymus,07.84
+100717,66.31,Other bilateral ligation and crushing of fallopian tubes,66.31
+100760,52.52,Distal pancreatectomy,52.52
+100781,02.1,Repair of cerebral meninges,02.1
+100782,02.12,Other repair of cerebral meninges,02.12
+101005,55.24,Open biopsy of kidney,55.24
+101028,57.1,Cystotomy and cystostomy,57.1
+101030,57.19,Other cystotomy,57.19
+101111,35.91,Interatrial transposition of venous return,35.91
+101203,12.21,Diagnostic aspiration of anterior chamber of eye,12.21
+101304,11.76,Epikeratophakia,11.76
+101329,11.32,Excision of pterygium with corneal graft,11.32
+101396,87.74,Retrograde pyelogram,87.74
+101611,96.7,Other continuous invasive mechanical ventilation,96.7
+101612,96.70,Continuous invasive mechanical ventilation of unspecified duration,96.70
+101613,96.71,Continuous invasive mechanical ventilation for less than 96 consecutive hours,96.71
+101614,96.72,Continuous invasive mechanical ventilation for 96 consecutive hours or more,96.72
+101671,46.61,Fixation of small intestine to abdominal wall,46.61
+101703,21.8,Repair and plastic operations on the nose,21.8
+101706,21.89,Other repair and plastic operations on nose,21.89
+101780,88.72,Diagnostic ultrasound of heart,88.72
+101865,41.95,Repair and plastic operations on spleen,41.95
+102090,33.3,Surgical collapse of lung,33.3
+102091,33.39,Other surgical collapse of lung,33.39
+102401,89.34,Digital examination of rectum,89.34
+103049,22.71,Closure of nasal sinus fistula,22.71
+103481,21.22,Biopsy of nose,21.22
+103932,55.84,Reduction of torsion of renal pedicle,55.84
+103972,92.11,Cerebral scan,92.11
+104214,87.63,Small bowel series,87.63
+104361,46.93,Revision of anastomosis of small intestine,46.93
+104491,14.23,Destruction of chorioretinal lesion by xenon arc photocoagulation,14.23
+104579,09.5,Incision of lacrimal sac and passages,09.5
+104580,09.59,Other incision of lacrimal passages,09.59
+104609,18.4,Suture of laceration of external ear,18.4
+105710,88.59,Intra-operative coronary fluorescence vascular angiography,88.59
+106367,11.64,Other penetrating keratoplasty,11.64
+106618,68.0,Hysterotomy,68.0
+106706,22.61,Excision of lesion of maxillary sinus with Caldwell-Luc approach,22.61
+106726,47.91,Appendicostomy,47.91
+106770,75.61,Repair of current obstetric laceration of bladder and urethra,75.61
+106786,25.94,Other glossotomy,25.94
+107205,37.28,Intracardiac echocardiography,37.28
+108556,01.3,Incision of brain and cerebral meninges,01.3
+108557,01.39,Other incision of brain,01.39
+108712,43.82,Laparoscopic vertical (sleeve) gastrectomy,43.82
+109390,93.90,Non-invasive mechanical ventilation,93.90
+109422,03.52,Repair of spinal myelomeningocele,03.52
+110131,23.41,Application of crown,23.41
+110367,32.22,Lung volume reduction surgery,32.22
+110752,95.44,Clinical vestibular function tests,95.44
+110993,07.15,"Biopsy of pituitary gland, unspecified approach",07.15
+111398,50.13,Transjugular liver biopsy,50.13
+114732,17.63,Laser interstitial thermal therapy [LITT] of lesion or tissue of liver under guidance,17.63
+114869,08.37,Reduction of overcorrection of ptosis,08.37
+114877,45.34,"Other destruction of lesion of small intestine, except duodenum",45.34
+114908,14.73,Mechanical vitrectomy by anterior approach,14.73
+116761,55.34,Laparoscopic ablation of renal lesion or tissue,55.34
+117868,48.22,Proctosigmoidoscopy through artificial stoma,48.22
+118028,96.26,Manual reduction of rectal prolapse,96.26
+118042,16.81,Repair of wound of orbit,16.81
+118065,45.91,Small-to-small intestinal anastomosis,45.91
+118192,92.15,Pulmonary scan,92.15
+118223,46.97,Transplant of intestine,46.97
+118309,68.71,Laparoscopic radical vaginal hysterectomy [LRVH],68.71
+118362,87.02,Other contrast radiogram of brain and skull,87.02
+118363,92.12,Scan of other sites of head,92.12
+118406,35.21,Open and other replacement of aortic valve with tissue graft,35.21
+118531,76.5,Temporomandibular arthroplasty,76.5
+119288,76.92,Insertion of synthetic implant in facial bone,76.92
+119544,12.13,Excision of prolapsed iris,12.13
+119658,51.04,Other cholecystotomy,51.04
+120364,66.71,Simple suture of fallopian tube,66.71
+120504,32.20,Thoracoscopic excision of lesion or tissue of lung,32.20
+120572,45.24,Flexible sigmoidoscopy,45.24
+120649,65.24,Laparoscopic wedge resection of ovary,65.24
+120800,55.83,Closure of other fistula of kidney,55.83
+121310,66.62,Salpingectomy with removal of tubal pregnancy,66.62
+121334,09.6,Excision of lacrimal sac and passage,09.6
+121433,88.93,Magnetic resonance imaging of spinal canal,88.93
+121707,07.17,Biopsy of pineal gland,07.17
+121720,07.71,Exploration of pituitary fossa,07.71
+122022,23.73,Apicoectomy,23.73
+122033,24.32,Suture of laceration of gum,24.32
+122217,45.21,Transabdominal endoscopy of large intestine,45.21
+122226,45.11,Transabdominal endoscopy of small intestine,45.11
+122307,87.11,Full-mouth x-ray of teeth,87.11
+122531,65.41,Laparoscopic unilateral salpingo-oophorectomy,65.41
+122532,65.63,Laparoscopic removal of both ovaries and tubes at same operative episode,65.63
+122612,68.41,Laparoscopic total abdominal hysterectomy,68.41
+122634,15.01,Biopsy of extraocular muscle or tendon,15.01
+122902,27.21,Biopsy of bony palate,27.21
+123353,20.22,Incision of petrous pyramid air cells,20.22
+123364,12.54,Trabeculotomy ab externo,12.54
+123377,02.13,Ligation of meningeal vessel,02.13
+123466,55.31,Marsupialization of kidney lesion,55.31
+123519,09.2,Excision of lesion or tissue of lacrimal gland,09.2
+123520,09.20,"Excision of lacrimal gland, not otherwise specified",09.20
+123521,09.21,Excision of lesion of lacrimal gland,09.21
+123552,11.22,Biopsy of cornea,11.22
+123697,13.71,"Insertion of intraocular lens prosthesis at time of cataract extraction, one-stage",13.71
+123850,59.5,Retropubic urethral suspension,59.5
+124164,35.92,Creation of conduit between right ventricle and pulmonary artery,35.92
+124415,52.85,Allotransplantation of cells of Islets of Langerhans,52.85
+124494,51.82,Pancreatic sphincterotomy,51.82
+124793,76.11,Biopsy of facial bone,76.11
+124916,51.83,Pancreatic sphincteroplasty,51.83
+124992,38.01,"Incision of vessel, intracranial vessels",38.01
+125178,38.51,"Ligation and stripping of varicose veins, intracranial vessels",38.51
+125363,48.71,Suture of laceration of rectum,48.71
+125389,76.94,Open reduction of temporomandibular dislocation,76.94
+125605,38.41,"Resection of vessel with replacement, intracranial vessels",38.41
+125606,38.61,"Other excision of vessels, intracranial vessels",38.61
+125969,49.94,Reduction of anal prolapse,49.94
+126003,25.5,Repair of tongue and glossoplasty,25.5
+126004,25.59,Other repair and plastic operations on tongue,25.59
+126185,65.01,Laparoscopic oophorotomy,65.01
+126186,65.31,Laparoscopic unilateral oophorectomy,65.31
+126187,65.53,Laparoscopic removal of both ovaries at same operative episode,65.53
+126188,65.54,Laparoscopic removal of remaining ovary,65.54
+126353,51.24,Laparoscopic partial cholecystectomy,51.24
+126560,23.2,Restoration of tooth by filling,23.2
+126694,32.23,Open ablation of lung lesion or tissue,32.23
+126695,32.24,Percutaneous ablation of lung lesion or tissue,32.24
+126696,32.25,Thoracoscopic ablation of lung lesion or tissue,32.25
+126697,32.26,Other and unspecified ablation of lung lesion or tissue,32.26
+126904,89.42,Masters' two-step stress test,89.42
+127026,32.21,Plication of emphysematous bleb,32.21
+127301,12.63,Iridencleisis and iridotasis,12.63
+127312,43.49,Other destruction of lesion or tissue of stomach,43.49
+127356,27.41,Labial frenectomy,27.41
+127379,48.64,Posterior resection of rectum,48.64
+127536,76.67,Reduction genioplasty,76.67
+127596,22.01,Puncture of nasal sinus for aspiration or lavage,22.01
+127629,33.1,Incision of lung,33.1
+127664,48.63,Other anterior resection of rectum,48.63
+127727,51.23,Laparoscopic cholecystectomy,51.23
+127859,12.35,Coreoplasty,12.35
+127923,42.4,Excision of esophagus,42.4
+127924,42.40,"Esophagectomy, not otherwise specified",42.40
+128026,29.51,Suture of laceration of pharynx,29.51
+128425,89.22,Cystometrogram,89.22
+128692,02.11,Simple suture of dura mater of brain,02.11
+128726,21.06,Control of epistaxis by ligation of the external carotid artery,21.06
+128826,26.32,Complete sialoadenectomy,26.32
+128996,27.22,Biopsy of uvula and soft palate,27.22
+129172,19.53,Type III tympanoplasty,19.53
+129306,65.94,Ovarian denervation,65.94
+129330,12.42,Excision of lesion of iris,12.42
+129468,48.91,Incision of rectal stricture,48.91
+129590,28.5,Excision of lingual tonsil,28.5
+129624,08.64,Reconstruction of eyelid with tarsoconjunctival flap,08.64
+129644,30.22,Vocal cordectomy,30.22
+129670,59.1,Incision of perivesical tissue,59.1
+129671,59.11,Other lysis of perivesical adhesions,59.11
+129672,59.19,Other incision of perivesical tissue,59.19
+129739,27.91,Labial frenotomy,27.91
+129965,65.12,Other biopsy of ovary,65.12
+130060,46.94,Revision of anastomosis of large intestine,46.94
+130187,44.66,Other procedures for creation of esophagogastric sphincteric competence,44.66
+130188,44.67,Laparoscopic procedures for creation of esophagogastric sphincteric competence,44.67
+130304,33.0,Incision of bronchus,33.0
+130369,75.7,"Manual exploration of uterine cavity, postpartum",75.7
+130418,43.5,Partial gastrectomy with anastomosis to esophagus,43.5
+130419,43.8,Other partial gastrectomy,43.8
+130420,43.89,Open and other partial gastrectomy,43.89
+130475,42.23,Other esophagoscopy,42.23
+130560,14.24,Destruction of chorioretinal lesion by laser photocoagulation,14.24
+130561,14.25,Destruction of chorioretinal lesion by photocoagulation of unspecified type,14.25
+130594,55.95,Local perfusion of kidney,55.95
+130639,35.93,Creation of conduit between left ventricle and aorta,35.93
+130731,69.41,Suture of laceration of uterus,69.41
+130828,88.56,Coronary arteriography using two catheters,88.56
+130889,32.5,Pneumonectomy,32.5
+130890,32.59,Other and unspecified pneumonectomy,32.59
+130991,02.03,Formation of cranial bone flap,02.03
+131020,42.83,Closure of esophagostomy,42.83
+131037,96.51,Irrigation of eye,96.51
+131084,66.8,Insufflation of fallopian tube,66.8
+131210,35.23,Open and other replacement of mitral valve with tissue graft,35.23
+131335,20.4,Mastoidectomy,20.4
+131336,20.49,Other mastoidectomy,20.49
+131483,15.13,Resection of one extraocular muscle,15.13
+131608,17.33,Laparoscopic right hemicolectomy,17.33
+131640,67.12,Other cervical biopsy,67.12
+131684,68.21,Division of endometrial synechiae,68.21
+131905,30.21,Epiglottidectomy,30.21
+132033,21.6,Turbinectomy,21.6
+132034,21.61,Turbinectomy by diathermy or cryosurgery,21.61
+132035,21.69,Other turbinectomy,21.69
+132106,45.92,Anastomosis of small intestine to rectal stump,45.92
+132241,11.75,Radial keratotomy,11.75
+132256,52.53,Radical subtotal pancreatectomy,52.53
+132368,67.5,Repair of internal cervical os,67.5
+132370,67.59,Other repair of internal cervical os,67.59
+132448,21.86,Limited rhinoplasty,21.86
+132832,07.6,Hypophysectomy,07.6
+133015,53.7,"Repair of diaphragmatic hernia, abdominal approach",53.7
+133016,53.71,"Laparoscopic repair of diaphragmatic hernia, abdominal approach",53.71
+133017,53.72,"Other and open repair of diaphragmatic hernia, abdominal approach",53.72
+133018,53.75,"Repair of diaphragmatic hernia, abdominal approach, not otherwise specified",53.75
+133052,35.72,Other and unspecified repair of ventricular septal defect,35.72
+133135,35.24,Open and other replacement of mitral valve,35.24
+133218,76.61,Closed osteoplasty [osteotomy] of mandibular ramus,76.61
+133360,45.12,Endoscopy of small intestine through artificial stoma,45.12
+133368,01.53,Lobectomy of brain,01.53
+133451,22.0,Aspiration and lavage of nasal sinus,22.0
+133452,22.00,"Aspiration and lavage of nasal sinus, not otherwise specified",22.00
+133485,16.21,Ophthalmoscopy,16.21
+133551,11.53,Repair of corneal laceration or wound with conjunctival flap,11.53
+133605,21.81,Suture of laceration of nose,21.81
+133617,88.53,Angiocardiography of left heart structures,88.53
+133671,03.51,Repair of spinal meningocele,03.51
+133766,07.91,Exploration of thymus field,07.91
+133779,57.85,Cystourethroplasty and plastic repair of bladder neck,57.85
+133891,50.23,Open ablation of liver lesion or tissue,50.23
+133892,50.24,Percutaneous ablation of liver lesion or tissue,50.24
+133893,50.25,Laparoscopic ablation of liver lesion or tissue,50.25
+133894,50.26,Other and unspecified ablation of liver lesion or tissue,50.26
+133895,50.29,Other destruction of lesion of liver,50.29
+133929,50.0,Hepatotomy,50.0
+134054,02.04,Bone graft to skull,02.04
+134129,45.62,Other partial resection of small intestine,45.62
+134130,45.7,Open and other partial excision of large intestine,45.7
+134210,67.2,Conization of cervix,67.2
+134241,89.14,Electroencephalogram,89.14
+134367,48.25,Open biopsy of rectum,48.25
+134400,17.31,Laparoscopic multiple segmental resection of large intestine,17.31
+134401,45.71,Open and other multiple segmental resection of large intestine,45.71
+134597,72.53,Total breech extraction with forceps to aftercoming head,72.53
+134644,88.78,Diagnostic ultrasound of gravid uterus,88.78
+134653,45.27,"Intestinal biopsy, site unspecified",45.27
+134690,23.1,Surgical removal of tooth,23.1
+134691,23.19,Other surgical extraction of tooth,23.19
+134789,35.27,Open and other replacement of tricuspid valve with tissue graft,35.27
+134901,87.84,Percutaneous hysterogram,87.84
+134927,87.31,Endotracheal bronchogram,87.31
+134942,87.71,Computerized axial tomography of kidney,87.71
+135065,15.6,Revision of extraocular muscle surgery,15.6
+135089,52.98,Endoscopic dilation of pancreatic duct,52.98
+135171,07.42,Division of nerves to adrenal glands,07.42
+135184,66.01,Salpingotomy,66.01
+135245,87.17,Other x-ray of skull,87.17
+135402,08.35,Repair of blepharoptosis by tarsal technique,08.35
+135551,33.25,Open biopsy of bronchus,33.25
+135600,01.6,Excision of lesion of skull,01.6
+135643,57.83,Repair of fistula involving bladder and intestine,57.83
+135682,20.92,Revision of mastoidectomy,20.92
+135784,14.51,Repair of retinal detachment with diathermy,14.51
+135941,74.2,Extraperitoneal cesarean section,74.2
+136002,45.22,Endoscopy of large intestine through artificial stoma,45.22
+136011,51.62,Excision of ampulla of Vater (with reimplantation of common duct),51.62
+136023,89.33,Digital examination of enterostomy stoma,89.33
+136228,08.34,Repair of blepharoptosis by other levator muscle techniques,08.34
+136287,20.61,Fenestration of inner ear (initial),20.61
+136431,35.33,Annuloplasty,35.33
+136478,51.31,Anastomosis of gallbladder to hepatic ducts,51.31
+136540,10.6,Repair of laceration of conjunctiva,10.6
+136551,23.11,Removal of residual root,23.11
+136631,69.42,Closure of fistula of uterus,69.42
+136647,35.95,Revision of corrective procedure on heart,35.95
+136668,45.32,Other destruction of lesion of duodenum,45.32
+136715,87.13,Temporomandibular contrast arthrogram,87.13
+136748,26.91,Probing of salivary duct,26.91
+136803,26.31,Partial sialoadenectomy,26.31
+136838,08.51,Canthotomy,08.51
+136871,76.65,Segmental osteoplasty [osteotomy] of maxilla,76.65
+136960,52.12,Open biopsy of pancreas,52.12
+137060,44.15,Open biopsy of stomach,44.15
+137104,11.43,Cryotherapy of corneal lesion,11.43
+137127,21.82,Closure of nasal fistula,21.82
+137211,52.0,Pancreatotomy,52.0
+137212,52.09,Other pancreatotomy,52.09
+137283,16.23,Biopsy of eyeball and orbit,16.23
+137292,87.07,Contrast laryngogram,87.07
+137319,95.24,Electronystagmogram [ENG],95.24
+137338,96.22,Dilation of rectum,96.22
+137614,14.74,Other mechanical vitrectomy,14.74
+137691,47.01,Laparoscopic appendectomy,47.01
+137731,54.75,Other repair of mesentery,54.75
+137809,42.53,Intrathoracic esophageal anastomosis with interposition of small bowel,42.53
+137846,11.6,Corneal transplant,11.6
+137847,11.60,"Corneal transplant, not otherwise specified",11.60
+137848,11.62,Other lamellar keratoplasty,11.62
+137850,11.69,Other corneal transplant,11.69
+137933,56.91,Dilation of ureteral meatus,56.91
+138170,65.76,Laparoscopic salpingo-oophoroplasty,65.76
+138745,42.11,Cervical esophagostomy,42.11
+138825,51.33,Anastomosis of gallbladder to pancreas,51.33
+138838,65.92,Transplantation of ovary,65.92
+139034,14.31,Repair of retinal tear by diathermy,14.31
+139055,35.50,Repair of unspecified septal defect of heart with prosthesis,35.50
+139077,65.95,Release of torsion of ovary,65.95
+139096,76.66,Total osteoplasty [osteotomy] of maxilla,76.66
+139114,46.02,Resection of exteriorized segment of small intestine,46.02
+139292,22.42,Frontal sinusectomy,22.42
+139637,55.85,Symphysiotomy for horseshoe kidney,55.85
+139685,52.8,Transplant of pancreas,52.8
+139686,52.80,"Pancreatic transplant, not otherwise specified",52.80
+139809,72.2,Mid forceps operation,72.2
+139810,72.29,Other mid forceps operation,72.29
+139876,88.92,Magnetic resonance imaging of chest and myocardium,88.92
+139884,66.69,Other partial salpingectomy,66.69
+139909,03.21,Percutaneous chordotomy,03.21
+140021,11.1,Incision of cornea,11.1
+140079,76.46,Other reconstruction of other facial bone,76.46
+140125,57.7,Total cystectomy,57.7
+140126,57.79,Other total cystectomy,57.79
+140197,98.02,Removal of intraluminal foreign body from esophagus without incision,98.02
+140243,95.23,Visual evoked potential [VEP],95.23
+140277,20.42,Radical mastoidectomy,20.42
+140334,57.84,Repair of other fistula of bladder,57.84
+140472,66.22,Bilateral endoscopic ligation and division of fallopian tubes,66.22
+140566,02.2,Ventriculostomy,02.2
+140575,02.21,Insertion or replacement of external ventricular drain [EVD],02.21
+140621,57.71,Radical cystectomy,57.71
+140688,88.81,Cerebral thermography,88.81
+140761,35.02,"Closed heart valvotomy, mitral valve",35.02
+140891,14.27,Destruction of chorioretinal lesion by implantation of radiation source,14.27
+141131,70.73,Repair of rectovaginal fistula,70.73
+141212,31.63,Revision of laryngostomy,31.63
+141342,18.31,Radical excision of lesion of external ear,18.31
+141423,52.14,Closed [endoscopic] biopsy of pancreatic duct,52.14
+141502,51.92,Closure of cholecystostomy,51.92
+141516,44.92,Intraoperative manipulation of stomach,44.92
+141574,07.63,"Partial excision of pituitary gland, unspecified approach",07.63
+141698,59.4,Suprapubic sling operation,59.4
+141790,09.8,Fistulization of lacrimal tract to nasal cavity,09.8
+141868,95.21,Electroretinogram [ERG],95.21
+141892,14.35,Repair of retinal tear by photocoagulation of unspecified type,14.35
+141915,14.3,Repair of retinal tear,14.3
+141916,14.39,Other repair of retinal tear,14.39
+141943,33.20,Thoracoscopic lung biopsy,33.20
+141985,07.16,Biopsy of thymus,07.16
+142018,29.91,Dilation of pharynx,29.91
+142058,13.11,Intracapsular extraction of lens by temporal inferior route,13.11
+142069,96.52,Irrigation of ear,96.52
+142124,96.41,Irrigation of cholecystostomy and other biliary tube,96.41
+142142,30.3,Complete laryngectomy,30.3
+142163,93.73,Esophageal speech training,93.73
+142316,56.73,"Nephrocystanastomosis, not otherwise specified",56.73
+142393,31.72,Closure of external fistula of trachea,31.72
+142431,46.51,Closure of stoma of small intestine,46.51
+142471,18.72,Reattachment of amputated ear,18.72
+142549,11.51,Suture of corneal laceration,11.51
+142601,53.82,Repair of parasternal hernia,53.82
+142610,19.11,Stapedectomy with incus replacement,19.11
+142643,41.43,Partial splenectomy,41.43
+142699,09.71,Correction of everted punctum,09.71
+142736,36.10,"Aortocoronary bypass for heart revascularization, not otherwise specified",36.10
+142969,76.0,Incision of facial bone without division,76.0
+142970,76.09,Other incision of facial bone,76.09
+142994,65.11,Aspiration biopsy of ovary,65.11
+143032,16.62,Revision and reinsertion of ocular implant,16.62
+143060,52.83,Heterotransplant of pancreas,52.83
+143105,76.62,Open osteoplasty [osteotomy] of mandibular ramus,76.62
+143168,07.64,"Total excision of pituitary gland, transfrontal approach",07.64
+143215,01.28,Placement of intracerebral catheter(s) via burr hole(s),01.28
+143282,13.2,Extracapsular extraction of lens by linear extraction technique,13.2
+143402,45.03,Incision of large intestine,45.03
+143460,35.14,Open heart valvuloplasty of tricuspid valve without replacement,35.14
+143480,08.6,Reconstruction of eyelid with flaps or grafts,08.6
+143481,08.69,Other reconstruction of eyelid with flaps or grafts,08.69
+143495,87.16,Other x-ray of facial bones,87.16
+143549,20.5,Other excision of middle ear,20.5
+143550,20.59,Other excision of middle ear,20.59
+143637,10.41,Repair of symblepharon with free graft,10.41
+143670,07.72,Incision of pituitary gland,07.72
+143687,19.54,Type IV tympanoplasty,19.54
+143777,25.2,Partial glossectomy,25.2
+143839,15.5,Transposition of extraocular muscles,15.5
+143873,89.16,Transillumination of newborn skull,89.16
+143965,42.21,Operative esophagoscopy by incision,42.21
+144032,19.1,Stapedectomy,19.1
+144033,19.19,Other stapedectomy,19.19
+144123,45.0,Enterotomy,45.0
+144124,45.00,"Incision of intestine, not otherwise specified",45.00
+144205,96.53,Irrigation of nasal passages,96.53
+144258,34.84,Other repair of diaphragm,34.84
+144295,02.3,Extracranial ventricular shunt,02.3
+144296,02.34,Ventricular shunt to abdominal cavity and organs,02.34
+144297,02.39,Ventricular shunt to extracranial site NEC,02.39
+144521,08.36,Repair of blepharoptosis by other techniques,08.36
+144607,38.24,Intravascular imaging of coronary vessel(s) by optical coherence tomography [OCT],38.24
+144806,29.4,Plastic operation on pharynx,29.4
+144827,25.02,Open biopsy of tongue,25.02
+144837,01.14,Open biopsy of brain,01.14
+144856,29.5,Other repair of pharynx,29.5
+144857,29.59,Other repair of pharynx,29.59
+145171,27.53,Closure of fistula of mouth,27.53
+145268,25.91,Lingual frenotomy,25.91
+145282,07.41,Incision of adrenal gland,07.41
+145423,56.35,Endoscopy (cystoscopy) (looposcopy) of ileal conduit,56.35
+145519,12.85,Repair of scleral staphyloma with graft,12.85
+146339,55.6,Transplant of kidney,55.6
+146340,55.69,Other kidney transplantation,55.69
+146466,02.02,Elevation of skull fracture fragments,02.02
+146530,16.01,Orbitotomy with bone flap,16.01
+147093,52.11,Closed [aspiration] [needle] [percutaneous] biopsy of pancreas,52.11
+147212,22.11,Closed [endoscopic] [needle] biopsy of nasal sinus,22.11
+147223,26.12,Open biopsy of salivary gland or duct,26.12
+147239,65.13,Laparoscopic biopsy of ovary,65.13
+147255,89.51,Rhythm electrocardiogram,89.51
+147263,27.52,Suture of laceration of other part of mouth,27.52
+147278,27.51,Suture of laceration of lip,27.51
+147404,28.92,Excision of lesion of tonsil and adenoid,28.92
+147450,19.21,Revision of stapedectomy with incus replacement,19.21
+147991,24.12,Biopsy of alveolus,24.12
+148035,34.05,Creation of pleuroperitoneal shunt,34.05
+148067,45.31,Other local excision of lesion of duodenum,45.31
+148524,11.63,Penetrating keratoplasty with autograft,11.63
+148876,12.72,Cyclocryotherapy,12.72
+149337,42.82,Suture of laceration of esophagus,42.82
+149398,72.4,Forceps rotation of fetal head,72.4
+149527,50.22,Partial hepatectomy,50.22
+149739,46.5,Closure of intestinal stoma,46.5
+149740,46.50,"Closure of intestinal stoma, not otherwise specified",46.50
+149934,32.27,"Bronchoscopic bronchial thermoplasty, ablation of airway smooth muscle",32.27
+150124,07.98,Other and unspecified thoracoscopic operations on thymus,07.98
+150385,57.82,Closure of cystostomy,57.82
+150660,42.24,Closed [endoscopic] biopsy of esophagus,42.24
+150796,26.2,Excision of lesion of salivary gland,26.2
+150797,26.29,Other excision of salivary gland lesion,26.29
+150798,26.3,Sialoadenectomy,26.3
+150799,26.30,"Sialoadenectomy, not otherwise specified",26.30
+150911,41.41,Marsupialization of splenic cyst,41.41
+151374,52.82,Homotransplant of pancreas,52.82
+151701,33.48,Other repair and plastic operations on bronchus,33.48
+151906,46.52,Closure of stoma of large intestine,46.52
+152354,53.8,"Repair of diaphragmatic hernia, thoracic approach",53.8
+152355,53.80,"Repair of diaphragmatic hernia with thoracic approach, not otherwise specified",53.80
+152356,53.83,"Laparoscopic repair of diaphragmatic hernia, with thoracic approach",53.83
+152357,53.84,"Other and open repair of diaphragmatic hernia, with thoracic approach",53.84
+152659,10.1,Other incision of conjunctiva,10.1
+152710,21.84,Revision rhinoplasty,21.84
+152731,30,Excision of larynx,30
+152732,30.0,Excision or destruction of lesion or tissue of larynx,30.0
+152733,30.2,Other partial laryngectomy,30.2
+152983,27.56,Other skin graft to lip and mouth,27.56
+153134,57.81,Suture of laceration of bladder,57.81
+153271,46.92,Myotomy of other parts of colon,46.92
+153284,07.12,Open biopsy of adrenal gland,07.12
+153304,45.26,Open biopsy of large intestine,45.26
+153317,44.65,Esophagogastroplasty,44.65
+153331,16.92,Excision of lesion of orbit,16.92
+153414,89.53,Vectorcardiogram (with ECG),89.53
+153768,33.71,"Endoscopic insertion or replacement of bronchial valve(s), single lobe",33.71
+153774,33.73,"Endoscopic insertion or replacement of bronchial valve(s), multiple lobes",33.73
+153883,12.41,"Destruction of lesion of iris, nonexcisional",12.41
+154196,45.23,Colonoscopy,45.23
+154565,45.61,Multiple segmental resection of small intestine,45.61
+154693,57.8,Other repair of urinary bladder,57.8
+154694,57.89,Other repair of bladder,57.89
+154853,42.31,Local excision of esophageal diverticulum,42.31
+154911,35.12,Open heart valvuloplasty of mitral valve without replacement,35.12
+154941,46.82,Intra-abdominal manipulation of large intestine,46.82
+154972,67.32,Destruction of lesion of cervix by cauterization,67.32
+155120,20.8,Operations on eustachian tube,20.8
+155204,16.0,Orbitotomy,16.0
+155205,16.09,Other orbitotomy,16.09
+155378,12.81,Suture of laceration of sclera,12.81
+155572,02.14,Choroid plexectomy,02.14
+155610,14.72,Other removal of vitreous,14.72
+155650,09.53,Incision of lacrimal sac,09.53
+155708,22.41,Frontal sinusotomy,22.41
+155729,68.51,Laparoscopically assisted vaginal hysterectomy (LAVH),68.51
+155916,32.41,Thoracoscopic lobectomy of lung,32.41
+155949,35.84,"Total correction of transposition of great vessels, not elsewhere classified",35.84
+156118,09.0,Incision of lacrimal gland,09.0
+156135,10.4,Conjunctivoplasty,10.4
+156138,10.49,Other conjunctivoplasty,10.49
+156168,09.73,Repair of canaliculus,09.73
+156228,46.04,Resection of exteriorized segment of large intestine,46.04
+156263,20.51,Excision of lesion of middle ear,20.51
+156856,26.0,Incision of salivary gland or duct,26.0
+157140,18.11,Otoscopy,18.11
+157529,18.02,Incision of external auditory canal,18.02
+157543,07.0,Exploration of adrenal field,07.0
+157544,07.00,"Exploration of adrenal field, not otherwise specified",07.00
+157545,07.01,Unilateral exploration of adrenal field,07.01
+157586,07.02,Bilateral exploration of adrenal field,07.02
+157785,65.93,Manual rupture of ovarian cyst,65.93
+157821,65.5,Bilateral oophorectomy,65.5
+157822,65.51,Other removal of both ovaries at same operative episode,65.51
+157823,65.52,Other removal of remaining ovary,65.52
+157899,01.32,Lobotomy and tractotomy,01.32
+158178,55.87,Correction of ureteropelvic junction,55.87
+158278,04.41,Decompression of trigeminal nerve root,04.41
+159036,86.82,Facial rhytidectomy,86.82
+159071,04.05,Gasserian ganglionectomy,04.05
+159149,14.52,Repair of retinal detachment with cryotherapy,14.52
+159239,87.05,Contrast dacryocystogram,87.05
+159412,67.33,Destruction of lesion of cervix by cryosurgery,67.33
+159447,35.41,Enlargement of existing atrial septal defect,35.41
+159658,29.0,Pharyngotomy,29.0
+159841,08.63,Reconstruction of eyelid with hair follicle graft,08.63
+159900,34.09,Other incision of pleura,34.09
+159912,66.96,Dilation of fallopian tube,66.96
+159959,15.1,Operations on one extraocular muscle involving temporary detachment from globe,15.1
+159960,15.19,Other operations on one extraocular muscle involving temporary detachment from globe,15.19
+160419,74.1,Low cervical cesarean section,74.1
+160422,28.0,Incision and drainage of tonsil and peritonsillar structures,28.0
+160581,59.6,Paraurethral suspension,59.6
+160634,14.55,Repair of retinal detachment with photocoagulation of unspecified type,14.55
+160870,76.45,Other total ostectomy of other facial bone,76.45
+160959,09.51,Incision of lacrimal punctum,09.51
+161058,46.76,Closure of fistula of large intestine,46.76
+161161,18.12,Biopsy of external ear,18.12
+161205,09.83,Conjunctivorhinostomy with insertion of tube or stent,09.83
+161297,33.42,Closure of bronchial fistula,33.42
+161445,45.25,Closed [endoscopic] biopsy of large intestine,45.25
+161557,22.5,Other nasal sinusotomy,22.5
+161558,22.50,"Sinusotomy, not otherwise specified",22.50
+161578,47.0,Appendectomy,47.0
+161579,47.09,Other appendectomy,47.09
+161701,88.52,Angiocardiography of right heart structures,88.52
+161834,37.32,Excision of aneurysm of heart,37.32
+161854,15.7,Repair of injury of extraocular muscle,15.7
+161896,76.41,Total mandibulectomy with synchronous reconstruction,76.41
+161947,30.29,Other partial laryngectomy,30.29
+162085,31.6,Repair of larynx,31.6
+162086,31.69,Other repair of larynx,31.69
+162247,23.3,Restoration of tooth by inlay,23.3
+162288,02.92,Repair of brain,02.92
+162398,08.86,Lower eyelid rhytidectomy,08.86
+162585,48.61,Transsacral rectosigmoidectomy,48.61
+162623,08.24,"Excision of major lesion of eyelid, full-thickness",08.24
+162670,48.33,Destruction of rectal lesion or tissue by laser,48.33
+162720,01.31,Incision of cerebral meninges,01.31
+162734,36.2,Heart revascularization by arterial implant,36.2
+162735,36.3,Other heart revascularization,36.3
+162736,36.39,Other heart revascularization,36.39
+162749,07.53,Partial excision of pineal gland,07.53
+162890,55.4,Partial nephrectomy,55.4
+163103,07.21,Excision of lesion of adrenal gland,07.21
+163146,21.02,Control of epistaxis by posterior (and anterior) packing,21.02
+163197,66.11,Biopsy of fallopian tube,66.11
+163222,53.81,Plication of the diaphragm,53.81
+163377,76.01,Sequestrectomy of facial bone,76.01
+163424,26.41,Suture of laceration of salivary gland,26.41
+163578,38.81,"Other surgical occlusion of vessels, intracranial vessels",38.81
+163654,09.91,Obliteration of lacrimal punctum,09.91
+163697,42.85,Repair of esophageal stricture,42.85
+163732,26.4,Repair of salivary gland or duct,26.4
+163921,07.14,"Biopsy of pituitary gland, transsphenoidal approach",07.14
+163931,96.29,Reduction of intussusception of alimentary tract,96.29
+164055,15.12,Advancement of one extraocular muscle,15.12
+164077,50.12,Open biopsy of liver,50.12
+164105,45.75,Open and other left hemicolectomy,45.75
+164142,17.35,Laparoscopic left hemicolectomy,17.35
+164560,47.1,Incidental appendectomy,47.1
+164561,47.11,Laparoscopic incidental appendectomy,47.11
+164562,47.19,Other incidental appendectomy,47.19
+164613,42.52,Intrathoracic esophagogastrostomy,42.52
+164679,02.32,Ventricular shunt to circulatory system,02.32
+164751,39.63,Cardioplegia,39.63
+164761,01.23,Reopening of craniotomy site,01.23
+164797,14.21,Destruction of chorioretinal lesion by diathermy,14.21
+164971,29.31,Cricopharyngeal myotomy,29.31
+165042,65.3,Unilateral oophorectomy,65.3
+165043,65.39,Other unilateral oophorectomy,65.39
+165132,35.03,"Closed heart valvotomy, pulmonary valve",35.03
+165354,45.01,Incision of duodenum,45.01
+165489,27.73,Repair of uvula,27.73
+165657,43.7,Partial gastrectomy with anastomosis to jejunum,43.7
+165829,11.31,Transposition of pterygium,11.31
+165853,12.88,Other scleral reinforcement,12.88
+165957,74.0,Classical cesarean section,74.0
+165976,96.32,Gastric freezing,96.32
+166353,07.93,Repair of thymus,07.93
+166379,34.6,Scarification of pleura,34.6
+166408,45.76,Open and other sigmoidectomy,45.76
+166460,20.93,Repair of oval and round windows,20.93
+166955,89.56,Carotid pulse tracing with ECG lead,89.56
+167103,12.65,Other scleral fistulization with iridectomy,12.65
+167210,57.12,Lysis of intraluminal adhesions with incision into bladder,57.12
+167319,14.54,Repair of retinal detachment with laser photocoagulation,14.54
+167332,14.26,Destruction of chorioretinal lesion by radiation therapy,14.26
+167356,87.82,Gas contrast hysterosalpingogram,87.82
+167590,76.44,Total ostectomy of other facial bone with synchronous reconstruction,76.44
+167725,12.93,Removal or destruction of epithelial downgrowth from anterior chamber,12.93
+167732,12.86,Other repair of scleral staphyloma,12.86
+167777,37.4,Repair of heart and pericardium,37.4
+167778,37.41,Implantation of prosthetic cardiac support device around the heart,37.41
+167779,37.49,Other repair of heart and pericardium,37.49
+167807,33.22,Fiber-optic bronchoscopy,33.22
+167941,46.03,Exteriorization of large intestine,46.03
+168016,87.32,Other contrast bronchogram,87.32
+168093,50.3,Lobectomy of liver,50.3
+168160,89.35,Transillumination of nasal sinuses,89.35
+168248,07.61,"Partial excision of pituitary gland, transfrontal approach",07.61
+168327,07.44,Repair of adrenal gland,07.44
+168350,87.06,Contrast radiogram of nasopharynx,87.06
+168413,31.43,Closed [endoscopic] biopsy of larynx,31.43
+168424,41.2,Splenotomy,41.2
+168610,16.51,Exenteration of orbit with removal of adjacent structures,16.51
+168836,89.57,Apexcardiogram (with ECG lead),89.57
+168934,48.4,Pull-through resection of rectum,48.4
+168935,48.40,"Pull-through resection of rectum, not otherwise specified",48.40
+168936,48.42,Laparoscopic pull-through resection of rectum,48.42
+168937,48.43,Open pull-through resection of rectum,48.43
+168938,48.49,Other pull-through resection of rectum,48.49
+169632,02.35,Ventricular shunt to urinary system,02.35
+169654,55.21,Nephroscopy,55.21
+169904,67.0,Dilation of cervical canal,67.0
+169962,46.80,"Intra-abdominal manipulation of intestine, not otherwise specified",46.80
+170002,12.5,Facilitation of intraocular circulation,12.5
+170003,12.59,Other facilitation of intraocular circulation,12.59
+170038,48.35,Local excision of rectal lesion or tissue,48.35
+170039,48.6,Other resection of rectum,48.6
+170040,48.69,Other resection of rectum,48.69
+170273,33.5,Lung transplant,33.5
+170274,33.50,"Lung transplantation, not otherwise specified",33.50
+170332,35.26,Open and other replacement of pulmonary valve,35.26
+170346,35.07,Endovascular replacement of pulmonary valve,35.07
+170347,35.08,Transapical replacement of pulmonary valve,35.08
+170400,12.55,Cyclodialysis,12.55
+170451,22.64,Sphenoidectomy,22.64
+170518,86.51,Replantation of scalp,86.51
+170568,76.43,Other reconstruction of mandible,76.43
+170743,12.44,Excision of lesion of ciliary body,12.44
+170753,42.51,Intrathoracic esophagoesophagostomy,42.51
+170765,02.33,Ventricular shunt to thoracic cavity,02.33
+170847,66.21,Bilateral endoscopic ligation and crushing of fallopian tubes,66.21
+170900,99.93,Rectal massage (for levator spasm),99.93
+171128,14.4,Repair of retinal detachment with scleral buckling and implant,14.4
+171129,14.5,Other repair of retinal detachment,14.5
+171130,14.59,Other repair of retinal detachment,14.59
+171166,19.55,Type V tympanoplasty,19.55
+171650,48.62,Anterior resection of rectum with synchronous colostomy,48.62
+171699,22.31,Radical maxillary antrotomy,22.31
+171800,35.53,"Repair of ventricular septal defect with prosthesis, open technique",35.53
+171801,35.55,"Repair of ventricular septal defect with prosthesis, closed technique",35.55
+171892,72.3,High forceps operation,72.3
+171893,72.39,Other high forceps operation,72.39
+171912,33.49,Other repair and plastic operations on lung,33.49
+172145,52.96,Anastomosis of pancreas,52.96
+172228,36.1,Bypass anastomosis for heart revascularization,36.1
+172230,36.17,Abdominal-coronary artery bypass,36.17
+172231,36.19,Other bypass anastomosis for heart revascularization,36.19
+172329,09.43,Probing of nasolacrimal duct,09.43
+172348,33.93,Puncture of lung,33.93
+172546,36.12,(Aorto)coronary bypass of two coronary arteries,36.12
+172850,45.63,Total removal of small intestine,45.63
+173167,45.41,Excision of lesion or tissue of large intestine,45.41
+173424,12.66,Postoperative revision of scleral fistulization procedure,12.66
+173460,15.11,Recession of one extraocular muscle,15.11
+173505,34.91,Thoracentesis,34.91
+173552,43.91,Total gastrectomy with intestinal interposition,43.91
+173731,21.62,Fracture of the turbinates,21.62
+173771,19.2,Revision of stapedectomy,19.2
+173772,19.29,Other revision of stapedectomy,19.29
+174010,44.68,Laparoscopic gastroplasty,44.68
+174072,52.6,Total pancreatectomy,52.6
+174216,75.50,"Repair of current obstetric laceration of uterus, not otherwise specified",75.50
+174217,75.52,Repair of current obstetric laceration of corpus uteri,75.52
+174306,76.95,Other manipulation of temporomandibular joint,76.95
+174415,45.49,Other destruction of lesion of large intestine,45.49

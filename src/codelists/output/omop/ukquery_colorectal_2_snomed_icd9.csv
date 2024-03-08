@@ -1,0 +1,96 @@
+,concept_code_y,concept_name_y,icd
+8,48.76,Other proctopexy,48.76
+104,92.24,Teleradiotherapy using photons,92.24
+153,92.2,Therapeutic radiology and nuclear medicine,92.2
+355,48.75,Abdominal proctopexy,48.75
+368,92.26,Teleradiotherapy of other particulate radiation,92.26
+369,92.33,Particulate radiosurgery,92.33
+585,92.3,Stereotactic radiosurgery,92.3
+586,92.30,"Stereotactic radiosurgery, not otherwise specified",92.30
+587,92.32,Multi-source photon radiosurgery,92.32
+589,92.39,"Stereotactic radiosurgery, not elsewhere classified",92.39
+1026,48.23,Rigid proctosigmoidoscopy,48.23
+1129,17.36,Laparoscopic sigmoidectomy,17.36
+2572,92.4,Intra-operative radiation procedures,92.4
+2573,92.41,Intra-operative electron radiation therapy,92.41
+3857,48.82,Excision of perirectal tissue,48.82
+5251,48.72,Closure of proctostomy,48.72
+5328,48.74,Rectorectostomy,48.74
+5487,48.73,Closure of other rectal fistula,48.73
+6003,48.31,Radical electrocoagulation of rectal lesion or tissue,48.31
+6004,48.32,Other electrocoagulation of rectal lesion or tissue,48.32
+6883,70.72,Repair of colovaginal fistula,70.72
+6933,45.8,Total intra-abdominal colectomy,45.8
+6934,45.81,Laparoscopic total intra-abdominal colectomy,45.81
+6935,45.82,Open total intra-abdominal colectomy,45.82
+6936,45.83,Other and unspecified total intra-abdominal colectomy,45.83
+7103,48.5,Abdominoperineal resection of rectum,48.5
+7104,48.50,"Abdominoperineal resection of the rectum, not otherwise specified",48.50
+7105,48.51,Laparoscopic abdominoperineal resection of the rectum,48.51
+7106,48.52,Open abdominoperineal resection of the rectum,48.52
+7107,48.59,Other abdominoperineal resection of the rectum,48.59
+7314,45.74,Open and other resection of transverse colon,45.74
+7666,48.36,[Endoscopic] polypectomy of rectum,48.36
+7711,48.24,Closed [endoscopic] biopsy of rectum,48.24
+7788,48.41,Soave submucosal resection of rectum,48.41
+7843,48.7,Repair of rectum,48.7
+7846,48.79,Other repair of rectum,48.79
+7888,96.37,Proctoclysis,96.37
+7985,46.91,Myotomy of sigmoid colon,46.91
+8467,17.32,Laparoscopic cecectomy,17.32
+8468,45.72,Open and other cecectomy,45.72
+8515,17.34,Laparoscopic resection of transverse colon,17.34
+8857,48.34,Destruction of rectal lesion or tissue by cryosurgery,48.34
+9986,48.0,Proctotomy,48.0
+10021,42.55,Intrathoracic esophageal anastomosis with interposition of colon,42.55
+10056,45.73,Open and other right hemicolectomy,45.73
+10150,75.62,Repair of current obstetric laceration of rectum and sphincter ani,75.62
+10439,00.10,Implantation of chemotherapeutic agent,00.10
+10440,99.28,Injection or infusion of biological response modifier [BRM] as an antineoplastic agent,99.28
+10656,99.25,Injection or infusion of cancer chemotherapeutic substance,99.25
+10713,92.20,Infusion of liquid brachytherapy radioisotope,92.20
+11398,70.52,Repair of rectocele,70.52
+11399,70.55,Repair of rectocele with graft or prosthesis,70.55
+11495,92.23,Radioisotopic teleradiotherapy,92.23
+11496,92.28,Injection or instillation of radioisotopes,92.28
+11600,89.34,Digital examination of rectum,89.34
+12656,96.26,Manual reduction of rectal prolapse,96.26
+12849,45.24,Flexible sigmoidoscopy,45.24
+13125,92.31,Single source photon radiosurgery,92.31
+13420,48.71,Suture of laceration of rectum,48.71
+13515,49.94,Reduction of anal prolapse,49.94
+13582,48.64,Posterior resection of rectum,48.64
+13590,48.63,Other anterior resection of rectum,48.63
+13623,92.25,Teleradiotherapy using electrons,92.25
+13721,48.91,Incision of rectal stricture,48.91
+13841,17.33,Laparoscopic right hemicolectomy,17.33
+13855,45.92,Anastomosis of small intestine to rectal stump,45.92
+13948,92.22,Orthovoltage radiation,92.22
+13964,42.56,Other intrathoracic esophagocolostomy,42.56
+14017,48.25,Open biopsy of rectum,48.25
+14096,96.22,Dilation of rectum,96.22
+14298,14.27,Destruction of chorioretinal lesion by implantation of radiation source,14.27
+14315,70.73,Repair of rectovaginal fistula,70.73
+15257,46.92,Myotomy of other parts of colon,46.92
+15271,45.23,Colonoscopy,45.23
+15680,92.21,Superficial radiation,92.21
+15889,46.76,Closure of fistula of large intestine,46.76
+15977,48.61,Transsacral rectosigmoidectomy,48.61
+15988,48.33,Destruction of rectal lesion or tissue by laser,48.33
+16053,45.75,Open and other left hemicolectomy,45.75
+16090,17.35,Laparoscopic left hemicolectomy,17.35
+16538,45.76,Open and other sigmoidectomy,45.76
+16607,14.26,Destruction of chorioretinal lesion by radiation therapy,14.26
+16641,46.03,Exteriorization of large intestine,46.03
+16679,48.4,Pull-through resection of rectum,48.4
+16680,48.40,"Pull-through resection of rectum, not otherwise specified",48.40
+16681,48.42,Laparoscopic pull-through resection of rectum,48.42
+16682,48.43,Open pull-through resection of rectum,48.43
+16683,48.49,Other pull-through resection of rectum,48.49
+16791,48.35,Local excision of rectal lesion or tissue,48.35
+16792,48.6,Other resection of rectum,48.6
+16793,48.69,Other resection of rectum,48.69
+16891,99.93,Rectal massage (for levator spasm),99.93
+17083,48.62,Anterior resection of rectum with synchronous colostomy,48.62
+17209,42.65,Antesternal esophageal anastomosis with interposition of colon,42.65
+17210,42.66,Other antesternal esophagocolostomy,42.66

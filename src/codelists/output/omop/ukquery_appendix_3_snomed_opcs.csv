@@ -1,0 +1,15 @@
+,concept_code_y,concept_name_y,opcs
+53,H01.1,Emergency excision of abnormal appendix and drainage HFQ,H011
+54,H01.2,Emergency excision of abnormal appendix NEC,H012
+55,H01.8,Other specified emergency excision of appendix,H018
+56,H01.9,Unspecified emergency excision of appendix,H019
+57,H01,Emergency excision of appendix,H01
+66,H01.3,Emergency excision of normal appendix,H013
+86,H02.1,Interval appendicectomy,H021
+169,H03.3,Exteriorisation of appendix,H033
+315,H02.2,Planned delayed appendicectomy NEC,H022
+316,H02.3,Prophylactic appendicectomy NEC,H023
+317,H02.8,Other specified other excision of appendix,H028
+318,H02.9,Unspecified other excision of appendix,H029
+319,H02,Other excision of appendix,H02
+330,H02.4,Incidental appendicectomy,H024

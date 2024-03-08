@@ -1,25 +1,44 @@
 ,concept_code_y,concept_name_y,icd
-15,32.9,Other excision of lung,32.9
-304,32.4,Lobectomy of lung,32.4
-305,32.49,Other lobectomy of lung,32.49
-349,32.3,Segmental resection of lung,32.3
-350,32.30,Thoracoscopic segmental resection of lung,32.30
-351,32.39,Other and unspecified segmental resection of lung,32.39
-478,33.28,Open biopsy of lung,33.28
-729,33.51,Unilateral lung transplantation,33.51
-987,33.26,Closed [percutaneous] [needle] biopsy of lung,33.26
-1014,33.43,Closure of laceration of lung,33.43
-1185,32.22,Lung volume reduction surgery,32.22
-1272,92.15,Pulmonary scan,92.15
-1370,32.23,Open ablation of lung lesion or tissue,32.23
-1371,32.24,Percutaneous ablation of lung lesion or tissue,32.24
-1372,32.25,Thoracoscopic ablation of lung lesion or tissue,32.25
-1373,32.26,Other and unspecified ablation of lung lesion or tissue,32.26
-1394,32.21,Plication of emphysematous bleb,32.21
-1407,33.1,Incision of lung,33.1
-1439,32.5,Pneumonectomy,32.5
-1440,32.59,Other and unspecified pneumonectomy,32.59
-1795,33.5,Lung transplant,33.5
-1796,33.50,"Lung transplantation, not otherwise specified",33.50
-1855,33.49,Other repair and plastic operations on lung,33.49
-1928,33.93,Puncture of lung,33.93
+13,92.24,Teleradiotherapy using photons,92.24
+37,92.26,Teleradiotherapy of other particulate radiation,92.26
+38,92.33,Particulate radiosurgery,92.33
+158,92.3,Stereotactic radiosurgery,92.3
+159,92.30,"Stereotactic radiosurgery, not otherwise specified",92.30
+160,92.32,Multi-source photon radiosurgery,92.32
+162,92.39,"Stereotactic radiosurgery, not elsewhere classified",92.39
+396,32.9,Other excision of lung,32.9
+664,92.4,Intra-operative radiation procedures,92.4
+665,92.41,Intra-operative electron radiation therapy,92.41
+1496,32.4,Lobectomy of lung,32.4
+1497,32.49,Other lobectomy of lung,32.49
+1541,32.3,Segmental resection of lung,32.3
+1542,32.30,Thoracoscopic segmental resection of lung,32.30
+1543,32.39,Other and unspecified segmental resection of lung,32.39
+1949,33.28,Open biopsy of lung,33.28
+2200,33.51,Unilateral lung transplantation,33.51
+2500,33.26,Closed [percutaneous] [needle] biopsy of lung,33.26
+2554,33.43,Closure of laceration of lung,33.43
+3586,00.10,Implantation of chemotherapeutic agent,00.10
+3587,99.28,Injection or infusion of biological response modifier [BRM] as an antineoplastic agent,99.28
+3739,99.25,Injection or infusion of cancer chemotherapeutic substance,99.25
+4079,32.22,Lung volume reduction surgery,32.22
+4217,92.15,Pulmonary scan,92.15
+4319,92.31,Single source photon radiosurgery,92.31
+4410,32.23,Open ablation of lung lesion or tissue,32.23
+4411,32.24,Percutaneous ablation of lung lesion or tissue,32.24
+4412,32.25,Thoracoscopic ablation of lung lesion or tissue,32.25
+4413,32.26,Other and unspecified ablation of lung lesion or tissue,32.26
+4446,32.21,Plication of emphysematous bleb,32.21
+4459,33.1,Incision of lung,33.1
+4476,92.25,Teleradiotherapy using electrons,92.25
+4553,32.5,Pneumonectomy,32.5
+4554,32.59,Other and unspecified pneumonectomy,32.59
+4602,92.22,Orthovoltage radiation,92.22
+4706,14.27,Destruction of chorioretinal lesion by implantation of radiation source,14.27
+5422,92.21,Superficial radiation,92.21
+5586,99.88,Therapeutic photopheresis,99.88
+5594,14.26,Destruction of chorioretinal lesion by radiation therapy,14.26
+5701,33.5,Lung transplant,33.5
+5702,33.50,"Lung transplantation, not otherwise specified",33.50
+5779,33.49,Other repair and plastic operations on lung,33.49
+5852,33.93,Puncture of lung,33.93

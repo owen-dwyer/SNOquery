@@ -1,278 +1,1367 @@
 ,concept_code_y,concept_name_y,icd
-59,0BBK0ZX,"Excision of Right Lung, Open Approach, Diagnostic",0BBK0ZX
-60,0BBK0ZZ,"Excision of Right Lung, Open Approach",0BBK0ZZ
-61,0BBK3ZX,"Excision of Right Lung, Percutaneous Approach, Diagnostic",0BBK3ZX
-62,0BBK3ZZ,"Excision of Right Lung, Percutaneous Approach",0BBK3ZZ
-63,0BBK4ZX,"Excision of Right Lung, Percutaneous Endoscopic Approach, Diagnostic",0BBK4ZX
-64,0BBK4ZZ,"Excision of Right Lung, Percutaneous Endoscopic Approach",0BBK4ZZ
-65,0BBK7ZX,"Excision of Right Lung, Via Natural or Artificial Opening, Diagnostic",0BBK7ZX
-66,0BBK7ZZ,"Excision of Right Lung, Via Natural or Artificial Opening",0BBK7ZZ
-67,0BBK8ZX,"Excision of Right Lung, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBK8ZX
-68,0BBK8ZZ,"Excision of Right Lung, Via Natural or Artificial Opening Endoscopic",0BBK8ZZ
-69,0BBL0ZX,"Excision of Left Lung, Open Approach, Diagnostic",0BBL0ZX
-70,0BBL0ZZ,"Excision of Left Lung, Open Approach",0BBL0ZZ
-71,0BBL3ZX,"Excision of Left Lung, Percutaneous Approach, Diagnostic",0BBL3ZX
-72,0BBL3ZZ,"Excision of Left Lung, Percutaneous Approach",0BBL3ZZ
-73,0BBL4ZX,"Excision of Left Lung, Percutaneous Endoscopic Approach, Diagnostic",0BBL4ZX
-74,0BBL4ZZ,"Excision of Left Lung, Percutaneous Endoscopic Approach",0BBL4ZZ
-75,0BBL7ZX,"Excision of Left Lung, Via Natural or Artificial Opening, Diagnostic",0BBL7ZX
-76,0BBL7ZZ,"Excision of Left Lung, Via Natural or Artificial Opening",0BBL7ZZ
-77,0BBL8ZX,"Excision of Left Lung, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBL8ZX
-78,0BBL8ZZ,"Excision of Left Lung, Via Natural or Artificial Opening Endoscopic",0BBL8ZZ
-79,0BBM0ZX,"Excision of Bilateral Lungs, Open Approach, Diagnostic",0BBM0ZX
-80,0BBM0ZZ,"Excision of Bilateral Lungs, Open Approach",0BBM0ZZ
-81,0BBM3ZX,"Excision of Bilateral Lungs, Percutaneous Approach, Diagnostic",0BBM3ZX
-82,0BBM3ZZ,"Excision of Bilateral Lungs, Percutaneous Approach",0BBM3ZZ
-83,0BBM4ZX,"Excision of Bilateral Lungs, Percutaneous Endoscopic Approach, Diagnostic",0BBM4ZX
-84,0BBM4ZZ,"Excision of Bilateral Lungs, Percutaneous Endoscopic Approach",0BBM4ZZ
-85,0BBM7ZX,"Excision of Bilateral Lungs, Via Natural or Artificial Opening, Diagnostic",0BBM7ZX
-86,0BBM7ZZ,"Excision of Bilateral Lungs, Via Natural or Artificial Opening",0BBM7ZZ
-87,0BBM8ZX,"Excision of Bilateral Lungs, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBM8ZX
-88,0BBM8ZZ,"Excision of Bilateral Lungs, Via Natural or Artificial Opening Endoscopic",0BBM8ZZ
-122,02LR0CT,"Occlusion of Ductus Arteriosus with Extraluminal Device, Open Approach",02LR0CT
-123,02LR0DT,"Occlusion of Ductus Arteriosus with Intraluminal Device, Open Approach",02LR0DT
-124,02LR0ZT,"Occlusion of Ductus Arteriosus, Open Approach",02LR0ZT
-125,02LR3CT,"Occlusion of Ductus Arteriosus with Extraluminal Device, Percutaneous Approach",02LR3CT
-126,02LR3DT,"Occlusion of Ductus Arteriosus with Intraluminal Device, Percutaneous Approach",02LR3DT
-127,02LR3ZT,"Occlusion of Ductus Arteriosus, Percutaneous Approach",02LR3ZT
-128,02LR4CT,"Occlusion of Ductus Arteriosus with Extraluminal Device, Percutaneous Endoscopic Approach",02LR4CT
-129,02LR4DT,"Occlusion of Ductus Arteriosus with Intraluminal Device, Percutaneous Endoscopic Approach",02LR4DT
-130,02LR4ZT,"Occlusion of Ductus Arteriosus, Percutaneous Endoscopic Approach",02LR4ZT
-151,02FQ3Z0,"Fragmentation of Right Pulmonary Artery, Percutaneous Approach, Ultrasonic",02FQ3Z0
-152,02FQ3ZZ,"Fragmentation of Right Pulmonary Artery, Percutaneous Approach",02FQ3ZZ
-153,02FR3Z0,"Fragmentation of Left Pulmonary Artery, Percutaneous Approach, Ultrasonic",02FR3Z0
-154,02FR3ZZ,"Fragmentation of Left Pulmonary Artery, Percutaneous Approach",02FR3ZZ
-155,DB12B6Z,Low Dose Rate (LDR) Brachytherapy of Lung using Cesium 131 (Cs-131),DB12B6Z
-156,DB12BB1,"Low Dose Rate (LDR) Brachytherapy of Lung using Palladium 103 (Pd-103), Unidirectional Source",DB12BB1
-159,0B5C0ZZ,"Destruction of Right Upper Lung Lobe, Open Approach",0B5C0ZZ
-160,0B5C3ZZ,"Destruction of Right Upper Lung Lobe, Percutaneous Approach",0B5C3ZZ
-161,0B5C4ZZ,"Destruction of Right Upper Lung Lobe, Percutaneous Endoscopic Approach",0B5C4ZZ
-162,0B5C7ZZ,"Destruction of Right Upper Lung Lobe, Via Natural or Artificial Opening",0B5C7ZZ
-163,0B5C8ZZ,"Destruction of Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5C8ZZ
-164,0B5D0ZZ,"Destruction of Right Middle Lung Lobe, Open Approach",0B5D0ZZ
-165,0B5D3ZZ,"Destruction of Right Middle Lung Lobe, Percutaneous Approach",0B5D3ZZ
-166,0B5D4ZZ,"Destruction of Right Middle Lung Lobe, Percutaneous Endoscopic Approach",0B5D4ZZ
-167,0B5D7ZZ,"Destruction of Right Middle Lung Lobe, Via Natural or Artificial Opening",0B5D7ZZ
-168,0B5D8ZZ,"Destruction of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5D8ZZ
-169,0B5F0ZZ,"Destruction of Right Lower Lung Lobe, Open Approach",0B5F0ZZ
-170,0B5F3ZZ,"Destruction of Right Lower Lung Lobe, Percutaneous Approach",0B5F3ZZ
-171,0B5F4ZZ,"Destruction of Right Lower Lung Lobe, Percutaneous Endoscopic Approach",0B5F4ZZ
-172,0B5F7ZZ,"Destruction of Right Lower Lung Lobe, Via Natural or Artificial Opening",0B5F7ZZ
-173,0B5F8ZZ,"Destruction of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5F8ZZ
-174,0B5G0ZZ,"Destruction of Left Upper Lung Lobe, Open Approach",0B5G0ZZ
-175,0B5G3ZZ,"Destruction of Left Upper Lung Lobe, Percutaneous Approach",0B5G3ZZ
-176,0B5G4ZZ,"Destruction of Left Upper Lung Lobe, Percutaneous Endoscopic Approach",0B5G4ZZ
-177,0B5G7ZZ,"Destruction of Left Upper Lung Lobe, Via Natural or Artificial Opening",0B5G7ZZ
-178,0B5G8ZZ,"Destruction of Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5G8ZZ
-179,0B5H0ZZ,"Destruction of Lung Lingula, Open Approach",0B5H0ZZ
-180,0B5H3ZZ,"Destruction of Lung Lingula, Percutaneous Approach",0B5H3ZZ
-181,0B5H4ZZ,"Destruction of Lung Lingula, Percutaneous Endoscopic Approach",0B5H4ZZ
-182,0B5H7ZZ,"Destruction of Lung Lingula, Via Natural or Artificial Opening",0B5H7ZZ
-183,0B5H8ZZ,"Destruction of Lung Lingula, Via Natural or Artificial Opening Endoscopic",0B5H8ZZ
-184,0B5J0ZZ,"Destruction of Left Lower Lung Lobe, Open Approach",0B5J0ZZ
-185,0B5J3ZZ,"Destruction of Left Lower Lung Lobe, Percutaneous Approach",0B5J3ZZ
-186,0B5J4ZZ,"Destruction of Left Lower Lung Lobe, Percutaneous Endoscopic Approach",0B5J4ZZ
-187,0B5J7ZZ,"Destruction of Left Lower Lung Lobe, Via Natural or Artificial Opening",0B5J7ZZ
-188,0B5J8ZZ,"Destruction of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5J8ZZ
-189,0B5K0ZZ,"Destruction of Right Lung, Open Approach",0B5K0ZZ
-190,0B5K3ZZ,"Destruction of Right Lung, Percutaneous Approach",0B5K3ZZ
-191,0B5K4ZZ,"Destruction of Right Lung, Percutaneous Endoscopic Approach",0B5K4ZZ
-192,0B5K7ZZ,"Destruction of Right Lung, Via Natural or Artificial Opening",0B5K7ZZ
-193,0B5K8ZZ,"Destruction of Right Lung, Via Natural or Artificial Opening Endoscopic",0B5K8ZZ
-194,0B5L0ZZ,"Destruction of Left Lung, Open Approach",0B5L0ZZ
-195,0B5L3ZZ,"Destruction of Left Lung, Percutaneous Approach",0B5L3ZZ
-196,0B5L4ZZ,"Destruction of Left Lung, Percutaneous Endoscopic Approach",0B5L4ZZ
-197,0B5L7ZZ,"Destruction of Left Lung, Via Natural or Artificial Opening",0B5L7ZZ
-198,0B5L8ZZ,"Destruction of Left Lung, Via Natural or Artificial Opening Endoscopic",0B5L8ZZ
-199,0B5M0ZZ,"Destruction of Bilateral Lungs, Open Approach",0B5M0ZZ
-200,0B5M3ZZ,"Destruction of Bilateral Lungs, Percutaneous Approach",0B5M3ZZ
-201,0B5M4ZZ,"Destruction of Bilateral Lungs, Percutaneous Endoscopic Approach",0B5M4ZZ
-202,0B5M7ZZ,"Destruction of Bilateral Lungs, Via Natural or Artificial Opening",0B5M7ZZ
-203,0B5M8ZZ,"Destruction of Bilateral Lungs, Via Natural or Artificial Opening Endoscopic",0B5M8ZZ
-204,DB1297Z,High Dose Rate (HDR) Brachytherapy of Lung using Cesium 137 (Cs-137),DB1297Z
-205,DB1298Z,High Dose Rate (HDR) Brachytherapy of Lung using Iridium 192 (Ir-192),DB1298Z
-206,DB1299Z,High Dose Rate (HDR) Brachytherapy of Lung using Iodine 125 (I-125),DB1299Z
-207,DB129BZ,High Dose Rate (HDR) Brachytherapy of Lung using Palladium 103 (Pd-103),DB129BZ
-208,DB129CZ,High Dose Rate (HDR) Brachytherapy of Lung using Californium 252 (Cf-252),DB129CZ
-209,DB129YZ,High Dose Rate (HDR) Brachytherapy of Lung using Other Isotope,DB129YZ
-210,DB12B7Z,Low Dose Rate (LDR) Brachytherapy of Lung using Cesium 137 (Cs-137),DB12B7Z
-211,DB12B8Z,Low Dose Rate (LDR) Brachytherapy of Lung using Iridium 192 (Ir-192),DB12B8Z
-212,DB12B9Z,Low Dose Rate (LDR) Brachytherapy of Lung using Iodine 125 (I-125),DB12B9Z
-213,DB12BBZ,Low Dose Rate (LDR) Brachytherapy of Lung using Palladium 103 (Pd-103),DB12BBZ
-214,DB12BCZ,Low Dose Rate (LDR) Brachytherapy of Lung using Californium 252 (Cf-252),DB12BCZ
-215,DB12BYZ,Low Dose Rate (LDR) Brachytherapy of Lung using Other Isotope,DB12BYZ
-216,DBY27ZZ,Contact Radiation of Lung,DBY27ZZ
-286,BB12ZZZ,Fluoroscopy of Right Lung,BB12ZZZ
-287,BB13ZZZ,Fluoroscopy of Left Lung,BB13ZZZ
-288,BB14ZZZ,Fluoroscopy of Bilateral Lungs,BB14ZZZ
-358,0DBK4ZX,"Excision of Ascending Colon, Percutaneous Endoscopic Approach, Diagnostic",0DBK4ZX
-359,0DBL4ZX,"Excision of Transverse Colon, Percutaneous Endoscopic Approach, Diagnostic",0DBL4ZX
-360,0DBM4ZX,"Excision of Descending Colon, Percutaneous Endoscopic Approach, Diagnostic",0DBM4ZX
-361,0DBN4ZX,"Excision of Sigmoid Colon, Percutaneous Endoscopic Approach, Diagnostic",0DBN4ZX
-387,0BBC0ZX,"Excision of Right Upper Lung Lobe, Open Approach, Diagnostic",0BBC0ZX
-388,0BBC8ZX,"Excision of Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBC8ZX
-389,0BBC8ZZ,"Excision of Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBC8ZZ
-390,0BBF0ZX,"Excision of Right Lower Lung Lobe, Open Approach, Diagnostic",0BBF0ZX
-391,0BBF8ZX,"Excision of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBF8ZX
-392,0BBF8ZZ,"Excision of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBF8ZZ
-393,0BBG0ZX,"Excision of Left Upper Lung Lobe, Open Approach, Diagnostic",0BBG0ZX
-394,0BBG8ZX,"Excision of Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBG8ZX
-395,0BBG8ZZ,"Excision of Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBG8ZZ
-396,0BBJ0ZX,"Excision of Left Lower Lung Lobe, Open Approach, Diagnostic",0BBJ0ZX
-397,0BBJ8ZX,"Excision of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBJ8ZX
-398,0BBJ8ZZ,"Excision of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBJ8ZZ
-423,0BB93ZZ,"Excision of Lingula Bronchus, Percutaneous Approach",0BB93ZZ
-424,0BB94ZZ,"Excision of Lingula Bronchus, Percutaneous Endoscopic Approach",0BB94ZZ
-425,0BB97ZZ,"Excision of Lingula Bronchus, Via Natural or Artificial Opening",0BB97ZZ
-426,0BB98ZZ,"Excision of Lingula Bronchus, Via Natural or Artificial Opening Endoscopic",0BB98ZZ
-427,0BT94ZZ,"Resection of Lingula Bronchus, Percutaneous Endoscopic Approach",0BT94ZZ
-663,02BQ0ZX,"Excision of Right Pulmonary Artery, Open Approach, Diagnostic",02BQ0ZX
-664,02BR0ZX,"Excision of Left Pulmonary Artery, Open Approach, Diagnostic",02BR0ZX
-665,0BB90ZX,"Excision of Lingula Bronchus, Open Approach, Diagnostic",0BB90ZX
-670,0BBD0ZX,"Excision of Right Middle Lung Lobe, Open Approach, Diagnostic",0BBD0ZX
-673,0BBH0ZX,"Excision of Lung Lingula, Open Approach, Diagnostic",0BBH0ZX
-749,0BBH0ZZ,"Excision of Lung Lingula, Open Approach",0BBH0ZZ
-750,0BBH3ZX,"Excision of Lung Lingula, Percutaneous Approach, Diagnostic",0BBH3ZX
-751,0BBH3ZZ,"Excision of Lung Lingula, Percutaneous Approach",0BBH3ZZ
-752,0BBH4ZX,"Excision of Lung Lingula, Percutaneous Endoscopic Approach, Diagnostic",0BBH4ZX
-753,0BBH4ZZ,"Excision of Lung Lingula, Percutaneous Endoscopic Approach",0BBH4ZZ
-754,0BBH7ZX,"Excision of Lung Lingula, Via Natural or Artificial Opening, Diagnostic",0BBH7ZX
-755,0BBH7ZZ,"Excision of Lung Lingula, Via Natural or Artificial Opening",0BBH7ZZ
-756,0BBH8ZX,"Excision of Lung Lingula, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBH8ZX
-757,0BBH8ZZ,"Excision of Lung Lingula, Via Natural or Artificial Opening Endoscopic",0BBH8ZZ
-758,0BTH0ZZ,"Resection of Lung Lingula, Open Approach",0BTH0ZZ
-759,0BTH4ZZ,"Resection of Lung Lingula, Percutaneous Endoscopic Approach",0BTH4ZZ
-1212,BB2400Z,"Computerized Tomography (CT Scan) of Bilateral Lungs using High Osmolar Contrast, Unenhanced and Enhanced",BB2400Z
-1213,BB240ZZ,Computerized Tomography (CT Scan) of Bilateral Lungs using High Osmolar Contrast,BB240ZZ
-1214,BB2410Z,"Computerized Tomography (CT Scan) of Bilateral Lungs using Low Osmolar Contrast, Unenhanced and Enhanced",BB2410Z
-1215,BB241ZZ,Computerized Tomography (CT Scan) of Bilateral Lungs using Low Osmolar Contrast,BB241ZZ
-1216,BB24Y0Z,"Computerized Tomography (CT Scan) of Bilateral Lungs using Other Contrast, Unenhanced and Enhanced",BB24Y0Z
-1217,BB24YZZ,Computerized Tomography (CT Scan) of Bilateral Lungs using Other Contrast,BB24YZZ
-1218,BB24ZZZ,Computerized Tomography (CT Scan) of Bilateral Lungs,BB24ZZZ
-1254,BB3GY0Z,"Magnetic Resonance Imaging (MRI) of Lung Apices using Other Contrast, Unenhanced and Enhanced",BB3GY0Z
-1255,BB3GYZZ,Magnetic Resonance Imaging (MRI) of Lung Apices using Other Contrast,BB3GYZZ
-1256,BB3GZZZ,Magnetic Resonance Imaging (MRI) of Lung Apices,BB3GZZZ
-1278,0BB93ZX,"Excision of Lingula Bronchus, Percutaneous Approach, Diagnostic",0BB93ZX
-1279,0BB94ZX,"Excision of Lingula Bronchus, Percutaneous Endoscopic Approach, Diagnostic",0BB94ZX
-1280,0BB97ZX,"Excision of Lingula Bronchus, Via Natural or Artificial Opening, Diagnostic",0BB97ZX
-1281,0BB98ZX,"Excision of Lingula Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BB98ZX
-1282,0BD94ZX,"Extraction of Lingula Bronchus, Percutaneous Endoscopic Approach, Diagnostic",0BD94ZX
-1283,0BD98ZX,"Extraction of Lingula Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BD98ZX
-1302,0BTK0ZZ,"Resection of Right Lung, Open Approach",0BTK0ZZ
-1303,0BTL0ZZ,"Resection of Left Lung, Open Approach",0BTL0ZZ
-1304,0BTM0ZZ,"Resection of Bilateral Lungs, Open Approach",0BTM0ZZ
-1308,0BTK4ZZ,"Resection of Right Lung, Percutaneous Endoscopic Approach",0BTK4ZZ
-1309,0BTL4ZZ,"Resection of Left Lung, Percutaneous Endoscopic Approach",0BTL4ZZ
-1310,0BTM4ZZ,"Resection of Bilateral Lungs, Percutaneous Endoscopic Approach",0BTM4ZZ
-1590,0BTC0ZZ,"Resection of Right Upper Lung Lobe, Open Approach",0BTC0ZZ
-1591,0BTC4ZZ,"Resection of Right Upper Lung Lobe, Percutaneous Endoscopic Approach",0BTC4ZZ
-1592,0BTD0ZZ,"Resection of Right Middle Lung Lobe, Open Approach",0BTD0ZZ
-1593,0BTD4ZZ,"Resection of Right Middle Lung Lobe, Percutaneous Endoscopic Approach",0BTD4ZZ
-1594,0BTF0ZZ,"Resection of Right Lower Lung Lobe, Open Approach",0BTF0ZZ
-1595,0BTF4ZZ,"Resection of Right Lower Lung Lobe, Percutaneous Endoscopic Approach",0BTF4ZZ
-1596,0BTG0ZZ,"Resection of Left Upper Lung Lobe, Open Approach",0BTG0ZZ
-1597,0BTG4ZZ,"Resection of Left Upper Lung Lobe, Percutaneous Endoscopic Approach",0BTG4ZZ
-1598,0BTJ0ZZ,"Resection of Left Lower Lung Lobe, Open Approach",0BTJ0ZZ
-1599,0BTJ4ZZ,"Resection of Left Lower Lung Lobe, Percutaneous Endoscopic Approach",0BTJ4ZZ
-2029,0BBC4ZX,"Excision of Right Upper Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBC4ZX
-2031,0BBD4ZX,"Excision of Right Middle Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBD4ZX
-2033,0BBF4ZX,"Excision of Right Lower Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBF4ZX
-2035,0BBG4ZX,"Excision of Left Upper Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBG4ZX
-2039,0BBJ4ZX,"Excision of Left Lower Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBJ4ZX
-2054,0BDC4ZX,"Extraction of Right Upper Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDC4ZX
-2055,0BDD4ZX,"Extraction of Right Middle Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDD4ZX
-2056,0BDF4ZX,"Extraction of Right Lower Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDF4ZX
-2057,0BDG4ZX,"Extraction of Left Upper Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDG4ZX
-2058,0BDH4ZX,"Extraction of Lung Lingula, Percutaneous Endoscopic Approach, Diagnostic",0BDH4ZX
-2059,0BDJ4ZX,"Extraction of Left Lower Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDJ4ZX
-2060,0BDK4ZX,"Extraction of Right Lung, Percutaneous Endoscopic Approach, Diagnostic",0BDK4ZX
-2061,0BDL4ZX,"Extraction of Left Lung, Percutaneous Endoscopic Approach, Diagnostic",0BDL4ZX
-2062,0BDM4ZX,"Extraction of Bilateral Lungs, Percutaneous Endoscopic Approach, Diagnostic",0BDM4ZX
-2702,0BBD0ZZ,"Excision of Right Middle Lung Lobe, Open Approach",0BBD0ZZ
-2703,0BBD3ZX,"Excision of Right Middle Lung Lobe, Percutaneous Approach, Diagnostic",0BBD3ZX
-2704,0BBD3ZZ,"Excision of Right Middle Lung Lobe, Percutaneous Approach",0BBD3ZZ
-2706,0BBD4ZZ,"Excision of Right Middle Lung Lobe, Percutaneous Endoscopic Approach",0BBD4ZZ
-2707,0BBD7ZX,"Excision of Right Middle Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBD7ZX
-2708,0BBD7ZZ,"Excision of Right Middle Lung Lobe, Via Natural or Artificial Opening",0BBD7ZZ
-2709,0BBD8ZX,"Excision of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBD8ZX
-2710,0BBD8ZZ,"Excision of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBD8ZZ
-2753,0BBC0ZZ,"Excision of Right Upper Lung Lobe, Open Approach",0BBC0ZZ
-2754,0BBC3ZX,"Excision of Right Upper Lung Lobe, Percutaneous Approach, Diagnostic",0BBC3ZX
-2755,0BBC3ZZ,"Excision of Right Upper Lung Lobe, Percutaneous Approach",0BBC3ZZ
-2756,0BBC7ZX,"Excision of Right Upper Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBC7ZX
-2757,0BBC7ZZ,"Excision of Right Upper Lung Lobe, Via Natural or Artificial Opening",0BBC7ZZ
-2758,0BBF0ZZ,"Excision of Right Lower Lung Lobe, Open Approach",0BBF0ZZ
-2759,0BBF3ZX,"Excision of Right Lower Lung Lobe, Percutaneous Approach, Diagnostic",0BBF3ZX
-2760,0BBF3ZZ,"Excision of Right Lower Lung Lobe, Percutaneous Approach",0BBF3ZZ
-2761,0BBF7ZX,"Excision of Right Lower Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBF7ZX
-2762,0BBF7ZZ,"Excision of Right Lower Lung Lobe, Via Natural or Artificial Opening",0BBF7ZZ
-2763,0BBG0ZZ,"Excision of Left Upper Lung Lobe, Open Approach",0BBG0ZZ
-2764,0BBG3ZX,"Excision of Left Upper Lung Lobe, Percutaneous Approach, Diagnostic",0BBG3ZX
-2765,0BBG3ZZ,"Excision of Left Upper Lung Lobe, Percutaneous Approach",0BBG3ZZ
-2766,0BBG7ZX,"Excision of Left Upper Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBG7ZX
-2767,0BBG7ZZ,"Excision of Left Upper Lung Lobe, Via Natural or Artificial Opening",0BBG7ZZ
-2768,0BBJ0ZZ,"Excision of Left Lower Lung Lobe, Open Approach",0BBJ0ZZ
-2769,0BBJ3ZX,"Excision of Left Lower Lung Lobe, Percutaneous Approach, Diagnostic",0BBJ3ZX
-2770,0BBJ3ZZ,"Excision of Left Lower Lung Lobe, Percutaneous Approach",0BBJ3ZZ
-2771,0BBJ7ZX,"Excision of Left Lower Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBJ7ZX
-2772,0BBJ7ZZ,"Excision of Left Lower Lung Lobe, Via Natural or Artificial Opening",0BBJ7ZZ
-2776,0BBC4ZZ,"Excision of Right Upper Lung Lobe, Percutaneous Endoscopic Approach",0BBC4ZZ
-2780,0BBF4ZZ,"Excision of Right Lower Lung Lobe, Percutaneous Endoscopic Approach",0BBF4ZZ
-2782,0BBG4ZZ,"Excision of Left Upper Lung Lobe, Percutaneous Endoscopic Approach",0BBG4ZZ
-2786,0BBJ4ZZ,"Excision of Left Lower Lung Lobe, Percutaneous Endoscopic Approach",0BBJ4ZZ
-2907,0BDC8ZX,"Extraction of Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDC8ZX
-2908,0BDD8ZX,"Extraction of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDD8ZX
-2909,0BDF8ZX,"Extraction of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDF8ZX
-2910,0BDG8ZX,"Extraction of Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDG8ZX
-2911,0BDH8ZX,"Extraction of Lung Lingula, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDH8ZX
-2912,0BDJ8ZX,"Extraction of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDJ8ZX
-2913,0BDK8ZX,"Extraction of Right Lung, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDK8ZX
-2914,0BDL8ZX,"Extraction of Left Lung, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDL8ZX
-2915,0BDM8ZX,"Extraction of Bilateral Lungs, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDM8ZX
-3106,02QQ3ZZ,"Repair Right Pulmonary Artery, Percutaneous Approach",02QQ3ZZ
-3107,02QR3ZZ,"Repair Left Pulmonary Artery, Percutaneous Approach",02QR3ZZ
-3109,0BQC0ZZ,"Repair Right Upper Lung Lobe, Open Approach",0BQC0ZZ
-3110,0BQC3ZZ,"Repair Right Upper Lung Lobe, Percutaneous Approach",0BQC3ZZ
-3111,0BQC4ZZ,"Repair Right Upper Lung Lobe, Percutaneous Endoscopic Approach",0BQC4ZZ
-3112,0BQC7ZZ,"Repair Right Upper Lung Lobe, Via Natural or Artificial Opening",0BQC7ZZ
-3113,0BQC8ZZ,"Repair Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQC8ZZ
-3114,0BQD0ZZ,"Repair Right Middle Lung Lobe, Open Approach",0BQD0ZZ
-3115,0BQD3ZZ,"Repair Right Middle Lung Lobe, Percutaneous Approach",0BQD3ZZ
-3116,0BQD4ZZ,"Repair Right Middle Lung Lobe, Percutaneous Endoscopic Approach",0BQD4ZZ
-3117,0BQD7ZZ,"Repair Right Middle Lung Lobe, Via Natural or Artificial Opening",0BQD7ZZ
-3118,0BQD8ZZ,"Repair Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQD8ZZ
-3119,0BQF0ZZ,"Repair Right Lower Lung Lobe, Open Approach",0BQF0ZZ
-3120,0BQF3ZZ,"Repair Right Lower Lung Lobe, Percutaneous Approach",0BQF3ZZ
-3121,0BQF4ZZ,"Repair Right Lower Lung Lobe, Percutaneous Endoscopic Approach",0BQF4ZZ
-3122,0BQF7ZZ,"Repair Right Lower Lung Lobe, Via Natural or Artificial Opening",0BQF7ZZ
-3123,0BQF8ZZ,"Repair Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQF8ZZ
-3124,0BQG0ZZ,"Repair Left Upper Lung Lobe, Open Approach",0BQG0ZZ
-3125,0BQG3ZZ,"Repair Left Upper Lung Lobe, Percutaneous Approach",0BQG3ZZ
-3126,0BQG4ZZ,"Repair Left Upper Lung Lobe, Percutaneous Endoscopic Approach",0BQG4ZZ
-3127,0BQG7ZZ,"Repair Left Upper Lung Lobe, Via Natural or Artificial Opening",0BQG7ZZ
-3128,0BQG8ZZ,"Repair Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQG8ZZ
-3129,0BQH0ZZ,"Repair Lung Lingula, Open Approach",0BQH0ZZ
-3130,0BQH3ZZ,"Repair Lung Lingula, Percutaneous Approach",0BQH3ZZ
-3131,0BQH4ZZ,"Repair Lung Lingula, Percutaneous Endoscopic Approach",0BQH4ZZ
-3132,0BQH7ZZ,"Repair Lung Lingula, Via Natural or Artificial Opening",0BQH7ZZ
-3133,0BQH8ZZ,"Repair Lung Lingula, Via Natural or Artificial Opening Endoscopic",0BQH8ZZ
-3134,0BQJ0ZZ,"Repair Left Lower Lung Lobe, Open Approach",0BQJ0ZZ
-3135,0BQJ3ZZ,"Repair Left Lower Lung Lobe, Percutaneous Approach",0BQJ3ZZ
-3136,0BQJ4ZZ,"Repair Left Lower Lung Lobe, Percutaneous Endoscopic Approach",0BQJ4ZZ
-3137,0BQJ7ZZ,"Repair Left Lower Lung Lobe, Via Natural or Artificial Opening",0BQJ7ZZ
-3138,0BQJ8ZZ,"Repair Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQJ8ZZ
-3139,0BQK0ZZ,"Repair Right Lung, Open Approach",0BQK0ZZ
-3140,0BQK3ZZ,"Repair Right Lung, Percutaneous Approach",0BQK3ZZ
-3141,0BQK4ZZ,"Repair Right Lung, Percutaneous Endoscopic Approach",0BQK4ZZ
-3142,0BQK7ZZ,"Repair Right Lung, Via Natural or Artificial Opening",0BQK7ZZ
-3143,0BQK8ZZ,"Repair Right Lung, Via Natural or Artificial Opening Endoscopic",0BQK8ZZ
-3144,0BQL0ZZ,"Repair Left Lung, Open Approach",0BQL0ZZ
-3145,0BQL3ZZ,"Repair Left Lung, Percutaneous Approach",0BQL3ZZ
-3146,0BQL4ZZ,"Repair Left Lung, Percutaneous Endoscopic Approach",0BQL4ZZ
-3147,0BQL7ZZ,"Repair Left Lung, Via Natural or Artificial Opening",0BQL7ZZ
-3148,0BQL8ZZ,"Repair Left Lung, Via Natural or Artificial Opening Endoscopic",0BQL8ZZ
-3149,0BQM0ZZ,"Repair Bilateral Lungs, Open Approach",0BQM0ZZ
-3150,0BQM3ZZ,"Repair Bilateral Lungs, Percutaneous Approach",0BQM3ZZ
-3151,0BQM4ZZ,"Repair Bilateral Lungs, Percutaneous Endoscopic Approach",0BQM4ZZ
-3152,0BQM7ZZ,"Repair Bilateral Lungs, Via Natural or Artificial Opening",0BQM7ZZ
-3153,0BQM8ZZ,"Repair Bilateral Lungs, Via Natural or Artificial Opening Endoscopic",0BQM8ZZ
+177,DU21HZZ,Stereotactic Particulate Radiosurgery of Cervix,DU21HZZ
+178,DU21JZZ,Stereotactic Gamma Beam Radiosurgery of Cervix,DU21JZZ
+179,DU22DZZ,Stereotactic Other Photon Radiosurgery of Uterus,DU22DZZ
+180,DU22HZZ,Stereotactic Particulate Radiosurgery of Uterus,DU22HZZ
+181,DU22JZZ,Stereotactic Gamma Beam Radiosurgery of Uterus,DU22JZZ
+182,DV20DZZ,Stereotactic Other Photon Radiosurgery of Prostate,DV20DZZ
+183,DV20HZZ,Stereotactic Particulate Radiosurgery of Prostate,DV20HZZ
+184,DV20JZZ,Stereotactic Gamma Beam Radiosurgery of Prostate,DV20JZZ
+185,DV21DZZ,Stereotactic Other Photon Radiosurgery of Testis,DV21DZZ
+186,DV21HZZ,Stereotactic Particulate Radiosurgery of Testis,DV21HZZ
+187,DV21JZZ,Stereotactic Gamma Beam Radiosurgery of Testis,DV21JZZ
+188,DB20DZZ,Stereotactic Other Photon Radiosurgery of Trachea,DB20DZZ
+189,DB20HZZ,Stereotactic Particulate Radiosurgery of Trachea,DB20HZZ
+190,DB20JZZ,Stereotactic Gamma Beam Radiosurgery of Trachea,DB20JZZ
+191,DB21DZZ,Stereotactic Other Photon Radiosurgery of Bronchus,DB21DZZ
+192,DB21HZZ,Stereotactic Particulate Radiosurgery of Bronchus,DB21HZZ
+193,DB21JZZ,Stereotactic Gamma Beam Radiosurgery of Bronchus,DB21JZZ
+194,DB22DZZ,Stereotactic Other Photon Radiosurgery of Lung,DB22DZZ
+195,DB22HZZ,Stereotactic Particulate Radiosurgery of Lung,DB22HZZ
+196,DB22JZZ,Stereotactic Gamma Beam Radiosurgery of Lung,DB22JZZ
+197,DB25DZZ,Stereotactic Other Photon Radiosurgery of Pleura,DB25DZZ
+198,DB25HZZ,Stereotactic Particulate Radiosurgery of Pleura,DB25HZZ
+199,DB25JZZ,Stereotactic Gamma Beam Radiosurgery of Pleura,DB25JZZ
+200,DB26DZZ,Stereotactic Other Photon Radiosurgery of Mediastinum,DB26DZZ
+201,DB26HZZ,Stereotactic Particulate Radiosurgery of Mediastinum,DB26HZZ
+202,DB26JZZ,Stereotactic Gamma Beam Radiosurgery of Mediastinum,DB26JZZ
+203,DB27DZZ,Stereotactic Other Photon Radiosurgery of Chest Wall,DB27DZZ
+204,DB27HZZ,Stereotactic Particulate Radiosurgery of Chest Wall,DB27HZZ
+205,DB27JZZ,Stereotactic Gamma Beam Radiosurgery of Chest Wall,DB27JZZ
+206,DB28DZZ,Stereotactic Other Photon Radiosurgery of Diaphragm,DB28DZZ
+207,DB28HZZ,Stereotactic Particulate Radiosurgery of Diaphragm,DB28HZZ
+208,DB28JZZ,Stereotactic Gamma Beam Radiosurgery of Diaphragm,DB28JZZ
+209,DW21DZZ,Stereotactic Other Photon Radiosurgery of Head and Neck,DW21DZZ
+210,DW21HZZ,Stereotactic Particulate Radiosurgery of Head and Neck,DW21HZZ
+211,DW21JZZ,Stereotactic Gamma Beam Radiosurgery of Head and Neck,DW21JZZ
+212,DW22DZZ,Stereotactic Other Photon Radiosurgery of Chest,DW22DZZ
+213,DW22HZZ,Stereotactic Particulate Radiosurgery of Chest,DW22HZZ
+214,DW22JZZ,Stereotactic Gamma Beam Radiosurgery of Chest,DW22JZZ
+215,DW23DZZ,Stereotactic Other Photon Radiosurgery of Abdomen,DW23DZZ
+216,DW23HZZ,Stereotactic Particulate Radiosurgery of Abdomen,DW23HZZ
+217,DW23JZZ,Stereotactic Gamma Beam Radiosurgery of Abdomen,DW23JZZ
+218,DW26DZZ,Stereotactic Other Photon Radiosurgery of Pelvic Region,DW26DZZ
+219,DW26HZZ,Stereotactic Particulate Radiosurgery of Pelvic Region,DW26HZZ
+220,DW26JZZ,Stereotactic Gamma Beam Radiosurgery of Pelvic Region,DW26JZZ
+221,DD20DZZ,Stereotactic Other Photon Radiosurgery of Esophagus,DD20DZZ
+222,DD20HZZ,Stereotactic Particulate Radiosurgery of Esophagus,DD20HZZ
+223,DD20JZZ,Stereotactic Gamma Beam Radiosurgery of Esophagus,DD20JZZ
+224,DD21DZZ,Stereotactic Other Photon Radiosurgery of Stomach,DD21DZZ
+225,DD21HZZ,Stereotactic Particulate Radiosurgery of Stomach,DD21HZZ
+226,DD21JZZ,Stereotactic Gamma Beam Radiosurgery of Stomach,DD21JZZ
+227,DD22DZZ,Stereotactic Other Photon Radiosurgery of Duodenum,DD22DZZ
+228,DD22HZZ,Stereotactic Particulate Radiosurgery of Duodenum,DD22HZZ
+229,DD22JZZ,Stereotactic Gamma Beam Radiosurgery of Duodenum,DD22JZZ
+230,DD23DZZ,Stereotactic Other Photon Radiosurgery of Jejunum,DD23DZZ
+231,DD23HZZ,Stereotactic Particulate Radiosurgery of Jejunum,DD23HZZ
+232,DD23JZZ,Stereotactic Gamma Beam Radiosurgery of Jejunum,DD23JZZ
+233,DD24DZZ,Stereotactic Other Photon Radiosurgery of Ileum,DD24DZZ
+234,DD24HZZ,Stereotactic Particulate Radiosurgery of Ileum,DD24HZZ
+235,DD24JZZ,Stereotactic Gamma Beam Radiosurgery of Ileum,DD24JZZ
+236,DD25DZZ,Stereotactic Other Photon Radiosurgery of Colon,DD25DZZ
+237,DD25HZZ,Stereotactic Particulate Radiosurgery of Colon,DD25HZZ
+238,DD25JZZ,Stereotactic Gamma Beam Radiosurgery of Colon,DD25JZZ
+239,DD27DZZ,Stereotactic Other Photon Radiosurgery of Rectum,DD27DZZ
+240,DD27HZZ,Stereotactic Particulate Radiosurgery of Rectum,DD27HZZ
+241,DD27JZZ,Stereotactic Gamma Beam Radiosurgery of Rectum,DD27JZZ
+242,D020DZZ,Stereotactic Other Photon Radiosurgery of Brain,D020DZZ
+243,D020HZZ,Stereotactic Particulate Radiosurgery of Brain,D020HZZ
+244,D020JZZ,Stereotactic Gamma Beam Radiosurgery of Brain,D020JZZ
+245,D021DZZ,Stereotactic Other Photon Radiosurgery of Brain Stem,D021DZZ
+246,D021HZZ,Stereotactic Particulate Radiosurgery of Brain Stem,D021HZZ
+247,D021JZZ,Stereotactic Gamma Beam Radiosurgery of Brain Stem,D021JZZ
+248,D026DZZ,Stereotactic Other Photon Radiosurgery of Spinal Cord,D026DZZ
+249,D026HZZ,Stereotactic Particulate Radiosurgery of Spinal Cord,D026HZZ
+250,D026JZZ,Stereotactic Gamma Beam Radiosurgery of Spinal Cord,D026JZZ
+251,D027DZZ,Stereotactic Other Photon Radiosurgery of Peripheral Nerve,D027DZZ
+252,D027HZZ,Stereotactic Particulate Radiosurgery of Peripheral Nerve,D027HZZ
+253,D027JZZ,Stereotactic Gamma Beam Radiosurgery of Peripheral Nerve,D027JZZ
+254,DF20DZZ,Stereotactic Other Photon Radiosurgery of Liver,DF20DZZ
+255,DF20HZZ,Stereotactic Particulate Radiosurgery of Liver,DF20HZZ
+256,DF20JZZ,Stereotactic Gamma Beam Radiosurgery of Liver,DF20JZZ
+257,DF21DZZ,Stereotactic Other Photon Radiosurgery of Gallbladder,DF21DZZ
+258,DF21HZZ,Stereotactic Particulate Radiosurgery of Gallbladder,DF21HZZ
+259,DF21JZZ,Stereotactic Gamma Beam Radiosurgery of Gallbladder,DF21JZZ
+260,DF22DZZ,Stereotactic Other Photon Radiosurgery of Bile Ducts,DF22DZZ
+261,DF22HZZ,Stereotactic Particulate Radiosurgery of Bile Ducts,DF22HZZ
+262,DF22JZZ,Stereotactic Gamma Beam Radiosurgery of Bile Ducts,DF22JZZ
+263,DF23DZZ,Stereotactic Other Photon Radiosurgery of Pancreas,DF23DZZ
+264,DF23HZZ,Stereotactic Particulate Radiosurgery of Pancreas,DF23HZZ
+265,DF23JZZ,Stereotactic Gamma Beam Radiosurgery of Pancreas,DF23JZZ
+266,DG20DZZ,Stereotactic Other Photon Radiosurgery of Pituitary Gland,DG20DZZ
+267,DG20HZZ,Stereotactic Particulate Radiosurgery of Pituitary Gland,DG20HZZ
+268,DG20JZZ,Stereotactic Gamma Beam Radiosurgery of Pituitary Gland,DG20JZZ
+269,DG21DZZ,Stereotactic Other Photon Radiosurgery of Pineal Body,DG21DZZ
+270,DG21HZZ,Stereotactic Particulate Radiosurgery of Pineal Body,DG21HZZ
+271,DG21JZZ,Stereotactic Gamma Beam Radiosurgery of Pineal Body,DG21JZZ
+272,DG22DZZ,Stereotactic Other Photon Radiosurgery of Adrenal Glands,DG22DZZ
+273,DG22HZZ,Stereotactic Particulate Radiosurgery of Adrenal Glands,DG22HZZ
+274,DG22JZZ,Stereotactic Gamma Beam Radiosurgery of Adrenal Glands,DG22JZZ
+275,D720DZZ,Stereotactic Other Photon Radiosurgery of Bone Marrow,D720DZZ
+276,D720HZZ,Stereotactic Particulate Radiosurgery of Bone Marrow,D720HZZ
+277,D720JZZ,Stereotactic Gamma Beam Radiosurgery of Bone Marrow,D720JZZ
+278,D721DZZ,Stereotactic Other Photon Radiosurgery of Thymus,D721DZZ
+279,D721HZZ,Stereotactic Particulate Radiosurgery of Thymus,D721HZZ
+280,D721JZZ,Stereotactic Gamma Beam Radiosurgery of Thymus,D721JZZ
+281,D722DZZ,Stereotactic Other Photon Radiosurgery of Spleen,D722DZZ
+282,D722HZZ,Stereotactic Particulate Radiosurgery of Spleen,D722HZZ
+283,D722JZZ,Stereotactic Gamma Beam Radiosurgery of Spleen,D722JZZ
+284,D723DZZ,Stereotactic Other Photon Radiosurgery of Neck Lymphatics,D723DZZ
+285,D723HZZ,Stereotactic Particulate Radiosurgery of Neck Lymphatics,D723HZZ
+286,DG24DZZ,Stereotactic Other Photon Radiosurgery of Parathyroid Glands,DG24DZZ
+287,DG24HZZ,Stereotactic Particulate Radiosurgery of Parathyroid Glands,DG24HZZ
+288,DG24JZZ,Stereotactic Gamma Beam Radiosurgery of Parathyroid Glands,DG24JZZ
+289,DG25DZZ,Stereotactic Other Photon Radiosurgery of Thyroid,DG25DZZ
+290,DG25HZZ,Stereotactic Particulate Radiosurgery of Thyroid,DG25HZZ
+291,DG25JZZ,Stereotactic Gamma Beam Radiosurgery of Thyroid,DG25JZZ
+292,D723JZZ,Stereotactic Gamma Beam Radiosurgery of Neck Lymphatics,D723JZZ
+293,D724DZZ,Stereotactic Other Photon Radiosurgery of Axillary Lymphatics,D724DZZ
+294,D724HZZ,Stereotactic Particulate Radiosurgery of Axillary Lymphatics,D724HZZ
+295,D724JZZ,Stereotactic Gamma Beam Radiosurgery of Axillary Lymphatics,D724JZZ
+296,D725DZZ,Stereotactic Other Photon Radiosurgery of Thorax Lymphatics,D725DZZ
+297,D725HZZ,Stereotactic Particulate Radiosurgery of Thorax Lymphatics,D725HZZ
+298,D725JZZ,Stereotactic Gamma Beam Radiosurgery of Thorax Lymphatics,D725JZZ
+299,D726DZZ,Stereotactic Other Photon Radiosurgery of Abdomen Lymphatics,D726DZZ
+300,D726HZZ,Stereotactic Particulate Radiosurgery of Abdomen Lymphatics,D726HZZ
+301,D726JZZ,Stereotactic Gamma Beam Radiosurgery of Abdomen Lymphatics,D726JZZ
+302,D727DZZ,Stereotactic Other Photon Radiosurgery of Pelvis Lymphatics,D727DZZ
+303,D727HZZ,Stereotactic Particulate Radiosurgery of Pelvis Lymphatics,D727HZZ
+304,D727JZZ,Stereotactic Gamma Beam Radiosurgery of Pelvis Lymphatics,D727JZZ
+305,D728DZZ,Stereotactic Other Photon Radiosurgery of Inguinal Lymphatics,D728DZZ
+306,D728HZZ,Stereotactic Particulate Radiosurgery of Inguinal Lymphatics,D728HZZ
+307,D728JZZ,Stereotactic Gamma Beam Radiosurgery of Inguinal Lymphatics,D728JZZ
+308,D820DZZ,Stereotactic Other Photon Radiosurgery of Eye,D820DZZ
+309,D820HZZ,Stereotactic Particulate Radiosurgery of Eye,D820HZZ
+310,D820JZZ,Stereotactic Gamma Beam Radiosurgery of Eye,D820JZZ
+311,DM20DZZ,Stereotactic Other Photon Radiosurgery of Left Breast,DM20DZZ
+312,DM20HZZ,Stereotactic Particulate Radiosurgery of Left Breast,DM20HZZ
+313,DM20JZZ,Stereotactic Gamma Beam Radiosurgery of Left Breast,DM20JZZ
+314,DM21DZZ,Stereotactic Other Photon Radiosurgery of Right Breast,DM21DZZ
+315,DM21HZZ,Stereotactic Particulate Radiosurgery of Right Breast,DM21HZZ
+316,DM21JZZ,Stereotactic Gamma Beam Radiosurgery of Right Breast,DM21JZZ
+317,D920DZZ,Stereotactic Other Photon Radiosurgery of Ear,D920DZZ
+318,D920HZZ,Stereotactic Particulate Radiosurgery of Ear,D920HZZ
+319,D920JZZ,Stereotactic Gamma Beam Radiosurgery of Ear,D920JZZ
+320,D921DZZ,Stereotactic Other Photon Radiosurgery of Nose,D921DZZ
+321,D921HZZ,Stereotactic Particulate Radiosurgery of Nose,D921HZZ
+322,D921JZZ,Stereotactic Gamma Beam Radiosurgery of Nose,D921JZZ
+323,D924DZZ,Stereotactic Other Photon Radiosurgery of Mouth,D924DZZ
+324,D924HZZ,Stereotactic Particulate Radiosurgery of Mouth,D924HZZ
+325,D924JZZ,Stereotactic Gamma Beam Radiosurgery of Mouth,D924JZZ
+326,D925DZZ,Stereotactic Other Photon Radiosurgery of Tongue,D925DZZ
+327,D925HZZ,Stereotactic Particulate Radiosurgery of Tongue,D925HZZ
+328,D925JZZ,Stereotactic Gamma Beam Radiosurgery of Tongue,D925JZZ
+329,D926DZZ,Stereotactic Other Photon Radiosurgery of Salivary Glands,D926DZZ
+330,D926HZZ,Stereotactic Particulate Radiosurgery of Salivary Glands,D926HZZ
+331,D926JZZ,Stereotactic Gamma Beam Radiosurgery of Salivary Glands,D926JZZ
+332,D927DZZ,Stereotactic Other Photon Radiosurgery of Sinuses,D927DZZ
+333,D927HZZ,Stereotactic Particulate Radiosurgery of Sinuses,D927HZZ
+334,D927JZZ,Stereotactic Gamma Beam Radiosurgery of Sinuses,D927JZZ
+335,D928DZZ,Stereotactic Other Photon Radiosurgery of Hard Palate,D928DZZ
+336,D928HZZ,Stereotactic Particulate Radiosurgery of Hard Palate,D928HZZ
+337,DT20DZZ,Stereotactic Other Photon Radiosurgery of Kidney,DT20DZZ
+338,DT20HZZ,Stereotactic Particulate Radiosurgery of Kidney,DT20HZZ
+339,DT20JZZ,Stereotactic Gamma Beam Radiosurgery of Kidney,DT20JZZ
+340,DT21DZZ,Stereotactic Other Photon Radiosurgery of Ureter,DT21DZZ
+341,DT21HZZ,Stereotactic Particulate Radiosurgery of Ureter,DT21HZZ
+342,DT21JZZ,Stereotactic Gamma Beam Radiosurgery of Ureter,DT21JZZ
+343,DT22DZZ,Stereotactic Other Photon Radiosurgery of Bladder,DT22DZZ
+344,DT22HZZ,Stereotactic Particulate Radiosurgery of Bladder,DT22HZZ
+345,DT22JZZ,Stereotactic Gamma Beam Radiosurgery of Bladder,DT22JZZ
+346,DT23DZZ,Stereotactic Other Photon Radiosurgery of Urethra,DT23DZZ
+347,DT23HZZ,Stereotactic Particulate Radiosurgery of Urethra,DT23HZZ
+348,DT23JZZ,Stereotactic Gamma Beam Radiosurgery of Urethra,DT23JZZ
+349,D928JZZ,Stereotactic Gamma Beam Radiosurgery of Hard Palate,D928JZZ
+350,D929DZZ,Stereotactic Other Photon Radiosurgery of Soft Palate,D929DZZ
+351,D929HZZ,Stereotactic Particulate Radiosurgery of Soft Palate,D929HZZ
+352,D929JZZ,Stereotactic Gamma Beam Radiosurgery of Soft Palate,D929JZZ
+353,D92BDZZ,Stereotactic Other Photon Radiosurgery of Larynx,D92BDZZ
+354,D92BHZZ,Stereotactic Particulate Radiosurgery of Larynx,D92BHZZ
+355,D92BJZZ,Stereotactic Gamma Beam Radiosurgery of Larynx,D92BJZZ
+356,D92CDZZ,Stereotactic Other Photon Radiosurgery of Pharynx,D92CDZZ
+357,D92CHZZ,Stereotactic Particulate Radiosurgery of Pharynx,D92CHZZ
+358,D92CJZZ,Stereotactic Gamma Beam Radiosurgery of Pharynx,D92CJZZ
+359,D92DDZZ,Stereotactic Other Photon Radiosurgery of Nasopharynx,D92DDZZ
+360,D92DHZZ,Stereotactic Particulate Radiosurgery of Nasopharynx,D92DHZZ
+361,D92DJZZ,Stereotactic Gamma Beam Radiosurgery of Nasopharynx,D92DJZZ
+362,DU20DZZ,Stereotactic Other Photon Radiosurgery of Ovary,DU20DZZ
+363,DU20HZZ,Stereotactic Particulate Radiosurgery of Ovary,DU20HZZ
+364,DU20JZZ,Stereotactic Gamma Beam Radiosurgery of Ovary,DU20JZZ
+365,DU21DZZ,Stereotactic Other Photon Radiosurgery of Cervix,DU21DZZ
+440,0BBK0ZX,"Excision of Right Lung, Open Approach, Diagnostic",0BBK0ZX
+441,0BBK0ZZ,"Excision of Right Lung, Open Approach",0BBK0ZZ
+442,0BBK3ZX,"Excision of Right Lung, Percutaneous Approach, Diagnostic",0BBK3ZX
+443,0BBK3ZZ,"Excision of Right Lung, Percutaneous Approach",0BBK3ZZ
+444,0BBK4ZX,"Excision of Right Lung, Percutaneous Endoscopic Approach, Diagnostic",0BBK4ZX
+445,0BBK4ZZ,"Excision of Right Lung, Percutaneous Endoscopic Approach",0BBK4ZZ
+446,0BBK7ZX,"Excision of Right Lung, Via Natural or Artificial Opening, Diagnostic",0BBK7ZX
+447,0BBK7ZZ,"Excision of Right Lung, Via Natural or Artificial Opening",0BBK7ZZ
+448,0BBK8ZX,"Excision of Right Lung, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBK8ZX
+449,0BBK8ZZ,"Excision of Right Lung, Via Natural or Artificial Opening Endoscopic",0BBK8ZZ
+450,0BBL0ZX,"Excision of Left Lung, Open Approach, Diagnostic",0BBL0ZX
+451,0BBL0ZZ,"Excision of Left Lung, Open Approach",0BBL0ZZ
+452,0BBL3ZX,"Excision of Left Lung, Percutaneous Approach, Diagnostic",0BBL3ZX
+453,0BBL3ZZ,"Excision of Left Lung, Percutaneous Approach",0BBL3ZZ
+454,0BBL4ZX,"Excision of Left Lung, Percutaneous Endoscopic Approach, Diagnostic",0BBL4ZX
+455,0BBL4ZZ,"Excision of Left Lung, Percutaneous Endoscopic Approach",0BBL4ZZ
+456,0BBL7ZX,"Excision of Left Lung, Via Natural or Artificial Opening, Diagnostic",0BBL7ZX
+457,0BBL7ZZ,"Excision of Left Lung, Via Natural or Artificial Opening",0BBL7ZZ
+458,0BBL8ZX,"Excision of Left Lung, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBL8ZX
+459,0BBL8ZZ,"Excision of Left Lung, Via Natural or Artificial Opening Endoscopic",0BBL8ZZ
+460,0BBM0ZX,"Excision of Bilateral Lungs, Open Approach, Diagnostic",0BBM0ZX
+461,0BBM0ZZ,"Excision of Bilateral Lungs, Open Approach",0BBM0ZZ
+462,0BBM3ZX,"Excision of Bilateral Lungs, Percutaneous Approach, Diagnostic",0BBM3ZX
+463,0BBM3ZZ,"Excision of Bilateral Lungs, Percutaneous Approach",0BBM3ZZ
+464,0BBM4ZX,"Excision of Bilateral Lungs, Percutaneous Endoscopic Approach, Diagnostic",0BBM4ZX
+465,0BBM4ZZ,"Excision of Bilateral Lungs, Percutaneous Endoscopic Approach",0BBM4ZZ
+466,0BBM7ZX,"Excision of Bilateral Lungs, Via Natural or Artificial Opening, Diagnostic",0BBM7ZX
+467,0BBM7ZZ,"Excision of Bilateral Lungs, Via Natural or Artificial Opening",0BBM7ZZ
+468,0BBM8ZX,"Excision of Bilateral Lungs, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBM8ZX
+469,0BBM8ZZ,"Excision of Bilateral Lungs, Via Natural or Artificial Opening Endoscopic",0BBM8ZZ
+503,02LR0CT,"Occlusion of Ductus Arteriosus with Extraluminal Device, Open Approach",02LR0CT
+504,02LR0DT,"Occlusion of Ductus Arteriosus with Intraluminal Device, Open Approach",02LR0DT
+505,02LR0ZT,"Occlusion of Ductus Arteriosus, Open Approach",02LR0ZT
+506,02LR3CT,"Occlusion of Ductus Arteriosus with Extraluminal Device, Percutaneous Approach",02LR3CT
+507,02LR3DT,"Occlusion of Ductus Arteriosus with Intraluminal Device, Percutaneous Approach",02LR3DT
+508,02LR3ZT,"Occlusion of Ductus Arteriosus, Percutaneous Approach",02LR3ZT
+509,02LR4CT,"Occlusion of Ductus Arteriosus with Extraluminal Device, Percutaneous Endoscopic Approach",02LR4CT
+510,02LR4DT,"Occlusion of Ductus Arteriosus with Intraluminal Device, Percutaneous Endoscopic Approach",02LR4DT
+511,02LR4ZT,"Occlusion of Ductus Arteriosus, Percutaneous Endoscopic Approach",02LR4ZT
+532,02FQ3Z0,"Fragmentation of Right Pulmonary Artery, Percutaneous Approach, Ultrasonic",02FQ3Z0
+533,02FQ3ZZ,"Fragmentation of Right Pulmonary Artery, Percutaneous Approach",02FQ3ZZ
+534,02FR3Z0,"Fragmentation of Left Pulmonary Artery, Percutaneous Approach, Ultrasonic",02FR3Z0
+535,02FR3ZZ,"Fragmentation of Left Pulmonary Artery, Percutaneous Approach",02FR3ZZ
+536,DB12B6Z,Low Dose Rate (LDR) Brachytherapy of Lung using Cesium 131 (Cs-131),DB12B6Z
+537,DB12BB1,"Low Dose Rate (LDR) Brachytherapy of Lung using Palladium 103 (Pd-103), Unidirectional Source",DB12BB1
+540,0B5C0ZZ,"Destruction of Right Upper Lung Lobe, Open Approach",0B5C0ZZ
+541,0B5C3ZZ,"Destruction of Right Upper Lung Lobe, Percutaneous Approach",0B5C3ZZ
+542,0B5C4ZZ,"Destruction of Right Upper Lung Lobe, Percutaneous Endoscopic Approach",0B5C4ZZ
+543,0B5C7ZZ,"Destruction of Right Upper Lung Lobe, Via Natural or Artificial Opening",0B5C7ZZ
+544,0B5C8ZZ,"Destruction of Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5C8ZZ
+545,0B5D0ZZ,"Destruction of Right Middle Lung Lobe, Open Approach",0B5D0ZZ
+546,0B5D3ZZ,"Destruction of Right Middle Lung Lobe, Percutaneous Approach",0B5D3ZZ
+547,0B5D4ZZ,"Destruction of Right Middle Lung Lobe, Percutaneous Endoscopic Approach",0B5D4ZZ
+548,0B5D7ZZ,"Destruction of Right Middle Lung Lobe, Via Natural or Artificial Opening",0B5D7ZZ
+549,0B5D8ZZ,"Destruction of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5D8ZZ
+550,0B5F0ZZ,"Destruction of Right Lower Lung Lobe, Open Approach",0B5F0ZZ
+551,0B5F3ZZ,"Destruction of Right Lower Lung Lobe, Percutaneous Approach",0B5F3ZZ
+552,0B5F4ZZ,"Destruction of Right Lower Lung Lobe, Percutaneous Endoscopic Approach",0B5F4ZZ
+553,0B5F7ZZ,"Destruction of Right Lower Lung Lobe, Via Natural or Artificial Opening",0B5F7ZZ
+554,0B5F8ZZ,"Destruction of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5F8ZZ
+555,0B5G0ZZ,"Destruction of Left Upper Lung Lobe, Open Approach",0B5G0ZZ
+556,0B5G3ZZ,"Destruction of Left Upper Lung Lobe, Percutaneous Approach",0B5G3ZZ
+557,0B5G4ZZ,"Destruction of Left Upper Lung Lobe, Percutaneous Endoscopic Approach",0B5G4ZZ
+558,0B5G7ZZ,"Destruction of Left Upper Lung Lobe, Via Natural or Artificial Opening",0B5G7ZZ
+559,0B5G8ZZ,"Destruction of Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5G8ZZ
+560,0B5H0ZZ,"Destruction of Lung Lingula, Open Approach",0B5H0ZZ
+561,0B5H3ZZ,"Destruction of Lung Lingula, Percutaneous Approach",0B5H3ZZ
+562,0B5H4ZZ,"Destruction of Lung Lingula, Percutaneous Endoscopic Approach",0B5H4ZZ
+563,0B5H7ZZ,"Destruction of Lung Lingula, Via Natural or Artificial Opening",0B5H7ZZ
+564,0B5H8ZZ,"Destruction of Lung Lingula, Via Natural or Artificial Opening Endoscopic",0B5H8ZZ
+565,0B5J0ZZ,"Destruction of Left Lower Lung Lobe, Open Approach",0B5J0ZZ
+566,0B5J3ZZ,"Destruction of Left Lower Lung Lobe, Percutaneous Approach",0B5J3ZZ
+567,0B5J4ZZ,"Destruction of Left Lower Lung Lobe, Percutaneous Endoscopic Approach",0B5J4ZZ
+568,0B5J7ZZ,"Destruction of Left Lower Lung Lobe, Via Natural or Artificial Opening",0B5J7ZZ
+569,0B5J8ZZ,"Destruction of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0B5J8ZZ
+570,0B5K0ZZ,"Destruction of Right Lung, Open Approach",0B5K0ZZ
+571,0B5K3ZZ,"Destruction of Right Lung, Percutaneous Approach",0B5K3ZZ
+572,0B5K4ZZ,"Destruction of Right Lung, Percutaneous Endoscopic Approach",0B5K4ZZ
+573,0B5K7ZZ,"Destruction of Right Lung, Via Natural or Artificial Opening",0B5K7ZZ
+574,0B5K8ZZ,"Destruction of Right Lung, Via Natural or Artificial Opening Endoscopic",0B5K8ZZ
+575,0B5L0ZZ,"Destruction of Left Lung, Open Approach",0B5L0ZZ
+576,0B5L3ZZ,"Destruction of Left Lung, Percutaneous Approach",0B5L3ZZ
+577,0B5L4ZZ,"Destruction of Left Lung, Percutaneous Endoscopic Approach",0B5L4ZZ
+578,0B5L7ZZ,"Destruction of Left Lung, Via Natural or Artificial Opening",0B5L7ZZ
+579,0B5L8ZZ,"Destruction of Left Lung, Via Natural or Artificial Opening Endoscopic",0B5L8ZZ
+580,0B5M0ZZ,"Destruction of Bilateral Lungs, Open Approach",0B5M0ZZ
+581,0B5M3ZZ,"Destruction of Bilateral Lungs, Percutaneous Approach",0B5M3ZZ
+582,0B5M4ZZ,"Destruction of Bilateral Lungs, Percutaneous Endoscopic Approach",0B5M4ZZ
+583,0B5M7ZZ,"Destruction of Bilateral Lungs, Via Natural or Artificial Opening",0B5M7ZZ
+584,0B5M8ZZ,"Destruction of Bilateral Lungs, Via Natural or Artificial Opening Endoscopic",0B5M8ZZ
+585,DB1297Z,High Dose Rate (HDR) Brachytherapy of Lung using Cesium 137 (Cs-137),DB1297Z
+586,DB1298Z,High Dose Rate (HDR) Brachytherapy of Lung using Iridium 192 (Ir-192),DB1298Z
+587,DB1299Z,High Dose Rate (HDR) Brachytherapy of Lung using Iodine 125 (I-125),DB1299Z
+588,DB129BZ,High Dose Rate (HDR) Brachytherapy of Lung using Palladium 103 (Pd-103),DB129BZ
+589,DB129CZ,High Dose Rate (HDR) Brachytherapy of Lung using Californium 252 (Cf-252),DB129CZ
+590,DB129YZ,High Dose Rate (HDR) Brachytherapy of Lung using Other Isotope,DB129YZ
+591,DB12B7Z,Low Dose Rate (LDR) Brachytherapy of Lung using Cesium 137 (Cs-137),DB12B7Z
+592,DB12B8Z,Low Dose Rate (LDR) Brachytherapy of Lung using Iridium 192 (Ir-192),DB12B8Z
+593,DB12B9Z,Low Dose Rate (LDR) Brachytherapy of Lung using Iodine 125 (I-125),DB12B9Z
+594,DB12BBZ,Low Dose Rate (LDR) Brachytherapy of Lung using Palladium 103 (Pd-103),DB12BBZ
+595,DB12BCZ,Low Dose Rate (LDR) Brachytherapy of Lung using Californium 252 (Cf-252),DB12BCZ
+596,DB12BYZ,Low Dose Rate (LDR) Brachytherapy of Lung using Other Isotope,DB12BYZ
+597,DBY27ZZ,Contact Radiation of Lung,DBY27ZZ
+738,D0Y0CZZ,Intraoperative Radiation Therapy (IORT) of Brain,D0Y0CZZ
+739,D0Y1CZZ,Intraoperative Radiation Therapy (IORT) of Brain Stem,D0Y1CZZ
+740,D0Y6CZZ,Intraoperative Radiation Therapy (IORT) of Spinal Cord,D0Y6CZZ
+741,D0Y7CZZ,Intraoperative Radiation Therapy (IORT) of Peripheral Nerve,D0Y7CZZ
+747,DB023Z0,"Beam Radiation of Lung using Electrons, Intraoperative",DB023Z0
+748,DB053Z0,"Beam Radiation of Pleura using Electrons, Intraoperative",DB053Z0
+749,DB063Z0,"Beam Radiation of Mediastinum using Electrons, Intraoperative",DB063Z0
+750,DB073Z0,"Beam Radiation of Chest Wall using Electrons, Intraoperative",DB073Z0
+751,DB083Z0,"Beam Radiation of Diaphragm using Electrons, Intraoperative",DB083Z0
+752,DUY0CZZ,Intraoperative Radiation Therapy (IORT) of Ovary,DUY0CZZ
+753,DUY1CZZ,Intraoperative Radiation Therapy (IORT) of Cervix,DUY1CZZ
+754,DUY2CZZ,Intraoperative Radiation Therapy (IORT) of Uterus,DUY2CZZ
+755,DV003Z0,"Beam Radiation of Prostate using Electrons, Intraoperative",DV003Z0
+756,DV013Z0,"Beam Radiation of Testis using Electrons, Intraoperative",DV013Z0
+757,DVY0CZZ,Intraoperative Radiation Therapy (IORT) of Prostate,DVY0CZZ
+758,DW013Z0,"Beam Radiation of Head and Neck using Electrons, Intraoperative",DW013Z0
+759,DW023Z0,"Beam Radiation of Chest using Electrons, Intraoperative",DW023Z0
+760,DW033Z0,"Beam Radiation of Abdomen using Electrons, Intraoperative",DW033Z0
+761,DW043Z0,"Beam Radiation of Hemibody using Electrons, Intraoperative",DW043Z0
+762,DW053Z0,"Beam Radiation of Whole Body using Electrons, Intraoperative",DW053Z0
+763,DW063Z0,"Beam Radiation of Pelvic Region using Electrons, Intraoperative",DW063Z0
+764,DD003Z0,"Beam Radiation of Esophagus using Electrons, Intraoperative",DD003Z0
+765,DD013Z0,"Beam Radiation of Stomach using Electrons, Intraoperative",DD013Z0
+766,DD023Z0,"Beam Radiation of Duodenum using Electrons, Intraoperative",DD023Z0
+767,DD033Z0,"Beam Radiation of Jejunum using Electrons, Intraoperative",DD033Z0
+768,DD043Z0,"Beam Radiation of Ileum using Electrons, Intraoperative",DD043Z0
+769,DD053Z0,"Beam Radiation of Colon using Electrons, Intraoperative",DD053Z0
+770,DD073Z0,"Beam Radiation of Rectum using Electrons, Intraoperative",DD073Z0
+771,D0003Z0,"Beam Radiation of Brain using Electrons, Intraoperative",D0003Z0
+772,D0013Z0,"Beam Radiation of Brain Stem using Electrons, Intraoperative",D0013Z0
+773,D0063Z0,"Beam Radiation of Spinal Cord using Electrons, Intraoperative",D0063Z0
+774,D0073Z0,"Beam Radiation of Peripheral Nerve using Electrons, Intraoperative",D0073Z0
+775,DDY1CZZ,Intraoperative Radiation Therapy (IORT) of Stomach,DDY1CZZ
+776,DDY2CZZ,Intraoperative Radiation Therapy (IORT) of Duodenum,DDY2CZZ
+777,DDY3CZZ,Intraoperative Radiation Therapy (IORT) of Jejunum,DDY3CZZ
+778,DDY4CZZ,Intraoperative Radiation Therapy (IORT) of Ileum,DDY4CZZ
+779,DDY5CZZ,Intraoperative Radiation Therapy (IORT) of Colon,DDY5CZZ
+780,DDY7CZZ,Intraoperative Radiation Therapy (IORT) of Rectum,DDY7CZZ
+781,DDY8CZZ,Intraoperative Radiation Therapy (IORT) of Anus,DDY8CZZ
+782,DF003Z0,"Beam Radiation of Liver using Electrons, Intraoperative",DF003Z0
+783,DF013Z0,"Beam Radiation of Gallbladder using Electrons, Intraoperative",DF013Z0
+784,DF023Z0,"Beam Radiation of Bile Ducts using Electrons, Intraoperative",DF023Z0
+785,DF033Z0,"Beam Radiation of Pancreas using Electrons, Intraoperative",DF033Z0
+786,D7003Z0,"Beam Radiation of Bone Marrow using Electrons, Intraoperative",D7003Z0
+787,D7013Z0,"Beam Radiation of Thymus using Electrons, Intraoperative",D7013Z0
+788,D7023Z0,"Beam Radiation of Spleen using Electrons, Intraoperative",D7023Z0
+789,D7033Z0,"Beam Radiation of Neck Lymphatics using Electrons, Intraoperative",D7033Z0
+790,D7043Z0,"Beam Radiation of Axillary Lymphatics using Electrons, Intraoperative",D7043Z0
+791,D7053Z0,"Beam Radiation of Thorax Lymphatics using Electrons, Intraoperative",D7053Z0
+792,D7063Z0,"Beam Radiation of Abdomen Lymphatics using Electrons, Intraoperative",D7063Z0
+793,D7073Z0,"Beam Radiation of Pelvis Lymphatics using Electrons, Intraoperative",D7073Z0
+794,DFY0CZZ,Intraoperative Radiation Therapy (IORT) of Liver,DFY0CZZ
+795,DFY1CZZ,Intraoperative Radiation Therapy (IORT) of Gallbladder,DFY1CZZ
+796,DFY2CZZ,Intraoperative Radiation Therapy (IORT) of Bile Ducts,DFY2CZZ
+797,DFY3CZZ,Intraoperative Radiation Therapy (IORT) of Pancreas,DFY3CZZ
+798,DG003Z0,"Beam Radiation of Pituitary Gland using Electrons, Intraoperative",DG003Z0
+799,DG013Z0,"Beam Radiation of Pineal Body using Electrons, Intraoperative",DG013Z0
+800,DG023Z0,"Beam Radiation of Adrenal Glands using Electrons, Intraoperative",DG023Z0
+801,DG043Z0,"Beam Radiation of Parathyroid Glands using Electrons, Intraoperative",DG043Z0
+802,DG053Z0,"Beam Radiation of Thyroid using Electrons, Intraoperative",DG053Z0
+803,D7083Z0,"Beam Radiation of Inguinal Lymphatics using Electrons, Intraoperative",D7083Z0
+804,DH023Z0,"Beam Radiation of Face Skin using Electrons, Intraoperative",DH023Z0
+805,DH033Z0,"Beam Radiation of Neck Skin using Electrons, Intraoperative",DH033Z0
+806,DH043Z0,"Beam Radiation of Arm Skin using Electrons, Intraoperative",DH043Z0
+807,DH063Z0,"Beam Radiation of Chest Skin using Electrons, Intraoperative",DH063Z0
+808,DH073Z0,"Beam Radiation of Back Skin using Electrons, Intraoperative",DH073Z0
+809,D8003Z0,"Beam Radiation of Eye using Electrons, Intraoperative",D8003Z0
+810,DH083Z0,"Beam Radiation of Abdomen Skin using Electrons, Intraoperative",DH083Z0
+811,DH093Z0,"Beam Radiation of Buttock Skin using Electrons, Intraoperative",DH093Z0
+812,DH0B3Z0,"Beam Radiation of Leg Skin using Electrons, Intraoperative",DH0B3Z0
+813,DM003Z0,"Beam Radiation of Left Breast using Electrons, Intraoperative",DM003Z0
+814,DM013Z0,"Beam Radiation of Right Breast using Electrons, Intraoperative",DM013Z0
+815,D9003Z0,"Beam Radiation of Ear using Electrons, Intraoperative",D9003Z0
+816,D9013Z0,"Beam Radiation of Nose using Electrons, Intraoperative",D9013Z0
+817,D9033Z0,"Beam Radiation of Hypopharynx using Electrons, Intraoperative",D9033Z0
+818,D9043Z0,"Beam Radiation of Mouth using Electrons, Intraoperative",D9043Z0
+819,D9053Z0,"Beam Radiation of Tongue using Electrons, Intraoperative",D9053Z0
+820,D9063Z0,"Beam Radiation of Salivary Glands using Electrons, Intraoperative",D9063Z0
+821,D9073Z0,"Beam Radiation of Sinuses using Electrons, Intraoperative",D9073Z0
+822,D9083Z0,"Beam Radiation of Hard Palate using Electrons, Intraoperative",D9083Z0
+823,D9093Z0,"Beam Radiation of Soft Palate using Electrons, Intraoperative",D9093Z0
+824,DP003Z0,"Beam Radiation of Skull using Electrons, Intraoperative",DP003Z0
+825,DP023Z0,"Beam Radiation of Maxilla using Electrons, Intraoperative",DP023Z0
+826,DP033Z0,"Beam Radiation of Mandible using Electrons, Intraoperative",DP033Z0
+827,D90B3Z0,"Beam Radiation of Larynx using Electrons, Intraoperative",D90B3Z0
+828,D90D3Z0,"Beam Radiation of Nasopharynx using Electrons, Intraoperative",D90D3Z0
+829,D90F3Z0,"Beam Radiation of Oropharynx using Electrons, Intraoperative",D90F3Z0
+830,DP043Z0,"Beam Radiation of Sternum using Electrons, Intraoperative",DP043Z0
+831,DP053Z0,"Beam Radiation of Rib(s) using Electrons, Intraoperative",DP053Z0
+832,DP063Z0,"Beam Radiation of Humerus using Electrons, Intraoperative",DP063Z0
+833,DP073Z0,"Beam Radiation of Radius/Ulna using Electrons, Intraoperative",DP073Z0
+834,DP083Z0,"Beam Radiation of Pelvic Bones using Electrons, Intraoperative",DP083Z0
+835,DP093Z0,"Beam Radiation of Femur using Electrons, Intraoperative",DP093Z0
+836,DP0B3Z0,"Beam Radiation of Tibia/Fibula using Electrons, Intraoperative",DP0B3Z0
+837,DP0C3Z0,"Beam Radiation of Other Bone using Electrons, Intraoperative",DP0C3Z0
+838,DT003Z0,"Beam Radiation of Kidney using Electrons, Intraoperative",DT003Z0
+839,DT013Z0,"Beam Radiation of Ureter using Electrons, Intraoperative",DT013Z0
+840,DT023Z0,"Beam Radiation of Bladder using Electrons, Intraoperative",DT023Z0
+841,DT033Z0,"Beam Radiation of Urethra using Electrons, Intraoperative",DT033Z0
+842,DTY0CZZ,Intraoperative Radiation Therapy (IORT) of Kidney,DTY0CZZ
+843,DTY1CZZ,Intraoperative Radiation Therapy (IORT) of Ureter,DTY1CZZ
+844,DTY2CZZ,Intraoperative Radiation Therapy (IORT) of Bladder,DTY2CZZ
+845,DTY3CZZ,Intraoperative Radiation Therapy (IORT) of Urethra,DTY3CZZ
+846,D9Y4CZZ,Intraoperative Radiation Therapy (IORT) of Mouth,D9Y4CZZ
+847,D9YBCZZ,Intraoperative Radiation Therapy (IORT) of Larynx,D9YBCZZ
+848,D9YCCZZ,Intraoperative Radiation Therapy (IORT) of Pharynx,D9YCCZZ
+849,D9YDCZZ,Intraoperative Radiation Therapy (IORT) of Nasopharynx,D9YDCZZ
+850,DB003Z0,"Beam Radiation of Trachea using Electrons, Intraoperative",DB003Z0
+851,DB013Z0,"Beam Radiation of Bronchus using Electrons, Intraoperative",DB013Z0
+852,DU003Z0,"Beam Radiation of Ovary using Electrons, Intraoperative",DU003Z0
+853,DU013Z0,"Beam Radiation of Cervix using Electrons, Intraoperative",DU013Z0
+854,DU023Z0,"Beam Radiation of Uterus using Electrons, Intraoperative",DU023Z0
+908,BB12ZZZ,Fluoroscopy of Right Lung,BB12ZZZ
+909,BB13ZZZ,Fluoroscopy of Left Lung,BB13ZZZ
+910,BB14ZZZ,Fluoroscopy of Bilateral Lungs,BB14ZZZ
+980,0DBK4ZX,"Excision of Ascending Colon, Percutaneous Endoscopic Approach, Diagnostic",0DBK4ZX
+981,0DBL4ZX,"Excision of Transverse Colon, Percutaneous Endoscopic Approach, Diagnostic",0DBL4ZX
+982,0DBM4ZX,"Excision of Descending Colon, Percutaneous Endoscopic Approach, Diagnostic",0DBM4ZX
+983,0DBN4ZX,"Excision of Sigmoid Colon, Percutaneous Endoscopic Approach, Diagnostic",0DBN4ZX
+1233,DB026ZZ,Beam Radiation of Lung using Neutron Capture,DB026ZZ
+1234,DB056ZZ,Beam Radiation of Pleura using Neutron Capture,DB056ZZ
+1235,DB066ZZ,Beam Radiation of Mediastinum using Neutron Capture,DB066ZZ
+1236,DB076ZZ,Beam Radiation of Chest Wall using Neutron Capture,DB076ZZ
+1237,DB086ZZ,Beam Radiation of Diaphragm using Neutron Capture,DB086ZZ
+1238,DV006ZZ,Beam Radiation of Prostate using Neutron Capture,DV006ZZ
+1239,DV016ZZ,Beam Radiation of Testis using Neutron Capture,DV016ZZ
+1240,DW016ZZ,Beam Radiation of Head and Neck using Neutron Capture,DW016ZZ
+1241,DW026ZZ,Beam Radiation of Chest using Neutron Capture,DW026ZZ
+1242,DW036ZZ,Beam Radiation of Abdomen using Neutron Capture,DW036ZZ
+1243,DW046ZZ,Beam Radiation of Hemibody using Neutron Capture,DW046ZZ
+1244,DW056ZZ,Beam Radiation of Whole Body using Neutron Capture,DW056ZZ
+1245,DW066ZZ,Beam Radiation of Pelvic Region using Neutron Capture,DW066ZZ
+1246,DD006ZZ,Beam Radiation of Esophagus using Neutron Capture,DD006ZZ
+1247,DD016ZZ,Beam Radiation of Stomach using Neutron Capture,DD016ZZ
+1248,DD026ZZ,Beam Radiation of Duodenum using Neutron Capture,DD026ZZ
+1249,DD036ZZ,Beam Radiation of Jejunum using Neutron Capture,DD036ZZ
+1250,DD046ZZ,Beam Radiation of Ileum using Neutron Capture,DD046ZZ
+1251,DD056ZZ,Beam Radiation of Colon using Neutron Capture,DD056ZZ
+1252,DD076ZZ,Beam Radiation of Rectum using Neutron Capture,DD076ZZ
+1253,D0006ZZ,Beam Radiation of Brain using Neutron Capture,D0006ZZ
+1254,D0016ZZ,Beam Radiation of Brain Stem using Neutron Capture,D0016ZZ
+1255,D0066ZZ,Beam Radiation of Spinal Cord using Neutron Capture,D0066ZZ
+1256,D0076ZZ,Beam Radiation of Peripheral Nerve using Neutron Capture,D0076ZZ
+1257,DF006ZZ,Beam Radiation of Liver using Neutron Capture,DF006ZZ
+1258,DF016ZZ,Beam Radiation of Gallbladder using Neutron Capture,DF016ZZ
+1259,DF026ZZ,Beam Radiation of Bile Ducts using Neutron Capture,DF026ZZ
+1260,DF036ZZ,Beam Radiation of Pancreas using Neutron Capture,DF036ZZ
+1261,D7006ZZ,Beam Radiation of Bone Marrow using Neutron Capture,D7006ZZ
+1262,D7016ZZ,Beam Radiation of Thymus using Neutron Capture,D7016ZZ
+1263,D7026ZZ,Beam Radiation of Spleen using Neutron Capture,D7026ZZ
+1264,D7036ZZ,Beam Radiation of Neck Lymphatics using Neutron Capture,D7036ZZ
+1265,D7046ZZ,Beam Radiation of Axillary Lymphatics using Neutron Capture,D7046ZZ
+1266,D7056ZZ,Beam Radiation of Thorax Lymphatics using Neutron Capture,D7056ZZ
+1267,D7066ZZ,Beam Radiation of Abdomen Lymphatics using Neutron Capture,D7066ZZ
+1268,D7076ZZ,Beam Radiation of Pelvis Lymphatics using Neutron Capture,D7076ZZ
+1269,DG006ZZ,Beam Radiation of Pituitary Gland using Neutron Capture,DG006ZZ
+1270,DG016ZZ,Beam Radiation of Pineal Body using Neutron Capture,DG016ZZ
+1271,DG026ZZ,Beam Radiation of Adrenal Glands using Neutron Capture,DG026ZZ
+1272,DG046ZZ,Beam Radiation of Parathyroid Glands using Neutron Capture,DG046ZZ
+1273,DG056ZZ,Beam Radiation of Thyroid using Neutron Capture,DG056ZZ
+1274,D7086ZZ,Beam Radiation of Inguinal Lymphatics using Neutron Capture,D7086ZZ
+1275,DH026ZZ,Beam Radiation of Face Skin using Neutron Capture,DH026ZZ
+1276,DH036ZZ,Beam Radiation of Neck Skin using Neutron Capture,DH036ZZ
+1277,DH046ZZ,Beam Radiation of Arm Skin using Neutron Capture,DH046ZZ
+1278,DH066ZZ,Beam Radiation of Chest Skin using Neutron Capture,DH066ZZ
+1279,DH076ZZ,Beam Radiation of Back Skin using Neutron Capture,DH076ZZ
+1280,D8006ZZ,Beam Radiation of Eye using Neutron Capture,D8006ZZ
+1281,DH086ZZ,Beam Radiation of Abdomen Skin using Neutron Capture,DH086ZZ
+1282,DH096ZZ,Beam Radiation of Buttock Skin using Neutron Capture,DH096ZZ
+1283,DH0B6ZZ,Beam Radiation of Leg Skin using Neutron Capture,DH0B6ZZ
+1284,DM006ZZ,Beam Radiation of Left Breast using Neutron Capture,DM006ZZ
+1285,DM016ZZ,Beam Radiation of Right Breast using Neutron Capture,DM016ZZ
+1286,D9006ZZ,Beam Radiation of Ear using Neutron Capture,D9006ZZ
+1287,D9016ZZ,Beam Radiation of Nose using Neutron Capture,D9016ZZ
+1288,D9036ZZ,Beam Radiation of Hypopharynx using Neutron Capture,D9036ZZ
+1289,D9046ZZ,Beam Radiation of Mouth using Neutron Capture,D9046ZZ
+1290,D9056ZZ,Beam Radiation of Tongue using Neutron Capture,D9056ZZ
+1291,D9066ZZ,Beam Radiation of Salivary Glands using Neutron Capture,D9066ZZ
+1292,D9076ZZ,Beam Radiation of Sinuses using Neutron Capture,D9076ZZ
+1293,D9086ZZ,Beam Radiation of Hard Palate using Neutron Capture,D9086ZZ
+1294,DP006ZZ,Beam Radiation of Skull using Neutron Capture,DP006ZZ
+1295,DP026ZZ,Beam Radiation of Maxilla using Neutron Capture,DP026ZZ
+1296,DP036ZZ,Beam Radiation of Mandible using Neutron Capture,DP036ZZ
+1297,D9096ZZ,Beam Radiation of Soft Palate using Neutron Capture,D9096ZZ
+1298,D90B6ZZ,Beam Radiation of Larynx using Neutron Capture,D90B6ZZ
+1299,D90D6ZZ,Beam Radiation of Nasopharynx using Neutron Capture,D90D6ZZ
+1300,D90F6ZZ,Beam Radiation of Oropharynx using Neutron Capture,D90F6ZZ
+1301,DP046ZZ,Beam Radiation of Sternum using Neutron Capture,DP046ZZ
+1302,DP056ZZ,Beam Radiation of Rib(s) using Neutron Capture,DP056ZZ
+1303,DP066ZZ,Beam Radiation of Humerus using Neutron Capture,DP066ZZ
+1304,DP076ZZ,Beam Radiation of Radius/Ulna using Neutron Capture,DP076ZZ
+1305,DP086ZZ,Beam Radiation of Pelvic Bones using Neutron Capture,DP086ZZ
+1306,DP096ZZ,Beam Radiation of Femur using Neutron Capture,DP096ZZ
+1307,DP0B6ZZ,Beam Radiation of Tibia/Fibula using Neutron Capture,DP0B6ZZ
+1308,DP0C6ZZ,Beam Radiation of Other Bone using Neutron Capture,DP0C6ZZ
+1309,DT006ZZ,Beam Radiation of Kidney using Neutron Capture,DT006ZZ
+1310,DT016ZZ,Beam Radiation of Ureter using Neutron Capture,DT016ZZ
+1311,DT026ZZ,Beam Radiation of Bladder using Neutron Capture,DT026ZZ
+1312,DT036ZZ,Beam Radiation of Urethra using Neutron Capture,DT036ZZ
+1313,DB006ZZ,Beam Radiation of Trachea using Neutron Capture,DB006ZZ
+1314,DB016ZZ,Beam Radiation of Bronchus using Neutron Capture,DB016ZZ
+1315,DU006ZZ,Beam Radiation of Ovary using Neutron Capture,DU006ZZ
+1316,DU016ZZ,Beam Radiation of Cervix using Neutron Capture,DU016ZZ
+1317,DU026ZZ,Beam Radiation of Uterus using Neutron Capture,DU026ZZ
+1579,0BBC0ZX,"Excision of Right Upper Lung Lobe, Open Approach, Diagnostic",0BBC0ZX
+1580,0BBC8ZX,"Excision of Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBC8ZX
+1581,0BBC8ZZ,"Excision of Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBC8ZZ
+1582,0BBF0ZX,"Excision of Right Lower Lung Lobe, Open Approach, Diagnostic",0BBF0ZX
+1583,0BBF8ZX,"Excision of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBF8ZX
+1584,0BBF8ZZ,"Excision of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBF8ZZ
+1585,0BBG0ZX,"Excision of Left Upper Lung Lobe, Open Approach, Diagnostic",0BBG0ZX
+1586,0BBG8ZX,"Excision of Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBG8ZX
+1587,0BBG8ZZ,"Excision of Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBG8ZZ
+1588,0BBJ0ZX,"Excision of Left Lower Lung Lobe, Open Approach, Diagnostic",0BBJ0ZX
+1589,0BBJ8ZX,"Excision of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBJ8ZX
+1590,0BBJ8ZZ,"Excision of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBJ8ZZ
+1615,0BB93ZZ,"Excision of Lingula Bronchus, Percutaneous Approach",0BB93ZZ
+1616,0BB94ZZ,"Excision of Lingula Bronchus, Percutaneous Endoscopic Approach",0BB94ZZ
+1617,0BB97ZZ,"Excision of Lingula Bronchus, Via Natural or Artificial Opening",0BB97ZZ
+1618,0BB98ZZ,"Excision of Lingula Bronchus, Via Natural or Artificial Opening Endoscopic",0BB98ZZ
+1619,0BT94ZZ,"Resection of Lingula Bronchus, Percutaneous Endoscopic Approach",0BT94ZZ
+2134,02BQ0ZX,"Excision of Right Pulmonary Artery, Open Approach, Diagnostic",02BQ0ZX
+2135,02BR0ZX,"Excision of Left Pulmonary Artery, Open Approach, Diagnostic",02BR0ZX
+2136,0BB90ZX,"Excision of Lingula Bronchus, Open Approach, Diagnostic",0BB90ZX
+2141,0BBD0ZX,"Excision of Right Middle Lung Lobe, Open Approach, Diagnostic",0BBD0ZX
+2144,0BBH0ZX,"Excision of Lung Lingula, Open Approach, Diagnostic",0BBH0ZX
+2220,0BBH0ZZ,"Excision of Lung Lingula, Open Approach",0BBH0ZZ
+2221,0BBH3ZX,"Excision of Lung Lingula, Percutaneous Approach, Diagnostic",0BBH3ZX
+2222,0BBH3ZZ,"Excision of Lung Lingula, Percutaneous Approach",0BBH3ZZ
+2223,0BBH4ZX,"Excision of Lung Lingula, Percutaneous Endoscopic Approach, Diagnostic",0BBH4ZX
+2224,0BBH4ZZ,"Excision of Lung Lingula, Percutaneous Endoscopic Approach",0BBH4ZZ
+2225,0BBH7ZX,"Excision of Lung Lingula, Via Natural or Artificial Opening, Diagnostic",0BBH7ZX
+2226,0BBH7ZZ,"Excision of Lung Lingula, Via Natural or Artificial Opening",0BBH7ZZ
+2227,0BBH8ZX,"Excision of Lung Lingula, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBH8ZX
+2228,0BBH8ZZ,"Excision of Lung Lingula, Via Natural or Artificial Opening Endoscopic",0BBH8ZZ
+2229,0BTH0ZZ,"Resection of Lung Lingula, Open Approach",0BTH0ZZ
+2230,0BTH4ZZ,"Resection of Lung Lingula, Percutaneous Endoscopic Approach",0BTH4ZZ
+2683,BB2400Z,"Computerized Tomography (CT Scan) of Bilateral Lungs using High Osmolar Contrast, Unenhanced and Enhanced",BB2400Z
+2684,BB240ZZ,Computerized Tomography (CT Scan) of Bilateral Lungs using High Osmolar Contrast,BB240ZZ
+2685,BB2410Z,"Computerized Tomography (CT Scan) of Bilateral Lungs using Low Osmolar Contrast, Unenhanced and Enhanced",BB2410Z
+2686,BB241ZZ,Computerized Tomography (CT Scan) of Bilateral Lungs using Low Osmolar Contrast,BB241ZZ
+2687,BB24Y0Z,"Computerized Tomography (CT Scan) of Bilateral Lungs using Other Contrast, Unenhanced and Enhanced",BB24Y0Z
+2688,BB24YZZ,Computerized Tomography (CT Scan) of Bilateral Lungs using Other Contrast,BB24YZZ
+2689,BB24ZZZ,Computerized Tomography (CT Scan) of Bilateral Lungs,BB24ZZZ
+2725,BB3GY0Z,"Magnetic Resonance Imaging (MRI) of Lung Apices using Other Contrast, Unenhanced and Enhanced",BB3GY0Z
+2726,BB3GYZZ,Magnetic Resonance Imaging (MRI) of Lung Apices using Other Contrast,BB3GYZZ
+2727,BB3GZZZ,Magnetic Resonance Imaging (MRI) of Lung Apices,BB3GZZZ
+2749,0BB93ZX,"Excision of Lingula Bronchus, Percutaneous Approach, Diagnostic",0BB93ZX
+2750,0BB94ZX,"Excision of Lingula Bronchus, Percutaneous Endoscopic Approach, Diagnostic",0BB94ZX
+2751,0BB97ZX,"Excision of Lingula Bronchus, Via Natural or Artificial Opening, Diagnostic",0BB97ZX
+2752,0BB98ZX,"Excision of Lingula Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BB98ZX
+2753,0BD94ZX,"Extraction of Lingula Bronchus, Percutaneous Endoscopic Approach, Diagnostic",0BD94ZX
+2754,0BD98ZX,"Extraction of Lingula Bronchus, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BD98ZX
+2786,0BTK0ZZ,"Resection of Right Lung, Open Approach",0BTK0ZZ
+2787,0BTL0ZZ,"Resection of Left Lung, Open Approach",0BTL0ZZ
+2788,0BTM0ZZ,"Resection of Bilateral Lungs, Open Approach",0BTM0ZZ
+2792,0BTK4ZZ,"Resection of Right Lung, Percutaneous Endoscopic Approach",0BTK4ZZ
+2793,0BTL4ZZ,"Resection of Left Lung, Percutaneous Endoscopic Approach",0BTL4ZZ
+2794,0BTM4ZZ,"Resection of Bilateral Lungs, Percutaneous Endoscopic Approach",0BTM4ZZ
+3139,D0001ZZ,Beam Radiation of Brain using Photons 1 - 10 MeV,D0001ZZ
+3140,D0011ZZ,Beam Radiation of Brain Stem using Photons 1 - 10 MeV,D0011ZZ
+3141,D0061ZZ,Beam Radiation of Spinal Cord using Photons 1 - 10 MeV,D0061ZZ
+3142,D0062ZZ,Beam Radiation of Spinal Cord using Photons >10 MeV,D0062ZZ
+3143,D0072ZZ,Beam Radiation of Peripheral Nerve using Photons >10 MeV,D0072ZZ
+3144,D7001ZZ,Beam Radiation of Bone Marrow using Photons 1 - 10 MeV,D7001ZZ
+3145,D7011ZZ,Beam Radiation of Thymus using Photons 1 - 10 MeV,D7011ZZ
+3146,D7022ZZ,Beam Radiation of Spleen using Photons >10 MeV,D7022ZZ
+3147,D7032ZZ,Beam Radiation of Neck Lymphatics using Photons >10 MeV,D7032ZZ
+3148,D7041ZZ,Beam Radiation of Axillary Lymphatics using Photons 1 - 10 MeV,D7041ZZ
+3149,D7042ZZ,Beam Radiation of Axillary Lymphatics using Photons >10 MeV,D7042ZZ
+3150,D7051ZZ,Beam Radiation of Thorax Lymphatics using Photons 1 - 10 MeV,D7051ZZ
+3151,D7052ZZ,Beam Radiation of Thorax Lymphatics using Photons >10 MeV,D7052ZZ
+3152,D7061ZZ,Beam Radiation of Abdomen Lymphatics using Photons 1 - 10 MeV,D7061ZZ
+3153,D7062ZZ,Beam Radiation of Abdomen Lymphatics using Photons >10 MeV,D7062ZZ
+3154,D7072ZZ,Beam Radiation of Pelvis Lymphatics using Photons >10 MeV,D7072ZZ
+3155,D7081ZZ,Beam Radiation of Inguinal Lymphatics using Photons 1 - 10 MeV,D7081ZZ
+3156,D7082ZZ,Beam Radiation of Inguinal Lymphatics using Photons >10 MeV,D7082ZZ
+3157,D8001ZZ,Beam Radiation of Eye using Photons 1 - 10 MeV,D8001ZZ
+3158,D9051ZZ,Beam Radiation of Tongue using Photons 1 - 10 MeV,D9051ZZ
+3159,D9052ZZ,Beam Radiation of Tongue using Photons >10 MeV,D9052ZZ
+3160,D9061ZZ,Beam Radiation of Salivary Glands using Photons 1 - 10 MeV,D9061ZZ
+3161,D9071ZZ,Beam Radiation of Sinuses using Photons 1 - 10 MeV,D9071ZZ
+3162,D9072ZZ,Beam Radiation of Sinuses using Photons >10 MeV,D9072ZZ
+3163,D9092ZZ,Beam Radiation of Soft Palate using Photons >10 MeV,D9092ZZ
+3164,D90B1ZZ,Beam Radiation of Larynx using Photons 1 - 10 MeV,D90B1ZZ
+3165,DB052ZZ,Beam Radiation of Pleura using Photons >10 MeV,DB052ZZ
+3166,DB071ZZ,Beam Radiation of Chest Wall using Photons 1 - 10 MeV,DB071ZZ
+3167,DD002ZZ,Beam Radiation of Esophagus using Photons >10 MeV,DD002ZZ
+3168,DD011ZZ,Beam Radiation of Stomach using Photons 1 - 10 MeV,DD011ZZ
+3169,DD021ZZ,Beam Radiation of Duodenum using Photons 1 - 10 MeV,DD021ZZ
+3170,DD051ZZ,Beam Radiation of Colon using Photons 1 - 10 MeV,DD051ZZ
+3171,DD071ZZ,Beam Radiation of Rectum using Photons 1 - 10 MeV,DD071ZZ
+3172,DF001ZZ,Beam Radiation of Liver using Photons 1 - 10 MeV,DF001ZZ
+3173,DF031ZZ,Beam Radiation of Pancreas using Photons 1 - 10 MeV,DF031ZZ
+3174,DG001ZZ,Beam Radiation of Pituitary Gland using Photons 1 - 10 MeV,DG001ZZ
+3175,DG002ZZ,Beam Radiation of Pituitary Gland using Photons >10 MeV,DG002ZZ
+3176,DG011ZZ,Beam Radiation of Pineal Body using Photons 1 - 10 MeV,DG011ZZ
+3177,DG051ZZ,Beam Radiation of Thyroid using Photons 1 - 10 MeV,DG051ZZ
+3178,DH062ZZ,Beam Radiation of Chest Skin using Photons >10 MeV,DH062ZZ
+3179,DH071ZZ,Beam Radiation of Back Skin using Photons 1 - 10 MeV,DH071ZZ
+3180,DH072ZZ,Beam Radiation of Back Skin using Photons >10 MeV,DH072ZZ
+3181,DH0B1ZZ,Beam Radiation of Leg Skin using Photons 1 - 10 MeV,DH0B1ZZ
+3182,DH0B2ZZ,Beam Radiation of Leg Skin using Photons >10 MeV,DH0B2ZZ
+3183,DM001ZZ,Beam Radiation of Left Breast using Photons 1 - 10 MeV,DM001ZZ
+3184,DM012ZZ,Beam Radiation of Right Breast using Photons >10 MeV,DM012ZZ
+3185,DP021ZZ,Beam Radiation of Maxilla using Photons 1 - 10 MeV,DP021ZZ
+3186,DP041ZZ,Beam Radiation of Sternum using Photons 1 - 10 MeV,DP041ZZ
+3187,DP051ZZ,Beam Radiation of Rib(s) using Photons 1 - 10 MeV,DP051ZZ
+3188,DP061ZZ,Beam Radiation of Humerus using Photons 1 - 10 MeV,DP061ZZ
+3189,DP062ZZ,Beam Radiation of Humerus using Photons >10 MeV,DP062ZZ
+3190,DP071ZZ,Beam Radiation of Radius/Ulna using Photons 1 - 10 MeV,DP071ZZ
+3191,DP091ZZ,Beam Radiation of Femur using Photons 1 - 10 MeV,DP091ZZ
+3192,DP092ZZ,Beam Radiation of Femur using Photons >10 MeV,DP092ZZ
+3193,DP0B2ZZ,Beam Radiation of Tibia/Fibula using Photons >10 MeV,DP0B2ZZ
+3194,DP0C1ZZ,Beam Radiation of Other Bone using Photons 1 - 10 MeV,DP0C1ZZ
+3195,DP0C2ZZ,Beam Radiation of Other Bone using Photons >10 MeV,DP0C2ZZ
+3196,DT001ZZ,Beam Radiation of Kidney using Photons 1 - 10 MeV,DT001ZZ
+3197,DT002ZZ,Beam Radiation of Kidney using Photons >10 MeV,DT002ZZ
+3198,DT022ZZ,Beam Radiation of Bladder using Photons >10 MeV,DT022ZZ
+3199,DV002ZZ,Beam Radiation of Prostate using Photons >10 MeV,DV002ZZ
+3200,DV011ZZ,Beam Radiation of Testis using Photons 1 - 10 MeV,DV011ZZ
+3201,DW012ZZ,Beam Radiation of Head and Neck using Photons >10 MeV,DW012ZZ
+3202,DW022ZZ,Beam Radiation of Chest using Photons >10 MeV,DW022ZZ
+3203,DW041ZZ,Beam Radiation of Hemibody using Photons 1 - 10 MeV,DW041ZZ
+3204,DW061ZZ,Beam Radiation of Pelvic Region using Photons 1 - 10 MeV,DW061ZZ
+3205,D0002ZZ,Beam Radiation of Brain using Photons >10 MeV,D0002ZZ
+3206,D0012ZZ,Beam Radiation of Brain Stem using Photons >10 MeV,D0012ZZ
+3207,D7002ZZ,Beam Radiation of Bone Marrow using Photons >10 MeV,D7002ZZ
+3208,D7021ZZ,Beam Radiation of Spleen using Photons 1 - 10 MeV,D7021ZZ
+3209,D7031ZZ,Beam Radiation of Neck Lymphatics using Photons 1 - 10 MeV,D7031ZZ
+3210,D7071ZZ,Beam Radiation of Pelvis Lymphatics using Photons 1 - 10 MeV,D7071ZZ
+3211,D8002ZZ,Beam Radiation of Eye using Photons >10 MeV,D8002ZZ
+3212,D9001ZZ,Beam Radiation of Ear using Photons 1 - 10 MeV,D9001ZZ
+3213,D9011ZZ,Beam Radiation of Nose using Photons 1 - 10 MeV,D9011ZZ
+3214,D9012ZZ,Beam Radiation of Nose using Photons >10 MeV,D9012ZZ
+3215,D9031ZZ,Beam Radiation of Hypopharynx using Photons 1 - 10 MeV,D9031ZZ
+3216,D9041ZZ,Beam Radiation of Mouth using Photons 1 - 10 MeV,D9041ZZ
+3217,D9081ZZ,Beam Radiation of Hard Palate using Photons 1 - 10 MeV,D9081ZZ
+3218,D9082ZZ,Beam Radiation of Hard Palate using Photons >10 MeV,D9082ZZ
+3219,D9091ZZ,Beam Radiation of Soft Palate using Photons 1 - 10 MeV,D9091ZZ
+3220,D90B2ZZ,Beam Radiation of Larynx using Photons >10 MeV,D90B2ZZ
+3221,D90D1ZZ,Beam Radiation of Nasopharynx using Photons 1 - 10 MeV,D90D1ZZ
+3222,D90D2ZZ,Beam Radiation of Nasopharynx using Photons >10 MeV,D90D2ZZ
+3223,D90F1ZZ,Beam Radiation of Oropharynx using Photons 1 - 10 MeV,D90F1ZZ
+3224,DB001ZZ,Beam Radiation of Trachea using Photons 1 - 10 MeV,DB001ZZ
+3225,DB011ZZ,Beam Radiation of Bronchus using Photons 1 - 10 MeV,DB011ZZ
+3226,DB021ZZ,Beam Radiation of Lung using Photons 1 - 10 MeV,DB021ZZ
+3227,DB022ZZ,Beam Radiation of Lung using Photons >10 MeV,DB022ZZ
+3228,DB061ZZ,Beam Radiation of Mediastinum using Photons 1 - 10 MeV,DB061ZZ
+3229,DB062ZZ,Beam Radiation of Mediastinum using Photons >10 MeV,DB062ZZ
+3230,DB072ZZ,Beam Radiation of Chest Wall using Photons >10 MeV,DB072ZZ
+3231,DD001ZZ,Beam Radiation of Esophagus using Photons 1 - 10 MeV,DD001ZZ
+3232,DD012ZZ,Beam Radiation of Stomach using Photons >10 MeV,DD012ZZ
+3233,DD052ZZ,Beam Radiation of Colon using Photons >10 MeV,DD052ZZ
+3234,DD072ZZ,Beam Radiation of Rectum using Photons >10 MeV,DD072ZZ
+3235,DF002ZZ,Beam Radiation of Liver using Photons >10 MeV,DF002ZZ
+3236,DF021ZZ,Beam Radiation of Bile Ducts using Photons 1 - 10 MeV,DF021ZZ
+3237,DF022ZZ,Beam Radiation of Bile Ducts using Photons >10 MeV,DF022ZZ
+3238,DF032ZZ,Beam Radiation of Pancreas using Photons >10 MeV,DF032ZZ
+3239,DG021ZZ,Beam Radiation of Adrenal Glands using Photons 1 - 10 MeV,DG021ZZ
+3240,DG022ZZ,Beam Radiation of Adrenal Glands using Photons >10 MeV,DG022ZZ
+3241,DG052ZZ,Beam Radiation of Thyroid using Photons >10 MeV,DG052ZZ
+3242,DH021ZZ,Beam Radiation of Face Skin using Photons 1 - 10 MeV,DH021ZZ
+3243,DH031ZZ,Beam Radiation of Neck Skin using Photons 1 - 10 MeV,DH031ZZ
+3244,DH041ZZ,Beam Radiation of Arm Skin using Photons 1 - 10 MeV,DH041ZZ
+3245,DH061ZZ,Beam Radiation of Chest Skin using Photons 1 - 10 MeV,DH061ZZ
+3246,DH081ZZ,Beam Radiation of Abdomen Skin using Photons 1 - 10 MeV,DH081ZZ
+3247,DH092ZZ,Beam Radiation of Buttock Skin using Photons >10 MeV,DH092ZZ
+3248,DM002ZZ,Beam Radiation of Left Breast using Photons >10 MeV,DM002ZZ
+3249,DM011ZZ,Beam Radiation of Right Breast using Photons 1 - 10 MeV,DM011ZZ
+3250,DP001ZZ,Beam Radiation of Skull using Photons 1 - 10 MeV,DP001ZZ
+3251,DP002ZZ,Beam Radiation of Skull using Photons >10 MeV,DP002ZZ
+3252,DP022ZZ,Beam Radiation of Maxilla using Photons >10 MeV,DP022ZZ
+3253,DP031ZZ,Beam Radiation of Mandible using Photons 1 - 10 MeV,DP031ZZ
+3254,DP052ZZ,Beam Radiation of Rib(s) using Photons >10 MeV,DP052ZZ
+3255,DP072ZZ,Beam Radiation of Radius/Ulna using Photons >10 MeV,DP072ZZ
+3256,DP081ZZ,Beam Radiation of Pelvic Bones using Photons 1 - 10 MeV,DP081ZZ
+3257,DP082ZZ,Beam Radiation of Pelvic Bones using Photons >10 MeV,DP082ZZ
+3258,DP0B1ZZ,Beam Radiation of Tibia/Fibula using Photons 1 - 10 MeV,DP0B1ZZ
+3259,DT021ZZ,Beam Radiation of Bladder using Photons 1 - 10 MeV,DT021ZZ
+3260,DU002ZZ,Beam Radiation of Ovary using Photons >10 MeV,DU002ZZ
+3261,DU011ZZ,Beam Radiation of Cervix using Photons 1 - 10 MeV,DU011ZZ
+3262,DU022ZZ,Beam Radiation of Uterus using Photons >10 MeV,DU022ZZ
+3263,DV001ZZ,Beam Radiation of Prostate using Photons 1 - 10 MeV,DV001ZZ
+3264,DW011ZZ,Beam Radiation of Head and Neck using Photons 1 - 10 MeV,DW011ZZ
+3265,DW021ZZ,Beam Radiation of Chest using Photons 1 - 10 MeV,DW021ZZ
+3266,DW031ZZ,Beam Radiation of Abdomen using Photons 1 - 10 MeV,DW031ZZ
+3267,DW032ZZ,Beam Radiation of Abdomen using Photons >10 MeV,DW032ZZ
+3268,DW042ZZ,Beam Radiation of Hemibody using Photons >10 MeV,DW042ZZ
+3269,DW062ZZ,Beam Radiation of Pelvic Region using Photons >10 MeV,DW062ZZ
+3270,D0000ZZ,Beam Radiation of Brain using Photons <1 MeV,D0000ZZ
+3272,D0003ZZ,Beam Radiation of Brain using Electrons,D0003ZZ
+3273,D0010ZZ,Beam Radiation of Brain Stem using Photons <1 MeV,D0010ZZ
+3275,D0013ZZ,Beam Radiation of Brain Stem using Electrons,D0013ZZ
+3276,D0060ZZ,Beam Radiation of Spinal Cord using Photons <1 MeV,D0060ZZ
+3278,D0063ZZ,Beam Radiation of Spinal Cord using Electrons,D0063ZZ
+3279,D0070ZZ,Beam Radiation of Peripheral Nerve using Photons <1 MeV,D0070ZZ
+3280,D0071ZZ,Beam Radiation of Peripheral Nerve using Photons 1 - 10 MeV,D0071ZZ
+3282,D0073ZZ,Beam Radiation of Peripheral Nerve using Electrons,D0073ZZ
+3283,D7000ZZ,Beam Radiation of Bone Marrow using Photons <1 MeV,D7000ZZ
+3285,D7003ZZ,Beam Radiation of Bone Marrow using Electrons,D7003ZZ
+3286,D7010ZZ,Beam Radiation of Thymus using Photons <1 MeV,D7010ZZ
+3287,D7012ZZ,Beam Radiation of Thymus using Photons >10 MeV,D7012ZZ
+3289,D7013ZZ,Beam Radiation of Thymus using Electrons,D7013ZZ
+3290,D7020ZZ,Beam Radiation of Spleen using Photons <1 MeV,D7020ZZ
+3292,D7023ZZ,Beam Radiation of Spleen using Electrons,D7023ZZ
+3293,D7030ZZ,Beam Radiation of Neck Lymphatics using Photons <1 MeV,D7030ZZ
+3295,D7033ZZ,Beam Radiation of Neck Lymphatics using Electrons,D7033ZZ
+3296,D7040ZZ,Beam Radiation of Axillary Lymphatics using Photons <1 MeV,D7040ZZ
+3298,D7043ZZ,Beam Radiation of Axillary Lymphatics using Electrons,D7043ZZ
+3299,D7050ZZ,Beam Radiation of Thorax Lymphatics using Photons <1 MeV,D7050ZZ
+3301,D7053ZZ,Beam Radiation of Thorax Lymphatics using Electrons,D7053ZZ
+3302,D7060ZZ,Beam Radiation of Abdomen Lymphatics using Photons <1 MeV,D7060ZZ
+3304,D7063ZZ,Beam Radiation of Abdomen Lymphatics using Electrons,D7063ZZ
+3305,D7070ZZ,Beam Radiation of Pelvis Lymphatics using Photons <1 MeV,D7070ZZ
+3307,D7073ZZ,Beam Radiation of Pelvis Lymphatics using Electrons,D7073ZZ
+3308,D7080ZZ,Beam Radiation of Inguinal Lymphatics using Photons <1 MeV,D7080ZZ
+3310,D7083ZZ,Beam Radiation of Inguinal Lymphatics using Electrons,D7083ZZ
+3311,D8000ZZ,Beam Radiation of Eye using Photons <1 MeV,D8000ZZ
+3313,D8003ZZ,Beam Radiation of Eye using Electrons,D8003ZZ
+3314,D9000ZZ,Beam Radiation of Ear using Photons <1 MeV,D9000ZZ
+3315,D9002ZZ,Beam Radiation of Ear using Photons >10 MeV,D9002ZZ
+3317,D9003ZZ,Beam Radiation of Ear using Electrons,D9003ZZ
+3318,D9010ZZ,Beam Radiation of Nose using Photons <1 MeV,D9010ZZ
+3320,D9013ZZ,Beam Radiation of Nose using Electrons,D9013ZZ
+3321,D9030ZZ,Beam Radiation of Hypopharynx using Photons <1 MeV,D9030ZZ
+3322,D9032ZZ,Beam Radiation of Hypopharynx using Photons >10 MeV,D9032ZZ
+3324,D9033ZZ,Beam Radiation of Hypopharynx using Electrons,D9033ZZ
+3325,D9040ZZ,Beam Radiation of Mouth using Photons <1 MeV,D9040ZZ
+3326,D9042ZZ,Beam Radiation of Mouth using Photons >10 MeV,D9042ZZ
+3328,D9043ZZ,Beam Radiation of Mouth using Electrons,D9043ZZ
+3329,D9050ZZ,Beam Radiation of Tongue using Photons <1 MeV,D9050ZZ
+3331,D9053ZZ,Beam Radiation of Tongue using Electrons,D9053ZZ
+3332,D9060ZZ,Beam Radiation of Salivary Glands using Photons <1 MeV,D9060ZZ
+3333,D9062ZZ,Beam Radiation of Salivary Glands using Photons >10 MeV,D9062ZZ
+3335,D9063ZZ,Beam Radiation of Salivary Glands using Electrons,D9063ZZ
+3336,D9070ZZ,Beam Radiation of Sinuses using Photons <1 MeV,D9070ZZ
+3338,D9073ZZ,Beam Radiation of Sinuses using Electrons,D9073ZZ
+3339,D9080ZZ,Beam Radiation of Hard Palate using Photons <1 MeV,D9080ZZ
+3341,D9083ZZ,Beam Radiation of Hard Palate using Electrons,D9083ZZ
+3342,D9090ZZ,Beam Radiation of Soft Palate using Photons <1 MeV,D9090ZZ
+3344,D9093ZZ,Beam Radiation of Soft Palate using Electrons,D9093ZZ
+3345,D90B0ZZ,Beam Radiation of Larynx using Photons <1 MeV,D90B0ZZ
+3347,D90B3ZZ,Beam Radiation of Larynx using Electrons,D90B3ZZ
+3348,D90D0ZZ,Beam Radiation of Nasopharynx using Photons <1 MeV,D90D0ZZ
+3350,D90D3ZZ,Beam Radiation of Nasopharynx using Electrons,D90D3ZZ
+3351,D90F0ZZ,Beam Radiation of Oropharynx using Photons <1 MeV,D90F0ZZ
+3352,D90F2ZZ,Beam Radiation of Oropharynx using Photons >10 MeV,D90F2ZZ
+3354,D90F3ZZ,Beam Radiation of Oropharynx using Electrons,D90F3ZZ
+3355,DB000ZZ,Beam Radiation of Trachea using Photons <1 MeV,DB000ZZ
+3357,DB003ZZ,Beam Radiation of Trachea using Electrons,DB003ZZ
+3358,DB010ZZ,Beam Radiation of Bronchus using Photons <1 MeV,DB010ZZ
+3360,DB013ZZ,Beam Radiation of Bronchus using Electrons,DB013ZZ
+3361,DB020ZZ,Beam Radiation of Lung using Photons <1 MeV,DB020ZZ
+3363,DB023ZZ,Beam Radiation of Lung using Electrons,DB023ZZ
+3364,DB050ZZ,Beam Radiation of Pleura using Photons <1 MeV,DB050ZZ
+3366,DB053ZZ,Beam Radiation of Pleura using Electrons,DB053ZZ
+3367,DB060ZZ,Beam Radiation of Mediastinum using Photons <1 MeV,DB060ZZ
+3369,DB063ZZ,Beam Radiation of Mediastinum using Electrons,DB063ZZ
+3370,DB070ZZ,Beam Radiation of Chest Wall using Photons <1 MeV,DB070ZZ
+3372,DB073ZZ,Beam Radiation of Chest Wall using Electrons,DB073ZZ
+3373,DB080ZZ,Beam Radiation of Diaphragm using Photons <1 MeV,DB080ZZ
+3374,DB081ZZ,Beam Radiation of Diaphragm using Photons 1 - 10 MeV,DB081ZZ
+3375,DB082ZZ,Beam Radiation of Diaphragm using Photons >10 MeV,DB082ZZ
+3377,DB083ZZ,Beam Radiation of Diaphragm using Electrons,DB083ZZ
+3378,DD000ZZ,Beam Radiation of Esophagus using Photons <1 MeV,DD000ZZ
+3380,DD003ZZ,Beam Radiation of Esophagus using Electrons,DD003ZZ
+3381,DD010ZZ,Beam Radiation of Stomach using Photons <1 MeV,DD010ZZ
+3383,DD013ZZ,Beam Radiation of Stomach using Electrons,DD013ZZ
+3384,DD020ZZ,Beam Radiation of Duodenum using Photons <1 MeV,DD020ZZ
+3385,DD022ZZ,Beam Radiation of Duodenum using Photons >10 MeV,DD022ZZ
+3387,DD023ZZ,Beam Radiation of Duodenum using Electrons,DD023ZZ
+3388,DD030ZZ,Beam Radiation of Jejunum using Photons <1 MeV,DD030ZZ
+3389,DD031ZZ,Beam Radiation of Jejunum using Photons 1 - 10 MeV,DD031ZZ
+3390,DD032ZZ,Beam Radiation of Jejunum using Photons >10 MeV,DD032ZZ
+3392,DD033ZZ,Beam Radiation of Jejunum using Electrons,DD033ZZ
+3393,DD040ZZ,Beam Radiation of Ileum using Photons <1 MeV,DD040ZZ
+3394,DD041ZZ,Beam Radiation of Ileum using Photons 1 - 10 MeV,DD041ZZ
+3395,DD042ZZ,Beam Radiation of Ileum using Photons >10 MeV,DD042ZZ
+3397,DD043ZZ,Beam Radiation of Ileum using Electrons,DD043ZZ
+3398,DD050ZZ,Beam Radiation of Colon using Photons <1 MeV,DD050ZZ
+3400,DD053ZZ,Beam Radiation of Colon using Electrons,DD053ZZ
+3401,DD070ZZ,Beam Radiation of Rectum using Photons <1 MeV,DD070ZZ
+3403,DD073ZZ,Beam Radiation of Rectum using Electrons,DD073ZZ
+3404,DF000ZZ,Beam Radiation of Liver using Photons <1 MeV,DF000ZZ
+3406,DF003ZZ,Beam Radiation of Liver using Electrons,DF003ZZ
+3407,DF010ZZ,Beam Radiation of Gallbladder using Photons <1 MeV,DF010ZZ
+3408,DF011ZZ,Beam Radiation of Gallbladder using Photons 1 - 10 MeV,DF011ZZ
+3409,DF012ZZ,Beam Radiation of Gallbladder using Photons >10 MeV,DF012ZZ
+3411,DF013ZZ,Beam Radiation of Gallbladder using Electrons,DF013ZZ
+3412,DF020ZZ,Beam Radiation of Bile Ducts using Photons <1 MeV,DF020ZZ
+3414,DF023ZZ,Beam Radiation of Bile Ducts using Electrons,DF023ZZ
+3415,DF030ZZ,Beam Radiation of Pancreas using Photons <1 MeV,DF030ZZ
+3417,DF033ZZ,Beam Radiation of Pancreas using Electrons,DF033ZZ
+3418,DG000ZZ,Beam Radiation of Pituitary Gland using Photons <1 MeV,DG000ZZ
+3420,DG003ZZ,Beam Radiation of Pituitary Gland using Electrons,DG003ZZ
+3421,DG010ZZ,Beam Radiation of Pineal Body using Photons <1 MeV,DG010ZZ
+3422,DG012ZZ,Beam Radiation of Pineal Body using Photons >10 MeV,DG012ZZ
+3424,DG013ZZ,Beam Radiation of Pineal Body using Electrons,DG013ZZ
+3425,DG020ZZ,Beam Radiation of Adrenal Glands using Photons <1 MeV,DG020ZZ
+3427,DG023ZZ,Beam Radiation of Adrenal Glands using Electrons,DG023ZZ
+3428,DG040ZZ,Beam Radiation of Parathyroid Glands using Photons <1 MeV,DG040ZZ
+3429,DG041ZZ,Beam Radiation of Parathyroid Glands using Photons 1 - 10 MeV,DG041ZZ
+3430,DG042ZZ,Beam Radiation of Parathyroid Glands using Photons >10 MeV,DG042ZZ
+3432,DG043ZZ,Beam Radiation of Parathyroid Glands using Electrons,DG043ZZ
+3433,DG050ZZ,Beam Radiation of Thyroid using Photons <1 MeV,DG050ZZ
+3435,DG053ZZ,Beam Radiation of Thyroid using Electrons,DG053ZZ
+3436,DH020ZZ,Beam Radiation of Face Skin using Photons <1 MeV,DH020ZZ
+3437,DH022ZZ,Beam Radiation of Face Skin using Photons >10 MeV,DH022ZZ
+3439,DH023ZZ,Beam Radiation of Face Skin using Electrons,DH023ZZ
+3440,DH030ZZ,Beam Radiation of Neck Skin using Photons <1 MeV,DH030ZZ
+3441,DH032ZZ,Beam Radiation of Neck Skin using Photons >10 MeV,DH032ZZ
+3443,DH033ZZ,Beam Radiation of Neck Skin using Electrons,DH033ZZ
+3444,DH040ZZ,Beam Radiation of Arm Skin using Photons <1 MeV,DH040ZZ
+3445,DH042ZZ,Beam Radiation of Arm Skin using Photons >10 MeV,DH042ZZ
+3447,DH043ZZ,Beam Radiation of Arm Skin using Electrons,DH043ZZ
+3448,DH060ZZ,Beam Radiation of Chest Skin using Photons <1 MeV,DH060ZZ
+3450,DH063ZZ,Beam Radiation of Chest Skin using Electrons,DH063ZZ
+3451,DH070ZZ,Beam Radiation of Back Skin using Photons <1 MeV,DH070ZZ
+3453,DH073ZZ,Beam Radiation of Back Skin using Electrons,DH073ZZ
+3454,DH080ZZ,Beam Radiation of Abdomen Skin using Photons <1 MeV,DH080ZZ
+3455,DH082ZZ,Beam Radiation of Abdomen Skin using Photons >10 MeV,DH082ZZ
+3457,DH083ZZ,Beam Radiation of Abdomen Skin using Electrons,DH083ZZ
+3458,DH090ZZ,Beam Radiation of Buttock Skin using Photons <1 MeV,DH090ZZ
+3459,DH091ZZ,Beam Radiation of Buttock Skin using Photons 1 - 10 MeV,DH091ZZ
+3461,DH093ZZ,Beam Radiation of Buttock Skin using Electrons,DH093ZZ
+3462,DH0B0ZZ,Beam Radiation of Leg Skin using Photons <1 MeV,DH0B0ZZ
+3464,DH0B3ZZ,Beam Radiation of Leg Skin using Electrons,DH0B3ZZ
+3465,DM000ZZ,Beam Radiation of Left Breast using Photons <1 MeV,DM000ZZ
+3467,DM003ZZ,Beam Radiation of Left Breast using Electrons,DM003ZZ
+3468,DM010ZZ,Beam Radiation of Right Breast using Photons <1 MeV,DM010ZZ
+3470,DM013ZZ,Beam Radiation of Right Breast using Electrons,DM013ZZ
+3471,DP000ZZ,Beam Radiation of Skull using Photons <1 MeV,DP000ZZ
+3473,DP003ZZ,Beam Radiation of Skull using Electrons,DP003ZZ
+3474,DP020ZZ,Beam Radiation of Maxilla using Photons <1 MeV,DP020ZZ
+3476,DP023ZZ,Beam Radiation of Maxilla using Electrons,DP023ZZ
+3477,DP030ZZ,Beam Radiation of Mandible using Photons <1 MeV,DP030ZZ
+3478,DP032ZZ,Beam Radiation of Mandible using Photons >10 MeV,DP032ZZ
+3480,DP033ZZ,Beam Radiation of Mandible using Electrons,DP033ZZ
+3481,DP040ZZ,Beam Radiation of Sternum using Photons <1 MeV,DP040ZZ
+3482,DP042ZZ,Beam Radiation of Sternum using Photons >10 MeV,DP042ZZ
+3484,DP043ZZ,Beam Radiation of Sternum using Electrons,DP043ZZ
+3485,DP050ZZ,Beam Radiation of Rib(s) using Photons <1 MeV,DP050ZZ
+3487,DP053ZZ,Beam Radiation of Rib(s) using Electrons,DP053ZZ
+3488,DP060ZZ,Beam Radiation of Humerus using Photons <1 MeV,DP060ZZ
+3490,DP063ZZ,Beam Radiation of Humerus using Electrons,DP063ZZ
+3491,DP070ZZ,Beam Radiation of Radius/Ulna using Photons <1 MeV,DP070ZZ
+3493,DP073ZZ,Beam Radiation of Radius/Ulna using Electrons,DP073ZZ
+3494,DP080ZZ,Beam Radiation of Pelvic Bones using Photons <1 MeV,DP080ZZ
+3496,DP083ZZ,Beam Radiation of Pelvic Bones using Electrons,DP083ZZ
+3497,DP090ZZ,Beam Radiation of Femur using Photons <1 MeV,DP090ZZ
+3499,DP093ZZ,Beam Radiation of Femur using Electrons,DP093ZZ
+3500,DP0B0ZZ,Beam Radiation of Tibia/Fibula using Photons <1 MeV,DP0B0ZZ
+3502,DP0B3ZZ,Beam Radiation of Tibia/Fibula using Electrons,DP0B3ZZ
+3503,DP0C0ZZ,Beam Radiation of Other Bone using Photons <1 MeV,DP0C0ZZ
+3505,DP0C3ZZ,Beam Radiation of Other Bone using Electrons,DP0C3ZZ
+3506,DT000ZZ,Beam Radiation of Kidney using Photons <1 MeV,DT000ZZ
+3508,DT003ZZ,Beam Radiation of Kidney using Electrons,DT003ZZ
+3509,DT010ZZ,Beam Radiation of Ureter using Photons <1 MeV,DT010ZZ
+3510,DT011ZZ,Beam Radiation of Ureter using Photons 1 - 10 MeV,DT011ZZ
+3511,DT012ZZ,Beam Radiation of Ureter using Photons >10 MeV,DT012ZZ
+3513,DT013ZZ,Beam Radiation of Ureter using Electrons,DT013ZZ
+3514,DT020ZZ,Beam Radiation of Bladder using Photons <1 MeV,DT020ZZ
+3516,DT023ZZ,Beam Radiation of Bladder using Electrons,DT023ZZ
+3517,DT030ZZ,Beam Radiation of Urethra using Photons <1 MeV,DT030ZZ
+3518,DT031ZZ,Beam Radiation of Urethra using Photons 1 - 10 MeV,DT031ZZ
+3519,DT032ZZ,Beam Radiation of Urethra using Photons >10 MeV,DT032ZZ
+3521,DT033ZZ,Beam Radiation of Urethra using Electrons,DT033ZZ
+3522,DU000ZZ,Beam Radiation of Ovary using Photons <1 MeV,DU000ZZ
+3523,DU001ZZ,Beam Radiation of Ovary using Photons 1 - 10 MeV,DU001ZZ
+3525,DU003ZZ,Beam Radiation of Ovary using Electrons,DU003ZZ
+3526,DU010ZZ,Beam Radiation of Cervix using Photons <1 MeV,DU010ZZ
+3528,DU013ZZ,Beam Radiation of Cervix using Electrons,DU013ZZ
+3529,DU020ZZ,Beam Radiation of Uterus using Photons <1 MeV,DU020ZZ
+3531,DU023ZZ,Beam Radiation of Uterus using Electrons,DU023ZZ
+3532,DV000ZZ,Beam Radiation of Prostate using Photons <1 MeV,DV000ZZ
+3534,DV003ZZ,Beam Radiation of Prostate using Electrons,DV003ZZ
+3535,DV010ZZ,Beam Radiation of Testis using Photons <1 MeV,DV010ZZ
+3536,DV012ZZ,Beam Radiation of Testis using Photons >10 MeV,DV012ZZ
+3538,DV013ZZ,Beam Radiation of Testis using Electrons,DV013ZZ
+3539,DW010ZZ,Beam Radiation of Head and Neck using Photons <1 MeV,DW010ZZ
+3541,DW013ZZ,Beam Radiation of Head and Neck using Electrons,DW013ZZ
+3542,DW020ZZ,Beam Radiation of Chest using Photons <1 MeV,DW020ZZ
+3544,DW023ZZ,Beam Radiation of Chest using Electrons,DW023ZZ
+3545,DW030ZZ,Beam Radiation of Abdomen using Photons <1 MeV,DW030ZZ
+3547,DW033ZZ,Beam Radiation of Abdomen using Electrons,DW033ZZ
+3548,DW040ZZ,Beam Radiation of Hemibody using Photons <1 MeV,DW040ZZ
+3550,DW043ZZ,Beam Radiation of Hemibody using Electrons,DW043ZZ
+3551,DW050ZZ,Beam Radiation of Whole Body using Photons <1 MeV,DW050ZZ
+3552,DW051ZZ,Beam Radiation of Whole Body using Photons 1 - 10 MeV,DW051ZZ
+3553,DW052ZZ,Beam Radiation of Whole Body using Photons >10 MeV,DW052ZZ
+3554,DW060ZZ,Beam Radiation of Pelvic Region using Photons <1 MeV,DW060ZZ
+3556,DW063ZZ,Beam Radiation of Pelvic Region using Electrons,DW063ZZ
+3560,DB024ZZ,"Beam Radiation of Lung using Heavy Particles (Protons,Ions)",DB024ZZ
+3561,DB025ZZ,Beam Radiation of Lung using Neutrons,DB025ZZ
+3562,DB054ZZ,"Beam Radiation of Pleura using Heavy Particles (Protons,Ions)",DB054ZZ
+3563,DB051ZZ,Beam Radiation of Pleura using Photons 1 - 10 MeV,DB051ZZ
+3564,DB055ZZ,Beam Radiation of Pleura using Neutrons,DB055ZZ
+3565,DB064ZZ,"Beam Radiation of Mediastinum using Heavy Particles (Protons,Ions)",DB064ZZ
+3566,DB065ZZ,Beam Radiation of Mediastinum using Neutrons,DB065ZZ
+3567,DB074ZZ,"Beam Radiation of Chest Wall using Heavy Particles (Protons,Ions)",DB074ZZ
+3568,DB075ZZ,Beam Radiation of Chest Wall using Neutrons,DB075ZZ
+3569,DB084ZZ,"Beam Radiation of Diaphragm using Heavy Particles (Protons,Ions)",DB084ZZ
+3570,DB085ZZ,Beam Radiation of Diaphragm using Neutrons,DB085ZZ
+3571,DV004ZZ,"Beam Radiation of Prostate using Heavy Particles (Protons,Ions)",DV004ZZ
+3572,DV005ZZ,Beam Radiation of Prostate using Neutrons,DV005ZZ
+3573,DV014ZZ,"Beam Radiation of Testis using Heavy Particles (Protons,Ions)",DV014ZZ
+3574,DV015ZZ,Beam Radiation of Testis using Neutrons,DV015ZZ
+3575,DW014ZZ,"Beam Radiation of Head and Neck using Heavy Particles (Protons,Ions)",DW014ZZ
+3576,DW015ZZ,Beam Radiation of Head and Neck using Neutrons,DW015ZZ
+3577,DW024ZZ,"Beam Radiation of Chest using Heavy Particles (Protons,Ions)",DW024ZZ
+3578,DW025ZZ,Beam Radiation of Chest using Neutrons,DW025ZZ
+3579,DW034ZZ,"Beam Radiation of Abdomen using Heavy Particles (Protons,Ions)",DW034ZZ
+3580,DW035ZZ,Beam Radiation of Abdomen using Neutrons,DW035ZZ
+3581,DW044ZZ,"Beam Radiation of Hemibody using Heavy Particles (Protons,Ions)",DW044ZZ
+3582,DW045ZZ,Beam Radiation of Hemibody using Neutrons,DW045ZZ
+3583,DW054ZZ,"Beam Radiation of Whole Body using Heavy Particles (Protons,Ions)",DW054ZZ
+3584,DW055ZZ,Beam Radiation of Whole Body using Neutrons,DW055ZZ
+3585,DW064ZZ,"Beam Radiation of Pelvic Region using Heavy Particles (Protons,Ions)",DW064ZZ
+3586,DW065ZZ,Beam Radiation of Pelvic Region using Neutrons,DW065ZZ
+3587,DD004ZZ,"Beam Radiation of Esophagus using Heavy Particles (Protons,Ions)",DD004ZZ
+3588,DD005ZZ,Beam Radiation of Esophagus using Neutrons,DD005ZZ
+3589,DD014ZZ,"Beam Radiation of Stomach using Heavy Particles (Protons,Ions)",DD014ZZ
+3590,DD015ZZ,Beam Radiation of Stomach using Neutrons,DD015ZZ
+3591,DD024ZZ,"Beam Radiation of Duodenum using Heavy Particles (Protons,Ions)",DD024ZZ
+3592,DD025ZZ,Beam Radiation of Duodenum using Neutrons,DD025ZZ
+3593,DD034ZZ,"Beam Radiation of Jejunum using Heavy Particles (Protons,Ions)",DD034ZZ
+3594,DD035ZZ,Beam Radiation of Jejunum using Neutrons,DD035ZZ
+3595,DD044ZZ,"Beam Radiation of Ileum using Heavy Particles (Protons,Ions)",DD044ZZ
+3596,DD045ZZ,Beam Radiation of Ileum using Neutrons,DD045ZZ
+3597,DD054ZZ,"Beam Radiation of Colon using Heavy Particles (Protons,Ions)",DD054ZZ
+3598,DD055ZZ,Beam Radiation of Colon using Neutrons,DD055ZZ
+3599,DD074ZZ,"Beam Radiation of Rectum using Heavy Particles (Protons,Ions)",DD074ZZ
+3600,DD075ZZ,Beam Radiation of Rectum using Neutrons,DD075ZZ
+3601,D0004ZZ,"Beam Radiation of Brain using Heavy Particles (Protons,Ions)",D0004ZZ
+3602,D0005ZZ,Beam Radiation of Brain using Neutrons,D0005ZZ
+3603,D0014ZZ,"Beam Radiation of Brain Stem using Heavy Particles (Protons,Ions)",D0014ZZ
+3604,D0015ZZ,Beam Radiation of Brain Stem using Neutrons,D0015ZZ
+3605,D0064ZZ,"Beam Radiation of Spinal Cord using Heavy Particles (Protons,Ions)",D0064ZZ
+3606,D0065ZZ,Beam Radiation of Spinal Cord using Neutrons,D0065ZZ
+3607,D0074ZZ,"Beam Radiation of Peripheral Nerve using Heavy Particles (Protons,Ions)",D0074ZZ
+3608,D0075ZZ,Beam Radiation of Peripheral Nerve using Neutrons,D0075ZZ
+3609,DF004ZZ,"Beam Radiation of Liver using Heavy Particles (Protons,Ions)",DF004ZZ
+3610,DF005ZZ,Beam Radiation of Liver using Neutrons,DF005ZZ
+3611,DF014ZZ,"Beam Radiation of Gallbladder using Heavy Particles (Protons,Ions)",DF014ZZ
+3612,DF015ZZ,Beam Radiation of Gallbladder using Neutrons,DF015ZZ
+3613,DF024ZZ,"Beam Radiation of Bile Ducts using Heavy Particles (Protons,Ions)",DF024ZZ
+3614,DF025ZZ,Beam Radiation of Bile Ducts using Neutrons,DF025ZZ
+3615,DF034ZZ,"Beam Radiation of Pancreas using Heavy Particles (Protons,Ions)",DF034ZZ
+3616,DF035ZZ,Beam Radiation of Pancreas using Neutrons,DF035ZZ
+3617,D7004ZZ,"Beam Radiation of Bone Marrow using Heavy Particles (Protons,Ions)",D7004ZZ
+3618,D7005ZZ,Beam Radiation of Bone Marrow using Neutrons,D7005ZZ
+3619,D7014ZZ,"Beam Radiation of Thymus using Heavy Particles (Protons,Ions)",D7014ZZ
+3620,D7015ZZ,Beam Radiation of Thymus using Neutrons,D7015ZZ
+3621,D7024ZZ,"Beam Radiation of Spleen using Heavy Particles (Protons,Ions)",D7024ZZ
+3622,D7025ZZ,Beam Radiation of Spleen using Neutrons,D7025ZZ
+3623,D7034ZZ,"Beam Radiation of Neck Lymphatics using Heavy Particles (Protons,Ions)",D7034ZZ
+3624,D7035ZZ,Beam Radiation of Neck Lymphatics using Neutrons,D7035ZZ
+3625,D7044ZZ,"Beam Radiation of Axillary Lymphatics using Heavy Particles (Protons,Ions)",D7044ZZ
+3626,D7045ZZ,Beam Radiation of Axillary Lymphatics using Neutrons,D7045ZZ
+3627,D7054ZZ,"Beam Radiation of Thorax Lymphatics using Heavy Particles (Protons,Ions)",D7054ZZ
+3628,D7055ZZ,Beam Radiation of Thorax Lymphatics using Neutrons,D7055ZZ
+3629,D7064ZZ,"Beam Radiation of Abdomen Lymphatics using Heavy Particles (Protons,Ions)",D7064ZZ
+3630,D7065ZZ,Beam Radiation of Abdomen Lymphatics using Neutrons,D7065ZZ
+3631,D7074ZZ,"Beam Radiation of Pelvis Lymphatics using Heavy Particles (Protons,Ions)",D7074ZZ
+3632,D7075ZZ,Beam Radiation of Pelvis Lymphatics using Neutrons,D7075ZZ
+3633,DG005ZZ,Beam Radiation of Pituitary Gland using Neutrons,DG005ZZ
+3634,DG015ZZ,Beam Radiation of Pineal Body using Neutrons,DG015ZZ
+3635,DG025ZZ,Beam Radiation of Adrenal Glands using Neutrons,DG025ZZ
+3636,DG045ZZ,Beam Radiation of Parathyroid Glands using Neutrons,DG045ZZ
+3637,DG055ZZ,Beam Radiation of Thyroid using Neutrons,DG055ZZ
+3638,D7084ZZ,"Beam Radiation of Inguinal Lymphatics using Heavy Particles (Protons,Ions)",D7084ZZ
+3639,D7085ZZ,Beam Radiation of Inguinal Lymphatics using Neutrons,D7085ZZ
+3640,DH024ZZ,"Beam Radiation of Face Skin using Heavy Particles (Protons,Ions)",DH024ZZ
+3641,DH025ZZ,Beam Radiation of Face Skin using Neutrons,DH025ZZ
+3642,DH034ZZ,"Beam Radiation of Neck Skin using Heavy Particles (Protons,Ions)",DH034ZZ
+3643,DH035ZZ,Beam Radiation of Neck Skin using Neutrons,DH035ZZ
+3644,DH044ZZ,"Beam Radiation of Arm Skin using Heavy Particles (Protons,Ions)",DH044ZZ
+3645,DH045ZZ,Beam Radiation of Arm Skin using Neutrons,DH045ZZ
+3646,DH064ZZ,"Beam Radiation of Chest Skin using Heavy Particles (Protons,Ions)",DH064ZZ
+3647,DH065ZZ,Beam Radiation of Chest Skin using Neutrons,DH065ZZ
+3648,DH074ZZ,"Beam Radiation of Back Skin using Heavy Particles (Protons,Ions)",DH074ZZ
+3649,DH075ZZ,Beam Radiation of Back Skin using Neutrons,DH075ZZ
+3650,D8004ZZ,"Beam Radiation of Eye using Heavy Particles (Protons,Ions)",D8004ZZ
+3651,D8005ZZ,Beam Radiation of Eye using Neutrons,D8005ZZ
+3652,DH084ZZ,"Beam Radiation of Abdomen Skin using Heavy Particles (Protons,Ions)",DH084ZZ
+3653,DH085ZZ,Beam Radiation of Abdomen Skin using Neutrons,DH085ZZ
+3654,DH094ZZ,"Beam Radiation of Buttock Skin using Heavy Particles (Protons,Ions)",DH094ZZ
+3655,DH095ZZ,Beam Radiation of Buttock Skin using Neutrons,DH095ZZ
+3656,DH0B4ZZ,"Beam Radiation of Leg Skin using Heavy Particles (Protons,Ions)",DH0B4ZZ
+3657,DH0B5ZZ,Beam Radiation of Leg Skin using Neutrons,DH0B5ZZ
+3658,DM004ZZ,"Beam Radiation of Left Breast using Heavy Particles (Protons,Ions)",DM004ZZ
+3659,DM005ZZ,Beam Radiation of Left Breast using Neutrons,DM005ZZ
+3660,DM014ZZ,"Beam Radiation of Right Breast using Heavy Particles (Protons,Ions)",DM014ZZ
+3661,DM015ZZ,Beam Radiation of Right Breast using Neutrons,DM015ZZ
+3662,D9004ZZ,"Beam Radiation of Ear using Heavy Particles (Protons,Ions)",D9004ZZ
+3663,D9005ZZ,Beam Radiation of Ear using Neutrons,D9005ZZ
+3664,D9014ZZ,"Beam Radiation of Nose using Heavy Particles (Protons,Ions)",D9014ZZ
+3665,D9015ZZ,Beam Radiation of Nose using Neutrons,D9015ZZ
+3666,D9034ZZ,"Beam Radiation of Hypopharynx using Heavy Particles (Protons,Ions)",D9034ZZ
+3667,D9035ZZ,Beam Radiation of Hypopharynx using Neutrons,D9035ZZ
+3668,D9044ZZ,"Beam Radiation of Mouth using Heavy Particles (Protons,Ions)",D9044ZZ
+3669,D9045ZZ,Beam Radiation of Mouth using Neutrons,D9045ZZ
+3670,D9054ZZ,"Beam Radiation of Tongue using Heavy Particles (Protons,Ions)",D9054ZZ
+3671,D9055ZZ,Beam Radiation of Tongue using Neutrons,D9055ZZ
+3672,D9064ZZ,"Beam Radiation of Salivary Glands using Heavy Particles (Protons,Ions)",D9064ZZ
+3673,D9065ZZ,Beam Radiation of Salivary Glands using Neutrons,D9065ZZ
+3674,D9074ZZ,"Beam Radiation of Sinuses using Heavy Particles (Protons,Ions)",D9074ZZ
+3675,D9075ZZ,Beam Radiation of Sinuses using Neutrons,D9075ZZ
+3676,D9084ZZ,"Beam Radiation of Hard Palate using Heavy Particles (Protons,Ions)",D9084ZZ
+3677,D9085ZZ,Beam Radiation of Hard Palate using Neutrons,D9085ZZ
+3678,DP004ZZ,"Beam Radiation of Skull using Heavy Particles (Protons,Ions)",DP004ZZ
+3679,DP005ZZ,Beam Radiation of Skull using Neutrons,DP005ZZ
+3680,DP024ZZ,"Beam Radiation of Maxilla using Heavy Particles (Protons,Ions)",DP024ZZ
+3681,DP025ZZ,Beam Radiation of Maxilla using Neutrons,DP025ZZ
+3682,DP034ZZ,"Beam Radiation of Mandible using Heavy Particles (Protons,Ions)",DP034ZZ
+3683,DP035ZZ,Beam Radiation of Mandible using Neutrons,DP035ZZ
+3684,D9094ZZ,"Beam Radiation of Soft Palate using Heavy Particles (Protons,Ions)",D9094ZZ
+3685,D9095ZZ,Beam Radiation of Soft Palate using Neutrons,D9095ZZ
+3686,D90B4ZZ,"Beam Radiation of Larynx using Heavy Particles (Protons,Ions)",D90B4ZZ
+3687,D90B5ZZ,Beam Radiation of Larynx using Neutrons,D90B5ZZ
+3688,D90D4ZZ,"Beam Radiation of Nasopharynx using Heavy Particles (Protons,Ions)",D90D4ZZ
+3689,D90D5ZZ,Beam Radiation of Nasopharynx using Neutrons,D90D5ZZ
+3690,D90F4ZZ,"Beam Radiation of Oropharynx using Heavy Particles (Protons,Ions)",D90F4ZZ
+3691,D90F5ZZ,Beam Radiation of Oropharynx using Neutrons,D90F5ZZ
+3692,DP044ZZ,"Beam Radiation of Sternum using Heavy Particles (Protons,Ions)",DP044ZZ
+3693,DP045ZZ,Beam Radiation of Sternum using Neutrons,DP045ZZ
+3694,DP054ZZ,"Beam Radiation of Rib(s) using Heavy Particles (Protons,Ions)",DP054ZZ
+3695,DP055ZZ,Beam Radiation of Rib(s) using Neutrons,DP055ZZ
+3696,DP064ZZ,"Beam Radiation of Humerus using Heavy Particles (Protons,Ions)",DP064ZZ
+3697,DP065ZZ,Beam Radiation of Humerus using Neutrons,DP065ZZ
+3698,DP074ZZ,"Beam Radiation of Radius/Ulna using Heavy Particles (Protons,Ions)",DP074ZZ
+3699,DP075ZZ,Beam Radiation of Radius/Ulna using Neutrons,DP075ZZ
+3700,DP084ZZ,"Beam Radiation of Pelvic Bones using Heavy Particles (Protons,Ions)",DP084ZZ
+3701,DP085ZZ,Beam Radiation of Pelvic Bones using Neutrons,DP085ZZ
+3702,DP094ZZ,"Beam Radiation of Femur using Heavy Particles (Protons,Ions)",DP094ZZ
+3703,DP095ZZ,Beam Radiation of Femur using Neutrons,DP095ZZ
+3704,DP0B4ZZ,"Beam Radiation of Tibia/Fibula using Heavy Particles (Protons,Ions)",DP0B4ZZ
+3705,DP0B5ZZ,Beam Radiation of Tibia/Fibula using Neutrons,DP0B5ZZ
+3706,DP0C4ZZ,"Beam Radiation of Other Bone using Heavy Particles (Protons,Ions)",DP0C4ZZ
+3707,DP0C5ZZ,Beam Radiation of Other Bone using Neutrons,DP0C5ZZ
+3708,DT004ZZ,"Beam Radiation of Kidney using Heavy Particles (Protons,Ions)",DT004ZZ
+3709,DT005ZZ,Beam Radiation of Kidney using Neutrons,DT005ZZ
+3710,DT014ZZ,"Beam Radiation of Ureter using Heavy Particles (Protons,Ions)",DT014ZZ
+3711,DT015ZZ,Beam Radiation of Ureter using Neutrons,DT015ZZ
+3712,DT024ZZ,"Beam Radiation of Bladder using Heavy Particles (Protons,Ions)",DT024ZZ
+3713,DT025ZZ,Beam Radiation of Bladder using Neutrons,DT025ZZ
+3714,DT034ZZ,"Beam Radiation of Urethra using Heavy Particles (Protons,Ions)",DT034ZZ
+3715,DT035ZZ,Beam Radiation of Urethra using Neutrons,DT035ZZ
+3716,DB004ZZ,"Beam Radiation of Trachea using Heavy Particles (Protons,Ions)",DB004ZZ
+3717,DB005ZZ,Beam Radiation of Trachea using Neutrons,DB005ZZ
+3718,DB014ZZ,"Beam Radiation of Bronchus using Heavy Particles (Protons,Ions)",DB014ZZ
+3719,DB015ZZ,Beam Radiation of Bronchus using Neutrons,DB015ZZ
+3720,DU004ZZ,"Beam Radiation of Ovary using Heavy Particles (Protons,Ions)",DU004ZZ
+3721,DU005ZZ,Beam Radiation of Ovary using Neutrons,DU005ZZ
+3722,DU014ZZ,"Beam Radiation of Cervix using Heavy Particles (Protons,Ions)",DU014ZZ
+3723,DU015ZZ,Beam Radiation of Cervix using Neutrons,DU015ZZ
+3724,DU024ZZ,"Beam Radiation of Uterus using Heavy Particles (Protons,Ions)",DU024ZZ
+3725,DU025ZZ,Beam Radiation of Uterus using Neutrons,DU025ZZ
+3766,DB002ZZ,Beam Radiation of Trachea using Photons >10 MeV,DB002ZZ
+3767,DB012ZZ,Beam Radiation of Bronchus using Photons >10 MeV,DB012ZZ
+3768,DU012ZZ,Beam Radiation of Cervix using Photons >10 MeV,DU012ZZ
+3769,DU021ZZ,Beam Radiation of Uterus using Photons 1 - 10 MeV,DU021ZZ
+3854,0BTC0ZZ,"Resection of Right Upper Lung Lobe, Open Approach",0BTC0ZZ
+3855,0BTC4ZZ,"Resection of Right Upper Lung Lobe, Percutaneous Endoscopic Approach",0BTC4ZZ
+3856,0BTD0ZZ,"Resection of Right Middle Lung Lobe, Open Approach",0BTD0ZZ
+3857,0BTD4ZZ,"Resection of Right Middle Lung Lobe, Percutaneous Endoscopic Approach",0BTD4ZZ
+3858,0BTF0ZZ,"Resection of Right Lower Lung Lobe, Open Approach",0BTF0ZZ
+3859,0BTF4ZZ,"Resection of Right Lower Lung Lobe, Percutaneous Endoscopic Approach",0BTF4ZZ
+3860,0BTG0ZZ,"Resection of Left Upper Lung Lobe, Open Approach",0BTG0ZZ
+3861,0BTG4ZZ,"Resection of Left Upper Lung Lobe, Percutaneous Endoscopic Approach",0BTG4ZZ
+3862,0BTJ0ZZ,"Resection of Left Lower Lung Lobe, Open Approach",0BTJ0ZZ
+3863,0BTJ4ZZ,"Resection of Left Lower Lung Lobe, Percutaneous Endoscopic Approach",0BTJ4ZZ
+3884,3E00X05,"Introduction of Other Antineoplastic into Skin and Mucous Membranes, External Approach",3E00X05
+3885,3E00X0M,"Introduction of Monoclonal Antibody into Skin and Mucous Membranes, External Approach",3E00X0M
+3886,3E01305,"Introduction of Other Antineoplastic into Subcutaneous Tissue, Percutaneous Approach",3E01305
+3887,3E0130M,"Introduction of Monoclonal Antibody into Subcutaneous Tissue, Percutaneous Approach",3E0130M
+3888,3E02305,"Introduction of Other Antineoplastic into Muscle, Percutaneous Approach",3E02305
+3889,3E0230M,"Introduction of Monoclonal Antibody into Muscle, Percutaneous Approach",3E0230M
+3890,3E03002,"Introduction of High-dose Interleukin-2 into Peripheral Vein, Open Approach",3E03002
+3891,3E03003,"Introduction of Low-dose Interleukin-2 into Peripheral Vein, Open Approach",3E03003
+3892,3E03005,"Introduction of Other Antineoplastic into Peripheral Vein, Open Approach",3E03005
+3893,3E0300M,"Introduction of Monoclonal Antibody into Peripheral Vein, Open Approach",3E0300M
+3894,3E03302,"Introduction of High-dose Interleukin-2 into Peripheral Vein, Percutaneous Approach",3E03302
+3895,3E03303,"Introduction of Low-dose Interleukin-2 into Peripheral Vein, Percutaneous Approach",3E03303
+3896,3E03305,"Introduction of Other Antineoplastic into Peripheral Vein, Percutaneous Approach",3E03305
+3897,3E0330M,"Introduction of Monoclonal Antibody into Peripheral Vein, Percutaneous Approach",3E0330M
+3898,3E04002,"Introduction of High-dose Interleukin-2 into Central Vein, Open Approach",3E04002
+3899,3E04003,"Introduction of Low-dose Interleukin-2 into Central Vein, Open Approach",3E04003
+3900,3E04005,"Introduction of Other Antineoplastic into Central Vein, Open Approach",3E04005
+3901,3E0400M,"Introduction of Monoclonal Antibody into Central Vein, Open Approach",3E0400M
+3902,3E04302,"Introduction of High-dose Interleukin-2 into Central Vein, Percutaneous Approach",3E04302
+3903,3E04303,"Introduction of Low-dose Interleukin-2 into Central Vein, Percutaneous Approach",3E04303
+3904,3E04305,"Introduction of Other Antineoplastic into Central Vein, Percutaneous Approach",3E04305
+3905,3E0430M,"Introduction of Monoclonal Antibody into Central Vein, Percutaneous Approach",3E0430M
+3906,3E05002,"Introduction of High-dose Interleukin-2 into Peripheral Artery, Open Approach",3E05002
+3907,3E05003,"Introduction of Low-dose Interleukin-2 into Peripheral Artery, Open Approach",3E05003
+3908,3E05005,"Introduction of Other Antineoplastic into Peripheral Artery, Open Approach",3E05005
+3909,3E0500M,"Introduction of Monoclonal Antibody into Peripheral Artery, Open Approach",3E0500M
+3910,3E05302,"Introduction of High-dose Interleukin-2 into Peripheral Artery, Percutaneous Approach",3E05302
+3911,3E05303,"Introduction of Low-dose Interleukin-2 into Peripheral Artery, Percutaneous Approach",3E05303
+3912,3E05305,"Introduction of Other Antineoplastic into Peripheral Artery, Percutaneous Approach",3E05305
+3913,3E0530M,"Introduction of Monoclonal Antibody into Peripheral Artery, Percutaneous Approach",3E0530M
+3914,3E06002,"Introduction of High-dose Interleukin-2 into Central Artery, Open Approach",3E06002
+3915,3E06003,"Introduction of Low-dose Interleukin-2 into Central Artery, Open Approach",3E06003
+3916,3E06005,"Introduction of Other Antineoplastic into Central Artery, Open Approach",3E06005
+3917,3E0600M,"Introduction of Monoclonal Antibody into Central Artery, Open Approach",3E0600M
+3918,3E06302,"Introduction of High-dose Interleukin-2 into Central Artery, Percutaneous Approach",3E06302
+3919,3E06303,"Introduction of Low-dose Interleukin-2 into Central Artery, Percutaneous Approach",3E06303
+3920,3E06305,"Introduction of Other Antineoplastic into Central Artery, Percutaneous Approach",3E06305
+3921,3E0630M,"Introduction of Monoclonal Antibody into Central Artery, Percutaneous Approach",3E0630M
+3922,3E09305,"Introduction of Other Antineoplastic into Nose, Percutaneous Approach",3E09305
+3923,3E0930M,"Introduction of Monoclonal Antibody into Nose, Percutaneous Approach",3E0930M
+3924,3E09705,"Introduction of Other Antineoplastic into Nose, Via Natural or Artificial Opening",3E09705
+3925,3E0970M,"Introduction of Monoclonal Antibody into Nose, Via Natural or Artificial Opening",3E0970M
+3926,3E09X05,"Introduction of Other Antineoplastic into Nose, External Approach",3E09X05
+3927,3E09X0M,"Introduction of Monoclonal Antibody into Nose, External Approach",3E09X0M
+3928,3E0A305,"Introduction of Other Antineoplastic into Bone Marrow, Percutaneous Approach",3E0A305
+3929,3E0A30M,"Introduction of Monoclonal Antibody into Bone Marrow, Percutaneous Approach",3E0A30M
+3930,3E0B304,"Introduction of Liquid Brachytherapy Radioisotope into Ear, Percutaneous Approach",3E0B304
+3931,3E0B305,"Introduction of Other Antineoplastic into Ear, Percutaneous Approach",3E0B305
+3932,3E0B30M,"Introduction of Monoclonal Antibody into Ear, Percutaneous Approach",3E0B30M
+3933,3E0B704,"Introduction of Liquid Brachytherapy Radioisotope into Ear, Via Natural or Artificial Opening",3E0B704
+3934,3E0B705,"Introduction of Other Antineoplastic into Ear, Via Natural or Artificial Opening",3E0B705
+3935,3E0B70M,"Introduction of Monoclonal Antibody into Ear, Via Natural or Artificial Opening",3E0B70M
+3936,3E0BX04,"Introduction of Liquid Brachytherapy Radioisotope into Ear, External Approach",3E0BX04
+3937,3E0BX05,"Introduction of Other Antineoplastic into Ear, External Approach",3E0BX05
+3938,3E0BX0M,"Introduction of Monoclonal Antibody into Ear, External Approach",3E0BX0M
+3939,3E0C304,"Introduction of Liquid Brachytherapy Radioisotope into Eye, Percutaneous Approach",3E0C304
+3940,3E0C305,"Introduction of Other Antineoplastic into Eye, Percutaneous Approach",3E0C305
+3941,3E0C30M,"Introduction of Monoclonal Antibody into Eye, Percutaneous Approach",3E0C30M
+3942,3E0C704,"Introduction of Liquid Brachytherapy Radioisotope into Eye, Via Natural or Artificial Opening",3E0C704
+3943,3E0C705,"Introduction of Other Antineoplastic into Eye, Via Natural or Artificial Opening",3E0C705
+3944,3E0C70M,"Introduction of Monoclonal Antibody into Eye, Via Natural or Artificial Opening",3E0C70M
+3945,3E0CX04,"Introduction of Liquid Brachytherapy Radioisotope into Eye, External Approach",3E0CX04
+3946,3E0CX05,"Introduction of Other Antineoplastic into Eye, External Approach",3E0CX05
+3947,3E0CX0M,"Introduction of Monoclonal Antibody into Eye, External Approach",3E0CX0M
+3948,3E0D304,"Introduction of Liquid Brachytherapy Radioisotope into Mouth and Pharynx, Percutaneous Approach",3E0D304
+3949,3E0D305,"Introduction of Other Antineoplastic into Mouth and Pharynx, Percutaneous Approach",3E0D305
+3950,3E0D30M,"Introduction of Monoclonal Antibody into Mouth and Pharynx, Percutaneous Approach",3E0D30M
+3951,3E0D704,"Introduction of Liquid Brachytherapy Radioisotope into Mouth and Pharynx, Via Natural or Artificial Opening",3E0D704
+3952,3E0D705,"Introduction of Other Antineoplastic into Mouth and Pharynx, Via Natural or Artificial Opening",3E0D705
+3953,3E0D70M,"Introduction of Monoclonal Antibody into Mouth and Pharynx, Via Natural or Artificial Opening",3E0D70M
+3954,3E0DX04,"Introduction of Liquid Brachytherapy Radioisotope into Mouth and Pharynx, External Approach",3E0DX04
+3955,3E0DX05,"Introduction of Other Antineoplastic into Mouth and Pharynx, External Approach",3E0DX05
+3956,3E0DX0M,"Introduction of Monoclonal Antibody into Mouth and Pharynx, External Approach",3E0DX0M
+3957,3E0E304,"Introduction of Liquid Brachytherapy Radioisotope into Products of Conception, Percutaneous Approach",3E0E304
+3958,3E0E305,"Introduction of Other Antineoplastic into Products of Conception, Percutaneous Approach",3E0E305
+3959,3E0E30M,"Introduction of Monoclonal Antibody into Products of Conception, Percutaneous Approach",3E0E30M
+3960,3E0E704,"Introduction of Liquid Brachytherapy Radioisotope into Products of Conception, Via Natural or Artificial Opening",3E0E704
+3961,3E0E705,"Introduction of Other Antineoplastic into Products of Conception, Via Natural or Artificial Opening",3E0E705
+3962,3E0E70M,"Introduction of Monoclonal Antibody into Products of Conception, Via Natural or Artificial Opening",3E0E70M
+3963,3E0E804,"Introduction of Liquid Brachytherapy Radioisotope into Products of Conception, Via Natural or Artificial Opening Endoscopic",3E0E804
+3964,3E0E805,"Introduction of Other Antineoplastic into Products of Conception, Via Natural or Artificial Opening Endoscopic",3E0E805
+3965,3E0E80M,"Introduction of Monoclonal Antibody into Products of Conception, Via Natural or Artificial Opening Endoscopic",3E0E80M
+3966,3E0F304,"Introduction of Liquid Brachytherapy Radioisotope into Respiratory Tract, Percutaneous Approach",3E0F304
+3967,3E0F305,"Introduction of Other Antineoplastic into Respiratory Tract, Percutaneous Approach",3E0F305
+3968,3E0F30M,"Introduction of Monoclonal Antibody into Respiratory Tract, Percutaneous Approach",3E0F30M
+3969,3E0F704,"Introduction of Liquid Brachytherapy Radioisotope into Respiratory Tract, Via Natural or Artificial Opening",3E0F704
+3970,3E0F705,"Introduction of Other Antineoplastic into Respiratory Tract, Via Natural or Artificial Opening",3E0F705
+3971,3E0F70M,"Introduction of Monoclonal Antibody into Respiratory Tract, Via Natural or Artificial Opening",3E0F70M
+3972,3E0F804,"Introduction of Liquid Brachytherapy Radioisotope into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F804
+3973,3E0F805,"Introduction of Other Antineoplastic into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F805
+3974,3E0F80M,"Introduction of Monoclonal Antibody into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F80M
+3975,3E0G304,"Introduction of Liquid Brachytherapy Radioisotope into Upper GI, Percutaneous Approach",3E0G304
+3976,3E0G305,"Introduction of Other Antineoplastic into Upper GI, Percutaneous Approach",3E0G305
+3977,3E0G30M,"Introduction of Monoclonal Antibody into Upper GI, Percutaneous Approach",3E0G30M
+3978,3E0G704,"Introduction of Liquid Brachytherapy Radioisotope into Upper GI, Via Natural or Artificial Opening",3E0G704
+3979,3E0G705,"Introduction of Other Antineoplastic into Upper GI, Via Natural or Artificial Opening",3E0G705
+3980,3E0G70M,"Introduction of Monoclonal Antibody into Upper GI, Via Natural or Artificial Opening",3E0G70M
+3981,3E0G804,"Introduction of Liquid Brachytherapy Radioisotope into Upper GI, Via Natural or Artificial Opening Endoscopic",3E0G804
+3982,3E0G805,"Introduction of Other Antineoplastic into Upper GI, Via Natural or Artificial Opening Endoscopic",3E0G805
+3983,3E0G80M,"Introduction of Monoclonal Antibody into Upper GI, Via Natural or Artificial Opening Endoscopic",3E0G80M
+3984,3E0H304,"Introduction of Liquid Brachytherapy Radioisotope into Lower GI, Percutaneous Approach",3E0H304
+3985,3E0H305,"Introduction of Other Antineoplastic into Lower GI, Percutaneous Approach",3E0H305
+3986,3E0H30M,"Introduction of Monoclonal Antibody into Lower GI, Percutaneous Approach",3E0H30M
+3987,3E0H704,"Introduction of Liquid Brachytherapy Radioisotope into Lower GI, Via Natural or Artificial Opening",3E0H704
+3988,3E0H705,"Introduction of Other Antineoplastic into Lower GI, Via Natural or Artificial Opening",3E0H705
+3989,3E0H70M,"Introduction of Monoclonal Antibody into Lower GI, Via Natural or Artificial Opening",3E0H70M
+3990,3E0H804,"Introduction of Liquid Brachytherapy Radioisotope into Lower GI, Via Natural or Artificial Opening Endoscopic",3E0H804
+3991,3E0H805,"Introduction of Other Antineoplastic into Lower GI, Via Natural or Artificial Opening Endoscopic",3E0H805
+3992,3E0H80M,"Introduction of Monoclonal Antibody into Lower GI, Via Natural or Artificial Opening Endoscopic",3E0H80M
+3993,3E0J304,"Introduction of Liquid Brachytherapy Radioisotope into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J304
+3994,3E0J305,"Introduction of Other Antineoplastic into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J305
+3995,3E0J30M,"Introduction of Monoclonal Antibody into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J30M
+3996,3E0J704,"Introduction of Liquid Brachytherapy Radioisotope into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J704
+3997,3E0J705,"Introduction of Other Antineoplastic into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J705
+3998,3E0J70M,"Introduction of Monoclonal Antibody into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J70M
+3999,3E0J804,"Introduction of Liquid Brachytherapy Radioisotope into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J804
+4000,3E0J805,"Introduction of Other Antineoplastic into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J805
+4001,3E0J80M,"Introduction of Monoclonal Antibody into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J80M
+4002,3E0K304,"Introduction of Liquid Brachytherapy Radioisotope into Genitourinary Tract, Percutaneous Approach",3E0K304
+4003,3E0K305,"Introduction of Other Antineoplastic into Genitourinary Tract, Percutaneous Approach",3E0K305
+4004,3E0K30M,"Introduction of Monoclonal Antibody into Genitourinary Tract, Percutaneous Approach",3E0K30M
+4005,3E0K704,"Introduction of Liquid Brachytherapy Radioisotope into Genitourinary Tract, Via Natural or Artificial Opening",3E0K704
+4006,3E0K705,"Introduction of Other Antineoplastic into Genitourinary Tract, Via Natural or Artificial Opening",3E0K705
+4007,3E0K70M,"Introduction of Monoclonal Antibody into Genitourinary Tract, Via Natural or Artificial Opening",3E0K70M
+4008,3E0K804,"Introduction of Liquid Brachytherapy Radioisotope into Genitourinary Tract, Via Natural or Artificial Opening Endoscopic",3E0K804
+4009,3E0K805,"Introduction of Other Antineoplastic into Genitourinary Tract, Via Natural or Artificial Opening Endoscopic",3E0K805
+4010,3E0K80M,"Introduction of Monoclonal Antibody into Genitourinary Tract, Via Natural or Artificial Opening Endoscopic",3E0K80M
+4011,3E0L304,"Introduction of Liquid Brachytherapy Radioisotope into Pleural Cavity, Percutaneous Approach",3E0L304
+4012,3E0L305,"Introduction of Other Antineoplastic into Pleural Cavity, Percutaneous Approach",3E0L305
+4013,3E0L30M,"Introduction of Monoclonal Antibody into Pleural Cavity, Percutaneous Approach",3E0L30M
+4014,3E0L704,"Introduction of Liquid Brachytherapy Radioisotope into Pleural Cavity, Via Natural or Artificial Opening",3E0L704
+4015,3E0L705,"Introduction of Other Antineoplastic into Pleural Cavity, Via Natural or Artificial Opening",3E0L705
+4016,3E0L70M,"Introduction of Monoclonal Antibody into Pleural Cavity, Via Natural or Artificial Opening",3E0L70M
+4017,3E0M304,"Introduction of Liquid Brachytherapy Radioisotope into Peritoneal Cavity, Percutaneous Approach",3E0M304
+4018,3E0M305,"Introduction of Other Antineoplastic into Peritoneal Cavity, Percutaneous Approach",3E0M305
+4019,3E0M30M,"Introduction of Monoclonal Antibody into Peritoneal Cavity, Percutaneous Approach",3E0M30M
+4020,3E0M30Y,"Introduction of Hyperthermic Antineoplastic into Peritoneal Cavity, Percutaneous Approach",3E0M30Y
+4021,3E0M704,"Introduction of Liquid Brachytherapy Radioisotope into Peritoneal Cavity, Via Natural or Artificial Opening",3E0M704
+4022,3E0M705,"Introduction of Other Antineoplastic into Peritoneal Cavity, Via Natural or Artificial Opening",3E0M705
+4023,3E0M70M,"Introduction of Monoclonal Antibody into Peritoneal Cavity, Via Natural or Artificial Opening",3E0M70M
+4024,3E0N304,"Introduction of Liquid Brachytherapy Radioisotope into Male Reproductive, Percutaneous Approach",3E0N304
+4025,3E0N305,"Introduction of Other Antineoplastic into Male Reproductive, Percutaneous Approach",3E0N305
+4026,3E0N30M,"Introduction of Monoclonal Antibody into Male Reproductive, Percutaneous Approach",3E0N30M
+4027,3E0N704,"Introduction of Liquid Brachytherapy Radioisotope into Male Reproductive, Via Natural or Artificial Opening",3E0N704
+4028,3E0N705,"Introduction of Other Antineoplastic into Male Reproductive, Via Natural or Artificial Opening",3E0N705
+4029,3E0N70M,"Introduction of Monoclonal Antibody into Male Reproductive, Via Natural or Artificial Opening",3E0N70M
+4030,3E0N804,"Introduction of Liquid Brachytherapy Radioisotope into Male Reproductive, Via Natural or Artificial Opening Endoscopic",3E0N804
+4031,3E0N805,"Introduction of Other Antineoplastic into Male Reproductive, Via Natural or Artificial Opening Endoscopic",3E0N805
+4032,3E0N80M,"Introduction of Monoclonal Antibody into Male Reproductive, Via Natural or Artificial Opening Endoscopic",3E0N80M
+4033,3E0P304,"Introduction of Liquid Brachytherapy Radioisotope into Female Reproductive, Percutaneous Approach",3E0P304
+4034,3E0P305,"Introduction of Other Antineoplastic into Female Reproductive, Percutaneous Approach",3E0P305
+4035,3E0P30M,"Introduction of Monoclonal Antibody into Female Reproductive, Percutaneous Approach",3E0P30M
+4036,3E0P704,"Introduction of Liquid Brachytherapy Radioisotope into Female Reproductive, Via Natural or Artificial Opening",3E0P704
+4037,3E0P705,"Introduction of Other Antineoplastic into Female Reproductive, Via Natural or Artificial Opening",3E0P705
+4038,3E0P70M,"Introduction of Monoclonal Antibody into Female Reproductive, Via Natural or Artificial Opening",3E0P70M
+4039,3E0P804,"Introduction of Liquid Brachytherapy Radioisotope into Female Reproductive, Via Natural or Artificial Opening Endoscopic",3E0P804
+4040,3E0P805,"Introduction of Other Antineoplastic into Female Reproductive, Via Natural or Artificial Opening Endoscopic",3E0P805
+4041,3E0P80M,"Introduction of Monoclonal Antibody into Female Reproductive, Via Natural or Artificial Opening Endoscopic",3E0P80M
+4042,3E0Q004,"Introduction of Liquid Brachytherapy Radioisotope into Cranial Cavity and Brain, Open Approach",3E0Q004
+4043,3E0Q005,"Introduction of Other Antineoplastic into Cranial Cavity and Brain, Open Approach",3E0Q005
+4044,3E0Q00M,"Introduction of Monoclonal Antibody into Cranial Cavity and Brain, Open Approach",3E0Q00M
+4045,3E0Q304,"Introduction of Liquid Brachytherapy Radioisotope into Cranial Cavity and Brain, Percutaneous Approach",3E0Q304
+4046,3E0Q305,"Introduction of Other Antineoplastic into Cranial Cavity and Brain, Percutaneous Approach",3E0Q305
+4047,3E0Q30M,"Introduction of Monoclonal Antibody into Cranial Cavity and Brain, Percutaneous Approach",3E0Q30M
+4048,3E0Q704,"Introduction of Liquid Brachytherapy Radioisotope into Cranial Cavity and Brain, Via Natural or Artificial Opening",3E0Q704
+4049,3E0Q705,"Introduction of Other Antineoplastic into Cranial Cavity and Brain, Via Natural or Artificial Opening",3E0Q705
+4050,3E0Q70M,"Introduction of Monoclonal Antibody into Cranial Cavity and Brain, Via Natural or Artificial Opening",3E0Q70M
+4051,3E0R302,"Introduction of High-dose Interleukin-2 into Spinal Canal, Percutaneous Approach",3E0R302
+4052,3E0R303,"Introduction of Low-dose Interleukin-2 into Spinal Canal, Percutaneous Approach",3E0R303
+4053,3E0R304,"Introduction of Liquid Brachytherapy Radioisotope into Spinal Canal, Percutaneous Approach",3E0R304
+4054,3E0R305,"Introduction of Other Antineoplastic into Spinal Canal, Percutaneous Approach",3E0R305
+4055,3E0R30M,"Introduction of Monoclonal Antibody into Spinal Canal, Percutaneous Approach",3E0R30M
+4056,3E0S302,"Introduction of High-dose Interleukin-2 into Epidural Space, Percutaneous Approach",3E0S302
+4057,3E0S303,"Introduction of Low-dose Interleukin-2 into Epidural Space, Percutaneous Approach",3E0S303
+4058,3E0S304,"Introduction of Liquid Brachytherapy Radioisotope into Epidural Space, Percutaneous Approach",3E0S304
+4059,3E0S305,"Introduction of Other Antineoplastic into Epidural Space, Percutaneous Approach",3E0S305
+4060,3E0S30M,"Introduction of Monoclonal Antibody into Epidural Space, Percutaneous Approach",3E0S30M
+4061,3E0U304,"Introduction of Liquid Brachytherapy Radioisotope into Joints, Percutaneous Approach",3E0U304
+4062,3E0U305,"Introduction of Other Antineoplastic into Joints, Percutaneous Approach",3E0U305
+4063,3E0U30M,"Introduction of Monoclonal Antibody into Joints, Percutaneous Approach",3E0U30M
+4064,3E0V305,"Introduction of Other Antineoplastic into Bones, Percutaneous Approach",3E0V305
+4065,3E0V30M,"Introduction of Monoclonal Antibody into Bones, Percutaneous Approach",3E0V30M
+4066,3E0W305,"Introduction of Other Antineoplastic into Lymphatics, Percutaneous Approach",3E0W305
+4067,3E0W30M,"Introduction of Monoclonal Antibody into Lymphatics, Percutaneous Approach",3E0W30M
+4068,3E0Y304,"Introduction of Liquid Brachytherapy Radioisotope into Pericardial Cavity, Percutaneous Approach",3E0Y304
+4069,3E0Y305,"Introduction of Other Antineoplastic into Pericardial Cavity, Percutaneous Approach",3E0Y305
+4070,3E0Y30M,"Introduction of Monoclonal Antibody into Pericardial Cavity, Percutaneous Approach",3E0Y30M
+4071,3E0Y704,"Introduction of Liquid Brachytherapy Radioisotope into Pericardial Cavity, Via Natural or Artificial Opening",3E0Y704
+4072,3E0Y705,"Introduction of Other Antineoplastic into Pericardial Cavity, Via Natural or Artificial Opening",3E0Y705
+4073,3E0Y70M,"Introduction of Monoclonal Antibody into Pericardial Cavity, Via Natural or Artificial Opening",3E0Y70M
+4144,3E0300P,"Introduction of Clofarabine into Peripheral Vein, Open Approach",3E0300P
+4145,3E0330P,"Introduction of Clofarabine into Peripheral Vein, Percutaneous Approach",3E0330P
+4146,3E0400P,"Introduction of Clofarabine into Central Vein, Open Approach",3E0400P
+4147,3E0430P,"Introduction of Clofarabine into Central Vein, Percutaneous Approach",3E0430P
+4148,3E0500P,"Introduction of Clofarabine into Peripheral Artery, Open Approach",3E0500P
+4149,3E0530P,"Introduction of Clofarabine into Peripheral Artery, Percutaneous Approach",3E0530P
+4150,3E0600P,"Introduction of Clofarabine into Central Artery, Open Approach",3E0600P
+4151,3E0630P,"Introduction of Clofarabine into Central Artery, Percutaneous Approach",3E0630P
+4995,0BBC4ZX,"Excision of Right Upper Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBC4ZX
+4997,0BBD4ZX,"Excision of Right Middle Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBD4ZX
+4999,0BBF4ZX,"Excision of Right Lower Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBF4ZX
+5001,0BBG4ZX,"Excision of Left Upper Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBG4ZX
+5005,0BBJ4ZX,"Excision of Left Lower Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BBJ4ZX
+5020,0BDC4ZX,"Extraction of Right Upper Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDC4ZX
+5021,0BDD4ZX,"Extraction of Right Middle Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDD4ZX
+5022,0BDF4ZX,"Extraction of Right Lower Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDF4ZX
+5023,0BDG4ZX,"Extraction of Left Upper Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDG4ZX
+5024,0BDH4ZX,"Extraction of Lung Lingula, Percutaneous Endoscopic Approach, Diagnostic",0BDH4ZX
+5025,0BDJ4ZX,"Extraction of Left Lower Lung Lobe, Percutaneous Endoscopic Approach, Diagnostic",0BDJ4ZX
+5026,0BDK4ZX,"Extraction of Right Lung, Percutaneous Endoscopic Approach, Diagnostic",0BDK4ZX
+5027,0BDL4ZX,"Extraction of Left Lung, Percutaneous Endoscopic Approach, Diagnostic",0BDL4ZX
+5028,0BDM4ZX,"Extraction of Bilateral Lungs, Percutaneous Endoscopic Approach, Diagnostic",0BDM4ZX
+6205,DW053ZZ,Beam Radiation of Whole Body using Electrons,DW053ZZ
+6403,0BBD0ZZ,"Excision of Right Middle Lung Lobe, Open Approach",0BBD0ZZ
+6404,0BBD3ZX,"Excision of Right Middle Lung Lobe, Percutaneous Approach, Diagnostic",0BBD3ZX
+6405,0BBD3ZZ,"Excision of Right Middle Lung Lobe, Percutaneous Approach",0BBD3ZZ
+6407,0BBD4ZZ,"Excision of Right Middle Lung Lobe, Percutaneous Endoscopic Approach",0BBD4ZZ
+6408,0BBD7ZX,"Excision of Right Middle Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBD7ZX
+6409,0BBD7ZZ,"Excision of Right Middle Lung Lobe, Via Natural or Artificial Opening",0BBD7ZZ
+6410,0BBD8ZX,"Excision of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BBD8ZX
+6411,0BBD8ZZ,"Excision of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BBD8ZZ
+6463,0BBC0ZZ,"Excision of Right Upper Lung Lobe, Open Approach",0BBC0ZZ
+6464,0BBC3ZX,"Excision of Right Upper Lung Lobe, Percutaneous Approach, Diagnostic",0BBC3ZX
+6465,0BBC3ZZ,"Excision of Right Upper Lung Lobe, Percutaneous Approach",0BBC3ZZ
+6466,0BBC7ZX,"Excision of Right Upper Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBC7ZX
+6467,0BBC7ZZ,"Excision of Right Upper Lung Lobe, Via Natural or Artificial Opening",0BBC7ZZ
+6468,0BBF0ZZ,"Excision of Right Lower Lung Lobe, Open Approach",0BBF0ZZ
+6469,0BBF3ZX,"Excision of Right Lower Lung Lobe, Percutaneous Approach, Diagnostic",0BBF3ZX
+6470,0BBF3ZZ,"Excision of Right Lower Lung Lobe, Percutaneous Approach",0BBF3ZZ
+6471,0BBF7ZX,"Excision of Right Lower Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBF7ZX
+6472,0BBF7ZZ,"Excision of Right Lower Lung Lobe, Via Natural or Artificial Opening",0BBF7ZZ
+6473,0BBG0ZZ,"Excision of Left Upper Lung Lobe, Open Approach",0BBG0ZZ
+6474,0BBG3ZX,"Excision of Left Upper Lung Lobe, Percutaneous Approach, Diagnostic",0BBG3ZX
+6475,0BBG3ZZ,"Excision of Left Upper Lung Lobe, Percutaneous Approach",0BBG3ZZ
+6476,0BBG7ZX,"Excision of Left Upper Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBG7ZX
+6477,0BBG7ZZ,"Excision of Left Upper Lung Lobe, Via Natural or Artificial Opening",0BBG7ZZ
+6478,0BBJ0ZZ,"Excision of Left Lower Lung Lobe, Open Approach",0BBJ0ZZ
+6479,0BBJ3ZX,"Excision of Left Lower Lung Lobe, Percutaneous Approach, Diagnostic",0BBJ3ZX
+6480,0BBJ3ZZ,"Excision of Left Lower Lung Lobe, Percutaneous Approach",0BBJ3ZZ
+6481,0BBJ7ZX,"Excision of Left Lower Lung Lobe, Via Natural or Artificial Opening, Diagnostic",0BBJ7ZX
+6482,0BBJ7ZZ,"Excision of Left Lower Lung Lobe, Via Natural or Artificial Opening",0BBJ7ZZ
+6486,0BBC4ZZ,"Excision of Right Upper Lung Lobe, Percutaneous Endoscopic Approach",0BBC4ZZ
+6490,0BBF4ZZ,"Excision of Right Lower Lung Lobe, Percutaneous Endoscopic Approach",0BBF4ZZ
+6492,0BBG4ZZ,"Excision of Left Upper Lung Lobe, Percutaneous Endoscopic Approach",0BBG4ZZ
+6496,0BBJ4ZZ,"Excision of Left Lower Lung Lobe, Percutaneous Endoscopic Approach",0BBJ4ZZ
+6689,0BDC8ZX,"Extraction of Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDC8ZX
+6690,0BDD8ZX,"Extraction of Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDD8ZX
+6691,0BDF8ZX,"Extraction of Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDF8ZX
+6692,0BDG8ZX,"Extraction of Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDG8ZX
+6693,0BDH8ZX,"Extraction of Lung Lingula, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDH8ZX
+6694,0BDJ8ZX,"Extraction of Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDJ8ZX
+6695,0BDK8ZX,"Extraction of Right Lung, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDK8ZX
+6696,0BDL8ZX,"Extraction of Left Lung, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDL8ZX
+6697,0BDM8ZX,"Extraction of Bilateral Lungs, Via Natural or Artificial Opening Endoscopic, Diagnostic",0BDM8ZX
+7030,02QQ3ZZ,"Repair Right Pulmonary Artery, Percutaneous Approach",02QQ3ZZ
+7031,02QR3ZZ,"Repair Left Pulmonary Artery, Percutaneous Approach",02QR3ZZ
+7033,0BQC0ZZ,"Repair Right Upper Lung Lobe, Open Approach",0BQC0ZZ
+7034,0BQC3ZZ,"Repair Right Upper Lung Lobe, Percutaneous Approach",0BQC3ZZ
+7035,0BQC4ZZ,"Repair Right Upper Lung Lobe, Percutaneous Endoscopic Approach",0BQC4ZZ
+7036,0BQC7ZZ,"Repair Right Upper Lung Lobe, Via Natural or Artificial Opening",0BQC7ZZ
+7037,0BQC8ZZ,"Repair Right Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQC8ZZ
+7038,0BQD0ZZ,"Repair Right Middle Lung Lobe, Open Approach",0BQD0ZZ
+7039,0BQD3ZZ,"Repair Right Middle Lung Lobe, Percutaneous Approach",0BQD3ZZ
+7040,0BQD4ZZ,"Repair Right Middle Lung Lobe, Percutaneous Endoscopic Approach",0BQD4ZZ
+7041,0BQD7ZZ,"Repair Right Middle Lung Lobe, Via Natural or Artificial Opening",0BQD7ZZ
+7042,0BQD8ZZ,"Repair Right Middle Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQD8ZZ
+7043,0BQF0ZZ,"Repair Right Lower Lung Lobe, Open Approach",0BQF0ZZ
+7044,0BQF3ZZ,"Repair Right Lower Lung Lobe, Percutaneous Approach",0BQF3ZZ
+7045,0BQF4ZZ,"Repair Right Lower Lung Lobe, Percutaneous Endoscopic Approach",0BQF4ZZ
+7046,0BQF7ZZ,"Repair Right Lower Lung Lobe, Via Natural or Artificial Opening",0BQF7ZZ
+7047,0BQF8ZZ,"Repair Right Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQF8ZZ
+7048,0BQG0ZZ,"Repair Left Upper Lung Lobe, Open Approach",0BQG0ZZ
+7049,0BQG3ZZ,"Repair Left Upper Lung Lobe, Percutaneous Approach",0BQG3ZZ
+7050,0BQG4ZZ,"Repair Left Upper Lung Lobe, Percutaneous Endoscopic Approach",0BQG4ZZ
+7051,0BQG7ZZ,"Repair Left Upper Lung Lobe, Via Natural or Artificial Opening",0BQG7ZZ
+7052,0BQG8ZZ,"Repair Left Upper Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQG8ZZ
+7053,0BQH0ZZ,"Repair Lung Lingula, Open Approach",0BQH0ZZ
+7054,0BQH3ZZ,"Repair Lung Lingula, Percutaneous Approach",0BQH3ZZ
+7055,0BQH4ZZ,"Repair Lung Lingula, Percutaneous Endoscopic Approach",0BQH4ZZ
+7056,0BQH7ZZ,"Repair Lung Lingula, Via Natural or Artificial Opening",0BQH7ZZ
+7057,0BQH8ZZ,"Repair Lung Lingula, Via Natural or Artificial Opening Endoscopic",0BQH8ZZ
+7058,0BQJ0ZZ,"Repair Left Lower Lung Lobe, Open Approach",0BQJ0ZZ
+7059,0BQJ3ZZ,"Repair Left Lower Lung Lobe, Percutaneous Approach",0BQJ3ZZ
+7060,0BQJ4ZZ,"Repair Left Lower Lung Lobe, Percutaneous Endoscopic Approach",0BQJ4ZZ
+7061,0BQJ7ZZ,"Repair Left Lower Lung Lobe, Via Natural or Artificial Opening",0BQJ7ZZ
+7062,0BQJ8ZZ,"Repair Left Lower Lung Lobe, Via Natural or Artificial Opening Endoscopic",0BQJ8ZZ
+7063,0BQK0ZZ,"Repair Right Lung, Open Approach",0BQK0ZZ
+7064,0BQK3ZZ,"Repair Right Lung, Percutaneous Approach",0BQK3ZZ
+7065,0BQK4ZZ,"Repair Right Lung, Percutaneous Endoscopic Approach",0BQK4ZZ
+7066,0BQK7ZZ,"Repair Right Lung, Via Natural or Artificial Opening",0BQK7ZZ
+7067,0BQK8ZZ,"Repair Right Lung, Via Natural or Artificial Opening Endoscopic",0BQK8ZZ
+7068,0BQL0ZZ,"Repair Left Lung, Open Approach",0BQL0ZZ
+7069,0BQL3ZZ,"Repair Left Lung, Percutaneous Approach",0BQL3ZZ
+7070,0BQL4ZZ,"Repair Left Lung, Percutaneous Endoscopic Approach",0BQL4ZZ
+7071,0BQL7ZZ,"Repair Left Lung, Via Natural or Artificial Opening",0BQL7ZZ
+7072,0BQL8ZZ,"Repair Left Lung, Via Natural or Artificial Opening Endoscopic",0BQL8ZZ
+7073,0BQM0ZZ,"Repair Bilateral Lungs, Open Approach",0BQM0ZZ
+7074,0BQM3ZZ,"Repair Bilateral Lungs, Percutaneous Approach",0BQM3ZZ
+7075,0BQM4ZZ,"Repair Bilateral Lungs, Percutaneous Endoscopic Approach",0BQM4ZZ
+7076,0BQM7ZZ,"Repair Bilateral Lungs, Via Natural or Artificial Opening",0BQM7ZZ
+7077,0BQM8ZZ,"Repair Bilateral Lungs, Via Natural or Artificial Opening Endoscopic",0BQM8ZZ

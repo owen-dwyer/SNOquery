@@ -1,0 +1,65 @@
+,concept_code_y,concept_name_y,icd
+142,0D5V0ZZ,"Destruction of Mesentery, Open Approach",0D5V0ZZ
+143,0D5V3ZZ,"Destruction of Mesentery, Percutaneous Approach",0D5V3ZZ
+144,0D5V4ZZ,"Destruction of Mesentery, Percutaneous Endoscopic Approach",0D5V4ZZ
+247,0U5F0ZZ,"Destruction of Cul-de-sac, Open Approach",0U5F0ZZ
+248,0U5F3ZZ,"Destruction of Cul-de-sac, Percutaneous Approach",0U5F3ZZ
+249,0U5F4ZZ,"Destruction of Cul-de-sac, Percutaneous Endoscopic Approach",0U5F4ZZ
+250,0U5F7ZZ,"Destruction of Cul-de-sac, Via Natural or Artificial Opening",0U5F7ZZ
+251,0U5F8ZZ,"Destruction of Cul-de-sac, Via Natural or Artificial Opening Endoscopic",0U5F8ZZ
+384,0DBU0ZX,"Excision of Omentum, Open Approach, Diagnostic",0DBU0ZX
+385,0DBU3ZX,"Excision of Omentum, Percutaneous Approach, Diagnostic",0DBU3ZX
+386,0DBU4ZX,"Excision of Omentum, Percutaneous Endoscopic Approach, Diagnostic",0DBU4ZX
+482,0D5W0ZZ,"Destruction of Peritoneum, Open Approach",0D5W0ZZ
+491,0D5U0ZZ,"Destruction of Omentum, Open Approach",0D5U0ZZ
+503,0D5U3ZZ,"Destruction of Omentum, Percutaneous Approach",0D5U3ZZ
+504,0D5U4ZZ,"Destruction of Omentum, Percutaneous Endoscopic Approach",0D5U4ZZ
+1081,0DBW0ZX,"Excision of Peritoneum, Open Approach, Diagnostic",0DBW0ZX
+1082,0DBW3ZX,"Excision of Peritoneum, Percutaneous Approach, Diagnostic",0DBW3ZX
+1083,0DBW4ZX,"Excision of Peritoneum, Percutaneous Endoscopic Approach, Diagnostic",0DBW4ZX
+1159,0DBJ0ZX,"Excision of Appendix, Open Approach, Diagnostic",0DBJ0ZX
+1160,0DBJ3ZX,"Excision of Appendix, Percutaneous Approach, Diagnostic",0DBJ3ZX
+1161,0DBJ4ZX,"Excision of Appendix, Percutaneous Endoscopic Approach, Diagnostic",0DBJ4ZX
+1162,0DBJ7ZX,"Excision of Appendix, Via Natural or Artificial Opening, Diagnostic",0DBJ7ZX
+1163,0DBJ8ZX,"Excision of Appendix, Via Natural or Artificial Opening Endoscopic, Diagnostic",0DBJ8ZX
+1170,0DDJ3ZX,"Extraction of Appendix, Percutaneous Approach, Diagnostic",0DDJ3ZX
+1171,0DDJ4ZX,"Extraction of Appendix, Percutaneous Endoscopic Approach, Diagnostic",0DDJ4ZX
+1172,0DDJ8ZX,"Extraction of Appendix, Via Natural or Artificial Opening Endoscopic, Diagnostic",0DDJ8ZX
+1271,0UQF0ZZ,"Repair Cul-de-sac, Open Approach",0UQF0ZZ
+1272,0UQF3ZZ,"Repair Cul-de-sac, Percutaneous Approach",0UQF3ZZ
+1273,0UQF4ZZ,"Repair Cul-de-sac, Percutaneous Endoscopic Approach",0UQF4ZZ
+1274,0UQF7ZZ,"Repair Cul-de-sac, Via Natural or Artificial Opening",0UQF7ZZ
+1275,0UQF8ZZ,"Repair Cul-de-sac, Via Natural or Artificial Opening Endoscopic",0UQF8ZZ
+1388,3E1M38X,"Irrigation of Peritoneal Cavity using Irrigating Substance, Percutaneous Approach, Diagnostic",3E1M38X
+1389,3E1M38Z,"Irrigation of Peritoneal Cavity using Irrigating Substance, Percutaneous Approach",3E1M38Z
+1450,0DBV0ZX,"Excision of Mesentery, Open Approach, Diagnostic",0DBV0ZX
+1451,0DBV3ZX,"Excision of Mesentery, Percutaneous Approach, Diagnostic",0DBV3ZX
+1452,0DBV4ZX,"Excision of Mesentery, Percutaneous Endoscopic Approach, Diagnostic",0DBV4ZX
+1747,0DQU0ZZ,"Repair Omentum, Open Approach",0DQU0ZZ
+1748,0DQU3ZZ,"Repair Omentum, Percutaneous Approach",0DQU3ZZ
+1749,0DQU4ZZ,"Repair Omentum, Percutaneous Endoscopic Approach",0DQU4ZZ
+1855,0DBJ0ZZ,"Excision of Appendix, Open Approach",0DBJ0ZZ
+1856,0DBJ3ZZ,"Excision of Appendix, Percutaneous Approach",0DBJ3ZZ
+1857,0DBJ7ZZ,"Excision of Appendix, Via Natural or Artificial Opening",0DBJ7ZZ
+1858,0DTJ0ZZ,"Resection of Appendix, Open Approach",0DTJ0ZZ
+1859,0DTJ7ZZ,"Resection of Appendix, Via Natural or Artificial Opening",0DTJ7ZZ
+1864,0DBJ4ZZ,"Excision of Appendix, Percutaneous Endoscopic Approach",0DBJ4ZZ
+1865,0DTJ4ZZ,"Resection of Appendix, Percutaneous Endoscopic Approach",0DTJ4ZZ
+1881,0DQV0ZZ,"Repair Mesentery, Open Approach",0DQV0ZZ
+1882,0DQV3ZZ,"Repair Mesentery, Percutaneous Approach",0DQV3ZZ
+1883,0DQV4ZZ,"Repair Mesentery, Percutaneous Endoscopic Approach",0DQV4ZZ
+2060,0D5W3ZZ,"Destruction of Peritoneum, Percutaneous Approach",0D5W3ZZ
+2061,0D5W4ZZ,"Destruction of Peritoneum, Percutaneous Endoscopic Approach",0D5W4ZZ
+2079,0UNF0ZZ,"Release Cul-de-sac, Open Approach",0UNF0ZZ
+2080,0UNF3ZZ,"Release Cul-de-sac, Percutaneous Approach",0UNF3ZZ
+2081,0UNF7ZZ,"Release Cul-de-sac, Via Natural or Artificial Opening",0UNF7ZZ
+2084,0UNF4ZZ,"Release Cul-de-sac, Percutaneous Endoscopic Approach",0UNF4ZZ
+2085,0UNF8ZZ,"Release Cul-de-sac, Via Natural or Artificial Opening Endoscopic",0UNF8ZZ
+2162,0DBU4ZZ,"Excision of Omentum, Percutaneous Endoscopic Approach",0DBU4ZZ
+2163,0DTU4ZZ,"Resection of Omentum, Percutaneous Endoscopic Approach",0DTU4ZZ
+2194,BD48ZZZ,Ultrasonography of Appendix,BD48ZZZ
+2392,0DBU0ZZ,"Excision of Omentum, Open Approach",0DBU0ZZ
+2394,0DBU3ZZ,"Excision of Omentum, Percutaneous Approach",0DBU3ZZ
+2395,0DTU0ZZ,"Resection of Omentum, Open Approach",0DTU0ZZ
+2432,0DBJ8ZZ,"Excision of Appendix, Via Natural or Artificial Opening Endoscopic",0DBJ8ZZ
+2433,0DTJ8ZZ,"Resection of Appendix, Via Natural or Artificial Opening Endoscopic",0DTJ8ZZ

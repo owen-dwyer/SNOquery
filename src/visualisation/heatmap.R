@@ -5,14 +5,25 @@ library(RColorBrewer)
 library(reshape2)
 library(patchwork)
 
-matrix_length = read.csv('../visualisation/stats/length_matrix_uk.csv') %>% melt() %>% mutate(variable = gsub('\\.',  ' ', matrix_length$variable) )
-matrix_precision = read.csv('../visualisation/stats/precision_matrix_uk.csv') %>% melt() %>% mutate(variable = gsub('\\.',  ' ', matrix_length$variable) )
-matrix_recall = read.csv('../visualisation/stats/recall_matrix_uk.csv') %>% melt() %>% mutate(variable = gsub('\\.',  ' ', matrix_length$variable) )
+matrix_length = read.csv('../visualisation/stats/length_matrix_uk.csv') %>% melt() %>% mutate(variable = gsub('\\.',  ' ', variable) )
+matrix_precision = read.csv('../visualisation/stats/precision_matrix_uk.csv') %>% melt() %>% mutate(variable = gsub('\\.',  ' ', variable) )
+matrix_recall = read.csv('../visualisation/stats/recall_matrix_uk.csv') %>% melt() %>% mutate(variable = gsub('\\.',  ' ', variable) )
   
-factor_levels <- c('lung','colorectal','glaucoma','cataract','appendix')
+factor_levels <- c('colorectal','lung','glaucoma','cataract','appendix')
 matrix_length$X <- factor(matrix_length$X, levels = factor_levels)
 matrix_precision$X <- factor(matrix_precision$X, levels = factor_levels)
 matrix_recall$X <- factor(matrix_recall$X, levels = factor_levels)
+
+
+
+matrix_length$X <- fct_recode(matrix_length$X, 'A   Appendix'='appendix',
+                            'B   Cataract'='cataract',
+                            '   C   Glaucoma'='glaucoma',
+                            'D   Lung'='lung',
+                            'E   Colorectal'='colorectal')
+
+
+
 
 plot_theme <- theme(
   axis.line = element_blank(),

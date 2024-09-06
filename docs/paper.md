@@ -33,7 +33,17 @@ performing numerical orbit integration).
 
 # Statement of need
 
-Background here, including reference to `[@Dwyer:2024]`
+Existing libraries for dealing with SNOMED:
+  requires users to provider their own SNOMED,
+  either by running a server locally (`django-snomed-ct`)
+  or by downloading all the vocabulary files locally (`medcat`, `PyMedTermino`)
+
+  (`snomedizer`) serves a similar purpose in R.
+
+  This package is written in Python, although R users might be interested in `reticulate`, which allows Python code to be invoked from R.
+
+
+Background here, including reference to [@Dwyer:2024]
 `Gala` is an Astropy-affiliated Python package for galactic dynamics. Python
 enables wrapping low-level languages (e.g., C) for speed without losing
 flexibility or ease-of-use in the user-interface. The API for `Gala` was
@@ -57,6 +67,10 @@ scientific explorations of forthcoming data releases from the *Gaia* mission
 # Functionality
 
 Short description of the four modules here
+
+
+
+
 
 ## connect
 
@@ -88,6 +102,13 @@ and referenced from text using \autoref{fig:example}.
 
 Figure sizes can be customized by adding an optional second parameter:
 ![Caption for example figure.](figure.png){ width=20% }
+
+# Health warning
+As per the terms of the MIT license, this library is released _without warranty of any kind, express or implied_.
+This library connects by default to a public SNOMED endpoint, the _SNOMED International SNOMED CT Browser_, which should **never** be used in production in a real medical setting. This package is intended to help researchers researchers to quickly browse and look up terms.
+Please familiarise yourself with SNOMED's license agreement (https://browser.ihtsdotools.org/).
+
+
 
 # Acknowledgements
 

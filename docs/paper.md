@@ -73,7 +73,7 @@ Short description of the four modules here
 
 
 ## connect
-
+Doesn't implement every function of the API (https://browser.ihtsdotools.org/snowstorm/snomed-ct/swagger-ui/index.html#/) - just enough to run ECL queries.
 ## query
 
 ## analyse

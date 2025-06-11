@@ -84,3 +84,7 @@ def get_snomed_edition_versions(SNOMED_SERVER, edition):
     except requests.exceptions.HTTPError as e:
         print('[!] '+ str(e.response.status_code))
         print('[!]  '+ e.response.text)
+
+def print_error(self, error):
+    print('[!] '+ str(error.response.status_code))
+    print('[!]  '+ error.response.text)

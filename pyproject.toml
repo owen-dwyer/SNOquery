@@ -21,3 +21,7 @@ license-files = ["LICEN[CS]E*"]
 [project.urls]
 Homepage = "https://github.com/owen-dwyer/SNOquery"
 Issues = "https://github.com/owen-dwyer/SNOquery/issues"
+
+dependencies = [
+  requests >= 2.32.3,
+]

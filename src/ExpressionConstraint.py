@@ -1,3 +1,5 @@
+from ECLSyntax import EXCLUSION, CONJUCTION, DISJUNCTION
+
 class ExpressionConstraint:
     def getString(self, bracket=True):
         if bracket:
@@ -58,10 +60,14 @@ class ExclusionExpressionConstraint( CompoundExpressionConstraint ):
 
     pass
 
-EXCLUSION = 'MINUS'
-CONJUCTION = 'AND'
-DISJUNCTION = 'OR'
 
 
 ecl_and = ConjunctionExpressionConstraint
+"""
+`ecl_and` is an alternative name for `ConjunctionExpressionConstraint`
+"""
+
 ecl_or = DisjunctionExpressionConstraint
+"""
+`ecl_or` is an alternative name for `DisjunctionExpressionConstraint`
+"""

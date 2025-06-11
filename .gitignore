@@ -1,3 +1,4 @@
 .vscode/settings.json
 src/.DS_Store
 my-venv/*
+__pycache__/*

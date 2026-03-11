@@ -1,10 +1,28 @@
-- name: Open Journals PDF Generator
-  # You may pin to the exact commit or the version.
-  # uses: openjournals/openjournals-draft-action@a994a876f36e25076174d9ed133e01b1f1b9fcf3
-  uses: openjournals/openjournals-draft-action@v.1.0
-  with:
-    # Target journal, must be either "joss" or "jose"
-    journal: joss # optional, default is joss
-    # Path to the main paper Markdown file, relative to the project's root directory.
-    paper-path: docs/paper/paper.md # optional, default is paper.md
+
           
+
+
+name: GitHub Actions Demo
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      - name: Check out repository code
+        uses: actions/checkout@v5
+      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
+      - run: echo "🖥️ The workflow is now ready to test your code on the runner."
+      - name: Open Journals PDF Generator
+        # You may pin to the exact commit or the version.
+        # uses: openjournals/openjournals-draft-action@a994a876f36e25076174d9ed133e01b1f1b9fcf3
+        uses: openjournals/openjournals-draft-action@v.1.0
+        with:
+          # Target journal, must be either "joss" or "jose"
+          journal: joss # optional, default is joss
+          # Path to the main paper Markdown file, relative to the project's root directory.
+          paper-path: docs/paper/paper.md # optional, default is paper.md
+      - run: echo "🍏 This job's status is ${{ job.status }}."
